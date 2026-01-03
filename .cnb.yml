@@ -15,7 +15,7 @@ main:
             auth_type: "https" # 或 "https"
             #ssh_key: "${SSH_KEY}" # 如果使用 SSH
             username: "${GITHUB_USERNAME}" # 如果使用 HTTPS
-            password: "${syncCodeForOTW128}" # 如果使用 HTTPS
+            password: "${syncSrcFromCnbToGhub2612}" # 如果使用 HTTPS
             branch: "main" # 可选，指定要推送的分支
             force: true # 可选，是否强制推送
             push_tags: true # 可选，是否推送标签
