@@ -1,0 +1,1298 @@
+{
+  "words": [
+    {
+      "word_id": "3-2-w-001",
+      "unit_id": "3-2-u1",
+      "word": "open",
+      "translation": "开；打开"
+    },
+    {
+      "word_id": "3-2-w-002",
+      "unit_id": "3-2-u1",
+      "word": "the",
+      "translation": "这个；这些；那个；那些"
+    },
+    {
+      "word_id": "3-2-w-003",
+      "unit_id": "3-2-u1",
+      "word": "door",
+      "translation": "门"
+    },
+    {
+      "word_id": "3-2-w-004",
+      "unit_id": "3-2-u1",
+      "word": "close",
+      "translation": "关上；合上"
+    },
+    {
+      "word_id": "3-2-w-005",
+      "unit_id": "3-2-u1",
+      "word": "window",
+      "translation": "窗，窗户"
+    },
+    {
+      "word_id": "3-2-w-006",
+      "unit_id": "3-2-u1",
+      "word": "book",
+      "translation": "书"
+    },
+    {
+      "word_id": "3-2-w-007",
+      "unit_id": "3-2-u1",
+      "word": "Mr",
+      "translation": "先生"
+    },
+    {
+      "word_id": "3-2-w-008",
+      "unit_id": "3-2-u1",
+      "word": "please",
+      "translation": "请"
+    },
+    {
+      "word_id": "3-2-w-009",
+      "unit_id": "3-2-u1",
+      "word": "sorry",
+      "translation": "对不起"
+    },
+    {
+      "word_id": "3-2-w-010",
+      "unit_id": "3-2-u1",
+      "word": "rubber",
+      "translation": "橡皮"
+    },
+    {
+      "word_id": "3-2-w-011",
+      "unit_id": "3-2-u1",
+      "word": "blackboard",
+      "translation": "黑板"
+    },
+    {
+      "word_id": "3-2-w-012",
+      "unit_id": "3-2-u1",
+      "word": "don't",
+      "translation": "do not"
+    },
+    {
+      "word_id": "3-2-w-013",
+      "unit_id": "3-2-u2",
+      "word": "in",
+      "translation": "在……里"
+    },
+    {
+      "word_id": "3-2-w-014",
+      "unit_id": "3-2-u2",
+      "word": "run",
+      "translation": "跑；跑步"
+    },
+    {
+      "word_id": "3-2-w-015",
+      "unit_id": "3-2-u2",
+      "word": "eat",
+      "translation": "吃"
+    },
+    {
+      "word_id": "3-2-w-016",
+      "unit_id": "3-2-u2",
+      "word": "talk",
+      "translation": "说话；谈话"
+    },
+    {
+      "word_id": "3-2-w-017",
+      "unit_id": "3-2-u2",
+      "word": "milk",
+      "translation": "牛奶"
+    },
+    {
+      "word_id": "3-2-w-018",
+      "unit_id": "3-2-u2",
+      "word": "English",
+      "translation": "英语"
+    },
+    {
+      "word_id": "3-2-w-019",
+      "unit_id": "3-2-u2",
+      "word": "drink",
+      "translation": "喝"
+    },
+    {
+      "word_id": "3-2-w-020",
+      "unit_id": "3-2-u2",
+      "word": "sleep",
+      "translation": "睡觉"
+    },
+    {
+      "word_id": "3-2-w-021",
+      "unit_id": "3-2-u2",
+      "word": "shout",
+      "translation": "喊；叫"
+    },
+    {
+      "word_id": "3-2-w-022",
+      "unit_id": "3-2-u2",
+      "word": "library",
+      "translation": "图书馆"
+    },
+    {
+      "word_id": "3-2-w-023",
+      "unit_id": "3-2-u2",
+      "word": "your",
+      "translation": "你的；你们的"
+    },
+    {
+      "word_id": "3-2-w-024",
+      "unit_id": "3-2-u2",
+      "word": "here",
+      "translation": "这里；在这里"
+    },
+    {
+      "word_id": "3-2-w-025",
+      "unit_id": "3-2-u3",
+      "word": "pen",
+      "translation": "钢笔"
+    },
+    {
+      "word_id": "3-2-w-026",
+      "unit_id": "3-2-u3",
+      "word": "pencil",
+      "translation": "铅笔"
+    },
+    {
+      "word_id": "3-2-w-027",
+      "unit_id": "3-2-u3",
+      "word": "ruler",
+      "translation": "尺"
+    },
+    {
+      "word_id": "3-2-w-028",
+      "unit_id": "3-2-u3",
+      "word": "where",
+      "translation": "在哪里"
+    },
+    {
+      "word_id": "3-2-w-029",
+      "unit_id": "3-2-u3",
+      "word": "schoolbag",
+      "translation": "书包"
+    },
+    {
+      "word_id": "3-2-w-030",
+      "unit_id": "3-2-u3",
+      "word": "crayon",
+      "translation": "蜡笔"
+    },
+    {
+      "word_id": "3-2-w-031",
+      "unit_id": "3-2-u3",
+      "word": "isn't",
+      "translation": "is not"
+    },
+    {
+      "word_id": "3-2-w-032",
+      "unit_id": "3-2-u3",
+      "word": "that's",
+      "translation": "that is"
+    },
+    {
+      "word_id": "3-2-w-033",
+      "unit_id": "3-2-u4",
+      "word": "bird",
+      "translation": "鸟"
+    },
+    {
+      "word_id": "3-2-w-034",
+      "unit_id": "3-2-u4",
+      "word": "desk",
+      "translation": "课桌；书桌"
+    },
+    {
+      "word_id": "3-2-w-035",
+      "unit_id": "3-2-u4",
+      "word": "chair",
+      "translation": "椅子"
+    },
+    {
+      "word_id": "3-2-w-036",
+      "unit_id": "3-2-u4",
+      "word": "on",
+      "translation": "在……上面"
+    },
+    {
+      "word_id": "3-2-w-037",
+      "unit_id": "3-2-u4",
+      "word": "under",
+      "translation": "在……下面"
+    },
+    {
+      "word_id": "3-2-w-038",
+      "unit_id": "3-2-u4",
+      "word": "behind",
+      "translation": "在……后面"
+    },
+    {
+      "word_id": "3-2-w-039",
+      "unit_id": "3-2-u4",
+      "word": "tree",
+      "translation": "树"
+    },
+    {
+      "word_id": "3-2-w-040",
+      "unit_id": "3-2-u4",
+      "word": "one",
+      "translation": "一"
+    },
+    {
+      "word_id": "3-2-w-041",
+      "unit_id": "3-2-u4",
+      "word": "two",
+      "translation": "二"
+    },
+    {
+      "word_id": "3-2-w-042",
+      "unit_id": "3-2-u4",
+      "word": "three",
+      "translation": "三"
+    },
+    {
+      "word_id": "3-2-w-043",
+      "unit_id": "3-2-u4",
+      "word": "beautiful",
+      "translation": "漂亮的；美丽的"
+    },
+    {
+      "word_id": "3-2-w-044",
+      "unit_id": "3-2-u4",
+      "word": "guess",
+      "translation": "猜；猜测"
+    },
+    {
+      "word_id": "3-2-w-045",
+      "unit_id": "3-2-u5",
+      "word": "four",
+      "translation": "四"
+    },
+    {
+      "word_id": "3-2-w-046",
+      "unit_id": "3-2-u5",
+      "word": "five",
+      "translation": "五"
+    },
+    {
+      "word_id": "3-2-w-047",
+      "unit_id": "3-2-u5",
+      "word": "six",
+      "translation": "六"
+    },
+    {
+      "word_id": "3-2-w-048",
+      "unit_id": "3-2-u5",
+      "word": "seven",
+      "translation": "七"
+    },
+    {
+      "word_id": "3-2-w-049",
+      "unit_id": "3-2-u5",
+      "word": "eight",
+      "translation": "八"
+    },
+    {
+      "word_id": "3-2-w-050",
+      "unit_id": "3-2-u5",
+      "word": "nine",
+      "translation": "九"
+    },
+    {
+      "word_id": "3-2-w-051",
+      "unit_id": "3-2-u5",
+      "word": "ten",
+      "translation": "十"
+    },
+    {
+      "word_id": "3-2-w-052",
+      "unit_id": "3-2-u5",
+      "word": "lovely",
+      "translation": "可爱的"
+    },
+    {
+      "word_id": "3-2-w-053",
+      "unit_id": "3-2-u5",
+      "word": "right",
+      "translation": "对的；正确的"
+    },
+    {
+      "word_id": "3-2-w-054",
+      "unit_id": "3-2-u5",
+      "word": "out",
+      "translation": "出局"
+    },
+    {
+      "word_id": "3-2-w-055",
+      "unit_id": "3-2-u5",
+      "word": "want",
+      "translation": "想要；想"
+    },
+    {
+      "word_id": "3-2-w-056",
+      "unit_id": "3-2-u6",
+      "word": "class",
+      "translation": "课；上课"
+    },
+    {
+      "word_id": "3-2-w-057",
+      "unit_id": "3-2-u6",
+      "word": "bed",
+      "translation": "床"
+    },
+    {
+      "word_id": "3-2-w-058",
+      "unit_id": "3-2-u6",
+      "word": "OK",
+      "translation": "好；行"
+    },
+    {
+      "word_id": "3-2-w-059",
+      "unit_id": "3-2-u6",
+      "word": "lunch",
+      "translation": "午餐；午饭"
+    },
+    {
+      "word_id": "3-2-w-060",
+      "unit_id": "3-2-u6",
+      "word": "eleven",
+      "translation": "十一"
+    },
+    {
+      "word_id": "3-2-w-061",
+      "unit_id": "3-2-u6",
+      "word": "twelve",
+      "translation": "十二"
+    },
+    {
+      "word_id": "3-2-w-062",
+      "unit_id": "3-2-u6",
+      "word": "bag",
+      "translation": "包；书包"
+    },
+    {
+      "word_id": "3-2-w-063",
+      "unit_id": "3-2-u6",
+      "word": "mum",
+      "translation": "妈妈"
+    },
+    {
+      "word_id": "3-2-w-064",
+      "unit_id": "3-2-u6",
+      "word": "o'clock",
+      "translation": "……点钟"
+    },
+    {
+      "word_id": "3-2-w-065",
+      "unit_id": "3-2-u6",
+      "word": "dinner",
+      "translation": "晚饭"
+    },
+    {
+      "word_id": "3-2-w-066",
+      "unit_id": "3-2-u6",
+      "word": "breakfast",
+      "translation": "早餐"
+    },
+    {
+      "word_id": "3-2-w-067",
+      "unit_id": "3-2-u6",
+      "word": "these",
+      "translation": "这些"
+    },
+    {
+      "word_id": "3-2-w-068",
+      "unit_id": "3-2-u6",
+      "word": "here's",
+      "translation": "here is"
+    },
+    {
+      "word_id": "3-2-w-069",
+      "unit_id": "3-2-u7",
+      "word": "farm",
+      "translation": "农场"
+    },
+    {
+      "word_id": "3-2-w-070",
+      "unit_id": "3-2-u7",
+      "word": "they",
+      "translation": "他们，她们，它们"
+    },
+    {
+      "word_id": "3-2-w-071",
+      "unit_id": "3-2-u7",
+      "word": "those",
+      "translation": "那些"
+    },
+    {
+      "word_id": "3-2-w-072",
+      "unit_id": "3-2-u7",
+      "word": "apple",
+      "translation": "苹果"
+    },
+    {
+      "word_id": "3-2-w-073",
+      "unit_id": "3-2-u7",
+      "word": "pear",
+      "translation": "梨"
+    },
+    {
+      "word_id": "3-2-w-074",
+      "unit_id": "3-2-u7",
+      "word": "orange",
+      "translation": "橙子"
+    },
+    {
+      "word_id": "3-2-w-075",
+      "unit_id": "3-2-u7",
+      "word": "who",
+      "translation": "谁"
+    },
+    {
+      "word_id": "3-2-w-076",
+      "unit_id": "3-2-u7",
+      "word": "pig",
+      "translation": "猪"
+    },
+    {
+      "word_id": "3-2-w-077",
+      "unit_id": "3-2-u7",
+      "word": "cow",
+      "translation": "奶牛"
+    },
+    {
+      "word_id": "3-2-w-078",
+      "unit_id": "3-2-u7",
+      "word": "chicken",
+      "translation": "鸡"
+    },
+    {
+      "word_id": "3-2-w-079",
+      "unit_id": "3-2-u7",
+      "word": "duck",
+      "translation": "鸭子"
+    },
+    {
+      "word_id": "3-2-w-080",
+      "unit_id": "3-2-u7",
+      "word": "picture",
+      "translation": "图画；照片"
+    },
+    {
+      "word_id": "3-2-w-081",
+      "unit_id": "3-2-u7",
+      "word": "they're",
+      "translation": "they are"
+    },
+    {
+      "word_id": "3-2-w-082",
+      "unit_id": "3-2-u8",
+      "word": "we",
+      "translation": "我们"
+    },
+    {
+      "word_id": "3-2-w-083",
+      "unit_id": "3-2-u8",
+      "word": "girl",
+      "translation": "女孩"
+    },
+    {
+      "word_id": "3-2-w-084",
+      "unit_id": "3-2-u8",
+      "word": "man",
+      "translation": "男人；人"
+    },
+    {
+      "word_id": "3-2-w-085",
+      "unit_id": "3-2-u8",
+      "word": "woman",
+      "translation": "妇女；女人"
+    },
+    {
+      "word_id": "3-2-w-086",
+      "unit_id": "3-2-u8",
+      "word": "boy",
+      "translation": "男孩"
+    },
+    {
+      "word_id": "3-2-w-087",
+      "unit_id": "3-2-u8",
+      "word": "name",
+      "translation": "名字"
+    },
+    {
+      "word_id": "3-2-w-088",
+      "unit_id": "3-2-u8",
+      "word": "we're",
+      "translation": "we are"
+    },
+    {
+      "word_id": "3-2-w-089",
+      "unit_id": "3-2-u8",
+      "word": "twin",
+      "translation": "双胞胎之一"
+    },
+    {
+      "word_id": "3-2-w-090",
+      "unit_id": "3-2-u8",
+      "word": "aunt",
+      "translation": "姑母；姨母；伯母；婶母；舅母"
+    },
+    {
+      "word_id": "3-2-w-091",
+      "unit_id": "3-2-u8",
+      "word": "baby",
+      "translation": "婴儿；宝宝"
+    },
+    {
+      "word_id": "3-2-w-092",
+      "unit_id": "3-2-u8",
+      "word": "cousin",
+      "translation": "堂兄(弟)；堂姐(妹)；表兄(弟)；表姐(妹)"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase_id": "3-2-p-001",
+      "unit_id": "3-2-u1",
+      "phrase": "in class",
+      "translation": "在上课"
+    },
+    {
+      "phrase_id": "3-2-p-002",
+      "unit_id": "3-2-u1",
+      "phrase": "stand up",
+      "translation": "起立"
+    },
+    {
+      "phrase_id": "3-2-p-003",
+      "unit_id": "3-2-u1",
+      "phrase": "sit down",
+      "translation": "坐下"
+    },
+    {
+      "phrase_id": "3-2-p-004",
+      "unit_id": "3-2-u1",
+      "phrase": "come in",
+      "translation": "进来"
+    },
+    {
+      "phrase_id": "3-2-p-005",
+      "unit_id": "3-2-u1",
+      "phrase": "open the door",
+      "translation": "开门"
+    },
+    {
+      "phrase_id": "3-2-p-006",
+      "unit_id": "3-2-u1",
+      "phrase": "close the window",
+      "translation": "关窗"
+    },
+    {
+      "phrase_id": "3-2-p-007",
+      "unit_id": "3-2-u1",
+      "phrase": "listen to the parrot",
+      "translation": "听鹦鹉说话"
+    },
+    {
+      "phrase_id": "3-2-p-008",
+      "unit_id": "3-2-u1",
+      "phrase": "look at the blackboard",
+      "translation": "看黑板"
+    },
+    {
+      "phrase_id": "3-2-p-009",
+      "unit_id": "3-2-u1",
+      "phrase": "open your book",
+      "translation": "打开你的书"
+    },
+    {
+      "phrase_id": "3-2-p-010",
+      "unit_id": "3-2-u2",
+      "phrase": "my English book",
+      "translation": "我的英语书"
+    },
+    {
+      "phrase_id": "3-2-p-011",
+      "unit_id": "3-2-u2",
+      "phrase": "eat my cake",
+      "translation": "吃我的蛋糕"
+    },
+    {
+      "phrase_id": "3-2-p-012",
+      "unit_id": "3-2-u2",
+      "phrase": "in the library",
+      "translation": "在图书馆里"
+    },
+    {
+      "phrase_id": "3-2-p-013",
+      "unit_id": "3-2-u2",
+      "phrase": "a sweet",
+      "translation": "一块糖果"
+    },
+    {
+      "phrase_id": "3-2-p-014",
+      "unit_id": "3-2-u2",
+      "phrase": "drink my milk",
+      "translation": "喝我的牛奶"
+    },
+    {
+      "phrase_id": "3-2-p-015",
+      "unit_id": "3-2-u3",
+      "phrase": "over there",
+      "translation": "在那里"
+    },
+    {
+      "phrase_id": "3-2-p-016",
+      "unit_id": "3-2-u3",
+      "phrase": "my pen",
+      "translation": "我的钢笔"
+    },
+    {
+      "phrase_id": "3-2-p-017",
+      "unit_id": "3-2-u3",
+      "phrase": "your pencil",
+      "translation": "你的铅笔"
+    },
+    {
+      "phrase_id": "3-2-p-018",
+      "unit_id": "3-2-u3",
+      "phrase": "a lunch box",
+      "translation": "一个午餐盒"
+    },
+    {
+      "phrase_id": "3-2-p-019",
+      "unit_id": "3-2-u3",
+      "phrase": "a pencil case",
+      "translation": "一个笔袋"
+    },
+    {
+      "phrase_id": "3-2-p-020",
+      "unit_id": "3-2-u4",
+      "phrase": "under the desk",
+      "translation": "在课桌下面"
+    },
+    {
+      "phrase_id": "3-2-p-021",
+      "unit_id": "3-2-u4",
+      "phrase": "behind the door",
+      "translation": "在门后面"
+    },
+    {
+      "phrase_id": "3-2-p-022",
+      "unit_id": "3-2-u4",
+      "phrase": "on your chair",
+      "translation": "在你的椅子上"
+    },
+    {
+      "phrase_id": "3-2-p-023",
+      "unit_id": "3-2-u4",
+      "phrase": "in the desk",
+      "translation": "在我的课桌里"
+    },
+    {
+      "phrase_id": "3-2-p-024",
+      "unit_id": "3-2-u4",
+      "phrase": "in the tree",
+      "translation": "在树上"
+    },
+    {
+      "phrase_id": "3-2-p-025",
+      "unit_id": "3-2-u5",
+      "phrase": "a toy car",
+      "translation": "一辆玩具小汽车"
+    },
+    {
+      "phrase_id": "3-2-p-026",
+      "unit_id": "3-2-u5",
+      "phrase": "how old",
+      "translation": "几岁"
+    },
+    {
+      "phrase_id": "3-2-p-027",
+      "unit_id": "3-2-u6",
+      "phrase": "wake up",
+      "translation": "醒，醒来"
+    },
+    {
+      "phrase_id": "3-2-p-028",
+      "unit_id": "3-2-u6",
+      "phrase": "hurry up",
+      "translation": "快点"
+    },
+    {
+      "phrase_id": "3-2-p-029",
+      "unit_id": "3-2-u7",
+      "phrase": "an apple",
+      "translation": "一个苹果"
+    },
+    {
+      "phrase_id": "3-2-p-030",
+      "unit_id": "3-2-u7",
+      "phrase": "an orange",
+      "translation": "一个橙子"
+    },
+    {
+      "phrase_id": "3-2-p-031",
+      "unit_id": "3-2-u7",
+      "phrase": "three pears",
+      "translation": "三个梨"
+    },
+    {
+      "phrase_id": "3-2-p-032",
+      "unit_id": "3-2-u7",
+      "phrase": "two ducks",
+      "translation": "两只鸭子"
+    },
+    {
+      "phrase_id": "3-2-p-033",
+      "unit_id": "3-2-u7",
+      "phrase": "on the farm",
+      "translation": "在农场上"
+    },
+    {
+      "phrase_id": "3-2-p-034",
+      "unit_id": "3-2-u7",
+      "phrase": "six pigs",
+      "translation": "六头猪"
+    },
+    {
+      "phrase_id": "3-2-p-035",
+      "unit_id": "3-2-u7",
+      "phrase": "look at my pictures",
+      "translation": "看我的图画"
+    },
+    {
+      "phrase_id": "3-2-p-036",
+      "unit_id": "3-2-u7",
+      "phrase": "my sister",
+      "translation": "我的姐姐/妹妹"
+    },
+    {
+      "phrase_id": "3-2-p-037",
+      "unit_id": "3-2-u8",
+      "phrase": "that girl",
+      "translation": "那个女孩"
+    },
+    {
+      "phrase_id": "3-2-p-038",
+      "unit_id": "3-2-u8",
+      "phrase": "my sister",
+      "translation": "我的妹妹(姐姐)"
+    },
+    {
+      "phrase_id": "3-2-p-039",
+      "unit_id": "3-2-u8",
+      "phrase": "my name",
+      "translation": "我的名字"
+    },
+    {
+      "phrase_id": "3-2-p-040",
+      "unit_id": "3-2-u8",
+      "phrase": "your father",
+      "translation": "你的父亲"
+    },
+    {
+      "phrase_id": "3-2-p-041",
+      "unit_id": "3-2-u8",
+      "phrase": "this boy",
+      "translation": "这个男孩"
+    }
+  ],
+  "sentences": [
+    {
+      "sentence_id": "3-2-s-001",
+      "unit_id": "3-2-u1",
+      "sentence": "Good morning, class.",
+      "translation": "早上好，同学们。"
+    },
+    {
+      "sentence_id": "3-2-s-002",
+      "unit_id": "3-2-u1",
+      "sentence": "Please open the door.",
+      "translation": "请开门。"
+    },
+    {
+      "sentence_id": "3-2-s-003",
+      "unit_id": "3-2-u1",
+      "sentence": "Please close the window.",
+      "translation": "请关上窗户。"
+    },
+    {
+      "sentence_id": "3-2-s-004",
+      "unit_id": "3-2-u1",
+      "sentence": "Stand up, please.",
+      "translation": "请起立。"
+    },
+    {
+      "sentence_id": "3-2-s-005",
+      "unit_id": "3-2-u1",
+      "sentence": "Sit down, please.",
+      "translation": "请坐下。"
+    },
+    {
+      "sentence_id": "3-2-s-006",
+      "unit_id": "3-2-u1",
+      "sentence": "Come in, please.",
+      "translation": "请进。"
+    },
+    {
+      "sentence_id": "3-2-s-007",
+      "unit_id": "3-2-u1",
+      "sentence": "Look at the blackboard, please.",
+      "translation": "请看黑板。"
+    },
+    {
+      "sentence_id": "3-2-s-008",
+      "unit_id": "3-2-u1",
+      "sentence": "What's this?",
+      "translation": "这是什么？"
+    },
+    {
+      "sentence_id": "3-2-s-009",
+      "unit_id": "3-2-u1",
+      "sentence": "It's a rubber.",
+      "translation": "它是一块橡皮。"
+    },
+    {
+      "sentence_id": "3-2-s-010",
+      "unit_id": "3-2-u1",
+      "sentence": "Don't listen to the parrot, Sam!",
+      "translation": "萨姆，不要听鹦鹉说话。"
+    },
+    {
+      "sentence_id": "3-2-s-011",
+      "unit_id": "3-2-u2",
+      "sentence": "Don't sleep, Liu Tao.",
+      "translation": "刘涛，不要睡觉。"
+    },
+    {
+      "sentence_id": "3-2-s-012",
+      "unit_id": "3-2-u2",
+      "sentence": "I'm sorry.",
+      "translation": "对不起。"
+    },
+    {
+      "sentence_id": "3-2-s-013",
+      "unit_id": "3-2-u2",
+      "sentence": "Don't eat my cake.",
+      "translation": "不要吃我的蛋糕。"
+    },
+    {
+      "sentence_id": "3-2-s-014",
+      "unit_id": "3-2-u2",
+      "sentence": "Don't talk.",
+      "translation": "不要说话。"
+    },
+    {
+      "sentence_id": "3-2-s-015",
+      "unit_id": "3-2-u2",
+      "sentence": "Don't run in the library.",
+      "translation": "不要在图书馆里跑。"
+    },
+    {
+      "sentence_id": "3-2-s-016",
+      "unit_id": "3-2-u2",
+      "sentence": "Don't shout!",
+      "translation": "不要喊！"
+    },
+    {
+      "sentence_id": "3-2-s-017",
+      "unit_id": "3-2-u2",
+      "sentence": "What's this?",
+      "translation": "这是什么？"
+    },
+    {
+      "sentence_id": "3-2-s-018",
+      "unit_id": "3-2-u2",
+      "sentence": "It's my English book.",
+      "translation": "它是我的英语书。"
+    },
+    {
+      "sentence_id": "3-2-s-019",
+      "unit_id": "3-2-u2",
+      "sentence": "Would you like a sweet?",
+      "translation": "你想要一块糖果吗？"
+    },
+    {
+      "sentence_id": "3-2-s-020",
+      "unit_id": "3-2-u2",
+      "sentence": "No, thank you.",
+      "translation": "不，谢谢。"
+    },
+    {
+      "sentence_id": "3-2-s-021",
+      "unit_id": "3-2-u3",
+      "sentence": "Is this your pencil?",
+      "translation": "这是你的铅笔吗？"
+    },
+    {
+      "sentence_id": "3-2-s-022",
+      "unit_id": "3-2-u3",
+      "sentence": "No, it isn't.",
+      "translation": "不，它不是。"
+    },
+    {
+      "sentence_id": "3-2-s-023",
+      "unit_id": "3-2-u3",
+      "sentence": "Is that your pencil?",
+      "translation": "那是你的铅笔呀？"
+    },
+    {
+      "sentence_id": "3-2-s-024",
+      "unit_id": "3-2-u3",
+      "sentence": "Yes, it is.",
+      "translation": "是的，它是。"
+    },
+    {
+      "sentence_id": "3-2-s-025",
+      "unit_id": "3-2-u3",
+      "sentence": "It this your ruler?",
+      "translation": "这是你的尺子吗？"
+    },
+    {
+      "sentence_id": "3-2-s-026",
+      "unit_id": "3-2-u3",
+      "sentence": "Yes, it is.",
+      "translation": "是的，它是。"
+    },
+    {
+      "sentence_id": "3-2-s-027",
+      "unit_id": "3-2-u3",
+      "sentence": "Where's my lunch box?",
+      "translation": "我的午餐盒在哪里？"
+    },
+    {
+      "sentence_id": "3-2-s-028",
+      "unit_id": "3-2-u3",
+      "sentence": "It's over there.",
+      "translation": "它在那里。"
+    },
+    {
+      "sentence_id": "3-2-s-029",
+      "unit_id": "3-2-u3",
+      "sentence": "This is for you, Bobby.",
+      "translation": "这是给你的，波比。"
+    },
+    {
+      "sentence_id": "3-2-s-030",
+      "unit_id": "3-2-u3",
+      "sentence": "No! Thank you.",
+      "translation": "不！谢谢。"
+    },
+    {
+      "sentence_id": "3-2-s-031",
+      "unit_id": "3-2-u4",
+      "sentence": "Look! A bird!",
+      "translation": "看，一只鸟！"
+    },
+    {
+      "sentence_id": "3-2-s-032",
+      "unit_id": "3-2-u4",
+      "sentence": "How beautiful!",
+      "translation": "真漂亮！"
+    },
+    {
+      "sentence_id": "3-2-s-033",
+      "unit_id": "3-2-u4",
+      "sentence": "Where's the bird?",
+      "translation": "鸟在哪里？"
+    },
+    {
+      "sentence_id": "3-2-s-034",
+      "unit_id": "3-2-u4",
+      "sentence": "It's under your desk.",
+      "translation": "它在课桌里。"
+    },
+    {
+      "sentence_id": "3-2-s-035",
+      "unit_id": "3-2-u4",
+      "sentence": "It's not here.",
+      "translation": "它不在这里。"
+    },
+    {
+      "sentence_id": "3-2-s-036",
+      "unit_id": "3-2-u4",
+      "sentence": "It's in the tree now.",
+      "translation": "它现在在树上。"
+    },
+    {
+      "sentence_id": "3-2-s-037",
+      "unit_id": "3-2-u4",
+      "sentence": "Is it in your pencil case?",
+      "translation": "它在你的铅笔盒里吗？"
+    },
+    {
+      "sentence_id": "3-2-s-038",
+      "unit_id": "3-2-u4",
+      "sentence": "No, it isn't.",
+      "translation": "不，它不在。"
+    },
+    {
+      "sentence_id": "3-2-s-039",
+      "unit_id": "3-2-u4",
+      "sentence": "Where's Bobby?",
+      "translation": "波比在哪儿？"
+    },
+    {
+      "sentence_id": "3-2-s-040",
+      "unit_id": "3-2-u4",
+      "sentence": "He's behind the door.",
+      "translation": "他在门后面。"
+    },
+    {
+      "sentence_id": "3-2-s-041",
+      "unit_id": "3-2-u5",
+      "sentence": "How old are you?",
+      "translation": "你多大？"
+    },
+    {
+      "sentence_id": "3-2-s-042",
+      "unit_id": "3-2-u5",
+      "sentence": "I'm nine.",
+      "translation": "我九岁。"
+    },
+    {
+      "sentence_id": "3-2-s-043",
+      "unit_id": "3-2-u5",
+      "sentence": "I want a toy car.",
+      "translation": "我想要一辆玩具小汽车。"
+    },
+    {
+      "sentence_id": "3-2-s-044",
+      "unit_id": "3-2-u5",
+      "sentence": "Make a wish!",
+      "translation": "许个愿吧。"
+    },
+    {
+      "sentence_id": "3-2-s-045",
+      "unit_id": "3-2-u5",
+      "sentence": "It's time for the cake.",
+      "translation": "是吃蛋糕的时候了。"
+    },
+    {
+      "sentence_id": "3-2-s-046",
+      "unit_id": "3-2-u5",
+      "sentence": "Here you are.",
+      "translation": "给你。"
+    },
+    {
+      "sentence_id": "3-2-s-047",
+      "unit_id": "3-2-u5",
+      "sentence": "Thank you.",
+      "translation": "谢谢。"
+    },
+    {
+      "sentence_id": "3-2-s-048",
+      "unit_id": "3-2-u5",
+      "sentence": "What a nice cake!",
+      "translation": "多么漂亮的蛋糕啊！"
+    },
+    {
+      "sentence_id": "3-2-s-049",
+      "unit_id": "3-2-u5",
+      "sentence": "Don't be late for class again.",
+      "translation": "不要再迟到了。"
+    },
+    {
+      "sentence_id": "3-2-s-050",
+      "unit_id": "3-2-u5",
+      "sentence": "How lovely!",
+      "translation": "真可爱！"
+    },
+    {
+      "sentence_id": "3-2-s-051",
+      "unit_id": "3-2-u6",
+      "sentence": "What time is it, Mum?",
+      "translation": "妈妈，几点了？"
+    },
+    {
+      "sentence_id": "3-2-s-052",
+      "unit_id": "3-2-u6",
+      "sentence": "It's seven o'clock.",
+      "translation": "7点了。"
+    },
+    {
+      "sentence_id": "3-2-s-053",
+      "unit_id": "3-2-u6",
+      "sentence": "It's time for breakfast.",
+      "translation": "是吃早饭的时候了。"
+    },
+    {
+      "sentence_id": "3-2-s-054",
+      "unit_id": "3-2-u6",
+      "sentence": "Good morning, Miss Li.",
+      "translation": "早上好，李老师。"
+    },
+    {
+      "sentence_id": "3-2-s-055",
+      "unit_id": "3-2-u6",
+      "sentence": "Good morning, Liu Tao.",
+      "translation": "早上好，刘涛。"
+    },
+    {
+      "sentence_id": "3-2-s-056",
+      "unit_id": "3-2-u6",
+      "sentence": "It's time for class.",
+      "translation": "是上课的时候了。"
+    },
+    {
+      "sentence_id": "3-2-s-057",
+      "unit_id": "3-2-u6",
+      "sentence": "It's time for dinner.",
+      "translation": "是吃晚饭的时候了。"
+    },
+    {
+      "sentence_id": "3-2-s-058",
+      "unit_id": "3-2-u6",
+      "sentence": "It's time for bed.",
+      "translation": "是睡觉的时候了。"
+    },
+    {
+      "sentence_id": "3-2-s-059",
+      "unit_id": "3-2-u6",
+      "sentence": "What are these?",
+      "translation": "这些是什么？"
+    },
+    {
+      "sentence_id": "3-2-s-060",
+      "unit_id": "3-2-u7",
+      "sentence": "Welcome to my farm.",
+      "translation": "欢迎来到我的农场。"
+    },
+    {
+      "sentence_id": "3-2-s-061",
+      "unit_id": "3-2-u7",
+      "sentence": "What are these?",
+      "translation": "这些是什么？"
+    },
+    {
+      "sentence_id": "3-2-s-062",
+      "unit_id": "3-2-u7",
+      "sentence": "They're pigs.",
+      "translation": "它们是猪。"
+    },
+    {
+      "sentence_id": "3-2-s-063",
+      "unit_id": "3-2-u7",
+      "sentence": "What are those?",
+      "translation": "那些是什么？"
+    },
+    {
+      "sentence_id": "3-2-s-064",
+      "unit_id": "3-2-u7",
+      "sentence": "They're cows.",
+      "translation": "它们是奶牛。"
+    },
+    {
+      "sentence_id": "3-2-s-065",
+      "unit_id": "3-2-u7",
+      "sentence": "Are these apples?",
+      "translation": "这些是苹果吗？"
+    },
+    {
+      "sentence_id": "3-2-s-066",
+      "unit_id": "3-2-u7",
+      "sentence": "Yes, they're apples.",
+      "translation": "是的，它们是苹果。"
+    },
+    {
+      "sentence_id": "3-2-s-067",
+      "unit_id": "3-2-u7",
+      "sentence": "Are those apples too?",
+      "translation": "那些也是苹果吗？"
+    },
+    {
+      "sentence_id": "3-2-s-068",
+      "unit_id": "3-2-u7",
+      "sentence": "No. They're pears.",
+      "translation": "不。它们是梨。"
+    },
+    {
+      "sentence_id": "3-2-s-069",
+      "unit_id": "3-2-u7",
+      "sentence": "Is it a duck?",
+      "translation": "它是一只鸭子吗？"
+    },
+    {
+      "sentence_id": "3-2-s-070",
+      "unit_id": "3-2-u7",
+      "sentence": "No. It's a Chicken.",
+      "translation": "不。它是一只鸡。"
+    },
+    {
+      "sentence_id": "3-2-s-071",
+      "unit_id": "3-2-u7",
+      "sentence": "Who's this? Is this you?",
+      "translation": "这个是谁？这是你吗？"
+    },
+    {
+      "sentence_id": "3-2-s-072",
+      "unit_id": "3-2-u7",
+      "sentence": "No! That's my sister Tina.",
+      "translation": "不！那是我妹妹蒂娜。"
+    },
+    {
+      "sentence_id": "3-2-s-073",
+      "unit_id": "3-2-u8",
+      "sentence": "Who is she?",
+      "translation": "她是谁？"
+    },
+    {
+      "sentence_id": "3-2-s-074",
+      "unit_id": "3-2-u8",
+      "sentence": "She's my aunt.",
+      "translation": "她是我的姑姑。"
+    },
+    {
+      "sentence_id": "3-2-s-075",
+      "unit_id": "3-2-u8",
+      "sentence": "Who is he?",
+      "translation": "他是谁？"
+    },
+    {
+      "sentence_id": "3-2-s-076",
+      "unit_id": "3-2-u8",
+      "sentence": "He's my uncle.",
+      "translation": "他是我的叔叔。"
+    },
+    {
+      "sentence_id": "3-2-s-077",
+      "unit_id": "3-2-u8",
+      "sentence": "Who's that girl?",
+      "translation": "那个女孩是谁？"
+    },
+    {
+      "sentence_id": "3-2-s-078",
+      "unit_id": "3-2-u8",
+      "sentence": "She's Su Hai. I'm Su Yang.",
+      "translation": "她是苏海。我是苏洋。"
+    },
+    {
+      "sentence_id": "3-2-s-079",
+      "unit_id": "3-2-u8",
+      "sentence": "We're twins!",
+      "translation": "我们是双胞胎！"
+    },
+    {
+      "sentence_id": "3-2-s-080",
+      "unit_id": "3-2-u8",
+      "sentence": "Who's this?",
+      "translation": "这是谁？"
+    },
+    {
+      "sentence_id": "3-2-s-081",
+      "unit_id": "3-2-u8",
+      "sentence": "This is my grandpa John.",
+      "translation": "这是我的爷爷约翰。"
+    },
+    {
+      "sentence_id": "3-2-s-082",
+      "unit_id": "3-2-u8",
+      "sentence": "This is me! My name is Sam.",
+      "translation": "这是我！我的名字是萨姆。"
+    }
+  ]
+}
