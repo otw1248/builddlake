@@ -1,6 +1,762 @@
 {
   "words": [
     {
+      "word_id": "2-2-w-001",
+      "unit_id": "2-2-u1",
+      "word": "on",
+      "translation": "在…上面"
+    },
+    {
+      "word_id": "2-2-w-002",
+      "unit_id": "2-2-u1",
+      "word": "under",
+      "translation": "在…下面"
+    },
+    {
+      "word_id": "2-2-w-003",
+      "unit_id": "2-2-u1",
+      "word": "behind",
+      "translation": "在…后面"
+    },
+    {
+      "word_id": "2-2-w-004",
+      "unit_id": "2-2-u1",
+      "word": "in",
+      "translation": "在…里面"
+    },
+    {
+      "word_id": "2-2-w-005",
+      "unit_id": "2-2-u1",
+      "word": "sofa",
+      "translation": "沙发"
+    },
+    {
+      "word_id": "2-2-w-006",
+      "unit_id": "2-2-u1",
+      "word": "vase",
+      "translation": "花瓶"
+    },
+    {
+      "word_id": "2-2-w-007",
+      "unit_id": "2-2-u1",
+      "word": "basket",
+      "translation": "篮子"
+    },
+    {
+      "word_id": "2-2-w-008",
+      "unit_id": "2-2-u1",
+      "word": "miaow",
+      "translation": "喵（猫叫声）"
+    },
+    {
+      "word_id": "2-2-w-009",
+      "unit_id": "2-2-u1",
+      "word": "Where's = Where is",
+      "translation": "在哪里"
+    },
+    {
+      "word_id": "2-2-w-010",
+      "unit_id": "2-2-u1",
+      "word": "isn't = is not",
+      "translation": "不是"
+    },
+    {
+      "word_id": "2-2-w-011",
+      "unit_id": "2-2-u1",
+      "word": "living room",
+      "translation": "客厅"
+    },
+    {
+      "word_id": "2-2-w-012",
+      "unit_id": "2-2-u1",
+      "word": "play with",
+      "translation": "和…一块玩"
+    },
+    {
+      "word_id": "2-2-w-013",
+      "unit_id": "2-2-u1",
+      "word": "broom",
+      "translation": "扫把; 扫帚"
+    },
+    {
+      "word_id": "2-2-w-014",
+      "unit_id": "2-2-u1",
+      "word": "rain",
+      "translation": "下雨"
+    },
+    {
+      "word_id": "2-2-w-015",
+      "unit_id": "2-2-u1",
+      "word": "paint",
+      "translation": "绘画"
+    },
+    {
+      "word_id": "2-2-w-016",
+      "unit_id": "2-2-u1",
+      "word": "snail",
+      "translation": "蜗牛"
+    },
+    {
+      "word_id": "2-2-w-017",
+      "unit_id": "2-2-u1",
+      "word": "tail",
+      "translation": "尾巴"
+    },
+    {
+      "word_id": "2-2-w-018",
+      "unit_id": "2-2-u2",
+      "word": "rice",
+      "translation": "米饭（不可数）"
+    },
+    {
+      "word_id": "2-2-w-019",
+      "unit_id": "2-2-u2",
+      "word": "broccoli",
+      "translation": "西兰花（不可数）"
+    },
+    {
+      "word_id": "2-2-w-020",
+      "unit_id": "2-2-u2",
+      "word": "fish",
+      "translation": "鱼（不可数）"
+    },
+    {
+      "word_id": "2-2-w-021",
+      "unit_id": "2-2-u2",
+      "word": "soup",
+      "translation": "汤（不可数）"
+    },
+    {
+      "word_id": "2-2-w-022",
+      "unit_id": "2-2-u2",
+      "word": "meat",
+      "translation": "肉（不可数）"
+    },
+    {
+      "word_id": "2-2-w-023",
+      "unit_id": "2-2-u2",
+      "word": "noodles",
+      "translation": "面条"
+    },
+    {
+      "word_id": "2-2-w-024",
+      "unit_id": "2-2-u2",
+      "word": "dinner",
+      "translation": "晚餐； 正餐"
+    },
+    {
+      "word_id": "2-2-w-025",
+      "unit_id": "2-2-u2",
+      "word": "thanks",
+      "translation": "谢谢"
+    },
+    {
+      "word_id": "2-2-w-026",
+      "unit_id": "2-2-u2",
+      "word": "yum",
+      "translation": "美味的"
+    },
+    {
+      "word_id": "2-2-w-027",
+      "unit_id": "2-2-u2",
+      "word": "ready",
+      "translation": "准备好的"
+    },
+    {
+      "word_id": "2-2-w-028",
+      "unit_id": "2-2-u2",
+      "word": "for",
+      "translation": "给"
+    },
+    {
+      "word_id": "2-2-w-029",
+      "unit_id": "2-2-u2",
+      "word": "great",
+      "translation": "极好的"
+    },
+    {
+      "word_id": "2-2-w-030",
+      "unit_id": "2-2-u3",
+      "word": "Maths",
+      "translation": "数学"
+    },
+    {
+      "word_id": "2-2-w-031",
+      "unit_id": "2-2-u3",
+      "word": "Chinese",
+      "translation": "语文"
+    },
+    {
+      "word_id": "2-2-w-032",
+      "unit_id": "2-2-u3",
+      "word": "English",
+      "translation": "英语"
+    },
+    {
+      "word_id": "2-2-w-033",
+      "unit_id": "2-2-u3",
+      "word": "PE",
+      "translation": "体育"
+    },
+    {
+      "word_id": "2-2-w-034",
+      "unit_id": "2-2-u3",
+      "word": "Art",
+      "translation": "美术"
+    },
+    {
+      "word_id": "2-2-w-035",
+      "unit_id": "2-2-u3",
+      "word": "Music",
+      "translation": "音乐"
+    },
+    {
+      "word_id": "2-2-w-036",
+      "unit_id": "2-2-u3",
+      "word": "today",
+      "translation": "今天"
+    },
+    {
+      "word_id": "2-2-w-037",
+      "unit_id": "2-2-u3",
+      "word": "fun",
+      "translation": "有趣的"
+    },
+    {
+      "word_id": "2-2-w-038",
+      "unit_id": "2-2-u3",
+      "word": "easy",
+      "translation": "容易的"
+    },
+    {
+      "word_id": "2-2-w-039",
+      "unit_id": "2-2-u3",
+      "word": "Subject",
+      "translation": "科目"
+    },
+    {
+      "word_id": "2-2-w-040",
+      "unit_id": "2-2-u3",
+      "word": "lesson",
+      "translation": "课"
+    },
+    {
+      "word_id": "2-2-w-041",
+      "unit_id": "2-2-u3",
+      "word": "interesting",
+      "translation": "有趣的"
+    },
+    {
+      "word_id": "2-2-w-042",
+      "unit_id": "2-2-u3",
+      "word": "Computer studies",
+      "translation": "信息技术"
+    },
+    {
+      "word_id": "2-2-w-043",
+      "unit_id": "2-2-u3",
+      "word": "History",
+      "translation": "历史"
+    },
+    {
+      "word_id": "2-2-w-044",
+      "unit_id": "2-2-u3",
+      "word": "Science",
+      "translation": "科学"
+    },
+    {
+      "word_id": "2-2-w-045",
+      "unit_id": "2-2-u3",
+      "word": "Social Science",
+      "translation": "社会科学"
+    },
+    {
+      "word_id": "2-2-w-046",
+      "unit_id": "2-2-u3",
+      "word": "sea",
+      "translation": "海"
+    },
+    {
+      "word_id": "2-2-w-047",
+      "unit_id": "2-2-u3",
+      "word": "clean",
+      "translation": "使…干净，干净的"
+    },
+    {
+      "word_id": "2-2-w-048",
+      "unit_id": "2-2-u3",
+      "word": "Beat",
+      "translation": "打，打败"
+    },
+    {
+      "word_id": "2-2-w-049",
+      "unit_id": "2-2-u3",
+      "word": "team",
+      "translation": "团队"
+    },
+    {
+      "word_id": "2-2-w-050",
+      "unit_id": "2-2-u3",
+      "word": "speak",
+      "translation": "说，讲"
+    },
+    {
+      "word_id": "2-2-w-051",
+      "unit_id": "2-2-u4",
+      "word": "Ear",
+      "translation": "耳朵"
+    },
+    {
+      "word_id": "2-2-w-052",
+      "unit_id": "2-2-u4",
+      "word": "nose",
+      "translation": "鼻子"
+    },
+    {
+      "word_id": "2-2-w-053",
+      "unit_id": "2-2-u4",
+      "word": "eye",
+      "translation": "眼睛"
+    },
+    {
+      "word_id": "2-2-w-054",
+      "unit_id": "2-2-u4",
+      "word": "face",
+      "translation": "脸"
+    },
+    {
+      "word_id": "2-2-w-055",
+      "unit_id": "2-2-u4",
+      "word": "Hair",
+      "translation": "头发"
+    },
+    {
+      "word_id": "2-2-w-056",
+      "unit_id": "2-2-u4",
+      "word": "mouth",
+      "translation": "嘴巴"
+    },
+    {
+      "word_id": "2-2-w-057",
+      "unit_id": "2-2-u4",
+      "word": "big",
+      "translation": "大的"
+    },
+    {
+      "word_id": "2-2-w-058",
+      "unit_id": "2-2-u4",
+      "word": "Small",
+      "translation": "小的"
+    },
+    {
+      "word_id": "2-2-w-059",
+      "unit_id": "2-2-u4",
+      "word": "long",
+      "translation": "长的"
+    },
+    {
+      "word_id": "2-2-w-060",
+      "unit_id": "2-2-u4",
+      "word": "a balloon",
+      "translation": "一只气球"
+    },
+    {
+      "word_id": "2-2-w-061",
+      "unit_id": "2-2-u4",
+      "word": "look",
+      "translation": "看"
+    },
+    {
+      "word_id": "2-2-w-062",
+      "unit_id": "2-2-u4",
+      "word": "Have",
+      "translation": "有（动词）"
+    },
+    {
+      "word_id": "2-2-w-063",
+      "unit_id": "2-2-u4",
+      "word": "can",
+      "translation": "能够"
+    },
+    {
+      "word_id": "2-2-w-064",
+      "unit_id": "2-2-u4",
+      "word": "see",
+      "translation": "看见"
+    },
+    {
+      "word_id": "2-2-w-065",
+      "unit_id": "2-2-u4",
+      "word": "me",
+      "translation": "我"
+    },
+    {
+      "word_id": "2-2-w-066",
+      "unit_id": "2-2-u4",
+      "word": "Head",
+      "translation": "头"
+    },
+    {
+      "word_id": "2-2-w-067",
+      "unit_id": "2-2-u4",
+      "word": "hand",
+      "translation": "手"
+    },
+    {
+      "word_id": "2-2-w-068",
+      "unit_id": "2-2-u4",
+      "word": "leg",
+      "translation": "腿"
+    },
+    {
+      "word_id": "2-2-w-069",
+      "unit_id": "2-2-u4",
+      "word": "foot",
+      "translation": "脚（复数feet）"
+    },
+    {
+      "word_id": "2-2-w-070",
+      "unit_id": "2-2-u5",
+      "word": "Skip",
+      "translation": "跳绳"
+    },
+    {
+      "word_id": "2-2-w-071",
+      "unit_id": "2-2-u5",
+      "word": "skate",
+      "translation": "滑冰"
+    },
+    {
+      "word_id": "2-2-w-072",
+      "unit_id": "2-2-u5",
+      "word": "swim",
+      "translation": "游泳"
+    },
+    {
+      "word_id": "2-2-w-073",
+      "unit_id": "2-2-u5",
+      "word": "Ride",
+      "translation": "骑"
+    },
+    {
+      "word_id": "2-2-w-074",
+      "unit_id": "2-2-u5",
+      "word": "bike",
+      "translation": "自行车"
+    },
+    {
+      "word_id": "2-2-w-075",
+      "unit_id": "2-2-u5",
+      "word": "can't = cannot",
+      "translation": "不能，不会"
+    },
+    {
+      "word_id": "2-2-w-076",
+      "unit_id": "2-2-u5",
+      "word": "of course",
+      "translation": "当然"
+    },
+    {
+      "word_id": "2-2-w-077",
+      "unit_id": "2-2-u5",
+      "word": "hop",
+      "translation": "单脚跳"
+    },
+    {
+      "word_id": "2-2-w-078",
+      "unit_id": "2-2-u5",
+      "word": "spring",
+      "translation": "春天"
+    },
+    {
+      "word_id": "2-2-w-079",
+      "unit_id": "2-2-u5",
+      "word": "come",
+      "translation": "过来"
+    },
+    {
+      "word_id": "2-2-w-080",
+      "unit_id": "2-2-u5",
+      "word": "with",
+      "translation": "和，跟…一起"
+    },
+    {
+      "word_id": "2-2-w-081",
+      "unit_id": "2-2-u5",
+      "word": "Jog",
+      "translation": "慢跑"
+    },
+    {
+      "word_id": "2-2-w-082",
+      "unit_id": "2-2-u5",
+      "word": "ski",
+      "translation": "滑雪"
+    },
+    {
+      "word_id": "2-2-w-083",
+      "unit_id": "2-2-u5",
+      "word": "dive",
+      "translation": "跳水"
+    },
+    {
+      "word_id": "2-2-w-084",
+      "unit_id": "2-2-u5",
+      "word": "play football",
+      "translation": "踢足球"
+    },
+    {
+      "word_id": "2-2-w-085",
+      "unit_id": "2-2-u6",
+      "word": "Dress",
+      "translation": "连衣裙"
+    },
+    {
+      "word_id": "2-2-w-086",
+      "unit_id": "2-2-u6",
+      "word": "skirt",
+      "translation": "短裙"
+    },
+    {
+      "word_id": "2-2-w-087",
+      "unit_id": "2-2-u6",
+      "word": "shorts",
+      "translation": "短裤（复数）"
+    },
+    {
+      "word_id": "2-2-w-088",
+      "unit_id": "2-2-u6",
+      "word": "Hat",
+      "translation": "帽子"
+    },
+    {
+      "word_id": "2-2-w-089",
+      "unit_id": "2-2-u6",
+      "word": "T-shirt",
+      "translation": "T恤衫"
+    },
+    {
+      "word_id": "2-2-w-090",
+      "unit_id": "2-2-u6",
+      "word": "blouse",
+      "translation": "（女士）短上衣，衬衫"
+    },
+    {
+      "word_id": "2-2-w-091",
+      "unit_id": "2-2-u6",
+      "word": "Hooray!",
+      "translation": "好极了"
+    },
+    {
+      "word_id": "2-2-w-092",
+      "unit_id": "2-2-u6",
+      "word": "Cute",
+      "translation": "可爱的"
+    },
+    {
+      "word_id": "2-2-w-093",
+      "unit_id": "2-2-u6",
+      "word": "don't = do not",
+      "translation": "不，不是，不要"
+    },
+    {
+      "word_id": "2-2-w-094",
+      "unit_id": "2-2-u6",
+      "word": "Party",
+      "translation": "聚会，晚会"
+    },
+    {
+      "word_id": "2-2-w-095",
+      "unit_id": "2-2-u6",
+      "word": "Clothes",
+      "translation": "衣服"
+    },
+    {
+      "word_id": "2-2-w-096",
+      "unit_id": "2-2-u6",
+      "word": "cap",
+      "translation": "鸭舌帽"
+    },
+    {
+      "word_id": "2-2-w-097",
+      "unit_id": "2-2-u6",
+      "word": "shirt",
+      "translation": "男士衬衫"
+    },
+    {
+      "word_id": "2-2-w-098",
+      "unit_id": "2-2-u6",
+      "word": "jacket",
+      "translation": "夹克"
+    },
+    {
+      "word_id": "2-2-w-099",
+      "unit_id": "2-2-u6",
+      "word": "trousers/pants",
+      "translation": "裤子"
+    },
+    {
+      "word_id": "2-2-w-100",
+      "unit_id": "2-2-u6",
+      "word": "socks",
+      "translation": "袜子"
+    },
+    {
+      "word_id": "2-2-w-101",
+      "unit_id": "2-2-u7",
+      "word": "summer",
+      "translation": "夏天"
+    },
+    {
+      "word_id": "2-2-w-102",
+      "unit_id": "2-2-u7",
+      "word": "watermelon",
+      "translation": "西瓜"
+    },
+    {
+      "word_id": "2-2-w-103",
+      "unit_id": "2-2-u7",
+      "word": "beach",
+      "translation": "沙滩"
+    },
+    {
+      "word_id": "2-2-w-104",
+      "unit_id": "2-2-u7",
+      "word": "drink",
+      "translation": "喝"
+    },
+    {
+      "word_id": "2-2-w-105",
+      "unit_id": "2-2-u7",
+      "word": "pool",
+      "translation": "泳池"
+    },
+    {
+      "word_id": "2-2-w-106",
+      "unit_id": "2-2-u7",
+      "word": "eat",
+      "translation": "吃"
+    },
+    {
+      "word_id": "2-2-w-107",
+      "unit_id": "2-2-u7",
+      "word": "ice cream",
+      "translation": "冰激凌"
+    },
+    {
+      "word_id": "2-2-w-108",
+      "unit_id": "2-2-u7",
+      "word": "orange juice",
+      "translation": "橙汁"
+    },
+    {
+      "word_id": "2-2-w-109",
+      "unit_id": "2-2-u7",
+      "word": "Hot",
+      "translation": "热的"
+    },
+    {
+      "word_id": "2-2-w-110",
+      "unit_id": "2-2-u7",
+      "word": "fun",
+      "translation": "有趣的"
+    },
+    {
+      "word_id": "2-2-w-111",
+      "unit_id": "2-2-u7",
+      "word": "sun",
+      "translation": "太阳"
+    },
+    {
+      "word_id": "2-2-w-112",
+      "unit_id": "2-2-u7",
+      "word": "lie",
+      "translation": "躺"
+    },
+    {
+      "word_id": "2-2-w-113",
+      "unit_id": "2-2-u7",
+      "word": "Winter",
+      "translation": "冬天"
+    },
+    {
+      "word_id": "2-2-w-114",
+      "unit_id": "2-2-u7",
+      "word": "park",
+      "translation": "公园"
+    },
+    {
+      "word_id": "2-2-w-115",
+      "unit_id": "2-2-u7",
+      "word": "farm",
+      "translation": "农场"
+    },
+    {
+      "word_id": "2-2-w-116",
+      "unit_id": "2-2-u7",
+      "word": "room",
+      "translation": "房间"
+    },
+    {
+      "word_id": "2-2-w-117",
+      "unit_id": "2-2-u7",
+      "word": "ground",
+      "translation": "地面"
+    },
+    {
+      "word_id": "2-2-w-118",
+      "unit_id": "2-2-u8",
+      "word": "queue",
+      "translation": "排队"
+    },
+    {
+      "word_id": "2-2-w-119",
+      "unit_id": "2-2-u8",
+      "word": "sorry",
+      "translation": "对不起：请原谅"
+    },
+    {
+      "word_id": "2-2-w-120",
+      "unit_id": "2-2-u8",
+      "word": "push",
+      "translation": "推动"
+    },
+    {
+      "word_id": "2-2-w-121",
+      "unit_id": "2-2-u8",
+      "word": "talk",
+      "translation": "说话：讲话"
+    },
+    {
+      "word_id": "2-2-w-122",
+      "unit_id": "2-2-u8",
+      "word": "shout",
+      "translation": "大声说：喊叫"
+    },
+    {
+      "word_id": "2-2-w-123",
+      "unit_id": "2-2-u8",
+      "word": "don't do = do not",
+      "translation": "不；不要"
+    },
+    {
+      "word_id": "2-2-w-124",
+      "unit_id": "2-2-u8",
+      "word": "everybody",
+      "translation": "每个人"
+    },
+    {
+      "word_id": "2-2-w-125",
+      "unit_id": "2-2-u8",
+      "word": "please",
+      "translation": "请"
+    },
+    {
+      "word_id": "2-2-w-126",
+      "unit_id": "2-2-u8",
+      "word": "now",
+      "translation": "现在"
+    },
+    {
       "word_id": "3-1-w-001",
       "unit_id": "3-1-u1",
       "word": "hello",
@@ -3075,6 +3831,372 @@
   ],
   "phrases": [
     {
+      "phrase_id": "2-2-p-001",
+      "unit_id": "2-2-u1",
+      "phrase": "on the sofa",
+      "translation": "在沙发上"
+    },
+    {
+      "phrase_id": "2-2-p-002",
+      "unit_id": "2-2-u1",
+      "phrase": "under the table",
+      "translation": "在桌子下"
+    },
+    {
+      "phrase_id": "2-2-p-003",
+      "unit_id": "2-2-u1",
+      "phrase": "behind the vase",
+      "translation": "在花瓶后"
+    },
+    {
+      "phrase_id": "2-2-p-004",
+      "unit_id": "2-2-u1",
+      "phrase": "in the basket",
+      "translation": "在篮子里"
+    },
+    {
+      "phrase_id": "2-2-p-005",
+      "unit_id": "2-2-u2",
+      "phrase": "thank you",
+      "translation": "谢谢你"
+    },
+    {
+      "phrase_id": "2-2-p-006",
+      "unit_id": "2-2-u2",
+      "phrase": "have a meal",
+      "translation": "吃一顿饭"
+    },
+    {
+      "phrase_id": "2-2-p-007",
+      "unit_id": "2-2-u2",
+      "phrase": "how nice",
+      "translation": "太好了"
+    },
+    {
+      "phrase_id": "2-2-p-008",
+      "unit_id": "2-2-u2",
+      "phrase": "have some broccoli",
+      "translation": "吃一点西兰花"
+    },
+    {
+      "phrase_id": "2-2-p-009",
+      "unit_id": "2-2-u3",
+      "phrase": "easy and fun",
+      "translation": "简单又有趣"
+    },
+    {
+      "phrase_id": "2-2-p-010",
+      "unit_id": "2-2-u3",
+      "phrase": "for you and for me",
+      "translation": "对你和我而言"
+    },
+    {
+      "phrase_id": "2-2-p-011",
+      "unit_id": "2-2-u4",
+      "phrase": "big eyes",
+      "translation": "大眼睛"
+    },
+    {
+      "phrase_id": "2-2-p-012",
+      "unit_id": "2-2-u4",
+      "phrase": "small eyes",
+      "translation": "小眼睛"
+    },
+    {
+      "phrase_id": "2-2-p-013",
+      "unit_id": "2-2-u4",
+      "phrase": "big ears",
+      "translation": "大耳朵"
+    },
+    {
+      "phrase_id": "2-2-p-014",
+      "unit_id": "2-2-u4",
+      "phrase": "long ears",
+      "translation": "长耳朵"
+    },
+    {
+      "phrase_id": "2-2-p-015",
+      "unit_id": "2-2-u4",
+      "phrase": "a big mouth",
+      "translation": "一张大嘴巴"
+    },
+    {
+      "phrase_id": "2-2-p-016",
+      "unit_id": "2-2-u4",
+      "phrase": "a small mouth",
+      "translation": "一个小嘴巴"
+    },
+    {
+      "phrase_id": "2-2-p-017",
+      "unit_id": "2-2-u4",
+      "phrase": "a big nose",
+      "translation": "一个大鼻子"
+    },
+    {
+      "phrase_id": "2-2-p-018",
+      "unit_id": "2-2-u4",
+      "phrase": "a small nose",
+      "translation": "一个小鼻子"
+    },
+    {
+      "phrase_id": "2-2-p-019",
+      "unit_id": "2-2-u4",
+      "phrase": "long hair",
+      "translation": "长头发"
+    },
+    {
+      "phrase_id": "2-2-p-020",
+      "unit_id": "2-2-u4",
+      "phrase": "short hair",
+      "translation": "短头发"
+    },
+    {
+      "phrase_id": "2-2-p-021",
+      "unit_id": "2-2-u4",
+      "phrase": "for you",
+      "translation": "给你"
+    },
+    {
+      "phrase_id": "2-2-p-022",
+      "unit_id": "2-2-u4",
+      "phrase": "an eye",
+      "translation": "一只眼睛"
+    },
+    {
+      "phrase_id": "2-2-p-023",
+      "unit_id": "2-2-u4",
+      "phrase": "my nose",
+      "translation": "我的鼻子"
+    },
+    {
+      "phrase_id": "2-2-p-024",
+      "unit_id": "2-2-u4",
+      "phrase": "how about…",
+      "translation": "怎么样"
+    },
+    {
+      "phrase_id": "2-2-p-025",
+      "unit_id": "2-2-u4",
+      "phrase": "My face",
+      "translation": "我的脸"
+    },
+    {
+      "phrase_id": "2-2-p-026",
+      "unit_id": "2-2-u4",
+      "phrase": "look at me",
+      "translation": "看我"
+    },
+    {
+      "phrase_id": "2-2-p-027",
+      "unit_id": "2-2-u4",
+      "phrase": "a blue balloon",
+      "translation": "一个蓝色的气球"
+    },
+    {
+      "phrase_id": "2-2-p-028",
+      "unit_id": "2-2-u5",
+      "phrase": "ride a bike",
+      "translation": "骑自行车"
+    },
+    {
+      "phrase_id": "2-2-p-029",
+      "unit_id": "2-2-u5",
+      "phrase": "come with me",
+      "translation": "和我一起来"
+    },
+    {
+      "phrase_id": "2-2-p-030",
+      "unit_id": "2-2-u5",
+      "phrase": "in spring",
+      "translation": "在春天"
+    },
+    {
+      "phrase_id": "2-2-p-031",
+      "unit_id": "2-2-u5",
+      "phrase": "like a bird",
+      "translation": "像一只鸟"
+    },
+    {
+      "phrase_id": "2-2-p-032",
+      "unit_id": "2-2-u5",
+      "phrase": "skate with me",
+      "translation": "和我一起溜冰"
+    },
+    {
+      "phrase_id": "2-2-p-033",
+      "unit_id": "2-2-u5",
+      "phrase": "play basketball",
+      "translation": "打篮球"
+    },
+    {
+      "phrase_id": "2-2-p-034",
+      "unit_id": "2-2-u5",
+      "phrase": "jump with me",
+      "translation": "和我一起跳"
+    },
+    {
+      "phrase_id": "2-2-p-035",
+      "unit_id": "2-2-u5",
+      "phrase": "in summer",
+      "translation": "在夏天"
+    },
+    {
+      "phrase_id": "2-2-p-036",
+      "unit_id": "2-2-u5",
+      "phrase": "go swimming",
+      "translation": "去游泳"
+    },
+    {
+      "phrase_id": "2-2-p-037",
+      "unit_id": "2-2-u5",
+      "phrase": "let's ski",
+      "translation": "让我们一起滑雪"
+    },
+    {
+      "phrase_id": "2-2-p-038",
+      "unit_id": "2-2-u6",
+      "phrase": "go shopping",
+      "translation": "购物"
+    },
+    {
+      "phrase_id": "2-2-p-039",
+      "unit_id": "2-2-u6",
+      "phrase": "look at this…",
+      "translation": "看这个…"
+    },
+    {
+      "phrase_id": "2-2-p-040",
+      "unit_id": "2-2-u6",
+      "phrase": "I don't like…",
+      "translation": "我不喜欢…"
+    },
+    {
+      "phrase_id": "2-2-p-041",
+      "unit_id": "2-2-u6",
+      "phrase": "dress up",
+      "translation": "打扮"
+    },
+    {
+      "phrase_id": "2-2-p-042",
+      "unit_id": "2-2-u6",
+      "phrase": "go to the party",
+      "translation": "去参加聚会"
+    },
+    {
+      "phrase_id": "2-2-p-043",
+      "unit_id": "2-2-u7",
+      "phrase": "in summer",
+      "translation": "在夏天"
+    },
+    {
+      "phrase_id": "2-2-p-044",
+      "unit_id": "2-2-u7",
+      "phrase": "on the beach",
+      "translation": "在沙滩上"
+    },
+    {
+      "phrase_id": "2-2-p-045",
+      "unit_id": "2-2-u7",
+      "phrase": "in the pool",
+      "translation": "在泳池里"
+    },
+    {
+      "phrase_id": "2-2-p-046",
+      "unit_id": "2-2-u7",
+      "phrase": "nice and cool",
+      "translation": "美妙又凉爽"
+    },
+    {
+      "phrase_id": "2-2-p-047",
+      "unit_id": "2-2-u7",
+      "phrase": "lie in the sun",
+      "translation": "躺在阳光下"
+    },
+    {
+      "phrase_id": "2-2-p-048",
+      "unit_id": "2-2-u7",
+      "phrase": "eat ice cream",
+      "translation": "吃冰激凌"
+    },
+    {
+      "phrase_id": "2-2-p-049",
+      "unit_id": "2-2-u7",
+      "phrase": "drink orange juice",
+      "translation": "喝橙汁"
+    },
+    {
+      "phrase_id": "2-2-p-050",
+      "unit_id": "2-2-u7",
+      "phrase": "eat watermelon",
+      "translation": "吃西瓜"
+    },
+    {
+      "phrase_id": "2-2-p-051",
+      "unit_id": "2-2-u7",
+      "phrase": "on the farm",
+      "translation": "在农场"
+    },
+    {
+      "phrase_id": "2-2-p-052",
+      "unit_id": "2-2-u7",
+      "phrase": "in the park",
+      "translation": "在公园里"
+    },
+    {
+      "phrase_id": "2-2-p-053",
+      "unit_id": "2-2-u7",
+      "phrase": "in the room",
+      "translation": "在房间里"
+    },
+    {
+      "phrase_id": "2-2-p-054",
+      "unit_id": "2-2-u7",
+      "phrase": "on the ground",
+      "translation": "在地面上"
+    },
+    {
+      "phrase_id": "2-2-p-055",
+      "unit_id": "2-2-u7",
+      "phrase": "fly a kite/kites",
+      "translation": "放风筝"
+    },
+    {
+      "phrase_id": "2-2-p-056",
+      "unit_id": "2-2-u7",
+      "phrase": "in spring",
+      "translation": "在春天"
+    },
+    {
+      "phrase_id": "2-2-p-057",
+      "unit_id": "2-2-u7",
+      "phrase": "in winter",
+      "translation": "在冬天"
+    },
+    {
+      "phrase_id": "2-2-p-058",
+      "unit_id": "2-2-u7",
+      "phrase": "make a snowman",
+      "translation": "堆雪人"
+    },
+    {
+      "phrase_id": "2-2-p-059",
+      "unit_id": "2-2-u8",
+      "phrase": "clean up",
+      "translation": "收拾；打扫"
+    },
+    {
+      "phrase_id": "2-2-p-060",
+      "unit_id": "2-2-u8",
+      "phrase": "queue up",
+      "translation": "排队等候"
+    },
+    {
+      "phrase_id": "2-2-p-061",
+      "unit_id": "2-2-u8",
+      "phrase": "be good",
+      "translation": "好好表现"
+    },
+    {
       "phrase_id": "3-1-p-001",
       "unit_id": "3-1-u1",
       "phrase": "good morning",
@@ -5266,6 +6388,624 @@
     }
   ],
   "sentences": [
+    {
+      "sentence_id": "2-2-s-001",
+      "unit_id": "2-2-u1",
+      "sentence": "Where's kitty?",
+      "translation": "凯蒂在哪里"
+    },
+    {
+      "sentence_id": "2-2-s-002",
+      "unit_id": "2-2-u1",
+      "sentence": "Is it under table?",
+      "translation": "她在桌子下面吗？"
+    },
+    {
+      "sentence_id": "2-2-s-003",
+      "unit_id": "2-2-u1",
+      "sentence": "Yes. / No.",
+      "translation": "是的/不是"
+    },
+    {
+      "sentence_id": "2-2-s-004",
+      "unit_id": "2-2-u1",
+      "sentence": "it's behind the vase.",
+      "translation": "它在花瓶后面。"
+    },
+    {
+      "sentence_id": "2-2-s-005",
+      "unit_id": "2-2-u1",
+      "sentence": "it isn't on the sofa.",
+      "translation": "它不在沙发上。"
+    },
+    {
+      "sentence_id": "2-2-s-006",
+      "unit_id": "2-2-u1",
+      "sentence": "Where's Liu Tao?",
+      "translation": "刘涛在哪？"
+    },
+    {
+      "sentence_id": "2-2-s-007",
+      "unit_id": "2-2-u1",
+      "sentence": "He's in the living room.",
+      "translation": "他在客厅"
+    },
+    {
+      "sentence_id": "2-2-s-008",
+      "unit_id": "2-2-u1",
+      "sentence": "Is the cat behind the vase?",
+      "translation": "猫在花瓶后面吗？"
+    },
+    {
+      "sentence_id": "2-2-s-009",
+      "unit_id": "2-2-u1",
+      "sentence": "Yes, it is. / No, it isn't.",
+      "translation": "是的，它在/不，它不在。"
+    },
+    {
+      "sentence_id": "2-2-s-010",
+      "unit_id": "2-2-u1",
+      "sentence": "Is the puppy on the table?",
+      "translation": "小狗在桌子上吗"
+    },
+    {
+      "sentence_id": "2-2-s-011",
+      "unit_id": "2-2-u1",
+      "sentence": "No. It's under the chair.",
+      "translation": "不，它在椅子下面。"
+    },
+    {
+      "sentence_id": "2-2-s-012",
+      "unit_id": "2-2-u1",
+      "sentence": "Is this your teddy?",
+      "translation": "这是你的泰迪熊吗？"
+    },
+    {
+      "sentence_id": "2-2-s-013",
+      "unit_id": "2-2-u1",
+      "sentence": "No. My teddy is in the box.",
+      "translation": "不是，我的泰迪熊在盒子里。"
+    },
+    {
+      "sentence_id": "2-2-s-014",
+      "unit_id": "2-2-u2",
+      "sentence": "Dinner is ready!",
+      "translation": "晚饭准备好了。"
+    },
+    {
+      "sentence_id": "2-2-s-015",
+      "unit_id": "2-2-u2",
+      "sentence": "What is for dinner?",
+      "translation": "晚饭吃什么？"
+    },
+    {
+      "sentence_id": "2-2-s-016",
+      "unit_id": "2-2-u2",
+      "sentence": "rice, broccoli and fish.",
+      "translation": "米饭、西兰花和鱼肉。"
+    },
+    {
+      "sentence_id": "2-2-s-017",
+      "unit_id": "2-2-u2",
+      "sentence": "Great! I like fish!",
+      "translation": "好棒！我喜欢鱼肉。"
+    },
+    {
+      "sentence_id": "2-2-s-018",
+      "unit_id": "2-2-u2",
+      "sentence": "And soup too.",
+      "translation": "还有汤。"
+    },
+    {
+      "sentence_id": "2-2-s-019",
+      "unit_id": "2-2-u2",
+      "sentence": "How nice!",
+      "translation": "太好了"
+    },
+    {
+      "sentence_id": "2-2-s-020",
+      "unit_id": "2-2-u2",
+      "sentence": "Have some broccoli!",
+      "translation": "吃一点西兰花。"
+    },
+    {
+      "sentence_id": "2-2-s-021",
+      "unit_id": "2-2-u2",
+      "sentence": "Thank you, LingLing.",
+      "translation": "谢谢你，玲玲。"
+    },
+    {
+      "sentence_id": "2-2-s-022",
+      "unit_id": "2-2-u2",
+      "sentence": "Have some carrots, please!",
+      "translation": "请吃一点胡萝卜。"
+    },
+    {
+      "sentence_id": "2-2-s-023",
+      "unit_id": "2-2-u2",
+      "sentence": "Thanks, I like carrots.",
+      "translation": "谢谢，我喜欢胡萝卜。"
+    },
+    {
+      "sentence_id": "2-2-s-024",
+      "unit_id": "2-2-u2",
+      "sentence": "Little Annie has a meal.",
+      "translation": "小安妮吃一顿饭。"
+    },
+    {
+      "sentence_id": "2-2-s-025",
+      "unit_id": "2-2-u2",
+      "sentence": "It smells good.",
+      "translation": "味道很好闻。"
+    },
+    {
+      "sentence_id": "2-2-s-026",
+      "unit_id": "2-2-u2",
+      "sentence": "I eat it all.",
+      "translation": "我全吃光了。"
+    },
+    {
+      "sentence_id": "2-2-s-027",
+      "unit_id": "2-2-u3",
+      "sentence": "We have Maths, Chinese, English and PE today.",
+      "translation": "我们今天有数学、语文、英语和体育课。"
+    },
+    {
+      "sentence_id": "2-2-s-028",
+      "unit_id": "2-2-u3",
+      "sentence": "I like Maths. It's fun.",
+      "translation": "我喜欢数学，它很有趣。"
+    },
+    {
+      "sentence_id": "2-2-s-029",
+      "unit_id": "2-2-u3",
+      "sentence": "I like Maths. How about you?",
+      "translation": "我喜欢数学，你呢？"
+    },
+    {
+      "sentence_id": "2-2-s-030",
+      "unit_id": "2-2-u3",
+      "sentence": "I like Chinese. It's easy.",
+      "translation": "我喜欢语文，它很容易。"
+    },
+    {
+      "sentence_id": "2-2-s-031",
+      "unit_id": "2-2-u3",
+      "sentence": "I like English. It's easy and fun",
+      "translation": "我喜欢英语，它简单又有趣。"
+    },
+    {
+      "sentence_id": "2-2-s-032",
+      "unit_id": "2-2-u3",
+      "sentence": "We all like PE",
+      "translation": "我喜欢体育"
+    },
+    {
+      "sentence_id": "2-2-s-033",
+      "unit_id": "2-2-u3",
+      "sentence": "I like PE and English. They're fun.",
+      "translation": "我喜欢体育和英语，他们很有趣。"
+    },
+    {
+      "sentence_id": "2-2-s-034",
+      "unit_id": "2-2-u3",
+      "sentence": "What lessons do you have today?",
+      "translation": "你们今天有什么课？"
+    },
+    {
+      "sentence_id": "2-2-s-035",
+      "unit_id": "2-2-u3",
+      "sentence": "We have Maths, Chinese, English and PE.",
+      "translation": "我们有数学、语文、英语和体育。"
+    },
+    {
+      "sentence_id": "2-2-s-036",
+      "unit_id": "2-2-u3",
+      "sentence": "I like Chinese. How about you?",
+      "translation": "我喜欢语文，你呢？"
+    },
+    {
+      "sentence_id": "2-2-s-037",
+      "unit_id": "2-2-u3",
+      "sentence": "I like Maths. It's interesting.",
+      "translation": "我喜欢数学，它很有趣。"
+    },
+    {
+      "sentence_id": "2-2-s-038",
+      "unit_id": "2-2-u3",
+      "sentence": "What subjects do you like?",
+      "translation": "你喜欢什么学科？"
+    },
+    {
+      "sentence_id": "2-2-s-039",
+      "unit_id": "2-2-u3",
+      "sentence": "I like English. It's easy and fun.",
+      "translation": "我喜欢英语，它简单又有趣。"
+    },
+    {
+      "sentence_id": "2-2-s-040",
+      "unit_id": "2-2-u4",
+      "sentence": "I have big eyes.",
+      "translation": "我有一双大眼睛。"
+    },
+    {
+      "sentence_id": "2-2-s-041",
+      "unit_id": "2-2-u4",
+      "sentence": "I have big nose. How about you?",
+      "translation": "我有一个大鼻子，你呢？"
+    },
+    {
+      "sentence_id": "2-2-s-042",
+      "unit_id": "2-2-u4",
+      "sentence": "I have a small nose.",
+      "translation": "我有一个小鼻子。"
+    },
+    {
+      "sentence_id": "2-2-s-043",
+      "unit_id": "2-2-u4",
+      "sentence": "I have long hair.",
+      "translation": "我有一头长发。"
+    },
+    {
+      "sentence_id": "2-2-s-044",
+      "unit_id": "2-2-u4",
+      "sentence": "Can you see?",
+      "translation": "你能看得到吗？"
+    },
+    {
+      "sentence_id": "2-2-s-045",
+      "unit_id": "2-2-u4",
+      "sentence": "Look at me.",
+      "translation": "看我"
+    },
+    {
+      "sentence_id": "2-2-s-046",
+      "unit_id": "2-2-u4",
+      "sentence": "A balloon for you!",
+      "translation": "给你一个气球。"
+    },
+    {
+      "sentence_id": "2-2-s-047",
+      "unit_id": "2-2-u4",
+      "sentence": "He has big eyes.",
+      "translation": "他有大眼睛"
+    },
+    {
+      "sentence_id": "2-2-s-048",
+      "unit_id": "2-2-u4",
+      "sentence": "She has long hair.",
+      "translation": "她有长头发。"
+    },
+    {
+      "sentence_id": "2-2-s-049",
+      "unit_id": "2-2-u4",
+      "sentence": "It has a big nose.",
+      "translation": "它有一个大鼻子。"
+    },
+    {
+      "sentence_id": "2-2-s-050",
+      "unit_id": "2-2-u4",
+      "sentence": "They have small mouths.",
+      "translation": "他们有小嘴巴。"
+    },
+    {
+      "sentence_id": "2-2-s-051",
+      "unit_id": "2-2-u4",
+      "sentence": "We have small ears.",
+      "translation": "我们有小耳朵。"
+    },
+    {
+      "sentence_id": "2-2-s-052",
+      "unit_id": "2-2-u5",
+      "sentence": "I can hop. Can you?",
+      "translation": "我会单脚跳，你会吗？"
+    },
+    {
+      "sentence_id": "2-2-s-053",
+      "unit_id": "2-2-u5",
+      "sentence": "Yes, I can.",
+      "translation": "是的，我会。"
+    },
+    {
+      "sentence_id": "2-2-s-054",
+      "unit_id": "2-2-u5",
+      "sentence": "I can swim. Can you?",
+      "translation": "我会游泳，你会吗？"
+    },
+    {
+      "sentence_id": "2-2-s-055",
+      "unit_id": "2-2-u5",
+      "sentence": "Of course I can.",
+      "translation": "我当然会。"
+    },
+    {
+      "sentence_id": "2-2-s-056",
+      "unit_id": "2-2-u5",
+      "sentence": "Ouch! I can't skate.",
+      "translation": "哦，我不会溜冰。"
+    },
+    {
+      "sentence_id": "2-2-s-057",
+      "unit_id": "2-2-u5",
+      "sentence": "I can skip. Can you?",
+      "translation": "我会跳绳，你会吗？"
+    },
+    {
+      "sentence_id": "2-2-s-058",
+      "unit_id": "2-2-u5",
+      "sentence": "No, I can't.",
+      "translation": "不，我不会"
+    },
+    {
+      "sentence_id": "2-2-s-059",
+      "unit_id": "2-2-u5",
+      "sentence": "Come and skip with me.",
+      "translation": "来和我一起跳绳。"
+    },
+    {
+      "sentence_id": "2-2-s-060",
+      "unit_id": "2-2-u5",
+      "sentence": "Let's ski and skate",
+      "translation": "让我们滑雪和溜冰。"
+    },
+    {
+      "sentence_id": "2-2-s-061",
+      "unit_id": "2-2-u5",
+      "sentence": "Can you play football?",
+      "translation": "你会踢足球吗"
+    },
+    {
+      "sentence_id": "2-2-s-062",
+      "unit_id": "2-2-u5",
+      "sentence": "No, I can't. But I can skip.",
+      "translation": "不，我不会。但我会跳绳"
+    },
+    {
+      "sentence_id": "2-2-s-063",
+      "unit_id": "2-2-u5",
+      "sentence": "I can't skate, but I can ride a bike.",
+      "translation": "我不会溜冰，但我会骑自行车。"
+    },
+    {
+      "sentence_id": "2-2-s-064",
+      "unit_id": "2-2-u5",
+      "sentence": "Great!",
+      "translation": "真棒！"
+    },
+    {
+      "sentence_id": "2-2-s-065",
+      "unit_id": "2-2-u6",
+      "sentence": "Let's go shopping, Lingling.",
+      "translation": "让我们去购物吧，玲玲。"
+    },
+    {
+      "sentence_id": "2-2-s-066",
+      "unit_id": "2-2-u6",
+      "sentence": "Hooray!",
+      "translation": "好啊。"
+    },
+    {
+      "sentence_id": "2-2-s-067",
+      "unit_id": "2-2-u6",
+      "sentence": "Look at this dress.",
+      "translation": "看这件连衣裙。"
+    },
+    {
+      "sentence_id": "2-2-s-068",
+      "unit_id": "2-2-u6",
+      "sentence": "I don't like it, Mum.",
+      "translation": "我不喜欢它，妈妈"
+    },
+    {
+      "sentence_id": "2-2-s-069",
+      "unit_id": "2-2-u6",
+      "sentence": "Look at this dress, Lingling.",
+      "translation": "看这件连衣裙，玲玲"
+    },
+    {
+      "sentence_id": "2-2-s-070",
+      "unit_id": "2-2-u6",
+      "sentence": "I don't like green, Mum. I like red.",
+      "translation": "我不喜欢绿色，妈妈，我喜欢红色。"
+    },
+    {
+      "sentence_id": "2-2-s-071",
+      "unit_id": "2-2-u6",
+      "sentence": "How about this skirt?",
+      "translation": "这件短裙怎么样？"
+    },
+    {
+      "sentence_id": "2-2-s-072",
+      "unit_id": "2-2-u6",
+      "sentence": "It's cute! I like it, Mum.",
+      "translation": "它很可爱，我喜欢它，妈妈。"
+    },
+    {
+      "sentence_id": "2-2-s-073",
+      "unit_id": "2-2-u6",
+      "sentence": "I like this hat. It's blue.",
+      "translation": "我喜欢这顶帽子，它是蓝色的。"
+    },
+    {
+      "sentence_id": "2-2-s-074",
+      "unit_id": "2-2-u6",
+      "sentence": "I don't like this blouse. It's pink.",
+      "translation": "我不喜欢这件女式衬衫，它是粉红色的。"
+    },
+    {
+      "sentence_id": "2-2-s-075",
+      "unit_id": "2-2-u6",
+      "sentence": "This cute dress for you. That nice shirt for me.",
+      "translation": "这件可爱的连衣裙给你，那件好看的衬衫给我。"
+    },
+    {
+      "sentence_id": "2-2-s-076",
+      "unit_id": "2-2-u6",
+      "sentence": "Let's dress up! Let's go to the party!",
+      "translation": "让我们打扮一下，让我们去聚会吧。"
+    },
+    {
+      "sentence_id": "2-2-s-077",
+      "unit_id": "2-2-u6",
+      "sentence": "How about this red hat?",
+      "translation": "这顶红色的帽子怎么样？"
+    },
+    {
+      "sentence_id": "2-2-s-078",
+      "unit_id": "2-2-u6",
+      "sentence": "Look at this nice skirt.",
+      "translation": "看这条好看的短裙。"
+    },
+    {
+      "sentence_id": "2-2-s-079",
+      "unit_id": "2-2-u6",
+      "sentence": "He wears a black shirt.",
+      "translation": "他穿着一件黑色的衬衫。"
+    },
+    {
+      "sentence_id": "2-2-s-080",
+      "unit_id": "2-2-u6",
+      "sentence": "I like these dresses. They're pink.",
+      "translation": "我喜欢这些连衣裙，它们是粉色的。"
+    },
+    {
+      "sentence_id": "2-2-s-081",
+      "unit_id": "2-2-u7",
+      "sentence": "In summer, I play on the beach.",
+      "translation": "夏天，我在沙滩上玩耍。"
+    },
+    {
+      "sentence_id": "2-2-s-082",
+      "unit_id": "2-2-u7",
+      "sentence": "In summer, I swim in the pool.",
+      "translation": "夏天，我在泳池游泳。"
+    },
+    {
+      "sentence_id": "2-2-s-083",
+      "unit_id": "2-2-u7",
+      "sentence": "In summer, I eat ice cream.",
+      "translation": "夏天，我吃冰激凌。"
+    },
+    {
+      "sentence_id": "2-2-s-084",
+      "unit_id": "2-2-u7",
+      "sentence": "In summer, I drink orange juice.",
+      "translation": "夏天，我喝橙汁"
+    },
+    {
+      "sentence_id": "2-2-s-085",
+      "unit_id": "2-2-u7",
+      "sentence": "Summer is hot and fun.",
+      "translation": "夏日炎炎，乐趣多多。"
+    },
+    {
+      "sentence_id": "2-2-s-086",
+      "unit_id": "2-2-u7",
+      "sentence": "We feel nice and cool.",
+      "translation": "我感到开心和凉爽。"
+    },
+    {
+      "sentence_id": "2-2-s-087",
+      "unit_id": "2-2-u7",
+      "sentence": "We lie in the sun.",
+      "translation": "我们躺在阳光下。"
+    },
+    {
+      "sentence_id": "2-2-s-088",
+      "unit_id": "2-2-u7",
+      "sentence": "In spring, I fly a kite in the park.",
+      "translation": "春天，我在公园放风筝。"
+    },
+    {
+      "sentence_id": "2-2-s-089",
+      "unit_id": "2-2-u7",
+      "sentence": "In autumn, I eat fruits on the farm.",
+      "translation": "秋天，我在农场吃水果。"
+    },
+    {
+      "sentence_id": "2-2-s-090",
+      "unit_id": "2-2-u7",
+      "sentence": "In winter, I make a snowman on the ground.",
+      "translation": "冬天，我在地面堆雪人。"
+    },
+    {
+      "sentence_id": "2-2-s-091",
+      "unit_id": "2-2-u7",
+      "sentence": "In winter, I read in the room",
+      "translation": "冬天，我在房间看书。"
+    },
+    {
+      "sentence_id": "2-2-s-092",
+      "unit_id": "2-2-u8",
+      "sentence": "Queue up, please.",
+      "translation": "请排队。"
+    },
+    {
+      "sentence_id": "2-2-s-093",
+      "unit_id": "2-2-u8",
+      "sentence": "Yes, Miss Li.",
+      "translation": "是的，李老师。"
+    },
+    {
+      "sentence_id": "2-2-s-094",
+      "unit_id": "2-2-u8",
+      "sentence": "Don't push, please.",
+      "translation": "请不要推挤"
+    },
+    {
+      "sentence_id": "2-2-s-095",
+      "unit_id": "2-2-u8",
+      "sentence": "OK, Miss Li.",
+      "translation": "好的，李老师。"
+    },
+    {
+      "sentence_id": "2-2-s-096",
+      "unit_id": "2-2-u8",
+      "sentence": "Don't talk, Liu Tao.",
+      "translation": "不要讲话，刘涛。"
+    },
+    {
+      "sentence_id": "2-2-s-097",
+      "unit_id": "2-2-u8",
+      "sentence": "Sorry.",
+      "translation": "对不起"
+    },
+    {
+      "sentence_id": "2-2-s-098",
+      "unit_id": "2-2-u8",
+      "sentence": "Clean up, please.",
+      "translation": "请打扫干净"
+    },
+    {
+      "sentence_id": "2-2-s-099",
+      "unit_id": "2-2-u8",
+      "sentence": "Everybody, please be good now.",
+      "translation": "每一个人，现在请听话。"
+    },
+    {
+      "sentence_id": "2-2-s-100",
+      "unit_id": "2-2-u8",
+      "sentence": "Please don't hurt it.",
+      "translation": "请不要伤害它"
+    },
+    {
+      "sentence_id": "2-2-s-101",
+      "unit_id": "2-2-u8",
+      "sentence": "No littering.",
+      "translation": "禁止乱扔废弃物"
+    },
+    {
+      "sentence_id": "2-2-s-102",
+      "unit_id": "2-2-u8",
+      "sentence": "Don't park.",
+      "translation": "禁止停车"
+    },
+    {
+      "sentence_id": "2-2-s-103",
+      "unit_id": "2-2-u8",
+      "sentence": "Don't honk.",
+      "translation": "禁止鸣喇叭"
+    },
     {
       "sentence_id": "3-1-s-001",
       "unit_id": "3-1-u1",
