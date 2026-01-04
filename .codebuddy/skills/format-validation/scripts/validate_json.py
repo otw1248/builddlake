@@ -59,6 +59,13 @@ def scan_directory(directory: str, recursive: bool = True) -> List[str]:
         pattern = '*.json'
 
     for file_path in path.glob(pattern):
+        # Skip files/directories in hidden folders (starting with .)
+        if any(part.startswith('.') for part in file_path.parts):
+            continue
+        # Skip files/directories in venv, __pycache__, node_modules, etc.
+        ignored_dirs = ['venv', '__pycache__', 'node_modules', '.venv', 'env', 'virtualenv']
+        if any(part in ignored_dirs for part in file_path.parts):
+            continue
         if file_path.is_file():
             json_files.append(str(file_path))
 
