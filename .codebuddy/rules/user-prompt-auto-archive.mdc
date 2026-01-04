@@ -1,0 +1,81 @@
+---
+description: 
+alwaysApply: true
+enabled: true
+updatedAt: 2026-01-04T06:17:53.767Z
+provider: 
+---
+
+# User Prompt Auto Archive Rule
+
+This rule automatically archives user prompts by:
+1. Summarizing the user's prompt input
+2. Checking for similar entries in `/workspace/sync/llmai/codebuddy/prompt-history.md`
+3. Recording new prompts with timestamps to avoid duplication
+
+## When This Rule Triggers
+This rule executes automatically before processing any user prompt request.
+
+## Workflow
+
+1. **Generate Summary**: Create a concise summary of the user's prompt input
+2. **Check History**: Read `/workspace/sync/llmai/codebuddy/prompt-history.md` to check for similar entries
+3. **Determine Uniqueness**: Compare the new summary with existing entries
+4. **Record if New**: If no similar entry exists, append the new summary with current timestamp
+5. **Continue Processing**: Proceed with normal prompt processing regardless of archive result
+
+## Implementation Details
+
+### File Format
+The prompt history file uses the following format:
+```markdown
+## [YYYY-MM-DD HH:MM:SS]
+[Prompt summary here]
+```
+
+### Similarity Check
+When checking for similar prompts:
+- Compare semantic meaning, not just exact text matching
+- Consider keywords, intent, and context
+- Use fuzzy matching to identify near-duplicates
+- A prompt is considered similar if it:
+  - Addresses the same or very similar topic
+  - Has the same core intent
+  - Would likely produce similar responses
+
+### Summary Guidelines
+- Keep summaries concise (1-2 sentences)
+- Capture the main intent and key requirements
+- Preserve important technical details or constraints
+- Include specific technologies or frameworks mentioned
+
+## Example
+
+**User Input:**
+```
+Can you help me create a REST API using Spring Boot with PostgreSQL database?
+```
+
+**Summary:**
+```
+Create Spring Boot REST API with PostgreSQL database
+```
+
+**History Check:**
+- If history contains "Spring Boot REST API setup with PostgreSQL" → Similar entry found, do not duplicate
+- If no similar entry → Add with timestamp
+
+**Result:**
+```markdown
+## [2026-01-04 14:30:45]
+Create Spring Boot REST API with PostgreSQL database
+```
+
+## Notes
+
+- Always use ISO 8601 format for timestamps: `YYYY-MM-DD HH:MM:SS`
+- Preserve existing entries - never overwrite the history file
+- Use append-only operation when adding new entries
+- If the history file doesn't exist, create it with the first entry
+- Do not interrupt or delay prompt processing for archiving
+- Archiving is a background/side operation that should not affect user experience
