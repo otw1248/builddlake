@@ -1,6 +1,1014 @@
 {
   "words": [
     {
+      "word_id": "1-1-w-001",
+      "unit_id": "1-1-u1",
+      "word": "hello",
+      "translation": "你好"
+    },
+    {
+      "word_id": "1-1-w-002",
+      "unit_id": "1-1-u1",
+      "word": "hi",
+      "translation": "你好"
+    },
+    {
+      "word_id": "1-1-w-003",
+      "unit_id": "1-1-u1",
+      "word": "I",
+      "translation": "我"
+    },
+    {
+      "word_id": "1-1-w-004",
+      "unit_id": "1-1-u1",
+      "word": "I'm=I am",
+      "translation": "我是"
+    },
+    {
+      "word_id": "1-1-w-005",
+      "unit_id": "1-1-u1",
+      "word": "Liu Tao",
+      "translation": "刘涛"
+    },
+    {
+      "word_id": "1-1-w-006",
+      "unit_id": "1-1-u1",
+      "word": "Yang Ling",
+      "translation": "杨玲"
+    },
+    {
+      "word_id": "1-1-w-007",
+      "unit_id": "1-1-u1",
+      "word": "Su Hai",
+      "translation": "苏海"
+    },
+    {
+      "word_id": "1-1-w-008",
+      "unit_id": "1-1-u1",
+      "word": "Wang Bing",
+      "translation": "王兵"
+    },
+    {
+      "word_id": "1-1-w-009",
+      "unit_id": "1-1-u1",
+      "word": "Amy",
+      "translation": "艾米"
+    },
+    {
+      "word_id": "1-1-w-010",
+      "unit_id": "1-1-u1",
+      "word": "Tommy",
+      "translation": "汤米"
+    },
+    {
+      "word_id": "1-1-w-011",
+      "unit_id": "1-1-u1",
+      "word": "Lily",
+      "translation": "莉莉"
+    },
+    {
+      "word_id": "1-1-w-012",
+      "unit_id": "1-1-u1",
+      "word": "story",
+      "translation": "故事"
+    },
+    {
+      "word_id": "1-1-w-013",
+      "unit_id": "1-1-u1",
+      "word": "time",
+      "translation": "时间"
+    },
+    {
+      "word_id": "1-1-w-014",
+      "unit_id": "1-1-u1",
+      "word": "fun",
+      "translation": "娱乐"
+    },
+    {
+      "word_id": "1-1-w-015",
+      "unit_id": "1-1-u1",
+      "word": "song",
+      "translation": "歌曲"
+    },
+    {
+      "word_id": "1-1-w-016",
+      "unit_id": "1-1-u1",
+      "word": "game",
+      "translation": "游戏"
+    },
+    {
+      "word_id": "1-1-w-017",
+      "unit_id": "1-1-u2",
+      "word": "good",
+      "translation": "好的"
+    },
+    {
+      "word_id": "1-1-w-018",
+      "unit_id": "1-1-u2",
+      "word": "morning",
+      "translation": "早上"
+    },
+    {
+      "word_id": "1-1-w-019",
+      "unit_id": "1-1-u2",
+      "word": "afternoon",
+      "translation": "下午"
+    },
+    {
+      "word_id": "1-1-w-020",
+      "unit_id": "1-1-u2",
+      "word": "evening",
+      "translation": "晚上"
+    },
+    {
+      "word_id": "1-1-w-021",
+      "unit_id": "1-1-u2",
+      "word": "night",
+      "translation": "夜晚"
+    },
+    {
+      "word_id": "1-1-w-022",
+      "unit_id": "1-1-u2",
+      "word": "Good morning",
+      "translation": "早上好"
+    },
+    {
+      "word_id": "1-1-w-023",
+      "unit_id": "1-1-u2",
+      "word": "Good afternoon",
+      "translation": "下午好"
+    },
+    {
+      "word_id": "1-1-w-024",
+      "unit_id": "1-1-u2",
+      "word": "Good evening",
+      "translation": "晚上好"
+    },
+    {
+      "word_id": "1-1-w-025",
+      "unit_id": "1-1-u2",
+      "word": "Good night",
+      "translation": "晚安"
+    },
+    {
+      "word_id": "1-1-w-026",
+      "unit_id": "1-1-u2",
+      "word": "woof",
+      "translation": "汪汪声"
+    },
+    {
+      "word_id": "1-1-w-027",
+      "unit_id": "1-1-u2",
+      "word": "you",
+      "translation": "你"
+    },
+    {
+      "word_id": "1-1-w-028",
+      "unit_id": "1-1-u2",
+      "word": "say",
+      "translation": "说"
+    },
+    {
+      "word_id": "1-1-w-029",
+      "unit_id": "1-1-u2",
+      "word": "cat",
+      "translation": "猫"
+    },
+    {
+      "word_id": "1-1-w-030",
+      "unit_id": "1-1-u2",
+      "word": "dog",
+      "translation": "狗"
+    },
+    {
+      "word_id": "1-1-w-031",
+      "unit_id": "1-1-u2",
+      "word": "lion",
+      "translation": "狮子"
+    },
+    {
+      "word_id": "1-1-w-032",
+      "unit_id": "1-1-u2",
+      "word": "pig",
+      "translation": "猪"
+    },
+    {
+      "word_id": "1-1-w-033",
+      "unit_id": "1-1-u2",
+      "word": "rhyme",
+      "translation": "歌谣"
+    },
+    {
+      "word_id": "1-1-w-034",
+      "unit_id": "1-1-u3",
+      "word": "this",
+      "translation": "这"
+    },
+    {
+      "word_id": "1-1-w-035",
+      "unit_id": "1-1-u3",
+      "word": "is",
+      "translation": "是"
+    },
+    {
+      "word_id": "1-1-w-036",
+      "unit_id": "1-1-u3",
+      "word": "Mr",
+      "translation": "先生"
+    },
+    {
+      "word_id": "1-1-w-037",
+      "unit_id": "1-1-u3",
+      "word": "Miss",
+      "translation": "小姐"
+    },
+    {
+      "word_id": "1-1-w-038",
+      "unit_id": "1-1-u3",
+      "word": "my",
+      "translation": "我的"
+    },
+    {
+      "word_id": "1-1-w-039",
+      "unit_id": "1-1-u3",
+      "word": "dad",
+      "translation": "爸爸"
+    },
+    {
+      "word_id": "1-1-w-040",
+      "unit_id": "1-1-u3",
+      "word": "mum",
+      "translation": "妈妈"
+    },
+    {
+      "word_id": "1-1-w-041",
+      "unit_id": "1-1-u3",
+      "word": "Goodbye",
+      "translation": "再见"
+    },
+    {
+      "word_id": "1-1-w-042",
+      "unit_id": "1-1-u3",
+      "word": "Good morning",
+      "translation": "早上好"
+    },
+    {
+      "word_id": "1-1-w-043",
+      "unit_id": "1-1-u3",
+      "word": "Good afternoon",
+      "translation": "下午好"
+    },
+    {
+      "word_id": "1-1-w-044",
+      "unit_id": "1-1-u3",
+      "word": "teacher",
+      "translation": "老师"
+    },
+    {
+      "word_id": "1-1-w-045",
+      "unit_id": "1-1-u3",
+      "word": "This is",
+      "translation": "这是"
+    },
+    {
+      "word_id": "1-1-w-046",
+      "unit_id": "1-1-u3",
+      "word": "brother",
+      "translation": "哥哥，弟弟"
+    },
+    {
+      "word_id": "1-1-w-047",
+      "unit_id": "1-1-u3",
+      "word": "sister",
+      "translation": "姐姐，妹妹"
+    },
+    {
+      "word_id": "1-1-w-048",
+      "unit_id": "1-1-u3",
+      "word": "grandpa",
+      "translation": "爷爷"
+    },
+    {
+      "word_id": "1-1-w-049",
+      "unit_id": "1-1-u3",
+      "word": "grandma",
+      "translation": "奶奶"
+    },
+    {
+      "word_id": "1-1-w-050",
+      "unit_id": "1-1-u3",
+      "word": "daddy",
+      "translation": "爸爸"
+    },
+    {
+      "word_id": "1-1-w-051",
+      "unit_id": "1-1-u3",
+      "word": "mummy",
+      "translation": "妈妈"
+    },
+    {
+      "word_id": "1-1-w-052",
+      "unit_id": "1-1-u4",
+      "word": "a",
+      "translation": "一个"
+    },
+    {
+      "word_id": "1-1-w-053",
+      "unit_id": "1-1-u4",
+      "word": "yes",
+      "translation": "是"
+    },
+    {
+      "word_id": "1-1-w-054",
+      "unit_id": "1-1-u4",
+      "word": "no",
+      "translation": "不是"
+    },
+    {
+      "word_id": "1-1-w-055",
+      "unit_id": "1-1-u4",
+      "word": "teddy",
+      "translation": "泰迪熊"
+    },
+    {
+      "word_id": "1-1-w-056",
+      "unit_id": "1-1-u4",
+      "word": "a teddy",
+      "translation": "一只泰迪熊"
+    },
+    {
+      "word_id": "1-1-w-057",
+      "unit_id": "1-1-u4",
+      "word": "box",
+      "translation": "盒子"
+    },
+    {
+      "word_id": "1-1-w-058",
+      "unit_id": "1-1-u4",
+      "word": "a box",
+      "translation": "一个盒子"
+    },
+    {
+      "word_id": "1-1-w-059",
+      "unit_id": "1-1-u4",
+      "word": "bag",
+      "translation": "书包"
+    },
+    {
+      "word_id": "1-1-w-060",
+      "unit_id": "1-1-u4",
+      "word": "a bag",
+      "translation": "一个书包"
+    },
+    {
+      "word_id": "1-1-w-061",
+      "unit_id": "1-1-u4",
+      "word": "puppy",
+      "translation": "小狗，幼犬"
+    },
+    {
+      "word_id": "1-1-w-062",
+      "unit_id": "1-1-u4",
+      "word": "a puppy",
+      "translation": "一只小狗"
+    },
+    {
+      "word_id": "1-1-w-063",
+      "unit_id": "1-1-u4",
+      "word": "turn around",
+      "translation": "转身"
+    },
+    {
+      "word_id": "1-1-w-064",
+      "unit_id": "1-1-u4",
+      "word": "touch",
+      "translation": "碰，触摸"
+    },
+    {
+      "word_id": "1-1-w-065",
+      "unit_id": "1-1-u4",
+      "word": "ground",
+      "translation": "地面"
+    },
+    {
+      "word_id": "1-1-w-066",
+      "unit_id": "1-1-u4",
+      "word": "touch the ground",
+      "translation": "摸摸地面"
+    },
+    {
+      "word_id": "1-1-w-067",
+      "unit_id": "1-1-u4",
+      "word": "stand up",
+      "translation": "起立"
+    },
+    {
+      "word_id": "1-1-w-068",
+      "unit_id": "1-1-u4",
+      "word": "sit down",
+      "translation": "坐下"
+    },
+    {
+      "word_id": "1-1-w-069",
+      "unit_id": "1-1-u4",
+      "word": "bear",
+      "translation": "熊"
+    },
+    {
+      "word_id": "1-1-w-070",
+      "unit_id": "1-1-u4",
+      "word": "doll",
+      "translation": "洋娃娃"
+    },
+    {
+      "word_id": "1-1-w-071",
+      "unit_id": "1-1-u4",
+      "word": "puppet",
+      "translation": "木偶"
+    },
+    {
+      "word_id": "1-1-w-072",
+      "unit_id": "1-1-u4",
+      "word": "puzzle",
+      "translation": "拼图"
+    },
+    {
+      "word_id": "1-1-w-073",
+      "unit_id": "1-1-u5",
+      "word": "look",
+      "translation": "看"
+    },
+    {
+      "word_id": "1-1-w-074",
+      "unit_id": "1-1-u5",
+      "word": "and",
+      "translation": "和"
+    },
+    {
+      "word_id": "1-1-w-075",
+      "unit_id": "1-1-u5",
+      "word": "see",
+      "translation": "看见"
+    },
+    {
+      "word_id": "1-1-w-076",
+      "unit_id": "1-1-u5",
+      "word": "yummy",
+      "translation": "好吃的，美味的"
+    },
+    {
+      "word_id": "1-1-w-077",
+      "unit_id": "1-1-u5",
+      "word": "orange",
+      "translation": "橙子，橘子"
+    },
+    {
+      "word_id": "1-1-w-078",
+      "unit_id": "1-1-u5",
+      "word": "mango",
+      "translation": "芒果"
+    },
+    {
+      "word_id": "1-1-w-079",
+      "unit_id": "1-1-u5",
+      "word": "lemon",
+      "translation": "柠檬"
+    },
+    {
+      "word_id": "1-1-w-080",
+      "unit_id": "1-1-u5",
+      "word": "fruit",
+      "translation": "水果"
+    },
+    {
+      "word_id": "1-1-w-081",
+      "unit_id": "1-1-u5",
+      "word": "watermelon",
+      "translation": "西瓜"
+    },
+    {
+      "word_id": "1-1-w-082",
+      "unit_id": "1-1-u5",
+      "word": "kiwi",
+      "translation": "猕猴桃"
+    },
+    {
+      "word_id": "1-1-w-083",
+      "unit_id": "1-1-u5",
+      "word": "a banana",
+      "translation": "一个香蕉"
+    },
+    {
+      "word_id": "1-1-w-084",
+      "unit_id": "1-1-u5",
+      "word": "a peach",
+      "translation": "一个桃子"
+    },
+    {
+      "word_id": "1-1-w-085",
+      "unit_id": "1-1-u5",
+      "word": "a cherry",
+      "translation": "一个樱桃"
+    },
+    {
+      "word_id": "1-1-w-086",
+      "unit_id": "1-1-u5",
+      "word": "a grape",
+      "translation": "一颗葡萄"
+    },
+    {
+      "word_id": "1-1-w-087",
+      "unit_id": "1-1-u5",
+      "word": "an apple",
+      "translation": "一个苹果"
+    },
+    {
+      "word_id": "1-1-w-088",
+      "unit_id": "1-1-u5",
+      "word": "a pear",
+      "translation": "一个梨"
+    },
+    {
+      "word_id": "1-1-w-089",
+      "unit_id": "1-1-u5",
+      "word": "please",
+      "translation": "请"
+    },
+    {
+      "word_id": "1-1-w-090",
+      "unit_id": "1-1-u5",
+      "word": "OK",
+      "translation": "好的"
+    },
+    {
+      "word_id": "1-1-w-091",
+      "unit_id": "1-1-u5",
+      "word": "thank",
+      "translation": "谢谢"
+    },
+    {
+      "word_id": "1-1-w-092",
+      "unit_id": "1-1-u5",
+      "word": "you",
+      "translation": "你"
+    },
+    {
+      "word_id": "1-1-w-093",
+      "unit_id": "1-1-u5",
+      "word": "cherry",
+      "translation": "樱桃"
+    },
+    {
+      "word_id": "1-1-w-094",
+      "unit_id": "1-1-u5",
+      "word": "banana",
+      "translation": "香蕉"
+    },
+    {
+      "word_id": "1-1-w-095",
+      "unit_id": "1-1-u5",
+      "word": "peach",
+      "translation": "桃子"
+    },
+    {
+      "word_id": "1-1-w-096",
+      "unit_id": "1-1-u5",
+      "word": "grape",
+      "translation": "葡萄"
+    },
+    {
+      "word_id": "1-1-w-097",
+      "unit_id": "1-1-u6",
+      "word": "pink",
+      "translation": "粉色的"
+    },
+    {
+      "word_id": "1-1-w-098",
+      "unit_id": "1-1-u6",
+      "word": "you",
+      "translation": "你"
+    },
+    {
+      "word_id": "1-1-w-099",
+      "unit_id": "1-1-u6",
+      "word": "sky",
+      "translation": "天空"
+    },
+    {
+      "word_id": "1-1-w-100",
+      "unit_id": "1-1-u6",
+      "word": "red",
+      "translation": "红色的"
+    },
+    {
+      "word_id": "1-1-w-101",
+      "unit_id": "1-1-u6",
+      "word": "thank",
+      "translation": "谢谢"
+    },
+    {
+      "word_id": "1-1-w-102",
+      "unit_id": "1-1-u6",
+      "word": "nice",
+      "translation": "好的"
+    },
+    {
+      "word_id": "1-1-w-103",
+      "unit_id": "1-1-u6",
+      "word": "blue",
+      "translation": "蓝色的"
+    },
+    {
+      "word_id": "1-1-w-104",
+      "unit_id": "1-1-u6",
+      "word": "it's=it is",
+      "translation": "它是"
+    },
+    {
+      "word_id": "1-1-w-105",
+      "unit_id": "1-1-u6",
+      "word": "up",
+      "translation": "上升"
+    },
+    {
+      "word_id": "1-1-w-106",
+      "unit_id": "1-1-u6",
+      "word": "green",
+      "translation": "绿色的"
+    },
+    {
+      "word_id": "1-1-w-107",
+      "unit_id": "1-1-u6",
+      "word": "my",
+      "translation": "我的"
+    },
+    {
+      "word_id": "1-1-w-108",
+      "unit_id": "1-1-u6",
+      "word": "high",
+      "translation": "高的"
+    },
+    {
+      "word_id": "1-1-w-109",
+      "unit_id": "1-1-u6",
+      "word": "balloon",
+      "translation": "气球"
+    },
+    {
+      "word_id": "1-1-w-110",
+      "unit_id": "1-1-u6",
+      "word": "so",
+      "translation": "如此"
+    },
+    {
+      "word_id": "1-1-w-111",
+      "unit_id": "1-1-u6",
+      "word": "in",
+      "translation": "在…里"
+    },
+    {
+      "word_id": "1-1-w-112",
+      "unit_id": "1-1-u6",
+      "word": "rainbow",
+      "translation": "彩虹"
+    },
+    {
+      "word_id": "1-1-w-113",
+      "unit_id": "1-1-u6",
+      "word": "orange",
+      "translation": "橙色的"
+    },
+    {
+      "word_id": "1-1-w-114",
+      "unit_id": "1-1-u6",
+      "word": "yellow",
+      "translation": "黄色的"
+    },
+    {
+      "word_id": "1-1-w-115",
+      "unit_id": "1-1-u6",
+      "word": "purple",
+      "translation": "紫色的"
+    },
+    {
+      "word_id": "1-1-w-116",
+      "unit_id": "1-1-u6",
+      "word": "black",
+      "translation": "黑色的"
+    },
+    {
+      "word_id": "1-1-w-117",
+      "unit_id": "1-1-u6",
+      "word": "white",
+      "translation": "白色的"
+    },
+    {
+      "word_id": "1-1-w-118",
+      "unit_id": "1-1-u6",
+      "word": "up so high",
+      "translation": "这么高"
+    },
+    {
+      "word_id": "1-1-w-119",
+      "unit_id": "1-1-u6",
+      "word": "look at",
+      "translation": "看"
+    },
+    {
+      "word_id": "1-1-w-120",
+      "unit_id": "1-1-u6",
+      "word": "in the sky",
+      "translation": "在天空中"
+    },
+    {
+      "word_id": "1-1-w-121",
+      "unit_id": "1-1-u7",
+      "word": "dance",
+      "translation": "跳舞"
+    },
+    {
+      "word_id": "1-1-w-122",
+      "unit_id": "1-1-u7",
+      "word": "sing",
+      "translation": "唱歌"
+    },
+    {
+      "word_id": "1-1-w-123",
+      "unit_id": "1-1-u7",
+      "word": "draw",
+      "translation": "画画"
+    },
+    {
+      "word_id": "1-1-w-124",
+      "unit_id": "1-1-u7",
+      "word": "cook",
+      "translation": "烹饪，做饭"
+    },
+    {
+      "word_id": "1-1-w-125",
+      "unit_id": "1-1-u7",
+      "word": "can",
+      "translation": "能，会"
+    },
+    {
+      "word_id": "1-1-w-126",
+      "unit_id": "1-1-u7",
+      "word": "robot",
+      "translation": "机器人"
+    },
+    {
+      "word_id": "1-1-w-127",
+      "unit_id": "1-1-u7",
+      "word": "Roy",
+      "translation": "罗伊"
+    },
+    {
+      "word_id": "1-1-w-128",
+      "unit_id": "1-1-u7",
+      "word": "great",
+      "translation": "棒极了"
+    },
+    {
+      "word_id": "1-1-w-129",
+      "unit_id": "1-1-u7",
+      "word": "wow",
+      "translation": "哇"
+    },
+    {
+      "word_id": "1-1-w-130",
+      "unit_id": "1-1-u7",
+      "word": "my",
+      "translation": "我的"
+    },
+    {
+      "word_id": "1-1-w-131",
+      "unit_id": "1-1-u7",
+      "word": "good",
+      "translation": "好的"
+    },
+    {
+      "word_id": "1-1-w-132",
+      "unit_id": "1-1-u7",
+      "word": "friend",
+      "translation": "朋友"
+    },
+    {
+      "word_id": "1-1-w-133",
+      "unit_id": "1-1-u7",
+      "word": "act",
+      "translation": "表演"
+    },
+    {
+      "word_id": "1-1-w-134",
+      "unit_id": "1-1-u7",
+      "word": "run",
+      "translation": "跑"
+    },
+    {
+      "word_id": "1-1-w-135",
+      "unit_id": "1-1-u7",
+      "word": "jump",
+      "translation": "跳跃"
+    },
+    {
+      "word_id": "1-1-w-136",
+      "unit_id": "1-1-u7",
+      "word": "fly",
+      "translation": "飞"
+    },
+    {
+      "word_id": "1-1-w-137",
+      "unit_id": "1-1-u7",
+      "word": "climb",
+      "translation": "爬"
+    },
+    {
+      "word_id": "1-1-w-138",
+      "unit_id": "1-1-u7",
+      "word": "skip",
+      "translation": "跳绳"
+    },
+    {
+      "word_id": "1-1-w-139",
+      "unit_id": "1-1-u7",
+      "word": "I",
+      "translation": "我"
+    },
+    {
+      "word_id": "1-1-w-140",
+      "unit_id": "1-1-u8",
+      "word": "a coat",
+      "translation": "一件外套"
+    },
+    {
+      "word_id": "1-1-w-141",
+      "unit_id": "1-1-u8",
+      "word": "a scarf",
+      "translation": "一条围巾"
+    },
+    {
+      "word_id": "1-1-w-142",
+      "unit_id": "1-1-u8",
+      "word": "a beanie",
+      "translation": "一顶小便帽"
+    },
+    {
+      "word_id": "1-1-w-143",
+      "unit_id": "1-1-u8",
+      "word": "a sweater",
+      "translation": "一件毛衣"
+    },
+    {
+      "word_id": "1-1-w-144",
+      "unit_id": "1-1-u8",
+      "word": "look",
+      "translation": "看"
+    },
+    {
+      "word_id": "1-1-w-145",
+      "unit_id": "1-1-u8",
+      "word": "Oh",
+      "translation": "哦，啊"
+    },
+    {
+      "word_id": "1-1-w-146",
+      "unit_id": "1-1-u8",
+      "word": "put on",
+      "translation": "穿上"
+    },
+    {
+      "word_id": "1-1-w-147",
+      "unit_id": "1-1-u8",
+      "word": "your",
+      "translation": "你的"
+    },
+    {
+      "word_id": "1-1-w-148",
+      "unit_id": "1-1-u8",
+      "word": "Yes",
+      "translation": "好的"
+    },
+    {
+      "word_id": "1-1-w-149",
+      "unit_id": "1-1-u8",
+      "word": "OK",
+      "translation": "好的"
+    },
+    {
+      "word_id": "1-1-w-150",
+      "unit_id": "1-1-u8",
+      "word": "Great",
+      "translation": "太好了！太棒了！"
+    },
+    {
+      "word_id": "1-1-w-151",
+      "unit_id": "1-1-u8",
+      "word": "my",
+      "translation": "我的"
+    },
+    {
+      "word_id": "1-1-w-152",
+      "unit_id": "1-1-u8",
+      "word": "good",
+      "translation": "好"
+    },
+    {
+      "word_id": "1-1-w-153",
+      "unit_id": "1-1-u8",
+      "word": "friend",
+      "translation": "朋友"
+    },
+    {
+      "word_id": "1-1-w-154",
+      "unit_id": "1-1-u8",
+      "word": "on",
+      "translation": "在…上"
+    },
+    {
+      "word_id": "1-1-w-155",
+      "unit_id": "1-1-u8",
+      "word": "tree",
+      "translation": "树"
+    },
+    {
+      "word_id": "1-1-w-156",
+      "unit_id": "1-1-u8",
+      "word": "cold",
+      "translation": "寒冷的"
+    },
+    {
+      "word_id": "1-1-w-157",
+      "unit_id": "1-1-u8",
+      "word": "can",
+      "translation": "能够"
+    },
+    {
+      "word_id": "1-1-w-158",
+      "unit_id": "1-1-u8",
+      "word": "you",
+      "translation": "你"
+    },
+    {
+      "word_id": "1-1-w-159",
+      "unit_id": "1-1-u8",
+      "word": "see",
+      "translation": "看见"
+    },
+    {
+      "word_id": "1-1-w-160",
+      "unit_id": "1-1-u8",
+      "word": "star",
+      "translation": "星星"
+    },
+    {
+      "word_id": "1-1-w-161",
+      "unit_id": "1-1-u8",
+      "word": "gift",
+      "translation": "礼物"
+    },
+    {
+      "word_id": "1-1-w-162",
+      "unit_id": "1-1-u8",
+      "word": "hat",
+      "translation": "帽子"
+    },
+    {
+      "word_id": "1-1-w-163",
+      "unit_id": "1-1-u8",
+      "word": "cap",
+      "translation": "鸭舌帽"
+    },
+    {
+      "word_id": "1-1-w-164",
+      "unit_id": "1-1-u8",
+      "word": "poster",
+      "translation": "海报"
+    },
+    {
+      "word_id": "1-1-w-165",
+      "unit_id": "1-1-u8",
+      "word": "coat",
+      "translation": "外套，外衣"
+    },
+    {
+      "word_id": "1-1-w-166",
+      "unit_id": "1-1-u8",
+      "word": "scarf",
+      "translation": "围巾"
+    },
+    {
+      "word_id": "1-1-w-167",
+      "unit_id": "1-1-u8",
+      "word": "beanie",
+      "translation": "小便帽"
+    },
+    {
+      "word_id": "1-1-w-168",
+      "unit_id": "1-1-u8",
+      "word": "sweater",
+      "translation": "毛衣"
+    },
+    {
       "word_id": "1-2-w-001",
       "unit_id": "1-2-u1",
       "word": "one",
@@ -6195,6 +7203,108 @@
   ],
   "phrases": [
     {
+      "phrase_id": "1-1-p-001",
+      "unit_id": "1-1-u1",
+      "phrase": "play a game",
+      "translation": "玩一个游戏"
+    },
+    {
+      "phrase_id": "1-1-p-002",
+      "unit_id": "1-1-u1",
+      "phrase": "sing a song",
+      "translation": "唱一首歌"
+    },
+    {
+      "phrase_id": "1-1-p-003",
+      "unit_id": "1-1-u2",
+      "phrase": "say a rhyme",
+      "translation": "说一首儿歌"
+    },
+    {
+      "phrase_id": "1-1-p-004",
+      "unit_id": "1-1-u2",
+      "phrase": "play a game",
+      "translation": "玩一个游戏"
+    },
+    {
+      "phrase_id": "1-1-p-005",
+      "unit_id": "1-1-u2",
+      "phrase": "sing a song",
+      "translation": "唱一首歌"
+    },
+    {
+      "phrase_id": "1-1-p-006",
+      "unit_id": "1-1-u2",
+      "phrase": "read a story",
+      "translation": "读一个故事"
+    },
+    {
+      "phrase_id": "1-1-p-007",
+      "unit_id": "1-1-u3",
+      "phrase": "This is",
+      "translation": "这是"
+    },
+    {
+      "phrase_id": "1-1-p-008",
+      "unit_id": "1-1-u3",
+      "phrase": "Goodbye",
+      "translation": "再见"
+    },
+    {
+      "phrase_id": "1-1-p-009",
+      "unit_id": "1-1-u4",
+      "phrase": "turn around",
+      "translation": "转身"
+    },
+    {
+      "phrase_id": "1-1-p-010",
+      "unit_id": "1-1-u4",
+      "phrase": "touch the ground",
+      "translation": "摸摸地面"
+    },
+    {
+      "phrase_id": "1-1-p-011",
+      "unit_id": "1-1-u4",
+      "phrase": "stand up",
+      "translation": "起立"
+    },
+    {
+      "phrase_id": "1-1-p-012",
+      "unit_id": "1-1-u4",
+      "phrase": "sit down",
+      "translation": "坐下"
+    },
+    {
+      "phrase_id": "1-1-p-013",
+      "unit_id": "1-1-u6",
+      "phrase": "look at",
+      "translation": "看"
+    },
+    {
+      "phrase_id": "1-1-p-014",
+      "unit_id": "1-1-u6",
+      "phrase": "in the sky",
+      "translation": "在天空中"
+    },
+    {
+      "phrase_id": "1-1-p-015",
+      "unit_id": "1-1-u6",
+      "phrase": "up so high",
+      "translation": "升得如此高"
+    },
+    {
+      "phrase_id": "1-1-p-016",
+      "unit_id": "1-1-u7",
+      "phrase": "I can",
+      "translation": "我会"
+    },
+    {
+      "phrase_id": "1-1-p-017",
+      "unit_id": "1-1-u8",
+      "phrase": "put on",
+      "translation": "穿上"
+    },
+    {
       "phase_id": "1-2-p-001",
       "unit_id": "1-2-u1",
       "phase": "a marble",
@@ -9346,6 +10456,258 @@
     }
   ],
   "sentences": [
+    {
+      "sentence_id": "1-1-s-001",
+      "unit_id": "1-1-u1",
+      "sentence": "Hello, Wang Bing.",
+      "translation": "你好，王兵。"
+    },
+    {
+      "sentence_id": "1-1-s-002",
+      "unit_id": "1-1-u1",
+      "sentence": "Hi, Su Hai.",
+      "translation": "你好，苏海。"
+    },
+    {
+      "sentence_id": "1-1-s-003",
+      "unit_id": "1-1-u1",
+      "sentence": "Hello, I'm Liu Tao.",
+      "translation": "你好，我是刘涛。"
+    },
+    {
+      "sentence_id": "1-1-s-004",
+      "unit_id": "1-1-u1",
+      "sentence": "Hi, I'm Yang Ling.",
+      "translation": "你好，我是杨玲。"
+    },
+    {
+      "sentence_id": "1-1-s-005",
+      "unit_id": "1-1-u1",
+      "sentence": "Hi, I'm Amy.",
+      "translation": "你好，我是艾米。"
+    },
+    {
+      "sentence_id": "1-1-s-006",
+      "unit_id": "1-1-u1",
+      "sentence": "Hello, Amy.",
+      "translation": "你好，艾米。"
+    },
+    {
+      "sentence_id": "1-1-s-007",
+      "unit_id": "1-1-u2",
+      "sentence": "Good morning, Yang Ling!",
+      "translation": "早上好，杨玲！"
+    },
+    {
+      "sentence_id": "1-1-s-008",
+      "unit_id": "1-1-u2",
+      "sentence": "Good afternoon, Su Hai!",
+      "translation": "苏海，下午好！"
+    },
+    {
+      "sentence_id": "1-1-s-009",
+      "unit_id": "1-1-u2",
+      "sentence": "Good evening!",
+      "translation": "晚上好！"
+    },
+    {
+      "sentence_id": "1-1-s-010",
+      "unit_id": "1-1-u2",
+      "sentence": "Good night!",
+      "translation": "晚安！"
+    },
+    {
+      "sentence_id": "1-1-s-011",
+      "unit_id": "1-1-u3",
+      "sentence": "Mum, Dad, This is Miss Li.",
+      "translation": "妈妈爸爸，这是李老师。"
+    },
+    {
+      "sentence_id": "1-1-s-012",
+      "unit_id": "1-1-u3",
+      "sentence": "Goodbye, Taotao!",
+      "translation": "再见，涛涛！"
+    },
+    {
+      "sentence_id": "1-1-s-013",
+      "unit_id": "1-1-u3",
+      "sentence": "Goodbye Dad!",
+      "translation": "再见，爸爸！"
+    },
+    {
+      "sentence_id": "1-1-s-014",
+      "unit_id": "1-1-u3",
+      "sentence": "Goodbye Mum!",
+      "translation": "再见，妈妈！"
+    },
+    {
+      "sentence_id": "1-1-s-015",
+      "unit_id": "1-1-u4",
+      "sentence": "Is this a teddy?",
+      "translation": "这是一只泰迪熊吗？"
+    },
+    {
+      "sentence_id": "1-1-s-016",
+      "unit_id": "1-1-u4",
+      "sentence": "This is a puppy.",
+      "translation": "不是，这是一只小狗。"
+    },
+    {
+      "sentence_id": "1-1-s-017",
+      "unit_id": "1-1-u4",
+      "sentence": "Yes, it is.",
+      "translation": "是的，它是。"
+    },
+    {
+      "sentence_id": "1-1-s-018",
+      "unit_id": "1-1-u4",
+      "sentence": "No, it isn't.",
+      "translation": "不，它不是。"
+    },
+    {
+      "sentence_id": "1-1-s-019",
+      "unit_id": "1-1-u5",
+      "sentence": "A banana, please.",
+      "translation": "请给我一根香蕉。"
+    },
+    {
+      "sentence_id": "1-1-s-020",
+      "unit_id": "1-1-u5",
+      "sentence": "OK.",
+      "translation": "好的。"
+    },
+    {
+      "sentence_id": "1-1-s-021",
+      "unit_id": "1-1-u5",
+      "sentence": "Thank you.",
+      "translation": "谢谢。"
+    },
+    {
+      "sentence_id": "1-1-s-022",
+      "unit_id": "1-1-u5",
+      "sentence": "Look! A yummy peach.",
+      "translation": "看！一个美味的桃子。"
+    },
+    {
+      "sentence_id": "1-1-s-023",
+      "unit_id": "1-1-u6",
+      "sentence": "Look at my teddy.",
+      "translation": "看我的泰迪熊。"
+    },
+    {
+      "sentence_id": "1-1-s-024",
+      "unit_id": "1-1-u6",
+      "sentence": "It's cute.",
+      "translation": "它很可爱。"
+    },
+    {
+      "sentence_id": "1-1-s-025",
+      "unit_id": "1-1-u6",
+      "sentence": "Look at my balloon.",
+      "translation": "看我的气球。"
+    },
+    {
+      "sentence_id": "1-1-s-026",
+      "unit_id": "1-1-u6",
+      "sentence": "It's red.",
+      "translation": "它是红色的。"
+    },
+    {
+      "sentence_id": "1-1-s-027",
+      "unit_id": "1-1-u6",
+      "sentence": "It's nice.",
+      "translation": "它很漂亮。"
+    },
+    {
+      "sentence_id": "1-1-s-028",
+      "unit_id": "1-1-u7",
+      "sentence": "I can dance.",
+      "translation": "我会跳舞。"
+    },
+    {
+      "sentence_id": "1-1-s-029",
+      "unit_id": "1-1-u7",
+      "sentence": "Great!",
+      "translation": "太好了！太棒了！"
+    },
+    {
+      "sentence_id": "1-1-s-030",
+      "unit_id": "1-1-u7",
+      "sentence": "Wow!",
+      "translation": "哇！"
+    },
+    {
+      "sentence_id": "1-1-s-031",
+      "unit_id": "1-1-u7",
+      "sentence": "I can sing.",
+      "translation": "我会唱歌。"
+    },
+    {
+      "sentence_id": "1-1-s-032",
+      "unit_id": "1-1-u7",
+      "sentence": "I can draw.",
+      "translation": "我会画画。"
+    },
+    {
+      "sentence_id": "1-1-s-033",
+      "unit_id": "1-1-u7",
+      "sentence": "I can cook.",
+      "translation": "我会做饭。"
+    },
+    {
+      "sentence_id": "1-1-s-034",
+      "unit_id": "1-1-u7",
+      "sentence": "Can I have a peach?",
+      "translation": "我可以吃一个桃吗？"
+    },
+    {
+      "sentence_id": "1-1-s-035",
+      "unit_id": "1-1-u7",
+      "sentence": "Can you help me?",
+      "translation": "你可以帮助我吗？"
+    },
+    {
+      "sentence_id": "1-1-s-036",
+      "unit_id": "1-1-u8",
+      "sentence": "Oh, it's cold.",
+      "translation": "哦，真冷。"
+    },
+    {
+      "sentence_id": "1-1-s-037",
+      "unit_id": "1-1-u8",
+      "sentence": "It's hot today.",
+      "translation": "今天天气炎热。"
+    },
+    {
+      "sentence_id": "1-1-s-038",
+      "unit_id": "1-1-u8",
+      "sentence": "It's rainy in summer.",
+      "translation": "夏季多雨。"
+    },
+    {
+      "sentence_id": "1-1-s-039",
+      "unit_id": "1-1-u8",
+      "sentence": "It's warm in spring.",
+      "translation": "春天天气暖和。"
+    },
+    {
+      "sentence_id": "1-1-s-040",
+      "unit_id": "1-1-u8",
+      "sentence": "Put on your coat.",
+      "translation": "穿上你的外套。"
+    },
+    {
+      "sentence_id": "1-1-s-041",
+      "unit_id": "1-1-u8",
+      "sentence": "Put on your scarf.",
+      "translation": "戴上你的围巾。"
+    },
+    {
+      "sentence_id": "1-1-s-042",
+      "unit_id": "1-1-u8",
+      "sentence": "Put on your sweater.",
+      "translation": "穿上你的毛衣。"
+    },
     {
       "sentence_id": "1-2-s-001",
       "unit_id": "1-2-u1",
