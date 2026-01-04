@@ -1,0 +1,31 @@
+{
+  "word": {
+    "id": "w001",
+    "unit_id": "u001",
+    "english": "put",
+    "chinese": "放"
+  },
+  "phrase": {
+    "id": "p001",
+    "unit_id": "u001",
+    "english": "put...on...",
+    "chinese": "把...放在...上",
+    "word_ids": [
+      "w001"
+    ]
+  },
+  "sentence": {
+    "id": "s001",
+    "unit_id": "u001",
+    "english": "Next, we put pretty things on the Christmas tree.",
+    "chinese": "接着，我们把漂亮的东西放在圣诞树上。",
+    "word_ids": [
+      "w001",
+      "w010",
+      "w018"
+    ],
+    "phrase_ids": [
+      "p001"
+    ]
+  }
+}
