@@ -290,3 +290,4 @@ coverage/
 
 # Workspace specific
 /workspace/zbackup/sources
+zbackup/sources
