@@ -1,6 +1,38 @@
 {
   "units": [
     {
+      "unit_id": "1-2-u1",
+      "unit_name": "Unit 1 Let's count!"
+    },
+    {
+      "unit_id": "1-2-u2",
+      "unit_name": "Unit 2 This is my pencil"
+    },
+    {
+      "unit_id": "1-2-u3",
+      "unit_name": "Unit 3 I like carrots"
+    },
+    {
+      "unit_id": "1-2-u4",
+      "unit_name": "Unit 4 Spring"
+    },
+    {
+      "unit_id": "1-2-u5",
+      "unit_name": "Unit 5 What's this?"
+    },
+    {
+      "unit_id": "1-2-u6",
+      "unit_name": "Unit 6 Are you ready?"
+    },
+    {
+      "unit_id": "1-2-u7",
+      "unit_name": "Unit 7 What's that?"
+    },
+    {
+      "unit_id": "1-2-u8",
+      "unit_name": "Unit 8 What's in your bag?"
+    },
+    {
       "unit_id": "2-1-u1",
       "unit_name": "Unit 1 She's my aunt"
     },

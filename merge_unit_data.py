@@ -12,8 +12,9 @@ with open('/workspace/dlake/edu/english/pschool/unit-data-temp.json', 'r', encod
 # Merge words (prepend new words to existing ones)
 main_data['words'] = temp_data['words'] + main_data['words']
 
-# Merge phrases (prepend new phrases to existing ones)
-main_data['phrases'] = temp_data['phrases'] + main_data['phrases']
+# Merge phrases/phases (prepend new phrases to existing ones, handle both spellings)
+new_phrases = temp_data.get('phrases', temp_data.get('phases', []))
+main_data['phrases'] = new_phrases + main_data['phrases']
 
 # Merge sentences (prepend new sentences to existing ones)
 main_data['sentences'] = temp_data['sentences'] + main_data['sentences']
@@ -24,5 +25,5 @@ with open('/workspace/dlake/edu/english/pschool/unit-data.json', 'w', encoding='
 
 print(f"Successfully merged data:")
 print(f"  Words: {len(temp_data['words'])} new words added (total: {len(main_data['words'])})")
-print(f"  Phrases: {len(temp_data['phrases'])} new phrases added (total: {len(main_data['phrases'])})")
+print(f"  Phrases: {len(new_phrases)} new phrases added (total: {len(main_data['phrases'])})")
 print(f"  Sentences: {len(temp_data['sentences'])} new sentences added (total: {len(main_data['sentences'])})")
