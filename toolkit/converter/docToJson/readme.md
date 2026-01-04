@@ -1,0 +1,1 @@
+source /workspace/toolkit/venv/bin/activate && python3 /workspace/toolkit/converter/docToJson/batchDocxToMd.py
