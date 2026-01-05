@@ -1,0 +1,147 @@
+---
+description: Automatically add comments for new files or new changes with AI assistant name and timestamp
+alwaysApply: true
+enabled: true
+updatedAt: 2026-01-05T03:38:42.648Z
+provider: 
+---
+
+# AI Assistant Authorship Comments Rule
+
+## Purpose
+Automatically add authorship comments for all new files and code changes to maintain code attribution and traceability.
+
+## Requirements
+
+### For New Files
+- Add a comment at the top of every new file created
+- Format:
+  - **Single-line files:** `// Created by AI Assistant on YYYY-MM-DD`
+  - **Multi-line files (block comments):**
+    ```javascript
+    /*
+     * Created by AI Assistant
+     * Date: YYYY-MM-DD HH:MM:SS UTC
+     */
+    ```
+  - **Or use language-specific doc comments:**
+    - JavaScript/TypeScript: `/** Created by AI Assistant on YYYY-MM-DD */`
+    - Python: `"""Created by AI Assistant on YYYY-MM-DD"""`
+    - Java: `/** Created by AI Assistant on YYYY-MM-DD */`
+    - Go: `// Created by AI Assistant on YYYY-MM-DD`
+    - Rust: `//! Created by AI Assistant on YYYY-MM-DD`
+    - HTML: `<!-- Created by AI Assistant on YYYY-MM-DD -->`
+    - CSS: `/* Created by AI Assistant on YYYY-MM-DD */`
+
+### For Code Changes
+- Add inline comments for significant modifications (additions > 5 lines or logic changes)
+- Format: `// Added by AI Assistant on YYYY-MM-DD` or `// Modified by AI Assistant on YYYY-MM-DD`
+- Place comment directly before or on the modified line
+
+### Comment Placement Guidelines
+1. **File-level comments:** Place at the very top, before any imports or includes
+2. **Function-level comments:** For new functions, add above the function signature
+3. **Inline comments:** Add to the right of the line or above multi-line changes
+4. **Respect existing comment style:** Match the file's existing comment conventions
+
+### Timestamp Format
+- Use ISO 8601 format: `YYYY-MM-DD` (required)
+- Optional time component: `YYYY-MM-DD HH:MM:SS UTC`
+- Use UTC timezone for consistency
+
+### When NOT to Add Comments
+- Minor edits (spacing, formatting, typo fixes)
+- Comment-only changes
+- Configuration files (JSON, YAML, XML, .env)
+- Generated or compiled files
+
+## Examples
+
+### JavaScript File Example
+```javascript
+/**
+ * Created by AI Assistant
+ * Date: 2026-01-05
+ */
+
+export function processData(input) {
+  // Added by AI Assistant on 2026-01-05
+  const result = input.filter(item => item.active);
+  return result;
+}
+```
+
+### CSS File Example
+```css
+/* Created by AI Assistant on 2026-01-05 */
+
+.container {
+  display: flex;
+  /* Modified by AI Assistant on 2026-01-05 */
+  gap: 1rem;
+}
+```
+
+### Python File Example
+```python
+"""
+Created by AI Assistant
+Date: 2026-01-05
+"""
+
+def calculate_sum(numbers):
+    # Added by AI Assistant on 2026-01-05
+    return sum(numbers)
+```
+
+### Java File Example
+```java
+/**
+ * Created by AI Assistant
+ * Date: 2026-01-05
+ */
+
+public class DataProcessor {
+    // Added by AI Assistant on 2026-01-05
+    public List<String> filterActive(List<Item> items) {
+        return items.stream()
+            .filter(Item::isActive)
+            .collect(Collectors.toList());
+    }
+}
+```
+
+### Go File Example
+```go
+// Created by AI Assistant on 2026-01-05
+
+package main
+
+func processItems(items []Item) []Item {
+    // Added by AI Assistant on 2026-01-05
+    var active []Item
+    for _, item := range items {
+        if item.Active {
+            active = append(active, item)
+        }
+    }
+    return active
+}
+```
+
+### Rust File Example
+```rust
+//! Created by AI Assistant on 2026-01-05
+
+pub fn process_data(input: Vec<i32>) -> Vec<i32> {
+    // Added by AI Assistant on 2026-01-05
+    input.iter().filter(|&&x| x > 0).cloned().collect()
+}
+```
+
+## Important Notes
+- ALWAYS preserve existing code functionality
+- NEVER break the project or introduce bugs
+- Follow the project's existing code style and conventions
+- Comments should be concise and informative
+- If a file already has authorship comments, update them instead of duplicating
