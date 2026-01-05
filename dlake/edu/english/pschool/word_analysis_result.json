@@ -1,0 +1,506 @@
+{
+  "total_words": 9208,
+  "unique_words": 1276,
+  "top_100_words": [
+    {
+      "rank": 1,
+      "word": "the",
+      "count": 488
+    },
+    {
+      "rank": 2,
+      "word": "you",
+      "count": 237
+    },
+    {
+      "rank": 3,
+      "word": "have",
+      "count": 146
+    },
+    {
+      "rank": 4,
+      "word": "and",
+      "count": 133
+    },
+    {
+      "rank": 5,
+      "word": "what",
+      "count": 117
+    },
+    {
+      "rank": 6,
+      "word": "like",
+      "count": 113
+    },
+    {
+      "rank": 7,
+      "word": "are",
+      "count": 111
+    },
+    {
+      "rank": 8,
+      "word": "this",
+      "count": 104
+    },
+    {
+      "rank": 9,
+      "word": "look",
+      "count": 102
+    },
+    {
+      "rank": 10,
+      "word": "it's",
+      "count": 86
+    },
+    {
+      "rank": 11,
+      "word": "can",
+      "count": 84
+    },
+    {
+      "rank": 12,
+      "word": "your",
+      "count": 71
+    },
+    {
+      "rank": 13,
+      "word": "for",
+      "count": 70
+    },
+    {
+      "rank": 14,
+      "word": "how",
+      "count": 70
+    },
+    {
+      "rank": 15,
+      "word": "some",
+      "count": 67
+    },
+    {
+      "rank": 16,
+      "word": "good",
+      "count": 58
+    },
+    {
+      "rank": 17,
+      "word": "school",
+      "count": 56
+    },
+    {
+      "rank": 18,
+      "word": "they",
+      "count": 52
+    },
+    {
+      "rank": 19,
+      "word": "with",
+      "count": 46
+    },
+    {
+      "rank": 20,
+      "word": "day",
+      "count": 45
+    },
+    {
+      "rank": 21,
+      "word": "she",
+      "count": 45
+    },
+    {
+      "rank": 22,
+      "word": "play",
+      "count": 44
+    },
+    {
+      "rank": 23,
+      "word": "they're",
+      "count": 44
+    },
+    {
+      "rank": 24,
+      "word": "eat",
+      "count": 44
+    },
+    {
+      "rank": 25,
+      "word": "yes",
+      "count": 42
+    },
+    {
+      "rank": 26,
+      "word": "please",
+      "count": 41
+    },
+    {
+      "rank": 27,
+      "word": "there",
+      "count": 39
+    },
+    {
+      "rank": 28,
+      "word": "see",
+      "count": 38
+    },
+    {
+      "rank": 29,
+      "word": "many",
+      "count": 38
+    },
+    {
+      "rank": 30,
+      "word": "two",
+      "count": 37
+    },
+    {
+      "rank": 31,
+      "word": "get",
+      "count": 36
+    },
+    {
+      "rank": 32,
+      "word": "too",
+      "count": 36
+    },
+    {
+      "rank": 33,
+      "word": "come",
+      "count": 35
+    },
+    {
+      "rank": 34,
+      "word": "make",
+      "count": 35
+    },
+    {
+      "rank": 35,
+      "word": "i'm",
+      "count": 35
+    },
+    {
+      "rank": 36,
+      "word": "don't",
+      "count": 35
+    },
+    {
+      "rank": 37,
+      "word": "big",
+      "count": 33
+    },
+    {
+      "rank": 38,
+      "word": "going",
+      "count": 33
+    },
+    {
+      "rank": 39,
+      "word": "what's",
+      "count": 32
+    },
+    {
+      "rank": 40,
+      "word": "new",
+      "count": 31
+    },
+    {
+      "rank": 41,
+      "word": "about",
+      "count": 30
+    },
+    {
+      "rank": 42,
+      "word": "nice",
+      "count": 30
+    },
+    {
+      "rank": 43,
+      "word": "clean",
+      "count": 29
+    },
+    {
+      "rank": 44,
+      "word": "one",
+      "count": 28
+    },
+    {
+      "rank": 45,
+      "word": "juice",
+      "count": 28
+    },
+    {
+      "rank": 46,
+      "word": "can't",
+      "count": 27
+    },
+    {
+      "rank": 47,
+      "word": "not",
+      "count": 27
+    },
+    {
+      "rank": 48,
+      "word": "will",
+      "count": 26
+    },
+    {
+      "rank": 49,
+      "word": "football",
+      "count": 26
+    },
+    {
+      "rank": 50,
+      "word": "our",
+      "count": 26
+    },
+    {
+      "rank": 51,
+      "word": "does",
+      "count": 26
+    },
+    {
+      "rank": 52,
+      "word": "take",
+      "count": 25
+    },
+    {
+      "rank": 53,
+      "word": "friend",
+      "count": 25
+    },
+    {
+      "rank": 54,
+      "word": "all",
+      "count": 25
+    },
+    {
+      "rank": 55,
+      "word": "festival",
+      "count": 24
+    },
+    {
+      "rank": 56,
+      "word": "chinese",
+      "count": 24
+    },
+    {
+      "rank": 57,
+      "word": "here",
+      "count": 24
+    },
+    {
+      "rank": 58,
+      "word": "spring",
+      "count": 23
+    },
+    {
+      "rank": 59,
+      "word": "three",
+      "count": 23
+    },
+    {
+      "rank": 60,
+      "word": "let's",
+      "count": 23
+    },
+    {
+      "rank": 61,
+      "word": "that",
+      "count": 23
+    },
+    {
+      "rank": 62,
+      "word": "clothes",
+      "count": 22
+    },
+    {
+      "rank": 63,
+      "word": "thank",
+      "count": 22
+    },
+    {
+      "rank": 64,
+      "word": "red",
+      "count": 22
+    },
+    {
+      "rank": 65,
+      "word": "cute",
+      "count": 22
+    },
+    {
+      "rank": 66,
+      "word": "has",
+      "count": 22
+    },
+    {
+      "rank": 67,
+      "word": "well",
+      "count": 22
+    },
+    {
+      "rank": 68,
+      "word": "want",
+      "count": 22
+    },
+    {
+      "rank": 69,
+      "word": "put",
+      "count": 21
+    },
+    {
+      "rank": 70,
+      "word": "time",
+      "count": 21
+    },
+    {
+      "rank": 71,
+      "word": "summer",
+      "count": 21
+    },
+    {
+      "rank": 72,
+      "word": "morning",
+      "count": 21
+    },
+    {
+      "rank": 73,
+      "word": "room",
+      "count": 21
+    },
+    {
+      "rank": 74,
+      "word": "dinner",
+      "count": 21
+    },
+    {
+      "rank": 75,
+      "word": "party",
+      "count": 21
+    },
+    {
+      "rank": 76,
+      "word": "from",
+      "count": 20
+    },
+    {
+      "rank": 77,
+      "word": "much",
+      "count": 20
+    },
+    {
+      "rank": 78,
+      "word": "cook",
+      "count": 20
+    },
+    {
+      "rank": 79,
+      "word": "tree",
+      "count": 20
+    },
+    {
+      "rank": 80,
+      "word": "these",
+      "count": 20
+    },
+    {
+      "rank": 81,
+      "word": "her",
+      "count": 20
+    },
+    {
+      "rank": 82,
+      "word": "long",
+      "count": 19
+    },
+    {
+      "rank": 83,
+      "word": "park",
+      "count": 19
+    },
+    {
+      "rank": 84,
+      "word": "christmas",
+      "count": 19
+    },
+    {
+      "rank": 85,
+      "word": "help",
+      "count": 19
+    },
+    {
+      "rank": 86,
+      "word": "water",
+      "count": 19
+    },
+    {
+      "rank": 87,
+      "word": "great",
+      "count": 19
+    },
+    {
+      "rank": 88,
+      "word": "fly",
+      "count": 19
+    },
+    {
+      "rank": 89,
+      "word": "read",
+      "count": 19
+    },
+    {
+      "rank": 90,
+      "word": "today",
+      "count": 19
+    },
+    {
+      "rank": 91,
+      "word": "where",
+      "count": 19
+    },
+    {
+      "rank": 92,
+      "word": "english",
+      "count": 19
+    },
+    {
+      "rank": 93,
+      "word": "his",
+      "count": 19
+    },
+    {
+      "rank": 94,
+      "word": "over",
+      "count": 18
+    },
+    {
+      "rank": 95,
+      "word": "fun",
+      "count": 18
+    },
+    {
+      "rank": 96,
+      "word": "draw",
+      "count": 18
+    },
+    {
+      "rank": 97,
+      "word": "pencil",
+      "count": 18
+    },
+    {
+      "rank": 98,
+      "word": "happy",
+      "count": 18
+    },
+    {
+      "rank": 99,
+      "word": "write",
+      "count": 18
+    },
+    {
+      "rank": 100,
+      "word": "lot",
+      "count": 18
+    }
+  ]
+}
