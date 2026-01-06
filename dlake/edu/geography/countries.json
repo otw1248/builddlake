@@ -1,0 +1,1363 @@
+{
+  "title": "各国首都",
+  "columns": [
+    "国家名称",
+    "英文名称",
+    "首都",
+    "英文首都",
+    "洲"
+  ],
+  "data": [
+    {
+      "国家名称": "文莱",
+      "英文名称": "Brunei Darussalam",
+      "首都": "斯里巴加湾市",
+      "英文首都": "Bandar Seri Begawan",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "朝鲜",
+      "英文名称": "Democratic People's Republic of Korea",
+      "首都": "平壤",
+      "英文首都": "Pyongyang",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "东帝汶",
+      "英文名称": "Democratic Republic of East Timor",
+      "首都": "帝力",
+      "英文首都": "Dili",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "斯里兰卡",
+      "英文名称": "Democratic Socialist Republic of Sri Lanka",
+      "首都": "科伦坡",
+      "英文首都": "Colombo",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "格鲁吉亚",
+      "英文名称": "Georgia",
+      "首都": "第比利斯",
+      "英文首都": "T'bilisi",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "约旦",
+      "英文名称": "Hashemite Kingdom of Jordan",
+      "首都": "安曼",
+      "英文首都": "Amman",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "伊朗",
+      "英文名称": "Islamic Republic of Iran",
+      "首都": "德黑兰",
+      "英文首都": "Tehran",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "巴基斯坦",
+      "英文名称": "Islamic Republic of Pakistan",
+      "首都": "伊斯兰堡",
+      "英文首都": "Islamabad",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "阿富汗",
+      "英文名称": "Islamic State of Afghanistan",
+      "首都": "喀布尔",
+      "英文首都": "Kabul",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "日本",
+      "英文名称": "Japan",
+      "首都": "东京",
+      "英文首都": "Tokyo",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "巴林",
+      "英文名称": "Kingdom of Bahrain",
+      "首都": "麦纳麦",
+      "英文首都": "Manama",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "不丹",
+      "英文名称": "Kingdom of Bhutan",
+      "首都": "廷布",
+      "英文首都": "Thimphu",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "柬埔寨",
+      "英文名称": "Kingdom of Cambodia",
+      "首都": "金边",
+      "英文首都": "Phnom Penh",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "尼泊尔",
+      "英文名称": "Kingdom of Nepal",
+      "首都": "加德满都",
+      "英文首都": "Kathmandu",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "沙特阿拉伯",
+      "英文名称": "Kingdom of Saudi Arabia",
+      "首都": "利雅得",
+      "英文首都": "Riyadh",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "泰国",
+      "英文名称": "Kingdom of Thailand",
+      "首都": "曼谷",
+      "英文首都": "Bangkok",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "吉尔吉斯斯坦",
+      "英文名称": "Kyrgyz Republic",
+      "首都": "比什凯克",
+      "英文首都": "Bishkek",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "老挝",
+      "英文名称": "Lao People's Democratic Republic",
+      "首都": "万象",
+      "英文首都": "Vientiane",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "黎巴嫩",
+      "英文名称": "Lebanese Republic",
+      "首都": "贝鲁特",
+      "英文首都": "Beirut",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "马来西亚",
+      "英文名称": "Malaysia",
+      "首都": "吉隆坡",
+      "英文首都": "Kuala Lumpur",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "蒙古",
+      "英文名称": "Mongolia",
+      "首都": "乌兰巴托",
+      "英文首都": "Erggydggmgj",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "孟加拉国",
+      "英文名称": "People's Republic of Bangladesh",
+      "首都": "达卡",
+      "英文首都": "Dhaka",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "中华人民共和国",
+      "英文名称": "People's Republic of China",
+      "首都": "北京",
+      "英文首都": "Beijing",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "亚美尼亚",
+      "英文名称": "Republic of Armenia",
+      "首都": "埃里温",
+      "英文首都": "Yerevan",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "阿塞拜疆",
+      "英文名称": "Republic of Azerbaijan",
+      "首都": "巴库",
+      "英文首都": "Baku",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "塞浦路斯",
+      "英文名称": "Republic of Cyprus",
+      "首都": "尼科西亚",
+      "英文首都": "Nicosia",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "印度",
+      "英文名称": "Republic of India",
+      "首都": "新德里",
+      "英文首都": "New Delhi",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "印度尼西亚",
+      "英文名称": "Republic of Indonesia",
+      "首都": "雅加达",
+      "英文首都": "Jakarta",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "伊拉克",
+      "英文名称": "Republic of Iraq",
+      "首都": "巴格达",
+      "英文首都": "Baghdad",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "哈萨克斯坦",
+      "英文名称": "Republic of Kazakhstan",
+      "首都": "阿斯塔纳",
+      "英文首都": "Astana",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "韩国",
+      "英文名称": "Republic of Korea",
+      "首都": "首尔",
+      "英文首都": "Seoul",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "马尔代夫",
+      "英文名称": "Republic of Maldives",
+      "首都": "马累",
+      "英文首都": "Male",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "新加坡",
+      "英文名称": "Republic of Singapore",
+      "首都": "新加坡",
+      "英文首都": "Singapore",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "塔吉克斯坦",
+      "英文名称": "Republic of Tajikistan",
+      "首都": "杜尚别",
+      "英文首都": "Dushanbe",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "菲律宾",
+      "英文名称": "Republic of the Philippines",
+      "首都": "马尼拉",
+      "英文首都": "Manila",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "土耳其",
+      "英文名称": "Republic of Turkey",
+      "首都": "安卡拉",
+      "英文首都": "Ankara",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "土库曼斯坦",
+      "英文名称": "Republic of Turkmenistan",
+      "首都": "阿什哈巴德",
+      "英文首都": "Ashgabat",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "乌兹别克期坦",
+      "英文名称": "Republic of Uzbekistan",
+      "首都": "塔什干",
+      "英文首都": "Tashkent",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "也门",
+      "英文名称": "Republic of Yemen",
+      "首都": "萨那",
+      "英文首都": "Sanaa",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "越南",
+      "英文名称": "Socialist Republic of Vietnam",
+      "首都": "河内",
+      "英文首都": "Hanoi",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "以色列",
+      "英文名称": "State of Israel",
+      "首都": "耶路撒冷",
+      "英文首都": "Jerusalem",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "科威特",
+      "英文名称": "State of Kuwait",
+      "首都": "科威特城",
+      "英文首都": "Kuwait",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "巴勒斯坦",
+      "英文名称": "State of Palestine",
+      "首都": "耶路撒冷",
+      "英文首都": "Jerusalem",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "卡塔尔",
+      "英文名称": "State of Qatarc",
+      "首都": "多哈",
+      "英文首都": "Doha",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "阿曼",
+      "英文名称": "Sultanate of Oman",
+      "首都": "马斯喀特",
+      "英文首都": "Muscat",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "叙利亚",
+      "英文名称": "Syrian Arab Republic",
+      "首都": "大马士革",
+      "英文首都": "Damascus",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "缅甸",
+      "英文名称": "Union of Myanmar",
+      "首都": "内比都",
+      "英文首都": "Naypyidaw",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "阿拉伯联合酋长国",
+      "英文名称": "United Arab Emirates",
+      "首都": "阿布扎比",
+      "英文首都": "Abu Dhabi",
+      "洲": "亚洲 Asia"
+    },
+    {
+      "国家名称": "波斯尼亚和黑塞哥维那",
+      "英文名称": "Bosnia and Herzegovina",
+      "首都": "萨拉热窝",
+      "英文首都": "Sarajevo",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "捷克",
+      "英文名称": "Czech Republic",
+      "首都": "布拉格",
+      "英文首都": "Prague",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "德国",
+      "英文名称": "Federal Republic of Germany",
+      "首都": "柏林",
+      "英文首都": "Berlin",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "南斯拉夫",
+      "英文名称": "Federal Republic of Yugoslavia",
+      "首都": "贝尔格莱德",
+      "英文首都": "Belgrade",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "法国",
+      "英文名称": "French Republic",
+      "首都": "巴黎",
+      "英文首都": "Paris",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "卢森堡",
+      "英文名称": "Grand Duchy of Luxembourg",
+      "首都": "卢森堡",
+      "英文首都": "Luxembourg",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "希腊",
+      "英文名称": "Hellenic Republic",
+      "首都": "雅典",
+      "英文首都": "Athens",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "爱尔兰",
+      "英文名称": "Ireland",
+      "首都": "都柏林",
+      "英文首都": "Dublin",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "意大利",
+      "英文名称": "Italian Republic",
+      "首都": "罗马",
+      "英文首都": "Rome",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "比利时",
+      "英文名称": "Kingdom of Belgium",
+      "首都": "布鲁塞尔",
+      "英文首都": "Brussels",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "丹麦",
+      "英文名称": "Kingdom of Denmark",
+      "首都": "哥本哈根",
+      "英文首都": "Copenhagen",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "挪威",
+      "英文名称": "Kingdom of Norway",
+      "首都": "奥斯路",
+      "英文首都": "Oslo",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "西班牙",
+      "英文名称": "Kingdom of Spain",
+      "首都": "马德里",
+      "英文首都": "Madrid",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "瑞典",
+      "英文名称": "Kingdom of Sweden",
+      "首都": "斯德哥尔摩",
+      "英文首都": "Stockholm",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "荷兰",
+      "英文名称": "Kingdom of the Netherlands",
+      "首都": "阿姆斯特丹",
+      "英文首都": "Amsterdam",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "葡萄牙",
+      "英文名称": "Portuguese Republic",
+      "首都": "里斯本",
+      "英文首都": "Lisbon",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "安道尔",
+      "英文名称": "Principality of Andorra",
+      "首都": "安道尔",
+      "英文首都": "Andorra la Vella",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "列支敦士登",
+      "英文名称": "Principality of Liechtenstein",
+      "首都": "瓦杜兹",
+      "英文首都": "Vaduz",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "摩纳哥",
+      "英文名称": "Principality of Monaco",
+      "首都": "摩纳哥",
+      "英文首都": "Monaco",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "阿尔巴尼亚",
+      "英文名称": "Republic of Albania",
+      "首都": "地拉那",
+      "英文首都": "Tirana",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "奥地利",
+      "英文名称": "Republic of Austria",
+      "首都": "维也纳",
+      "英文首都": "Vienna",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "白俄罗斯",
+      "英文名称": "Republic of Belarus",
+      "首都": "明斯克",
+      "英文首都": "Minsk",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "保加利亚",
+      "英文名称": "Republic of Bulgaria",
+      "首都": "索非亚",
+      "英文首都": "Sofia",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "克罗地亚",
+      "英文名称": "Republic of Croatia",
+      "首都": "萨格勒布",
+      "英文首都": "Zagreb",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "爱沙尼亚",
+      "英文名称": "Republic of Estonia",
+      "首都": "塔林",
+      "英文首都": "Tallinn",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "芬兰",
+      "英文名称": "Republic of Finland",
+      "首都": "赫尔辛基",
+      "英文首都": "Helsinki",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "匈牙利",
+      "英文名称": "Republic of Hungary",
+      "首都": "布达佩斯",
+      "英文首都": "Budapest",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "冰岛",
+      "英文名称": "Republic of Iceland",
+      "首都": "雷克雅未克",
+      "英文首都": "Reykjavik",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "拉脱维亚",
+      "英文名称": "Republic of Latvia",
+      "首都": "里加",
+      "英文首都": "Riga",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "立陶宛",
+      "英文名称": "Republic of Lithuania",
+      "首都": "维尔纽斯",
+      "英文首都": "Vilnius",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "马其顿",
+      "英文名称": "Republic of Macedonia",
+      "首都": "斯科普里",
+      "英文首都": "Skopje",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "马耳他",
+      "英文名称": "Republic of Malta",
+      "首都": "瓦莱塔",
+      "英文首都": "Bamako",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "摩尔多瓦",
+      "英文名称": "Republic of Moldova",
+      "首都": "基希讷乌",
+      "英文首都": "Chisinau",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "波兰",
+      "英文名称": "Republic of Poland",
+      "首都": "华沙",
+      "英文首都": "Warsaw",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "圣马力诺",
+      "英文名称": "Republic of San Marino",
+      "首都": "圣马力诺",
+      "英文首都": "San Marino",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "斯洛文尼亚",
+      "英文名称": "Republic of Slovenia",
+      "首都": "卢布尔雅那",
+      "英文首都": "Ljubljana",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "罗马尼亚",
+      "英文名称": "Romania",
+      "首都": "布加勒斯特",
+      "英文首都": "Bucharest",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "俄罗斯",
+      "英文名称": "Russian Federation",
+      "首都": "莫斯科",
+      "英文首都": "Moscow",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "斯洛伐克",
+      "英文名称": "Slovak Republic",
+      "首都": "布拉提斯拉发",
+      "英文首都": "Bratislava",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "瑞士",
+      "英文名称": "Swiss Confederation",
+      "首都": "伯尔尼",
+      "英文首都": "Bern",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "乌克兰",
+      "英文名称": "Ukraine",
+      "首都": "基辅",
+      "英文首都": "Kiev",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "英国",
+      "英文名称": "United kingdom of Great Britain and Northern Ireland",
+      "首都": "伦敦",
+      "英文首都": "London",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "梵蒂冈",
+      "英文名称": "Vatican City State",
+      "首都": "梵蒂冈城",
+      "英文首都": "Vatican City",
+      "洲": "欧洲 Europe"
+    },
+    {
+      "国家名称": "埃及",
+      "英文名称": "Arab Republic of Egypt",
+      "首都": "开罗",
+      "英文首都": "Cairo",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "布基纳法索",
+      "英文名称": "Burkina Faso",
+      "首都": "瓦加杜古",
+      "英文首都": "Ouagadougou",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "中非",
+      "英文名称": "Central African Republic",
+      "首都": "班吉",
+      "英文首都": "Bangui",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "阿尔及利亚",
+      "英文名称": "Democratic People's Republic of Algeria",
+      "首都": "阿尔及尔",
+      "英文首都": "Algiers",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "圣多美和普林西比",
+      "英文名称": "Democratic Republic of Sao Tome and Principe",
+      "首都": "圣多美",
+      "英文首都": "Sao Tome",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "刚果民主共和国",
+      "英文名称": "Democratic Republic of the Congo",
+      "首都": "金沙萨",
+      "英文首都": "Kinshasa",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "埃塞俄比亚",
+      "英文名称": "Federal Democratic Republic of Ethiopia",
+      "首都": "亚的斯亚贝巴",
+      "英文首都": "Addis Ababa",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "尼日利亚",
+      "英文名称": "Federal Republic of Nigeria",
+      "首都": "阿布贾",
+      "英文首都": "Abuja",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "加蓬",
+      "英文名称": "Gabonese Republic",
+      "首都": "利伯维尔",
+      "英文首都": "Libreville",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "毛里塔尼亚",
+      "英文名称": "Islamic Republic of Mauritania",
+      "首都": "努瓦克肖特",
+      "英文首都": "Nouakchott",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "莱索托",
+      "英文名称": "Kingdom of Lesotho",
+      "首都": "马塞卢",
+      "英文首都": "Maseru",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "摩洛哥",
+      "英文名称": "Kingdom of Morocco",
+      "首都": "拉巴特",
+      "英文首都": "Rabat",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "斯威士兰",
+      "英文名称": "Kingdom of Swaziland",
+      "首都": "姆巴巴内",
+      "英文首都": "Mbabane",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "安哥拉",
+      "英文名称": "Republic of Angola",
+      "首都": "罗安达",
+      "英文首都": "Luanda",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "贝宁",
+      "英文名称": "Republic of Benin",
+      "首都": "波多诺伏",
+      "英文首都": "Porto-Novo",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "博茨瓦纳",
+      "英文名称": "Republic of Botswana",
+      "首都": "哈博罗内",
+      "英文首都": "Gaborone",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "布隆迪",
+      "英文名称": "Republic of Burundi",
+      "首都": "布琼布拉",
+      "英文首都": "Bujumbura",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "喀麦隆",
+      "英文名称": "Republic of Cameroon",
+      "首都": "雅温得",
+      "英文首都": "Yaounde",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "佛得角",
+      "英文名称": "Republic of Cape Verde",
+      "首都": "普拉亚",
+      "英文首都": "Praia",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "乍得",
+      "英文名称": "Republic of Chad",
+      "首都": "恩贾梅纳",
+      "英文首都": "N'Djamena",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "科特迪瓦",
+      "英文名称": "Republic of Cote d'Ivoire",
+      "首都": "亚穆苏克罗",
+      "英文首都": "Yamoussoukro",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "吉布提",
+      "英文名称": "Republic of Djibouti",
+      "首都": "吉布提",
+      "英文首都": "Djibouti",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "赤道几内亚",
+      "英文名称": "Republic of Equatorial Guinea",
+      "首都": "马拉博",
+      "英文首都": "Malabo",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "加纳",
+      "英文名称": "Republic of Ghana",
+      "首都": "阿克拉",
+      "英文首都": "Accra",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "几内亚",
+      "英文名称": "Republic of Guinea",
+      "首都": "科纳克里",
+      "英文首都": "Conakry",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "几内亚比绍",
+      "英文名称": "Republic of Guinea-Bissau",
+      "首都": "比绍",
+      "英文首都": "Bissau",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "肯尼亚",
+      "英文名称": "Republic of Kenya",
+      "首都": "内罗华",
+      "英文首都": "Nairobi",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "利比里亚",
+      "英文名称": "Republic of Liberia",
+      "首都": "蒙罗维亚",
+      "英文首都": "Monrovia",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "马达加斯加",
+      "英文名称": "Republic of Madagascar",
+      "首都": "塔那那利佛",
+      "英文首都": "Antananarivo",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "马拉维",
+      "英文名称": "Republic of Malawi",
+      "首都": "利隆圭",
+      "英文首都": "Lilongwe",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "马里",
+      "英文名称": "Republic of Mali",
+      "首都": "巴马科",
+      "英文首都": "Bamako",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "毛里求斯",
+      "英文名称": "Republic of Mauritius",
+      "首都": "路易港",
+      "英文首都": "Port Louis",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "莫桑比克",
+      "英文名称": "Republic of Mozambique",
+      "首都": "马普托",
+      "英文首都": "Maputo",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "纳米比亚",
+      "英文名称": "Republic of Namibia",
+      "首都": "温得和克",
+      "英文首都": "Windhoek",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "尼日尔",
+      "英文名称": "Republic of Niger",
+      "首都": "尼亚美",
+      "英文首都": "Niamey",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "卢旺达",
+      "英文名称": "Republic of Rwanda",
+      "首都": "基加利",
+      "英文首都": "Kigali",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "塞内加尔",
+      "英文名称": "Republic of Senegal",
+      "首都": "达喀尔",
+      "英文首都": "Dakar",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "塞舌尔",
+      "英文名称": "Republic of Seychelles",
+      "首都": "维多利亚",
+      "英文首都": "Victoria",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "塞拉利昂",
+      "英文名称": "Republic of Sierra Leone",
+      "首都": "弗里敦",
+      "英文首都": "Freetown",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "南非",
+      "英文名称": "Republic of South Africa",
+      "首都": "比勒陀利亚",
+      "英文首都": "Cape Town",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "刚果",
+      "英文名称": "Republic of the Congo",
+      "首都": "布拉柴维尔",
+      "英文首都": "Brazzaville",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "冈比亚",
+      "英文名称": "Republic of the Gambia",
+      "首都": "班珠尔",
+      "英文首都": "Banjul",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "苏丹",
+      "英文名称": "Republic of the Sudan",
+      "首都": "喀土穆",
+      "英文首都": "Khartoum",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "突尼斯",
+      "英文名称": "Republic of Tunisia",
+      "首都": "突尼斯",
+      "英文首都": "Tunis",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "乌干达",
+      "英文名称": "Republic of Uganda",
+      "首都": "坎帕拉",
+      "英文首都": "Kampala",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "赞比亚",
+      "英文名称": "Republic of Zambia",
+      "首都": "卢萨卡",
+      "英文首都": "Lusaka",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "津巴布韦",
+      "英文名称": "Republic of Zimbabwe",
+      "首都": "哈拉雷",
+      "英文首都": "Harare",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "利比亚",
+      "英文名称": "Socialist People's Libyan Arab Jamahiriya",
+      "首都": "的黎波里",
+      "英文首都": "Tripoli",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "索马里",
+      "英文名称": "Somali Republic",
+      "首都": "摩加迪沙",
+      "英文首都": "Mogadishu",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "厄立特里亚",
+      "英文名称": "State of Eritrea",
+      "首都": "阿斯马拉",
+      "英文首都": "Asmara",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "多哥",
+      "英文名称": "Togolese Republic",
+      "首都": "洛美",
+      "英文首都": "Lome",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "科摩罗",
+      "英文名称": "Union of the Comoros",
+      "首都": "莫罗尼",
+      "英文首都": "Moroni",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "坦桑尼亚",
+      "英文名称": "United Republic of Tanzania",
+      "首都": "多多马",
+      "英文首都": "Dodoma",
+      "洲": "非洲 Africa"
+    },
+    {
+      "国家名称": "澳大利亚",
+      "英文名称": "Commonwealth of Australia",
+      "首都": "堪培拉",
+      "英文首都": "Canberra",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "密克罗尼西亚联邦",
+      "英文名称": "Federated States of Micronesia",
+      "首都": "帕利基尔",
+      "英文首都": "Palikir",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "巴布亚新几内亚",
+      "英文名称": "Independent State of Papua New Guinea",
+      "首都": "莫尔兹比港",
+      "英文首都": "Port Moresby",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "萨摩亚",
+      "英文名称": "Independent State of Samoa",
+      "首都": "阿皮亚",
+      "英文首都": "Apia",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "汤加",
+      "英文名称": "Kingdom of Tonga",
+      "首都": "努库阿洛法",
+      "英文首都": "Nuku'alofa",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "新西兰",
+      "英文名称": "New Zealand",
+      "首都": "惠灵顿",
+      "英文首都": "Wellington",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "基里巴斯",
+      "英文名称": "Republic of Kiribati",
+      "首都": "塔拉瓦",
+      "英文首都": "Tarawa",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "瑙鲁",
+      "英文名称": "Republic of Nauru",
+      "首都": "亚伦",
+      "英文首都": "Yaren District",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "帕劳",
+      "英文名称": "Republic of Palau",
+      "首都": "科罗尔",
+      "英文首都": "Koror",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "斐济",
+      "英文名称": "Republic of the Fiji Islands",
+      "首都": "苏瓦",
+      "英文首都": "Suva",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "马绍尔群岛",
+      "英文名称": "Republic of the Marshall Islands",
+      "首都": "马朱罗",
+      "英文首都": "Majuro",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "瓦努阿图",
+      "英文名称": "Republic of Vanuatu",
+      "首都": "维拉港",
+      "英文首都": "Port-Vila",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "所罗门群岛",
+      "英文名称": "Solomon Islands",
+      "首都": "霍尼亚拉",
+      "英文首都": "Honiara",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "图瓦卢",
+      "英文名称": "Tuvalu",
+      "首都": "富纳富提",
+      "英文首都": "Funafuti",
+      "洲": "大洋洲 Oceania"
+    },
+    {
+      "国家名称": "安提瓜和巴布达",
+      "英文名称": "Antigua and Barbuda",
+      "首都": "圣约翰",
+      "英文首都": "Saint John's",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "巴巴多斯",
+      "英文名称": "Barbados",
+      "首都": "布里奇敦",
+      "英文首都": "Bridgetown",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "伯利兹",
+      "英文名称": "Belize",
+      "首都": "贝尔莫潘",
+      "英文首都": "Belmopan",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "加拿大",
+      "英文名称": "Canada",
+      "首都": "渥太华",
+      "英文首都": "Ottawa",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "多米尼克",
+      "英文名称": "Commonwealth of Dominica",
+      "首都": "罗索",
+      "英文首都": "Roseau",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "巴哈马",
+      "英文名称": "Commonwealth of the Bahamas",
+      "首都": "拿骚",
+      "英文首都": "Nassau",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "多米尼加共和国",
+      "英文名称": "Dominican Republic",
+      "首都": "圣多明各",
+      "英文首都": "Santo Domingo",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "圣基茨和尼维斯",
+      "英文名称": "Federation of Saint Kitts and Nevis",
+      "首都": "巴斯特尔",
+      "英文首都": "Basseterre",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "格林纳达",
+      "英文名称": "Grenada",
+      "首都": "圣乔治",
+      "英文首都": "Saint George's",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "牙买加",
+      "英文名称": "Jamaica",
+      "首都": "金斯敦",
+      "英文首都": "Kingston",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "哥斯达黎加",
+      "英文名称": "Republic of Costa Rica",
+      "首都": "圣何塞",
+      "英文首都": "San Jose",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "古巴",
+      "英文名称": "Republic of Cuba",
+      "首都": "哈瓦那",
+      "英文首都": "Havana",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "萨尔瓦多",
+      "英文名称": "Republic of El Salvador",
+      "首都": "圣萨尔瓦多",
+      "英文首都": "San Salvador",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "危地马拉",
+      "英文名称": "Republic of Guatemala",
+      "首都": "危地马拉",
+      "英文首都": "Guatemala",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "海地",
+      "英文名称": "Republic of Haiti",
+      "首都": "太子港",
+      "英文首都": "Port-au-Prince",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "洪都拉斯",
+      "英文名称": "Republic of Honduras",
+      "首都": "特古西加尔巴",
+      "英文首都": "Tegucigalpa",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "尼加拉瓜",
+      "英文名称": "Republic of Nicaragua",
+      "首都": "马那瓜",
+      "英文首都": "Managua",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "巴拿马",
+      "英文名称": "Republic of Panama",
+      "首都": "巴拿马城",
+      "英文首都": "Panama",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "特立尼达和多巴哥",
+      "英文名称": "Republic of Trinidad and Tobago",
+      "首都": "西班牙港",
+      "英文首都": "Port-of-Spain",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "圣卢西亚",
+      "英文名称": "Saint Lucia",
+      "首都": "卡斯特里",
+      "英文首都": "Castries",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "圣文森特和格林纳丁斯",
+      "英文名称": "Saint Vincent and the Grenadines",
+      "首都": "金斯敦",
+      "英文首都": "Kingstown",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "墨西哥",
+      "英文名称": "United Mexican States",
+      "首都": "墨西哥城",
+      "英文首都": "Mexico City",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "美国",
+      "英文名称": "United States of America",
+      "首都": "华盛顿",
+      "英文首都": "Washington",
+      "洲": "北美洲 North America"
+    },
+    {
+      "国家名称": "阿根廷",
+      "英文名称": "Argentine Republic",
+      "首都": "布宜诺斯艾利斯",
+      "英文首都": "Buenos Aires",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "委内瑞拉",
+      "英文名称": "Bolivarian Republic of Venezuela",
+      "首都": "加拉加斯",
+      "英文首都": "Caracas",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "圭亚那",
+      "英文名称": "Co-operative Republic of Guyana",
+      "首都": "乔治敦",
+      "英文首都": "Georgetown",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "巴西",
+      "英文名称": "Federative Republic of Brazil",
+      "首都": "巴西利亚",
+      "英文首都": "Brasilia",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "乌拉圭",
+      "英文名称": "Oriental Republic of Uruguay",
+      "首都": "蒙得维的亚",
+      "英文首都": "Montevide",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "玻利维亚",
+      "英文名称": "Republic of Bolivia",
+      "首都": "苏克雷",
+      "英文首都": "Sucre",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "智利",
+      "英文名称": "Republic of Chile",
+      "首都": "圣地亚哥",
+      "英文首都": "Santiago",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "哥伦比亚",
+      "英文名称": "Republic of Colombia",
+      "首都": "波哥大",
+      "英文首都": "Bogota",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "厄瓜多尔",
+      "英文名称": "Republic of Ecuador",
+      "首都": "基多",
+      "英文首都": "Quito",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "巴拉圭",
+      "英文名称": "Republic of Paraguay",
+      "首都": "亚松森",
+      "英文首都": "Asuncion",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "秘鲁",
+      "英文名称": "Republic of Peru",
+      "首都": "利马",
+      "英文首都": "Lima",
+      "洲": "南美洲 South America"
+    },
+    {
+      "国家名称": "苏里南",
+      "英文名称": "Republic of Suriname",
+      "首都": "帕拉马里博",
+      "英文首都": "Paramaribo",
+      "洲": "南美洲 South America"
+    }
+  ]
+}
