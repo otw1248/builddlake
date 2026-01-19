@@ -1,0 +1,443 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Oxford English Dictionary",
+  "total_entries": 10,
+  "entries": [
+    {
+      "word": "A-",
+      "parts": [
+        {
+          "part_of_speech": "prefix",
+          "variants": [
+            {
+              "type": "prefix",
+              "definition": "A- not, without .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": "prefix"
+            }
+          ],
+          "etymology": {
+            "text": "[greek]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Aa",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "automobile association."
+                },
+                {
+                  "number": "2",
+                  "text": "alcoholics anonymous."
+                },
+                {
+                  "number": "3",
+                  "text": "anti-aircraft."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Aardvark",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Aardvark n. Mammal with a tubular snout and a long tongue, feeding on termites.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[afrikaans]",
+            "language": "afrikaans",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Ab-",
+      "parts": [
+        {
+          "part_of_speech": "prefix",
+          "variants": [
+            {
+              "type": "prefix",
+              "definition": "Ab- off, away, from .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": "prefix"
+            }
+          ],
+          "etymology": {
+            "text": "[latin]",
+            "language": "latin",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Aback",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Aback adv. take aback surprise, disconcert.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english: related to *a2]",
+            "language": "old english",
+            "related": [
+              "a2"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [
+            {
+              "phrase": "take aback",
+              "definition": "surprise, disconcert."
+            }
+          ],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Abacus",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "frame with wires along which beads are slid for calculating."
+                },
+                {
+                  "number": "2",
+                  "text": "archit. Flat slab on top of a capital."
+                }
+              ],
+              "inflection": "(pl. -cuses)",
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[latin from greek from hebrew]",
+            "language": "latin",
+            "related": [],
+            "from_language": "greek from hebrew"
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Abaft",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Abaft naut.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "In the stern half of a ship.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Nearer the stern than.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[from *a2, -baft: see *aft]",
+            "language": null,
+            "related": [
+              "a2",
+              "aft"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Abandon",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Abandon",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "give up."
+                },
+                {
+                  "number": "2",
+                  "text": "forsake, desert."
+                },
+                {
+                  "number": "3",
+                  "text": "(often foll. By to; often refl.) Yield to a passion, another's control, etc."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Freedom from inhibitions. abandonment n.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[french: related to *ad-, *ban]",
+            "language": "french",
+            "related": [
+              "ad-",
+              "ban"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "abandonment",
+              "partOfSpeech": "n."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Abandoned",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "deserted, forsaken."
+                },
+                {
+                  "number": "2",
+                  "text": "unrestrained, profligate."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Abase",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Abase v. Humiliate, degrade. abasement n.",
+              "numbered_definitions": [],
+              "inflection": "(-sing)",
+              "usage": "(also refl.)",
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[french: related to *ad-, *base2]",
+            "language": "french",
+            "related": [
+              "ad-",
+              "base2"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "abasement",
+              "partOfSpeech": "n."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    }
+  ]
+}

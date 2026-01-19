@@ -1,0 +1,523 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Oxford English Dictionary - X",
+  "total_entries": 13,
+  "entries": [
+    {
+      "word": "X1",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "twenty-fourth letter of the alphabet."
+                },
+                {
+                  "number": "2",
+                  "text": "(as a roman numeral) ten."
+                },
+                {
+                  "number": "3",
+                  "text": "(usu. X) algebra first unknown quantity."
+                },
+                {
+                  "number": "4",
+                  "text": "unknown or unspecified number or person etc."
+                },
+                {
+                  "number": "5",
+                  "text": "cross-shaped symbol used esp. To indicate position (x marks the spot) or incorrectness, or to symbolize a kiss or a vote, or as the signature of a person who cannot write."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "X2",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "2",
+                  "text": "symb. (of films) classified as suitable for adults only."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "X chromosome",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "X chromosome n. sex chromosome of which the number in female cells is twice that in male cells.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[x as an arbitrary label]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Xe",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Xe symb. Xenon.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Xenon",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Xenon n. Heavy inert gaseous element.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek, neuter of xenos strange]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Xenophobia",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Xenophobia n. Hatred or fear of foreigners. xenophobic adj.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek xenos strange, stranger]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "xenophobic",
+              "partOfSpeech": "adj."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Xerography",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Xerography n. Dry copying process in which powder adheres to areas remaining electrically charged after exposure of the surface to light from an image of the document to be copied.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek xeros dry]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Xerox",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Xerox",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "machine for copying by xerography."
+                },
+                {
+                  "number": "2",
+                  "text": "copy thus made."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "reproduce by this process.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Xi",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Xi n. Fourteenth letter of the greek alphabet . -xion see *-ion.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [
+            "-ion"
+          ],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Xmas",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Xmas n. Colloq. = *christmas.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[abbreviation, with x for the initial chi of greek khristos christ]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [
+            "christmas"
+          ],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "X-ray",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "X-ray",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "(in pl.) Electromagnetic radiation of short wavelength, able to pass through opaque bodies."
+                },
+                {
+                  "number": "2",
+                  "text": "photograph made by x-rays, esp. Showing the position of bones etc. By their greater absorption of the rays."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Photograph, examine, or treat with x-rays.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[x, originally with ref. To the unknown nature of the rays]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Xylem",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Xylem n. Bot. Woody tissue.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Xylophone",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Xylophone n. Musical instrument of graduated wooden or metal bars struck with small wooden hammers. xylophonist n. Y",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek xulon wood]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "xylophonist",
+              "partOfSpeech": "n."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    }
+  ]
+}

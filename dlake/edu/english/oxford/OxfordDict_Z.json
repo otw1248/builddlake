@@ -1,0 +1,2517 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Oxford English Dictionary - Z",
+  "total_entries": 64,
+  "entries": [
+    {
+      "word": "Z",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "twenty-sixth letter of the alphabet."
+                },
+                {
+                  "number": "2",
+                  "text": "(usu. Z) algebra third unknown quantity."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zabaglione",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zabaglione n. Italian dessert of whipped and heated egg-yolks, sugar, and wine.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[italian]",
+            "language": "italian",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zany",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zany adj. comically idiotic; crazily ridiculous.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[french or italian]",
+            "language": "french",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zap",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zap",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "a kill or destroy; attack. B hit hard (zapped the ball over the net)."
+                },
+                {
+                  "number": "2",
+                  "text": "move quickly."
+                },
+                {
+                  "number": "3",
+                  "text": "overwhelm emotionally."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Expressing the sound or impact of a bullet, ray gun, etc., or any sudden event.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[imitative]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "slang"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zappy",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zappy adj. colloq. Lively, energetic.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zarathustrian",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zarathustrian var. Of *zoroastrian.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zeal",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zeal n. Earnestness or fervour; hearty persistent endeavour.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek zelos]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zealot",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zealot n. Extreme partisan; fanatic. zealotry n.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "zealotry",
+              "partOfSpeech": "n."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zealous",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zealous adj. Full of zeal; enthusiastic. zealously adv.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "zealously",
+              "partOfSpeech": "adv."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zebra",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zebra n. black-and-white striped african animal of the family including the ass and horse.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[italian or portuguese from congolese]",
+            "language": "italian",
+            "related": [],
+            "from_language": "congolese"
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zebra crossing",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zebra crossing n. Striped street-crossing where pedestrians have precedence.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zebu",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zebu n. humped ox of asia and africa.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[french]",
+            "language": "french",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zed",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zed n. Letter z.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek *zeta]",
+            "language": "greek",
+            "related": [
+              "zeta"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zee",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zee n. Us letter z.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[var. Of *zed]",
+            "language": null,
+            "related": [
+              "zed"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zeitgeist",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zeitgeist n. The spirit of the times.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[german]",
+            "language": "german",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zen",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zen n. Form of buddhism emphasizing meditation and intuition.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[japanese, = meditation]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zend",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zend n. An interpretation of the avesta.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[persian]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zend-avesta",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zend-avesta n. Zoroastrian sacred writings of the avesta and zend .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zenith",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "point of the heavens directly above an observer."
+                },
+                {
+                  "number": "2",
+                  "text": "highest point (of power or prosperity etc.)."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[latin from arabic]",
+            "language": "latin",
+            "related": [],
+            "from_language": "arabic"
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zephyr",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zephyr n. Literary mild gentle breeze.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek, = west wind]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zeppelin",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zeppelin n. Large dirigible german airship of the early 20th c.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[count f. Von zeppelin, name of an airman]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zero",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "figure 0; nought; nil."
+                },
+                {
+                  "number": "2",
+                  "text": "point on the scale of a thermometer etc. From which a positive or negative quantity is reckoned."
+                },
+                {
+                  "number": "3",
+                  "text": "(attrib.) No, not any (zero growth)."
+                },
+                {
+                  "number": "4",
+                  "text": "(in full zero-hour) a hour at which a planned, esp. Military, operation is timed to begin. B crucial moment."
+                },
+                {
+                  "number": "5",
+                  "text": "lowest or earliest point (down to zero; the year zero).  zero in on (-oes, -oed)"
+                },
+                {
+                  "number": "1",
+                  "text": "take aim at."
+                },
+                {
+                  "number": "2",
+                  "text": "focus one's attention on."
+                }
+              ],
+              "inflection": "(pl. -s)",
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[arabic: related to *cipher]",
+            "language": "arabic",
+            "related": [
+              "cipher"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zero option",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zero option n. Disarmament proposal for the total removal of certain types of weapons on both sides.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zero-rated",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zero-rated adj. On which no vat is charged.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zest",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "piquancy; stimulating flavour or quality."
+                },
+                {
+                  "number": "2",
+                  "text": "a keen enjoyment or interest. B (often foll. By for) relish. C gusto."
+                },
+                {
+                  "number": "3",
+                  "text": "scraping of orange or lemon peel as flavouring.  zestful adj. Zestfully adv."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[french]",
+            "language": "french",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "zestful",
+              "partOfSpeech": "adj."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zeta",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zeta n. Sixth letter of the greek alphabet .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zeugma",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zeugma n. Figure of speech using a verb or adjective with two nouns, to one of which it is strictly applicable while the word appropriate to the other is not used .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek, = a yoking, from zugon yoke]",
+            "language": "greek",
+            "related": [],
+            "from_language": "zugon yoke"
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Ziggurat",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Ziggurat n. Rectangular stepped tower in ancient mesopotamia, surmounted by a temple.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[assyrian]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zigzag",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zigzag",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "With abrupt alternate right and left turns .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Zigzag line; thing having the form of a zigzag or having sharp turns.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "With a zigzag course.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "move in a zigzag course.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[french from german]",
+            "language": "french",
+            "related": [],
+            "from_language": "german"
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zilch",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zilch n. Esp. Us nothing.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[origin uncertain]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "slang"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zillion",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zillion n. Colloq. Indefinite large number.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[probably after million]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zimmer frame",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zimmer frame n. Propr. A kind of walking-frame.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[zimmer, name of the maker]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zinc",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zinc n. Greyish-white metallic element used as a component of brass and in galvanizing sheet iron.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[german zink]",
+            "language": "german",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zing",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zing colloq.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Vigour, energy.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Move swiftly, esp. With a high-pitched ringing sound.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[imitative]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zinnia",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zinnia n. Garden plant with showy flowers.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[zinn, name of a physician and botanist]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zion",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "ancient jerusalem; its holy hill."
+                },
+                {
+                  "number": "2",
+                  "text": "a the jewish people or religion. B the christian church."
+                },
+                {
+                  "number": "3",
+                  "text": "the kingdom of heaven."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[hebrew siyôn]",
+            "language": "hebrew",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zionism",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zionism n. Movement for the re-establishment and development of a jewish nation in what is now israel. zionist n. & adj.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "zionist",
+              "partOfSpeech": "n."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zip",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zip",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "light fast sound."
+                },
+                {
+                  "number": "2",
+                  "text": "energy, vigour."
+                },
+                {
+                  "number": "3",
+                  "text": "a (in full zip-fastener) fastening device of two flexible strips with interlocking projections, closed or opened by sliding a clip along them. B (attrib.) Having a zip-fastener (zip bag)."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "(often foll. By up) fasten with a zip-fastener."
+                },
+                {
+                  "number": "2",
+                  "text": "move with zip or at high speed."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[imitative]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zip code",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zip code n. Us postcode.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[zone improvement plan]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zipper",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zipper n. Esp. Us = *zip 3a.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [
+            "zip"
+          ],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zippy",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zippy adj. colloq. Lively, speedy.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zircon",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zircon n. Zirconium silicate of which some translucent varieties are cut into gems.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[german zirkon]",
+            "language": "german",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zirconium",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zirconium n. Grey metallic element.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zit",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zit n. Esp. Us pimple.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[origin unknown]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "slang"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zit",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zit n. Esp. Us pimple.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[origin unknown]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "slang"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zither",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zither n. Stringed instrument with a flat soundbox, placed horizontally and played with the fingers and a plectrum.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[latin: related to *guitar]",
+            "language": "latin",
+            "related": [
+              "guitar"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zloty",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zloty n. chief monetary unit of poland.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[polish]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zn",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zn symb. Zinc.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zodiac",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "belt of the heavens including all apparent positions of the sun, moon, and planets as known to ancient astronomers, and divided into twelve equal parts (signs of the zodiac)."
+                },
+                {
+                  "number": "2",
+                  "text": "diagram of these signs.  zodiacal adj."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek zoion animal]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "zodiacal",
+              "partOfSpeech": "adj."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zombie",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "colloq. Person who acts mechanically or lifelessly."
+                },
+                {
+                  "number": "2",
+                  "text": "corpse said to have been revived by witchcraft."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[west african]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [
+            {
+              "phrase": "have been",
+              "definition": "revived by witchcraft."
+            }
+          ],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zone",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zone",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "area having particular features, properties, purpose, or use (danger zone; smokeless zone)."
+                },
+                {
+                  "number": "2",
+                  "text": "well-defined region of more or less beltlike form."
+                },
+                {
+                  "number": "3",
+                  "text": "area between two concentric circles."
+                },
+                {
+                  "number": "4",
+                  "text": "encircling band of colour etc."
+                },
+                {
+                  "number": "5",
+                  "text": "belt, girdle."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "encircle as or with a zone."
+                },
+                {
+                  "number": "2",
+                  "text": "arrange or distribute by zones."
+                },
+                {
+                  "number": "3",
+                  "text": "assign as or to a particular area.  zonal adj."
+                }
+              ],
+              "inflection": "(-ning)",
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek zone girdle]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "zonal",
+              "partOfSpeech": "adj."
+            }
+          ],
+          "usage_note": null,
+          "registers": [
+            "archaic"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zonked",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zonked adj. Slang exhausted; intoxicated.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[zonk hit]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zoo",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zoo n. Zoological garden.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[abbreviation]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zoological",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zoological adj. Of zoology.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zoological garden",
+      "parts": [
+        {
+          "part_of_speech": "n.",
+          "variants": [
+            {
+              "type": "noun",
+              "definition": "Zoological garden n. Public garden or park with a collection of animals for exhibition and study.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": "n."
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zoology",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zoology n. The study of animals. zoologist n.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek zoion animal]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "zoologist",
+              "partOfSpeech": "n."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zoom",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zoom",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "move quickly, esp. With a buzzing sound."
+                },
+                {
+                  "number": "2",
+                  "text": "cause an aeroplane to mount at high speed and a steep angle."
+                },
+                {
+                  "number": "3",
+                  "text": "(often foll. By in or in on) (of a camera) change rapidly from a long shot to a close-up (of)."
+                },
+                {
+                  "number": "4",
+                  "text": "(of prices etc.) Rise sharply."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "aeroplane's steep climb."
+                },
+                {
+                  "number": "2",
+                  "text": "zooming camera shot."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[imitative]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zoom lens",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zoom lens n. Lens allowing a camera to zoom by varying the focal length.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zoophyte",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zoophyte n. Plantlike animal, esp. A coral, sea anemone, or sponge.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek zoion animal, phuton plant]",
+            "language": "greek",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zoroastrian",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zoroastrian",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Of zoroaster or the dualistic religious system taught by him.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Follower of zoroaster. zoroastrianism n.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[zoroaster, persian founder of the religion]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "zoroastrianism",
+              "partOfSpeech": "n."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zr",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zr symb. Zirconium.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zucchini",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zucchini n. esp. Us & austral. Courgette.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[italian, pl. Of zucchino, diminutive of zucca gourd]",
+            "language": "italian",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zulu",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zulu",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "member of a s. African bantu people."
+                },
+                {
+                  "number": "2",
+                  "text": "their language."
+                }
+              ],
+              "inflection": "(pl. -s)",
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Of this people or language.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[native name]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Zygote",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Zygote n. Biol. Cell formed by the union of two gametes.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[greek zugotos yoked: related to *zeugma]",
+            "language": "greek",
+            "related": [
+              "zeugma"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    }
+  ]
+}

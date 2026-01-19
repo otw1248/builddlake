@@ -1,0 +1,5474 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Oxford English Dictionary - Y",
+  "total_entries": 135,
+  "entries": [
+    {
+      "word": "Y1",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "twenty-fifth letter of the alphabet."
+                },
+                {
+                  "number": "2",
+                  "text": "(usu. Y) algebra second unknown quantity."
+                },
+                {
+                  "number": "3",
+                  "text": "y-shaped thing."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Y2",
+      "parts": [
+        {
+          "part_of_speech": "suffix",
+          "variants": [
+            {
+              "type": "suffix",
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "from nouns and adjectives, meaning: a full of; having the quality of (messy). B addicted to (boozy)."
+                },
+                {
+                  "number": "2",
+                  "text": "from verbs, meaning ‘inclined to’, ‘apt to’ (sticky). [old english]\n\n-y"
+                },
+                {
+                  "number": "2",
+                  "text": "suffix (also -ey, -ie) forming diminutive nouns, pet names, etc. (granny; sally; nightie). [originally scottish]\n\n-y"
+                },
+                {
+                  "number": "3",
+                  "text": "suffix forming nouns denoting state, condition, or quality (orthodoxy)."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": "suffix"
+            }
+          ],
+          "etymology": {
+            "text": "[latin -ia, greek -eia]",
+            "language": "latin",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yacht",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yacht",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "light sailing-vessel."
+                },
+                {
+                  "number": "2",
+                  "text": "larger usu. Power-driven vessel for cruising."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Race or cruise in a yacht.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[dutch jaghtschip, literally ‘pursuit-ship’]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yachtsman",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yachtsman n. person who sails yachts.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yack",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yack",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Trivial or unduly persistent conversation.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Engage in this.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[imitative]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "slang"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yah",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yah int. expressing derision or defiance.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[imitative]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yahoo",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yahoo n. Bestial person.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[name of a race of brutes in gulliver's travels]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yahweh",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yahweh n. = *jehovah.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [
+            "jehovah"
+          ],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yak",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yak n. Long-haired tibetan ox.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[tibetan]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yale lock",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yale lock n. Propr. Type of lock with a revolving barrel, used for doors etc.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[yale, name of its inventor]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yam",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "a tropical or subtropical climbing plant. B edible starchy tuber of this."
+                },
+                {
+                  "number": "2",
+                  "text": "sweet potato."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[portuguese or spanish]",
+            "language": "spanish",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": "us"
+        }
+      ]
+    },
+    {
+      "word": "Yammer",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yammer colloq. Or dial.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "lament, wail, grumble."
+                },
+                {
+                  "number": "2",
+                  "text": "voluble talk."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Utter a yammer.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yang",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yang n. the active male principle of the universe .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yank",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yank n. Colloq. Often derog. American.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[abbreviation of *yankee]",
+            "language": null,
+            "related": [
+              "yankee"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yank",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yank v. & n. Colloq. Pull with a jerk.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[origin unknown]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yankee",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "often derog. = *yank."
+                },
+                {
+                  "number": "2",
+                  "text": "inhabitant of new england or of the northern states."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[origin uncertain: perhaps from dutch janke, diminutive of jan john, as a nickname]",
+            "language": null,
+            "related": [],
+            "from_language": "dutch janke"
+          },
+          "cross_references": [
+            "yank"
+          ],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": "us"
+        }
+      ]
+    },
+    {
+      "word": "Yap",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yap",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "bark shrilly or fussily."
+                },
+                {
+                  "number": "2",
+                  "text": "colloq. Talk noisily, foolishly, or complainingly."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "of v."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[imitative]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "yappy",
+              "partOfSpeech": "adj."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yarborough",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yarborough n. Whist or bridge hand with no card above a 9.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[earl of yarborough, said to have betted against it]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yard1",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "unit of linear measure ("
+                },
+                {
+                  "number": "3",
+                  "text": "ft., 0."
+                },
+                {
+                  "number": "9144",
+                  "text": "metre)."
+                },
+                {
+                  "number": "2",
+                  "text": "this length of material."
+                },
+                {
+                  "number": "3",
+                  "text": "square or cubic yard."
+                },
+                {
+                  "number": "4",
+                  "text": "spar slung across a mast for a sail to hang from."
+                },
+                {
+                  "number": "5",
+                  "text": "(in pl.; foll. By of) colloq. A great length."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english, = stick]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yard2",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "piece of enclosed ground, esp. Attached to a building or used for a particular purpose."
+                },
+                {
+                  "number": "2",
+                  "text": "& austral. Garden of a house."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english, = enclosure]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": "us"
+        }
+      ]
+    },
+    {
+      "word": "Yardage",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yardage n. Number of yards of material etc.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yard-arm",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yard-arm n. Either end of a ship's yard.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yardie",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yardie n. Slang member of a jamaican or w. Indian gang engaging in organized crime, esp. Drug-trafficking.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[jamaican english, = house, home]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yardstick",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "standard of comparison."
+                },
+                {
+                  "number": "2",
+                  "text": "measuring rod a yard long, usu. Divided into inches etc."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yarmulke",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yarmulke n. skullcap worn by jewish men.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[yiddish]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yarn",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yarn",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "spun thread, esp. For knitting, weaving, etc."
+                },
+                {
+                  "number": "2",
+                  "text": "colloq. Story, traveller's tale, anecdote."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Colloq. Tell yarns.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yarrow",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yarrow n. Perennial plant, esp. Milfoil.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yashmak",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yashmak n. Veil concealing the face except the eyes, worn by some muslim women.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[arabic]",
+            "language": "arabic",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yaw",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yaw",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Fail to hold a straight course; go unsteadily.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Yawing of a ship etc. From its course.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[origin unknown]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yawl",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yawl n. A kind of ship's boat or sailing- or fishing-boat.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[low german jolle or dutch jol]",
+            "language": "german",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yawn",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yawn",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "open the mouth wide and inhale, esp. When sleepy or bored."
+                },
+                {
+                  "number": "2",
+                  "text": "gape, be wide open."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "act of yawning."
+                },
+                {
+                  "number": "2",
+                  "text": "colloq. Boring idea, activity, etc."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yaws",
+      "parts": [
+        {
+          "part_of_speech": "n.",
+          "variants": [
+            {
+              "type": "noun",
+              "definition": "Yaws pl. Contagious tropical skin-disease with large red swellings.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": "n."
+            }
+          ],
+          "etymology": {
+            "text": "[origin unknown]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yb",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yb symb. Ytterbium.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Y chromosome",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Y chromosome n. sex chromosome occurring only in male cells.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[y as an arbitrary label]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yd",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yd abbr. yard .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Ye1",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "pron. Archaic pl. Of *thou"
+                },
+                {
+                  "number": "1",
+                  "text": "(ye gods!)."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Ye2",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Ye2 adj. Pseudo-= *the .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[from the obsolete y-shaped letter for th]",
+            "language": null,
+            "related": [],
+            "from_language": "the obsolete y"
+          },
+          "cross_references": [
+            "the"
+          ],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "archaic"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yea",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yea",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "yes."
+                },
+                {
+                  "number": "2",
+                  "text": "indeed (ready, yea eager)."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Utterance of ‘yea’; ‘yes’ vote.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "archaic"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yeah",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yeah adv. Colloq. Yes.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[a casual pronunciation of *yes]",
+            "language": null,
+            "related": [
+              "yes"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Year",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "time occupied by the earth in one revolution round the sun, approx. 3651/"
+                },
+                {
+                  "number": "4",
+                  "text": "days."
+                },
+                {
+                  "number": "2",
+                  "text": "= *calendar year."
+                },
+                {
+                  "number": "3",
+                  "text": "period of twelve months, starting at any point (four years ago; tax year)."
+                },
+                {
+                  "number": "4",
+                  "text": "(in pl.) Age, time of life (young for his years)."
+                },
+                {
+                  "number": "5",
+                  "text": "(usu. In pl.) Colloq. Very long time."
+                },
+                {
+                  "number": "6",
+                  "text": "group of students entering college etc. In the same academic year."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [
+            "calendar"
+          ],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yearbook",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yearbook n. Annual publication dealing with events or aspects of the year.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yearling",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yearling n. Animal between one and two years old.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yearly",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yearly",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "done, produced, or occurring once a year."
+                },
+                {
+                  "number": "2",
+                  "text": "of or lasting a year."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Once a year.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yearn",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yearn v. Be filled with longing, compassion, or tenderness. yearning n. & adj.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "yearning",
+              "partOfSpeech": "n."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yeast",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yeast n. Greyish-yellow fungus obtained esp. From fermenting malt liquors and used as a fermenting agent, to raise bread, etc.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yeasty",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "of, like, or tasting of yeast; frothy."
+                },
+                {
+                  "number": "2",
+                  "text": "in a ferment."
+                },
+                {
+                  "number": "3",
+                  "text": "working like yeast."
+                },
+                {
+                  "number": "4",
+                  "text": "(of talk etc.) Light and superficial."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yell",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yell",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Loud sharp cry; shout.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Cry, shout.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yellow",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yellow",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "of the colour of buttercups, lemons, egg-yolks, etc."
+                },
+                {
+                  "number": "2",
+                  "text": "having a yellow skin or complexion."
+                },
+                {
+                  "number": "3",
+                  "text": "colloq. Cowardly."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "yellow colour or pigment."
+                },
+                {
+                  "number": "2",
+                  "text": "yellow clothes or material."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Turn yellow. yellowish adj. Yellowness n. Yellowy adj.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english: related to *gold]",
+            "language": "old english",
+            "related": [
+              "gold"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "yellowish",
+              "partOfSpeech": "adj."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yellow-belly",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yellow-belly n. Colloq. Coward.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yellow card",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yellow card n. Card shown by the referee to a football-player being cautioned.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yellow fever",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yellow fever n. Tropical virus disease with fever and jaundice.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yellow flag",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yellow flag n. Flag displayed by a ship in quarantine.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yellowhammer",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yellowhammer n. Bunting of which the male has a yellow head, neck, and breast.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yellow pages",
+      "parts": [
+        {
+          "part_of_speech": "n.",
+          "variants": [
+            {
+              "type": "noun",
+              "definition": "Yellow pages pl. Propr. Telephone directory on yellow paper, listing and classifying business subscribers.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": "n."
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yellow pepper",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yellow pepper n. Ripe yellow fruit of the capsicum plant.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yellow spot",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yellow spot n. Point of acutest vision in the retina.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yellow streak",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yellow streak n. Colloq. Trait of cowardice.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yelp",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yelp",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Sharp shrill cry as of a dog in pain or excitement.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Utter a yelp.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yen1",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yen1 n. chief monetary unit of japan.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[japanese from chinese]",
+            "language": null,
+            "related": [],
+            "from_language": "chinese"
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yen2",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "2",
+                  "text": "colloq."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Longing or yearning.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "feel a longing.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[chinese]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yeoman",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "esp. Hist. Man holding and cultivating a small landed estate."
+                },
+                {
+                  "number": "2",
+                  "text": "member of the yeomanry force.  yeomanly adj."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[from earlier yoman, yeman, etc., probably = young man]",
+            "language": null,
+            "related": [],
+            "from_language": "earlier yoman"
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "yeomanly",
+              "partOfSpeech": "adj."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yeoman of the guard",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yeoman of the guard n. Member of the sovereign's bodyguard.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yeomanry",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "body or class of yeomen."
+                },
+                {
+                  "number": "2",
+                  "text": "hist. Volunteer cavalry force raised from the yeoman class."
+                }
+              ],
+              "inflection": "(pl. -ies)",
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yeoman warder",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yeoman warder n. a “beefeater” at the tower of london.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yep",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yep adv. & n. colloq. = *yes.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [
+            "yes"
+          ],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": "us"
+        }
+      ]
+    },
+    {
+      "word": "Yes",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yes",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "indicating that the answer to the question is affirmative, the statement etc. Made is correct, the request or command will be complied with, or the person summoned or addressed is present."
+                },
+                {
+                  "number": "2",
+                  "text": "(yes?) A indeed? Is that so? B what do you want?"
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "utterance of the word yes."
+                },
+                {
+                  "number": "2",
+                  "text": "affirmation or assent."
+                },
+                {
+                  "number": "3",
+                  "text": "‘yes’ vote.  say yes grant a request, confirm a statement."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english, = yea let it be]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [
+            {
+              "phrase": "be complied",
+              "definition": "with, or the person summoned or addressed is present."
+            }
+          ],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yes-man",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yes-man n. Colloq. Weakly acquiescent person.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yesterday",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yesterday",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "on the day before today."
+                },
+                {
+                  "number": "2",
+                  "text": "in the recent past."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "the day before today."
+                },
+                {
+                  "number": "2",
+                  "text": "the recent past."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yesteryear",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "last year."
+                },
+                {
+                  "number": "2",
+                  "text": "the recent past."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english yester- that is last past, *year]",
+            "language": "old english",
+            "related": [
+              "year"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yet",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yet",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "as late as, or until, now or then (there is yet time; your best work yet)."
+                },
+                {
+                  "number": "2",
+                  "text": "(with neg. Or interrog.) So soon as, or by, now or then (it is not time yet; have you finished yet?)."
+                },
+                {
+                  "number": "3",
+                  "text": "again; in addition (more and yet more)."
+                },
+                {
+                  "number": "4",
+                  "text": "in the remaining time available (i will do it yet)."
+                },
+                {
+                  "number": "5",
+                  "text": "(foll. By compar.) Even (a yet more difficult task)."
+                },
+                {
+                  "number": "6",
+                  "text": "nevertheless; and or but in spite of that. —conj. But at the same time; but nevertheless."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [
+            {
+              "phrase": "have you",
+              "definition": "finished yet?)."
+            }
+          ],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yeti",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yeti n. = *abominable snowman.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[tibetan]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [
+            "abominable"
+          ],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yew",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "dark-leaved evergreen tree bearing berry-like cones."
+                },
+                {
+                  "number": "2",
+                  "text": "its wood."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Y-fronts",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Y-fronts n. Propr. Men's or boys' briefs with a y-shaped seam at the front.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yha",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yha abbr. Youth hostels association.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yid",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yid n. Slang offens. Jew.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[back-formation from *yiddish]",
+            "language": null,
+            "related": [
+              "yiddish"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yiddish",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yiddish",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Language used by jews in or from europe, orig. A german dialect with words from hebrew etc.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Of this language.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[german jüdisch jewish]",
+            "language": "german",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yield",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yield",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "produce or return as a fruit, profit, or result."
+                },
+                {
+                  "number": "2",
+                  "text": "give up; surrender, concede."
+                },
+                {
+                  "number": "3",
+                  "text": "a (often foll. By to) surrender; submit; defer to. B (as yielding adj.) Compliant; submissive; soft and pliable."
+                },
+                {
+                  "number": "4",
+                  "text": "(foll. By to) give right of way to (other traffic)."
+                },
+                {
+                  "number": "5",
+                  "text": "(foll."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yin",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yin n. the passive female principle of the universe .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yippee",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yippee int. Expressing delight or excitement.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[natural exclamation]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Ymca",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Ymca abbr. Young men's christian association.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yob",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yob n. Slang lout, hooligan. yobbish adj.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[back slang for *boy]",
+            "language": null,
+            "related": [
+              "boy"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "yobbish",
+              "partOfSpeech": "adj."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yobbo",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yobbo n. = *yob.",
+              "numbered_definitions": [],
+              "inflection": "(pl. -s)",
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [
+            "yob"
+          ],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "slang"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yodel",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yodel",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "sing with melodious inarticulate sounds and frequent changes between falsetto and normal voice in the manner of swiss mountain-dwellers.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Yodelling cry. yodeller n.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[german]",
+            "language": "german",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "yodeller",
+              "partOfSpeech": "n."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": "us"
+        }
+      ]
+    },
+    {
+      "word": "Yoga",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "hindu system of meditation and asceticism designed to effect reunion with the universal spirit."
+                },
+                {
+                  "number": "2",
+                  "text": "system of physical exercises and breathing control used in yoga."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[sanskrit, = union]",
+            "language": "sanskrit",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yoghurt",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yoghurt n. semi-solid sourish food made from milk fermented by added bacteria.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[turkish]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yogi",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yogi n. devotee of yoga.",
+              "numbered_definitions": [],
+              "inflection": "(pl. -s)",
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[hindustani: related to *yoga]",
+            "language": null,
+            "related": [
+              "yoga"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yoicks",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yoicks int. Cry used by fox-hunters to urge on the hounds.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[origin unknown]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yoke",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yoke",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "wooden crosspiece fastened over the necks of two oxen etc. And attached to the plough or wagon to be pulled."
+                },
+                {
+                  "number": "2",
+                  "text": "(pl. Same or -s) pair (of oxen etc.)."
+                },
+                {
+                  "number": "3",
+                  "text": "object like a yoke in form or function, e.g. A wooden shoulder-piece for carrying a pair of pails, the top section of a garment from which the rest hangs."
+                },
+                {
+                  "number": "4",
+                  "text": "sway, dominion, or servitude."
+                },
+                {
+                  "number": "5",
+                  "text": "bond of union, esp. Of marriage."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "put a yoke on."
+                },
+                {
+                  "number": "2",
+                  "text": "couple or unite (a pair)."
+                },
+                {
+                  "number": "3",
+                  "text": "(foll. By to) link (one thing) to (another)."
+                },
+                {
+                  "number": "4",
+                  "text": "match or work together."
+                }
+              ],
+              "inflection": "(-king)",
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [
+            {
+              "phrase": "put a",
+              "definition": "yoke on."
+            }
+          ],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yokel",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yokel n. Rustic; country bumpkin.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[perhaps dial.]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yolk",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yolk n. Yellow inner part of an egg.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english: related to *yellow]",
+            "language": "old english",
+            "related": [
+              "yellow"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yom kippur",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yom kippur n. Most solemn religious fast day of the jewish year, day of atonement.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[hebrew]",
+            "language": "hebrew",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yon",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yon adj. & adv. Literary & dial. Yonder.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yonder",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yonder",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Over there; at some distance in that direction; in the place indicated.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Situated yonder.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yonks",
+      "parts": [
+        {
+          "part_of_speech": "n.",
+          "variants": [
+            {
+              "type": "noun",
+              "definition": "Yonks pl. Slang a long time .",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": "n."
+            }
+          ],
+          "etymology": {
+            "text": "[origin unknown]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yoo-hoo",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yoo-hoo int. Used to attract a person's attention.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[natural exclamation]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yore",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yore n. of yore a long time ago.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english, = long ago]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "York",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "York v. Cricket bowl out with a yorker.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[back-formation from *yorker]",
+            "language": null,
+            "related": [
+              "yorker"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yorker",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yorker n. Cricket ball that pitches immediately under the bat.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[probably with ref. To the practice of yorkshire cricketers]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yorkist",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yorkist",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Hist. Follower of the house of york, esp. In the wars of the roses.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Of the house of york.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yorkshire pudding",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yorkshire pudding n. Baked batter eaten with roast beef.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yorkshire terrier",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yorkshire terrier n. Small long-haired blue and tan kind of terrier.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "You",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "the person or persons addressed."
+                },
+                {
+                  "number": "2",
+                  "text": "(as int. With a noun) in an exclamatory statement (you fools!)."
+                },
+                {
+                  "number": "3",
+                  "text": "(in general statements) one, a person, people (you get used to it).  you and yours you and your family, property, etc."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english, originally objective case of *ye1]",
+            "language": "old english",
+            "related": [
+              "ye1"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [
+            {
+              "phrase": "get used",
+              "definition": "to it)."
+            }
+          ],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "You'd",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "you had."
+                },
+                {
+                  "number": "2",
+                  "text": "you would."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "You'll",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "You'll contr. You will; you shall.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Young",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Young",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "not far advanced in life, development, or existence; not yet old."
+                },
+                {
+                  "number": "2",
+                  "text": "a immature, inexperienced. B youthful."
+                },
+                {
+                  "number": "3",
+                  "text": "of or characteristic of youth (young love)."
+                },
+                {
+                  "number": "4",
+                  "text": "representing young people (young farmers)."
+                },
+                {
+                  "number": "5",
+                  "text": "a distinguishing a son from his father (young george). B as a familiar or condescending form of address (listen, young lady)."
+                },
+                {
+                  "number": "6",
+                  "text": "(younger) distinguishing one person from another of the same name (the younger pitt)."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Offspring, esp. Of animals. youngish adj.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "youngish",
+              "partOfSpeech": "adj."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Young person",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "14",
+                  "text": "and"
+                },
+                {
+                  "number": "17",
+                  "text": "years."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Youngster",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Youngster n. Child, young person.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Your",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "of or belonging to you."
+                },
+                {
+                  "number": "2",
+                  "text": "colloq. Often derog. Much talked of; well known (your typical professor)."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "You're",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "You're contr. You are.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yours",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "the one or ones belonging to you (it is yours; yours are over there)."
+                },
+                {
+                  "number": "2",
+                  "text": "your letter (yours of the 10th)."
+                },
+                {
+                  "number": "3",
+                  "text": "introducing a formula ending a letter (yours ever; yours truly).  of yours of or belonging to you (friend of yours)."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yourself",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "a emphat. Form of *you. B refl. Form of *you."
+                },
+                {
+                  "number": "2",
+                  "text": "in your normal state of body or mind (are quite yourself again).  be yourself see *oneself."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [
+            "oneself"
+          ],
+          "idioms": [
+            {
+              "phrase": "be yourself",
+              "definition": "see *oneself."
+            }
+          ],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Youth",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "being young; period between childhood and adult age."
+                },
+                {
+                  "number": "2",
+                  "text": "vigour, enthusiasm, inexperience, or other characteristic of this period."
+                },
+                {
+                  "number": "3",
+                  "text": "young man."
+                },
+                {
+                  "number": "4",
+                  "text": "(as pl.) Young people collectively (the youth of the country)."
+                }
+              ],
+              "inflection": "(pl. -s)",
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english: related to *young]",
+            "language": "old english",
+            "related": [
+              "young"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Youth club",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Youth club n. Place for young people's leisure activities.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Youthful",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Youthful adj. Young or still having the characteristics of youth. youthfully adv. Youthfulness n.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "youthfully",
+              "partOfSpeech": "adv."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Youth hostel",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Youth hostel n. Any of a chain of cheap lodgings for holiday-makers, esp. Walkers and cyclists.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "You've",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "You've contr. You have.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yowl",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yowl",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Loud wailing cry of or as of a cat or dog in distress.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Utter a yowl.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[imitative]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yo-yo",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "toy consisting of a pair of discs with a deep groove between them in which string is attached and wound, and which can be made to fall and rise."
+                },
+                {
+                  "number": "2",
+                  "text": "thing that repeatedly falls and rises. [origin unknown]\n\nYr.  Abbr."
+                },
+                {
+                  "number": "1",
+                  "text": "year(s)."
+                },
+                {
+                  "number": "2",
+                  "text": "younger."
+                },
+                {
+                  "number": "3",
+                  "text": "your.\n\nYrs.  Abbr."
+                },
+                {
+                  "number": "1",
+                  "text": "years."
+                },
+                {
+                  "number": "2",
+                  "text": "yours."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[origin unknown]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [
+            {
+              "phrase": "be made",
+              "definition": "to fall and rise."
+            }
+          ],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yts",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yts abbr. Youth training scheme.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Ytterbium",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Ytterbium n. Metallic element of the lanthanide series.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[ytterby in sweden]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yttrium",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yttrium n. Metallic element resembling the lanthanides.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[related to *ytterbium]",
+            "language": null,
+            "related": [
+              "ytterbium"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yuan",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yuan n. chief monetary unit of china.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[chinese]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yucca",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yucca n. Subtropical white-flowered plant with swordlike leaves, often grown as a house-plant.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[carib]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yuck",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yuck int. expression of strong distaste.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[imitative]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "slang"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yucky",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "messy, repellent."
+                },
+                {
+                  "number": "2",
+                  "text": "sickly, sentimental."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "slang"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yugoslav",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yugoslav",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "native or national of yugoslavia."
+                },
+                {
+                  "number": "2",
+                  "text": "person of yugoslav descent."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            },
+            {
+              "type": null,
+              "definition": "Of yugoslavia. yugoslavian adj. & n.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[serbo-croat jug south: related to *slav]",
+            "language": null,
+            "related": [
+              "slav"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [
+            {
+              "form": "yugoslavian",
+              "partOfSpeech": "adj."
+            }
+          ],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yuk",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yuk var. Of *yuck.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yukky",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yukky var. Of *yucky.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yule",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yule n. the christmas festival.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english",
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [
+            "archaic"
+          ],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yule-log",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": null,
+              "numbered_definitions": [
+                {
+                  "number": "1",
+                  "text": "large log traditionally burnt on christmas eve."
+                },
+                {
+                  "number": "2",
+                  "text": "log-shaped chocolate cake eaten at christmas."
+                }
+              ],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yummy",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yummy adj. colloq. Tasty, delicious.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[from *yum-yum]",
+            "language": null,
+            "related": [
+              "yum-yum"
+            ],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yum-yum",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yum-yum int. Expressing pleasure from eating or the prospect of eating.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[natural exclamation]",
+            "language": null,
+            "related": [],
+            "from_language": null
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yup",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yup var. Of *yep.",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Yuppie",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Yuppie n. Colloq., usu. Derog. Young ambitious professional person working in a city.",
+              "numbered_definitions": [],
+              "inflection": "(pl. -ies)",
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": {
+            "text": "[from young urban professional]",
+            "language": null,
+            "related": [],
+            "from_language": "young urban professional"
+          },
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    },
+    {
+      "word": "Ywca",
+      "parts": [
+        {
+          "part_of_speech": null,
+          "variants": [
+            {
+              "type": null,
+              "definition": "Ywca abbr. Young women's christian association. Z",
+              "numbered_definitions": [],
+              "inflection": null,
+              "usage": null,
+              "pronunciation": null,
+              "part_of_speech": null
+            }
+          ],
+          "etymology": null,
+          "cross_references": [],
+          "idioms": [],
+          "examples": [],
+          "phrases": [],
+          "special_fields": [],
+          "derived_forms": [],
+          "usage_note": null,
+          "registers": [],
+          "regional": null
+        }
+      ]
+    }
+  ]
+}

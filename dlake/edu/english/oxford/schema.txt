@@ -1,0 +1,345 @@
+I'll analyze the dictionary file structure and create a schema for each entry.
+Based on analyzing the dictionary file structure, here's a JSON schema for each dictionary entry:
+
+```json
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Oxford English Dictionary Entry",
+  "type": "object",
+  "properties": {
+    "word": {
+      "type": "string",
+      "description": "The headword (e.g., 'Abandon', 'A-')"
+    },
+    "parts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "partOfSpeech": {
+            "type": "string",
+            "description": "Part of speech tag (e.g., 'n.', 'v.', 'adj.', 'adv.', 'prefix', 'suffix', 'abbr.')"
+          },
+          "variants": {
+            "type": "array",
+            "description": "Different grammatical forms or meanings",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string",
+                  "description": "Type of variant (e.g., 'noun', 'verb', 'adjective', 'preposition', 'interjection')"
+                },
+                "definition": {
+                  "type": "string",
+                  "description": "The main definition text"
+                },
+                "numberedDefinitions": {
+                  "type": "array",
+                  "description": "Numbered definitions when present",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "number": {
+                        "type": "string",
+                        "description": "Number (e.g., '1', '2a', '3b')"
+                      },
+                      "text": {
+                        "type": "string",
+                        "description": "Definition text for this number"
+                      }
+                    }
+                  }
+                },
+                "inflection": {
+                  "type": "string",
+                  "description": "Verb/noun inflection (e.g., '-sing', '(-ting)', '(pl. -cuses)')"
+                },
+                "usage": {
+                  "type": "string",
+                  "description": "Usage notes (e.g., 'also refl.', 'often foll. By to')"
+                },
+                "pronunciation": {
+                  "type": "string",
+                  "description": "Pronunciation guidance (rare in this format)"
+                }
+              }
+            }
+          },
+          "etymology": {
+            "type": "object",
+            "properties": {
+              "text": {
+                "type": "string",
+                "description": "Etymology text (e.g., '[french: related to *ad-, *ban]')"
+              },
+              "language": {
+                "type": "string",
+                "description": "Language of origin (e.g., 'latin', 'greek', 'french', 'old english')"
+              },
+              "related": {
+                "type": "array",
+                "description": "Related words marked with asterisk",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "fromLanguage": {
+                "type": "string",
+                "description": "Source language when specified (e.g., 'latin from greek from hebrew')"
+              }
+            }
+          },
+          "crossReferences": {
+            "type": "array",
+            "description": "References to other entries (e.g., 'see *abide', '= *atomic bomb')",
+            "items": {
+              "type": "string"
+            }
+          },
+          "idioms": {
+            "type": "array",
+            "description": "Idiomatic phrases associated with the word",
+            "items": {
+              "type": "object",
+              "properties": {
+                "phrase": {
+                  "type": "string",
+                  "description": "The idiomatic phrase (e.g., 'take aback', 'of one\\'s own accord')"
+                },
+                "definition": {
+                  "type": "string",
+                  "description": "Definition of the idiom"
+                },
+                "partOfSpeech": {
+                  "type": "string",
+                  "description": "Part of speech of the idiom if different"
+                }
+              }
+            }
+          },
+          "examples": {
+            "type": "array",
+            "description": "Example phrases or usage patterns",
+            "items": {
+              "type": "string"
+            }
+          },
+          "phrases": {
+            "type": "array",
+            "description": "Compound words or phrases",
+            "items": {
+              "type": "object",
+              "properties": {
+                "phrase": {
+                  "type": "string",
+                  "description": "The compound phrase (e.g., 'Able-bodied seaman', 'Above-board')"
+                },
+                "partOfSpeech": {
+                  "type": "string",
+                  "description": "Part of speech of the phrase"
+                },
+                "definition": {
+                  "type": "string",
+                  "description": "Definition of the phrase"
+                }
+              }
+            }
+          },
+          "specialFields": {
+            "type": "array",
+            "description": "Specialized field indicators (e.g., 'naut.', 'archit.', 'gram.', 'biol.')",
+            "items": {
+              "type": "string"
+            }
+          },
+          "derivedForms": {
+            "type": "array",
+            "description": "Derived forms mentioned in the entry",
+            "items": {
+              "type": "object",
+              "properties": {
+                "form": {
+                  "type": "string",
+                  "description": "Derived form (e.g., 'abasement', 'aberrant')"
+                },
+                "partOfSpeech": {
+                  "type": "string",
+                  "description": "Part of speech of derived form"
+                }
+              }
+            }
+          },
+          "usageNote": {
+            "type": "string",
+            "description": "Usage notes when present (e.g., lines starting with 'Usage')"
+          },
+          "registers": {
+            "type": "array",
+            "description": "Register markers (e.g., 'colloq.', 'archaic', 'slang', 'offens.')",
+            "items": {
+              "type": "string"
+            }
+          },
+          "regional": {
+            "type": "string",
+            "description": "Regional markers (e.g., 'austral.', 'brit.', 'us', 'scot.')"
+          }
+        }
+      }
+    }
+  },
+  "required": ["word"],
+  "examples": [
+    {
+      "word": "Abandon",
+      "parts": [
+        {
+          "partOfSpeech": "v.",
+          "variants": [
+            {
+              "type": "verb",
+              "inflection": "(-ting)",
+              "numberedDefinitions": [
+                {
+                  "number": "1",
+                  "text": "give up."
+                },
+                {
+                  "number": "2",
+                  "text": "forsake, desert."
+                },
+                {
+                  "number": "3",
+                  "text": "(often foll. By to; often refl.) Yield to a passion, another's control, etc."
+                }
+              ]
+            },
+            {
+              "type": "noun",
+              "definition": "Freedom from inhibitions."
+            }
+          ],
+          "etymology": {
+            "text": "[french: related to *ad-, *ban]",
+            "language": "french",
+            "related": ["ad-", "ban"]
+          },
+          "derivedForms": [
+            {
+              "form": "abandonment",
+              "partOfSpeech": "n."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "A-",
+      "parts": [
+        {
+          "partOfSpeech": "prefix",
+          "variants": [
+            {
+              "type": "prefix",
+              "definition": "(also an- before a vowel sound) not, without (amoral)."
+            }
+          ],
+          "etymology": {
+            "text": "[greek]",
+            "language": "greek"
+          }
+        }
+      ]
+    },
+    {
+      "word": "Abaft",
+      "parts": [
+        {
+          "specialFields": ["naut."],
+          "variants": [
+            {
+              "type": "adverb",
+              "partOfSpeech": "adv.",
+              "definition": "In the stern half of a ship."
+            },
+            {
+              "type": "preposition",
+              "partOfSpeech": "prep.",
+              "definition": "Nearer the stern than."
+            }
+          ],
+          "etymology": {
+            "text": "[from *a2, -baft: see *aft]",
+            "related": ["a2", "baft", "aft"]
+          }
+        }
+      ]
+    },
+    {
+      "word": "About",
+      "parts": [
+        {
+          "variants": [
+            {
+              "type": "preposition",
+              "partOfSpeech": "prep.",
+              "numberedDefinitions": [
+                {
+                  "number": "1",
+                  "text": "a on the subject of (a book about birds). B relating to (glad about it). C in relation to (symmetry about a plane)."
+                },
+                {
+                  "number": "2",
+                  "text": "at a time near to (about six)."
+                }
+              ]
+            },
+            {
+              "type": "adverb",
+              "partOfSpeech": "adv.",
+              "numberedDefinitions": [
+                {
+                  "number": "1",
+                  "text": "a approximately (about ten miles). B colloq. In an understatement (just about had enough)."
+                },
+                {
+                  "number": "2",
+                  "text": "nearby (a lot of flu about)."
+                }
+              ]
+            }
+          ],
+          "idioms": [
+            {
+              "phrase": "be about",
+              "definition": "colloq. Have as its essential nature (life is all about having fun)."
+            },
+            {
+              "phrase": "be about to",
+              "definition": "be on the point of (was about to laugh)."
+            }
+          ],
+          "etymology": {
+            "text": "[old english]",
+            "language": "old english"
+          }
+        }
+      ]
+    }
+  ]
+}
+```
+
+**Key parsing patterns to implement:**
+
+1. **Word extraction**: First word(s) before the first tab space
+2. **Part of speech**: `n.`, `v.`, `adj.`, `adv.`, `prefix`, `suffix`, `abbr.`, `int.`, `—n.`, `—adj.`, `—v.`, `—adv.`
+3. **Numbered definitions**: `1`, `2`, `3` followed by text, sometimes with subpoints `a`, `b`, `A`, `B`
+4. **Etymology**: Text in `[...]` brackets at the end, may contain `: related to *word` patterns
+5. **Idioms**: Marked with `` symbol followed by phrase and definition
+6. **Derived forms**: After `` symbol (e.g., ` abasement n.`)
+7. **Special fields**: `naut.`, `archit.`, `gram.`, `biol.`, `astron.`
+8. **Inflection**: `(-ting)`, `(-sing)`, `(pl. -cuses)`, `(foll. By to)`
+9. **Usage notes**: Lines starting with `Usage`
+10. **Cross-references**: `see *word`, `= *word`, `*word`
