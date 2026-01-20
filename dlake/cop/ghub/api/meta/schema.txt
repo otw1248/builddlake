@@ -1,0 +1,51 @@
+================================================================================
+GitHub Meta API Schema
+================================================================================
+
+ROOT OBJECT
+--------------------------------------------------------------------------------
+verifiable_password_authentication: bool
+ssh_key_fingerprints: dict with 3 keys
+ssh_keys: list with 3 items
+hooks: list with 6 items
+web: list with 22 items
+api: list with 22 items
+git: list with 38 items
+github_enterprise_importer: list with 8 items
+packages: list with 25 items
+pages: list with 10 items
+importer: list with 5 items
+actions: list with 5521 items
+actions_macos: list with 8 items
+codespaces: list with 185 items
+copilot: list with 17 items
+domains: dict with 7 keys
+
+================================================================================
+Detailed Schema
+================================================================================
+
+ssh_key_fingerprints:
+  SHA256_ECDSA: str
+  SHA256_ED25519: str
+  SHA256_RSA: str
+
+domains:
+  website: list[5]
+  codespaces: list[9]
+  copilot: list[4]
+  packages: list[19]
+  actions: list[60]
+  actions_inbound: dict
+  artifact_attestations: dict
+
+List field examples (first item):
+  ssh_keys: str
+  hooks: str
+  web: str
+  api: str
+  git: str
+  packages: str
+  pages: str
+  actions: str
+  copilot: str
