@@ -1,674 +1,337 @@
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/mail/transport.env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/dev 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/queue/settings/email.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/vehicle/api/keys.env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/blockchain/env.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/saltstack/top.sls 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/app/config/http.conf 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/app/config/parameters.php 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/angular.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/cloudfront/signature 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/log/mail.log 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/src/styles.scss 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/etc/passwd 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/localtunnel.log 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/sidecar/env.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/privacy_leak/vector.png 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/:19999 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/:2376 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/var/report 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/vehicle/diagnostics.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/unity/projectSettings/ProjectSettings.asset 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/hc/en-us 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/wp-content/plugins/contact-form-7 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/config/coinbase.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/deprecated 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/api/v1/notes/5/edit 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/config.php.bak 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/debugadmin 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/logs/mail/error.log 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/lib/config.php 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/p2p/conditions.yaml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/apps/billing_gateway.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/payments/routing_matrix.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/editor/page 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/openapi.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/ghost 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/credentials.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/paypal.config.js 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/var/log 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/sync/from-url 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/fetch 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/siteadmin 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/api/private 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/etc/ssh/sshd_config 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/admin/dmarc/config 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/database.sql 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/robot/settings.yaml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/etc/qmail/control/smtproutes 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/keystone/api 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/config.yaml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/config.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/login_up.php3 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/wp-content/plugins/wp-db-backup/readme.txt 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.cache 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3/.env.bak 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3/.aws/config 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/config~ 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/config.old 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/config.bak 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.staging.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.prod.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.local.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.js 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.dev.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/aws_s3_config.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/aws_s3_bucket 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/aws/s3/env.env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/aws/s3/credentials 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/aws/config/s3.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/aws/buckets 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3.secret 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3.key 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3.properties 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3.yaml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3/backup 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3/buckets 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3/bucket.env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/s3/credentials 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/objects/pack 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/objects/info 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/info 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/hooks/post-commit 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/hooks/pre-commit 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git-secret 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git-askpass.sh 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git-credentials 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.gitmodules 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.gitattributes 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.gitignore 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.svnignore 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.svn/entries 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.svn 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/bitbucket-pipelines.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.gitlab-ci 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.gitlab/merge_request_templates 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.gitlab/issue_templates 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.gitlab 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.gitlab-ci.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/stale.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/funding.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/PULL_REQUEST_TEMPLATE.md 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/ISSUE_TEMPLATE 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/CODEOWNERS 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/dependabot.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/workflows/ci.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/workflows/main.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/workflows 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/ORIG_HEAD 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/FETCH_HEAD 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/description 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/COMMIT_EDITMSG 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/objects 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/packed-refs 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/refs/remotes/origin/HEAD 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/refs/heads/main 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/refs/heads/master 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/info/exclude 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/hooks 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/logs/refs/remotes/origin/main 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/logs/refs/remotes/origin/master 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/logs/refs/heads/main 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/logs/refs/heads/master 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/logs/HEAD 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/index 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git/HEAD 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.git 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.cache 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/api/user 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/controlpanel 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/wp-config.php 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.prod 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.local 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/api/credentials 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/config/secrets.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/error 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/error/ 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/api/login 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.test 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/_profiler/phpinfo 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/oauth/authorize 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.production 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/test 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/wp-content/debug.log 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.development 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/admin.html 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/..%5C..%5C..%5C..%5C..%5C..%5Cvar/log/apache2/access.log 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.testing 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/app/.env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/sendgrid.env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/laravel/.env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/api/.env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/backend/.env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.example 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/server.key 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/id_rsa 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/private.key 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/database.sql 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/dump.sql 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/backup.sql 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/web.config 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.htpasswd 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/wp-config.php.save 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/wp-config.php.swp 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/wp-config.php.bak 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/wp-config.php 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/cloudbuild.yaml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/azure-pipelines.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.travis.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/Jenkinsfile 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.circleci/config.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/bitbucket-pipelines.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.gitlab-ci.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/workflows/deploy.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/workflows/ci.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.github/workflows/main.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.nuxt/routes.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.next/routes-manifest.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.next/build-manifest.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/nodemon.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.npmrc 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/package-lock.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/package.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/application-prod.properties 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/application-dev.properties 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/application.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/application.properties 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/config/credentials.yml.enc 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/config/master.key 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/config/secrets.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/config/database.yml 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/django.log 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/manage.py 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/local_settings.py 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/settings.py 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/.env.local.php 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/vendor/composer/installed.json 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/artisan 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/storage/logs/laravel.log 
-
-Pages request path: https://otwres-ae5esz6igz3vwguy.otw1248.com/server-info 
-
-/server-status 
-
-/info.php 
-
-/phpinfo.php 
-
-/elmah.axd 
-
-/trace 
-
-/_profiler 
-
-/_profiler/ 
-
-/debug/requests 
-
-/debug/vars 
-
-/debug/pprof 
-
-/debug/pprof/ 
-
-/v3/api-docs 
-
-/v2/api-docs 
-
-/v1/api-docs 
-
-/graphql/playground 
-
-/graphiql 
-
-/graphql
-
-/api-docs 
-
-/openapi.yaml 
-
+/mail/transport.env 
+/dev 
+/queue/settings/email.yml 
+/vehicle/api/keys.env 
+/blockchain/env.json 
+/saltstack/top.sls 
+/app/config/http.conf 
+/app/config/parameters.php 
+/angular.json 
+/cloudfront/signature 
+/log/mail.log 
+/src/styles.scss 
+/etc/passwd 
+/localtunnel.log 
+/sidecar/env.json 
+/privacy_leak/vector.png 
+/:19999 
+/:2376 
+/var/report 
+/vehicle/diagnostics.json 
+/unity/projectSettings/ProjectSettings.asset 
+/hc/en-us 
+/wp-content/plugins/contact-form-7 
+/config/coinbase.json 
+/deprecated 
+/api/v1/notes/5/edit 
+/config.php.bak 
+/debugadmin 
+/logs/mail/error.log 
+/lib/config.php 
+/p2p/conditions.yaml 
+/apps/billing_gateway.json 
+/payments/routing_matrix.json 
+/editor/page 
 /openapi.json 
-
-/swagger.yaml 
-
-/swagger.json 
-
-/metrics
-
-/livez
-
-/readyz
-
-/healthz 
-
-/apis/apps/v1/deployments
-
-/api/v1/nodes
-
-/api/v1/pods 
-
-/api/v1/configmaps 
-
-/api/v1/namespaces
-
-/api/v1/secrets
-
-/jolokia/exec
-
-/jolokia/list
-
-/jolokia
-
-/actuator/gateway/routes
-
-/actuator/mappings
-
-/actuator/beans 
-
-/actuator/configprops
-
-/actuator/heapdump 
-
-/actuator/health 
-
-/actuator/env 
-
-/actuator
-
-/amplify.yml 
-
-/serverless.yml 
-
-/terraform.tfvars
-
-/terraform.tfstate 
-
-/gcp-credentials.json
-
-/service-account.json 
-
+/ghost 
 /credentials.json 
-
-/.vault-token
-
-/.kube/config
-
-/.docker/config.json 
-
-/.aws/config
-
-/.aws/credentials
-
-/config/.env 
-
-/app/.env
-
-/api/.env 
-
-/backend/.env 
-
-/.env.save
-
-/.env.old
-
-/.env.bak
-
-/.env.backup 
-
-/.env.staging
-
-/.env.development 
-
-/.env.production
-
-/.env.local
-
-/.env 
-
-/.git-credentials
-
-/.gitconfig
-
-/.git/objects
-
-/.git/objects/ 
-
+/paypal.config.js 
+/var/log 
+/sync/from-url 
+/fetch 
+/siteadmin 
+/api/private 
+/etc/ssh/sshd_config 
+/admin/dmarc/config 
+/database.sql 
+/robot/settings.yaml 
+/etc/qmail/control/smtproutes 
+/keystone/api 
+/config.yaml 
+/config.json 
+/login_up.php3 
+/wp-content/plugins/wp-db-backup/readme.txt 
+/.cache 
+/s3/.env.bak 
+/s3/.aws/config 
+/.git/config~ 
+/.git/config.old 
+/.git/config.bak 
+/.env.staging.json 
+/.env.prod.json 
+/.env.local.json 
+/.env.js 
+/.env.dev.json 
+/aws_s3_config.json 
+/aws_s3_bucket 
+/aws/s3/env.env 
+/aws/s3/credentials 
+/aws/config/s3.json 
+/aws/buckets 
+/s3.secret 
+/s3.key 
+/s3.properties 
+/s3.yaml 
+/s3.yml 
+/s3/backup 
+/s3/buckets 
+/s3/bucket.env 
+/s3/credentials 
+/.git/objects/pack 
+/.git/objects/info 
+/.git/info 
+/.git/hooks/post-commit 
+/.git/hooks/pre-commit 
+/.git-secret 
+/.git-askpass.sh 
+/.git-credentials 
+/.gitmodules 
+/.gitattributes 
+/.gitignore 
+/.svnignore 
+/.svn/entries 
+/.svn 
+/bitbucket-pipelines.yml 
+/.gitlab-ci 
+/.gitlab/merge_request_templates 
+/.gitlab/issue_templates 
+/.gitlab 
+/.gitlab-ci.yml 
+/.github/stale.yml 
+/.github/funding.yml 
+/.github/PULL_REQUEST_TEMPLATE.md 
+/.github/ISSUE_TEMPLATE 
+/.github/CODEOWNERS 
+/.github/dependabot.yml 
+/.github/workflows/ci.yml 
+/.github/workflows/main.yml 
+/.github/workflows 
+/.github 
+/.git/ORIG_HEAD 
+/.git/FETCH_HEAD 
+/.git/description 
+/.git/COMMIT_EDITMSG 
+/.git/objects 
+/.git/packed-refs 
+/.git/refs/remotes/origin/HEAD 
+/.git/refs/heads/main 
 /.git/refs/heads/master 
-
-/.git/refs/heads/main
-
-/.git/COMMIT_EDITMSG
-
+/.git/info/exclude 
+/.git/hooks 
+/.git/logs/refs/remotes/origin/main 
+/.git/logs/refs/remotes/origin/master 
+/.git/logs/refs/heads/main 
+/.git/logs/refs/heads/master 
 /.git/logs/HEAD 
-
 /.git/index 
-
-/.git/config
-
-/.git/HEAD
-
-/Admin
-
-/ADMIN
-
-/.Env 
-
-/.ENV
-
-/admin
-
-/admin/ 
-
-/.env/
-
+/.git/HEAD 
+/.git 
+/.cache 
+/api/user 
+/controlpanel 
+/wp-config.php 
+/.env.prod 
+/.env.local 
+/api/credentials 
+/config/secrets.yml 
+/error 
+/error/ 
+/api/login 
+/.env.test 
+/_profiler/phpinfo 
+/oauth/authorize 
+/.env.production 
+/test 
+/wp-content/debug.log 
+/.env.development 
+/admin.html 
+/..%5C..%5C..%5C..%5C..%5C..%5Cvar/log/apache2/access.log 
+/.env.testing 
+/app/.env 
+/sendgrid.env 
+/env 
+/laravel/.env 
+/api/.env 
+/backend/.env 
+/.env.example 
 /.env 
-
-/config;
-
-/admin; 
-
-/admin;/ 
-
-/admin;
-
-/.env;.js 
-
-/.env;
-
+/server.key 
+/id_rsa 
+/private.key 
+/database.sql 
+/dump.sql 
+/backup.sql 
+/web.config 
+/.htpasswd 
+/wp-config.php.save 
+/wp-config.php.swp 
+/wp-config.php.bak 
+/wp-config.php 
+/cloudbuild.yaml 
+/azure-pipelines.yml 
+/.travis.yml 
+/Jenkinsfile 
+/.circleci/config.yml 
+/bitbucket-pipelines.yml 
+/.gitlab-ci.yml 
+/.github/workflows/deploy.yml 
+/.github/workflows/ci.yml 
+/.github/workflows/main.yml 
+/.nuxt/routes.json 
+/.next/routes-manifest.json 
+/.next/build-manifest.json 
+/nodemon.json 
+/.npmrc 
+/package-lock.json 
+/package.json 
+/application-prod.properties 
+/application-dev.properties 
+/application.yml 
+/application.properties 
+/config/credentials.yml.enc 
+/config/master.key 
+/config/secrets.yml 
+/config/database.yml 
+/django.log 
+/manage.py 
+/local_settings.py 
+/settings.py 
+/.env.local.php 
+/vendor/composer/installed.json 
+/artisan 
+/storage/logs/laravel.log 
+/server-info 
+/server-status 
+/info.php 
+/phpinfo.php 
+/elmah.axd 
+/trace 
+/_profiler 
+/_profiler/ 
+/debug/requests 
+/debug/vars 
+/debug/pprof 
+/debug/pprof/ 
+/v3/api-docs 
+/v2/api-docs 
+/v1/api-docs 
+/graphql/playground 
+/graphiql 
+/graphql
+/api-docs 
+/openapi.yaml 
+/openapi.json 
+/swagger.yaml 
+/swagger.json 
+/metrics
+/livez
+/readyz
+/healthz 
+/apis/apps/v1/deployments
+/api/v1/nodes
+/api/v1/pods 
+/api/v1/configmaps 
+/api/v1/namespaces
+/api/v1/secrets
+/jolokia/exec
+/jolokia/list
+/jolokia
+/actuator/gateway/routes
+/actuator/mappings
+/actuator/beans 
+/actuator/configprops
+/actuator/heapdump 
+/actuator/health 
 /actuator/env 
-
-/.git/config 
-
-/%252eaws/credentials
-
-/%252egit/config 
-
-/%252eenv
-
-/%252e%252e/.git/config 
-
-/%252e%252e/config
-
-/%252e%252e/admin
-
-/%252e%252e/.env 
-
-/..;/config
-
-/..;/graphql 
-
-/..;/swagger.json
-
-/..;/api/v1/secrets 
-
-/..;/jolokia 
-
-/..;/actuator/heapdump
-
-/..;/actuator/env
-
-/..;/.git/config
-
-/..;/admin
-
-/..;/.env 
-
-/%20/config
-
-/%20/.git/config 
-
-/%20/admin
-
-/%20/.env
-
-/%09/swagger.json
-
-/%09/graphql 
-
-/%09/actuator/env 
-
-/%09/.git/config 
-
-/%09/admin
-
-/%09/.git/config 
-
-/%09/actuator/env 
-
-/%09/graphql
-
-/%09/swagger.json
-
-/%09/graphql 
-
-/%09/actuator/env
-
-/%09/.git/config 
-
-/%09/admin
-
-/%09/.env 
-
-/apps 
-
+/actuator
+/amplify.yml 
+/serverless.yml 
+/terraform.tfvars
+/terraform.tfstate 
+/gcp-credentials.json
+/service-account.json 
+/credentials.json 
+/.vault-token
+/.kube/config
+/.docker/config.json 
+/.aws/config
+/.aws/credentials
+/config/.env 
+/app/.env
+/api/.env 
+/backend/.env 
+/.env.save
+/.env.old
+/.env.bak
+/.env.backup 
+/.env.staging
+/.env.development 
+/.env.production
+/.env.local
+/.env 
+/.git-credentials
+/.gitconfig
+/.git/objects
+/.git/objects/ 
+/.git/refs/heads/master 
+/.git/refs/heads/main
+/.git/COMMIT_EDITMSG
+/.git/logs/HEAD 
+/.git/index 
 /.git/config
-
+/.git/HEAD
+/Admin
+/ADMIN
+/.Env 
+/.ENV
+/admin
+/admin/ 
+/.env/
+/.env 
+/config;
+/admin; 
+/admin;/ 
+/admin;
+/.env;.js 
+/.env;
+/actuator/env 
+/.git/config 
+/%252eaws/credentials
+/%252egit/config 
+/%252eenv
+/%252e%252e/.git/config 
+/%252e%252e/config
+/%252e%252e/admin
+/%252e%252e/.env 
+/..;/config
+/..;/graphql 
+/..;/swagger.json
+/..;/api/v1/secrets 
+/..;/jolokia 
+/..;/actuator/heapdump
+/..;/actuator/env
+/..;/.git/config
+/..;/admin
+/..;/.env 
+/%20/config
+/%20/.git/config 
+/%20/admin
+/%20/.env
+/%09/swagger.json
+/%09/graphql 
+/%09/actuator/env 
+/%09/.git/config 
+/%09/admin
+/%09/.git/config 
+/%09/actuator/env 
+/%09/graphql
+/%09/swagger.json
+/%09/graphql 
+/%09/actuator/env
+/%09/.git/config 
+/%09/admin
+/%09/.env 
+/apps 
+/.git/config
 /robots.txt 
-
 /favicon.png 
-
