@@ -1,0 +1,80 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["categoryList", "services"],
+  "properties": {
+    "categoryList": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of service categories"
+    },
+    "lastVerified": {
+      "type": "string",
+      "format": "date",
+      "description": "Last verification date in YYYY-MM-DD format"
+    },
+    "services": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "category", "description", "enName", "enDescription", "verifiedFlag"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Service name in Chinese"
+          },
+          "category": {
+            "type": "string",
+            "description": "Category name, must match one of the values in categoryList"
+          },
+          "phone": {
+            "type": "string",
+            "description": "Primary phone number"
+          },
+          "phoneList": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Array of alternative phone numbers"
+          },
+          "websiteUrl": {
+            "type": "string",
+            "format": "uri",
+            "description": "Website URL"
+          },
+          "wechat": {
+            "type": "string",
+            "description": "WeChat account name"
+          },
+          "douyin": {
+            "type": "string",
+            "description": "Douyin (TikTok) account name"
+          },
+          "weibo": {
+            "type": "string",
+            "description": "Weibo account name"
+          },
+          "description": {
+            "type": "string",
+            "description": "Service description in Chinese"
+          },
+          "enName": {
+            "type": "string",
+            "description": "English name of the service"
+          },
+          "enDescription": {
+            "type": "string",
+            "description": "English description of the service"
+          },
+          "verifiedFlag": {
+            "type": "boolean",
+            "description": "Indicates if the service information has been verified"
+          }
+        }
+      }
+    }
+  }
+}
