@@ -368,6 +368,30 @@
       "verifiedFlag": true
     },
     {
+      "name": "银监会",
+      "category": "金融监管机构",
+      "phone": "",
+      "wechat": "",
+      "douyin": "",
+      "weibo": "国家金融监督管理总局",
+      "description": "原中国银行业监督管理委员会，现已并入国家金融监督管理总局",
+      "enName": "CBRC",
+      "enDescription": "Former China Banking Regulatory Commission, now part of NFRA",
+      "verifiedFlag": true
+    },
+    {
+      "name": "证监会",
+      "category": "金融监管机构",
+      "phone": "",
+      "wechat": "证监会发布",
+      "douyin": "证监会发布",
+      "weibo": "证监会发布",
+      "description": "中国证券监督管理委员会",
+      "enName": "CSRC",
+      "enDescription": "China Securities Regulatory Commission",
+      "verifiedFlag": true
+    },
+    {
       "name": "国家图书馆",
       "category": "公共服务",
       "phone": "",
