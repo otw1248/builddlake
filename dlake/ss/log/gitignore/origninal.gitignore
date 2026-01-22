@@ -1,0 +1,101 @@
+# Credentials and API Keys
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+secrets.yml
+secrets.yaml
+credentials.json
+credentials.yml
+
+# Configuration files with sensitive data
+config/secrets.yml
+config/credentials.yml
+application.yml
+application.properties
+config/database.yml
+database.yml
+
+# Cloud provider credentials
+# AWS
+.aws/
+aws-credentials
+*-credentials.csv
+
+# Google Cloud
+gcloud/
+*-service-account.json
+client_secret*.json
+
+# Azure
+.azure/
+azure-credentials
+
+# SSH Keys
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+*.ppk
+
+# Environment-specific files
+.envrc
+.secrets
+secret.*
+private.*
+
+# Database files
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# Password files
+passwords.txt
+.password
+.htpasswd
+
+# Backup files that might contain sensitive data
+*.backup
+*.bak
+*.old
+*.orig
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE files (may contain credentials)
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Ruby
+.bundle/
+vendor/bundle/
+
+# Logs (may contain sensitive info)
+*.log
+logs/
+
+# Docker secrets
+docker-compose.override.yml
+.dockerignore
