@@ -1,7 +1,7 @@
 /%09/.env 
 /%09/.git/config 
-/%09/actuator/env
 /%09/actuator/env 
+/%09/actuator/env
 /%09/admin
 /%09/graphql
 /%09/graphql 
@@ -49,8 +49,8 @@
 /.env.old
 /.env.prod 
 /.env.prod.json 
-/.env.production 
 /.env.production
+/.env.production 
 /.env.save
 /.env.staging
 /.env.staging.json 
@@ -64,8 +64,8 @@
 /.git-credentials
 /.git-credentials 
 /.git-secret 
-/.git/COMMIT_EDITMSG
 /.git/COMMIT_EDITMSG 
+/.git/COMMIT_EDITMSG
 /.git/FETCH_HEAD 
 /.git/HEAD 
 /.git/HEAD
@@ -148,8 +148,8 @@
 /admin.html 
 /admin/ 
 /admin/dmarc/config 
-/admin;
 /admin; 
+/admin;
 /admin;/ 
 /amplify.yml 
 /angular.json 
@@ -202,6 +202,7 @@
 /config;
 /controlpanel 
 /credentials.json 
+/css/support_parent.css
 /database.sql 
 /debug/pprof 
 /debug/pprof/ 
@@ -233,6 +234,7 @@
 /jolokia
 /jolokia/exec
 /jolokia/list
+/js/twint_ch.js
 /keystone/api 
 /laravel/.env 
 /lib/config.php 
@@ -252,6 +254,7 @@
 /p2p/conditions.yaml 
 /package-lock.json 
 /package.json 
+/panel/settings.php
 /payments/routing_matrix.json 
 /paypal.config.js 
 /phpinfo.php 
@@ -292,6 +295,11 @@
 /test 
 /trace 
 /unity/projectSettings/ProjectSettings.asset 
+/unzip.php
+/unzipper.php
+/up.php
+/upload.php
+/uploader.php
 /v1/api-docs 
 /v2/api-docs 
 /v3/api-docs 

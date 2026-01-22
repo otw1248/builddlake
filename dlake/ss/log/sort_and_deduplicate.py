@@ -36,7 +36,7 @@ if __name__ == '__main__':
 
     if len(sys.argv) < 2:
         print("Usage: python sort_and_deduplicate.py <input_file> [output_file]")
-        print("Example: python sort_and_deduplicate.py dlake/ss/log/ss-log-2601.log.txt")
+        print("Example: python /workspace/dlake/ss/log/sort_and_deduplicate.py /workspace/dlake/ss/log/ss-log-2601.log.txt")
         sys.exit(1)
 
     input_file = sys.argv[1]
