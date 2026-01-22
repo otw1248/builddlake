@@ -5,6 +5,10 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.env.*.local
+.env.development
+.env.production
+.env.test
 !.env.example
 *.key
 *.pem
@@ -12,9 +16,28 @@
 *.pfx
 *.crt
 *.cer
+*.cert
+*.pub
+*.priv
+*.secret
+*.token
+*.pass
 *.json.key
 *.asc
 *.ovpn
+*.keytab
+*.kdbx
+*.agilekeychain
+*.keychain
+*.keystore
+*.jks
+*.jceks
+*.p8
+*.p7b
+*.spc
+*.p7c
+*.p7m
+*.p7s
 secrets.yml
 secrets.yaml
 secrets.json
@@ -24,22 +47,44 @@ aws_credentials
 
 # Configuration files with sensitive data
 config/secrets.yml
+config/secrets.json
 config/credentials.yml
 config/credentials.yml.enc
 config/master.key
+credentials/
 application.yml
 application.properties
 application-dev.properties
 application-prod.properties
+application-*.properties
+application-*.yml
 config/database.yml
 database.yml
 config.json
 config.yaml
+config.yml
 config.php*
+*.config
+*.conf
+settings.xml
+*.xml
+*.cfg
+*.ini
+firebase.json
+google-services.json
+GoogleService-Info.plist
+app.config.json
+appsettings.json
+appsettings.*.json
+config/local.*
+config/private.*
 
 # Cloud provider credentials
 # AWS
 .aws/
+～/.aws/
+.aws/credentials
+.aws/config
 aws-credentials
 *-credentials.csv
 aws/*
@@ -51,10 +96,14 @@ gcloud/
 client_secret*.json
 gcp-credentials.json
 google-application-credentials.json
+service-account-key.json
+*.gpg
+*.pgp
 
 # Azure
 .azure/
 azure-credentials
+azureProfile.json
 
 # S3
 s3.*
@@ -72,9 +121,11 @@ saltstack/top.sls
 
 # SSH Keys
 id_rsa
+id_rsa.pub
 id_dsa
 id_ecdsa
 id_ed25519
+id_ed25519.pub
 _rsa
 _dsa
 *.ppk
@@ -84,6 +135,8 @@ private.key
 # SSH Configurations
 .ssh/
 known_hosts
+authorized_keys
+ssh_config
 
 # Environment-specific files
 .envrc
@@ -91,6 +144,17 @@ known_hosts
 secret.*
 private.*
 *.credentials
+
+# API keys and tokens
+*api*key*
+*api*secret*
+*access*token*
+*refresh*token*
+*session*token*
+*oauth*
+*client*secret*
+*app*secret*
+*private*key*
 
 # URL Encoding & Path Traversal Attack Paths
 /%09/.env
@@ -130,11 +194,28 @@ database.sql
 *.sqlite
 *.sqlite3
 *.db
+*.db3
+*.sdb
+*.s3db
+*.sl3
+*.db-journal
+*.db-wal
+*.db-shm
+*.frm
+*.myd
+*.myi
+*.mdb
+*.accdb
+*.ldb
 
 # Password files
 passwords.txt
 .password
 .htpasswd
+passwd
+shadow
+*.passwd
+*.shadow
 
 # Backup files that might contain sensitive data
 *.backup
@@ -142,13 +223,19 @@ passwords.txt
 *.old
 *.orig
 *.save
+*.dump
 
 # macOS / System Files (Can sometimes leak user paths)
 .DS_Store
+.DS_Store?
+.*
+.Spotlight-V100
+.Trashes
 .cache
 
 # Windows
 Thumbs.db
+ehthumbs.db
 
 # IDE files (may contain credentials)
 .vscode/settings.json
@@ -158,6 +245,7 @@ Thumbs.db
 *.swo
 *.sublime-workspace
 *.sublime-project
+*~
 
 # Git Internal Files & Configuration
 .git
@@ -277,6 +365,8 @@ angular.json
 
 # Node.js
 node_modules/
+bower_components/
+jspm_packages/
 npm-debug.log
 npm-debug.log*
 yarn-debug.log*
@@ -285,19 +375,28 @@ yarn.lock
 package.json
 package-lock.json
 .npmrc
+.yarnrc
 
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 .venv/
 *.venv
 venv/
 env/
+.Python
 manage.py
 settings.py
+secrets.py
+settings/local.py
 local_settings.py
 django.log
 db.sqlite3
+*.egg-info/
+.installed.cfg
+*.egg
 
 # Ruby
 .bundle/
@@ -318,14 +417,20 @@ wp-config.php.swp
 
 # Logs (may contain sensitive info)
 *.log
+*.tmp
+*.temp
 logs/
 /storage/logs/
 /log/mail.log
 /logs/mail/error.log
 localtunnel.log
+*.pid
+*.seed
+*.pid.lock
 
 # Docker secrets
 docker-compose.override.yml
+docker-compose.*.yml
 .dockerignore
 .docker/config.json
 
