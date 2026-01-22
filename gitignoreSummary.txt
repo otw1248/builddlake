@@ -1,0 +1,136 @@
+# .gitignore File Category Summary
+
+## 1. Credentials & API Keys
+- Environment files (.env, .env.*, .ENV, .Env)
+- Certificate files (*.key, *.pem, *.p12, *.pfx, *.crt, *.cer)
+- Secrets files (secrets.yml, secrets.yaml)
+- Credential files (credentials.json, credentials.yml)
+
+## 2. Configuration Files
+- Application config files (application.yml, application.properties, application-dev.properties, application-prod.properties)
+- Database configuration (config/database.yml, database.yml)
+- Secret configurations (config/secrets.yml, config/credentials.yml)
+- Other configs (config.json, config.yaml, config.php*)
+
+## 3. Cloud Provider Credentials
+- AWS: .aws/, aws-credentials, aws/*, aws_s3_*
+- Google Cloud: gcloud/, *-service-account.json, client_secret*.json, gcp-credentials.json
+- Azure: .azure/, azure-credentials, azure-pipelines.yml
+- S3: s3.*, aws/s3/*
+
+## 4. SSH Keys
+- Private key files (id_rsa, id_dsa, id_ecdsa, id_ed25519)
+- PuTTY keys (*.ppk)
+- Server keys (server.key, private.key)
+
+## 5. Environment-Sensitive Files
+- Environment files (.envrc, .secrets, secret.*, private.*)
+- Encrypted credentials (config/credentials.yml.enc, config/master.key)
+
+## 6. Database Files
+- SQL files (*.sql, backup.sql, dump.sql, database.sql)
+- SQLite databases (*.sqlite, *.sqlite3)
+- Database files (*.db)
+
+## 7. Password Files
+- Password storage (passwords.txt, .password)
+- Apache password files (.htpasswd)
+
+## 8. Backup Files
+- Backup extensions (*.backup, *.bak, *.old, *.orig, *.save)
+
+## 9. Operating System Files
+- macOS: .DS_Store, .cache
+- Windows: Thumbs.db
+
+## 10. IDE Files
+- VS Code: .vscode/settings.json
+- IntelliJ IDEA: .idea/
+- Vim: *.swp, *.swo
+
+## 11. Dependency/Build Directories
+- Node.js: node_modules/, npm-debug.log, package.json, package-lock.json, .npmrc
+- Python: __pycache__/, *.pyc, venv/, env/
+- Ruby: .bundle/, vendor/bundle/
+- Composer: vendor/composer/installed.json
+
+## 12. Log Files
+- Log files (*.log, django.log, localtunnel.log, logs/*, storage/logs/*)
+
+## 13. Docker Configuration
+- Docker overrides (docker-compose.override.yml)
+- Docker config (.docker/config.json)
+- Docker ignore (.dockerignore)
+
+## 14. URL Encoding & Path Traversal Attack Paths
+- URL encoded paths (/%09/, /%20/, /%252e%252e/)
+- Windows path encoding (/..%5C..)
+- Path traversal and command injection (/..;/)
+- Encoded git paths (/%252eaws/, /%252eenv, /%252egit/)
+
+## 15. Git Internal Files & Configuration
+- .git/ directory and all internal files
+- Git config (.gitattributes, .gitconfig, .gitmodules)
+- Git credentials (.git-credentials, .git-secret, .git-askpass.sh)
+
+## 16. CI/CD Configuration Files
+- .circleci/config.yml, .travis.yml
+- Jenkinsfile
+- azure-pipelines.yml, bitbucket-pipelines.yml
+- cloudbuild.yaml, amplify.yml
+- Angular: angular.json
+
+## 17. Version Control Platform Configurations
+- GitHub: .github/ (workflows, templates, CODEOWNERS, dependabot.yml, funding.yml, stale.yml)
+- GitLab: .gitlab/, .gitlab-ci.yml (issue_templates, merge_request_templates)
+
+## 18. Kubernetes Configuration
+- Kubeconfig (.kube/config)
+- Kubernetes API (/api/v1/*, /apis/apps/v1/*)
+
+## 19. Server-Side Sensitive Endpoints
+- Monitoring endpoints: /actuator/, /healthz, /livez, /readyz, /metrics
+- Debug endpoints: /debug/, /_profiler/, /jolokia/
+- Admin endpoints: /admin/, /controlpanel, /siteadmin, /debugadmin
+- API documentation: /swagger.*, /openapi.*, /api-docs, /graphql, /graphiql
+- Server info: /server-info, /server-status, /:19999, /:2376 (Docker)
+- Authentication: /oauth/authorize, /keystone/api
+
+## 20. System Sensitive Files
+- System files: /etc/passwd, /etc/ssh/sshd_config
+- System logs: /var/log/, /var/report/
+
+## 21. Database & Storage
+- AWS S3: /aws/*, /s3/*, aws_s3_*
+- Database backups: backup.sql, dump.sql, database.sql
+- Terraform: terraform.tfstate, terraform.tfvars
+
+## 22. Framework-Specific Files
+- Laravel: artisan, laravel/.env, /storage/logs/laravel.log
+- WordPress: wp-config.php*, /wp-content/*
+- Django: manage.py, settings.py, local_settings.py
+
+## 23. Cloud Services Configuration
+- Google Cloud: gcp-credentials.json
+- S3 config: s3.*, aws_s3_*
+- Serverless: serverless.yml, service-account.json
+- CloudFront: cloudfront/signature
+- SendGrid: sendgrid.env
+- SaltStack: saltstack/top.sls
+
+## 24. File Upload & Script Files
+- Upload scripts: unzip.php, unzipper.php, up.php, upload.php, uploader.php
+
+## 25. Next.js/Nuxt.js Build Files
+- .next/build-manifest.json, .next/routes-manifest.json
+- .nuxt/routes.json
+
+## 26. Other Configuration Files
+- Vault: .vault-token
+- Logs: localtunnel.log, nodemon.json
+- SVN: .svn/, .svnentries, .svnignore
+
+## 27. Security & Privacy Files
+- SSH: id_rsa
+- Private keys: private.key
+- Robot files: robot/settings.yaml, robots.txt
