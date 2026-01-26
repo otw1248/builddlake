@@ -130,7 +130,7 @@ def main():
     """Main execution function"""
     # Get configuration file path
     script_dir = Path(__file__).parent
-    config_path = script_dir / 'cn-gov-std.json'
+    config_path = script_dir / 'cn-gov-std-notice-schema.json'
 
     # Output file path
     output_path = script_dir / 'notices.json'
