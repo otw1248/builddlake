@@ -1,0 +1,32 @@
+{
+  "noticeSourceUrl": "https://openstd.samr.gov.cn/bzgk/gb/notice?r=0.9454553952911597&page={page}&pageSize=50",
+  "noticeSourceUrl2": "https://openstd.samr.gov.cn/bzgk/gb/notice?r=0.9454553952911597&page={page}",
+  "pageParam": {
+    "name": "page",
+    "minValue": 1,
+    "maxValue": 4,
+    "defaultValue": 1
+  },
+  "noticeItem": {
+    "selector": "a.list-group-item.lgit",
+    "fields": {
+      "id": {
+        "extractFrom": "href",
+        "pattern": "searchN\\('(\\d+)'\\)",
+        "type": "string"
+      },
+      "title": {
+        "extractFrom": "text",
+        "pattern": "(.*?)<span",
+        "type": "string"
+      },
+      "date": {
+        "extractFrom": "span",
+        "attribute": "style",
+        "textPattern": "float\\s+\\w+\\}\\s*([^<]+)",
+        "type": "date",
+        "format": "YYYY-MM-DD"
+      }
+    }
+  }
+}
