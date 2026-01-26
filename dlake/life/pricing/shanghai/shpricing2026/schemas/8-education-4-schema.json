@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Education Pricing Schema (Part 4)",
+  "description": "Schema for graduate education and extracurricular training pricing",
+  "type": "object",
+  "required": ["教育"],
+  "properties": {
+    "教育": {
+      "type": "object",
+      "properties": {
+        "全日制学术型研究生学费": {
+          "type": "object",
+          "properties": {
+            "硕士生": {
+              "type": "object",
+              "properties": {
+                "学年": { "type": "string" }
+              }
+            },
+            "博士生": {
+              "type": "object",
+              "properties": {
+                "学年": { "type": "string" }
+              }
+            }
+          }
+        },
+        "义务教育阶段学科类校外培训": {
+          "type": "object",
+          "properties": {
+            "班级类型": {
+              "type": "object",
+              "properties": {
+                "10人以下": {
+                  "type": "object",
+                  "properties": {
+                    "线下": { "type": "string" },
+                    "线上": { "type": "string" }
+                  }
+                },
+                "10~35人": {
+                  "type": "object",
+                  "properties": {
+                    "线下": { "type": "string" }
+                  }
+                },
+                "35人以上": {
+                  "type": "object",
+                  "properties": {
+                    "线下": { "type": "string" }
+                  }
+                }
+              }
+            },
+            "注": { "type": "string" },
+            "补充说明": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

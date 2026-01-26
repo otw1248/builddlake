@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Parking Fees Schema",
+  "description": "Schema for street parking and public transfer parking fees",
+  "type": "object",
+  "required": ["机动车停放"],
+  "properties": {
+    "机动车停放": {
+      "type": "object",
+      "properties": {
+        "道路内停车(人工收费)": {
+          "type": "object",
+          "properties": {
+            "区域": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "首小时内": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "首小时后,每30分钟": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "公共换乘停车场(库)机动车换乘停放服务": {
+          "type": "object",
+          "properties": {
+            "公共换乘停车场（库）": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "机动车换乘停放服务收费标准（元/次·天）": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

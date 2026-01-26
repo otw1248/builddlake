@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Scenic Spot Tickets Schema (Part 2)",
+  "description": "Schema for scenic spot tickets organized by district (Part 2)",
+  "type": "object",
+  "required": ["景区门票"],
+  "properties": {
+    "景区门票": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "区": { "type": "string" },
+          "景点": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "序号": { "type": "number" },
+                "名称": { "type": "string" },
+                "普通门票最高价格(元/人)": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Highway Transportation Schema (Part 3)",
+  "description": "Schema for highway rescue service fees",
+  "type": "object",
+  "required": ["高速公路清障救援服务"],
+  "properties": {
+    "高速公路清障救援服务": {
+      "type": "object",
+      "properties": {
+        "拖车": {
+          "type": "object",
+          "properties": {
+            "收费标准": {
+              "type": "object",
+              "properties": {
+                "表格": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "分类": { "type": "string" },
+                      "车型": {
+                        "type": "string",
+                        "enum": ["小型车", "大型车", "特大型车"]
+                      },
+                      "基本公里拖车费(元/辆·次)": { "type": "string" },
+                      "超基本公里拖车费(元/公里)": { "type": "string" }
+                    }
+                  }
+                },
+                "备注": {
+                  "type": "array",
+                  "items": { "type": "string" }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

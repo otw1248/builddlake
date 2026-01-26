@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Medical Services Pricing Schema (Part 1)",
+  "description": "Schema for clinic consultation, nursing, and treatment fees",
+  "type": "object",
+  "required": ["医疗服务收费标准"],
+  "properties": {
+    "医疗服务收费标准": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "医疗项目": { "type": "string" },
+          "细分项目": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "级别": { "type": "string" },
+                "职称": { "type": "string" },
+                "护理级别": { "type": "string" },
+                "治疗类型": { "type": "string" },
+                "计费单位": { "type": "string" },
+                "最高收费标准": { "type": ["number", "string"] }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Education Pricing Schema (Part 1)",
+  "description": "Schema for preschool and basic education pricing",
+  "type": "object",
+  "required": ["教育"],
+  "properties": {
+    "教育": {
+      "type": "object",
+      "properties": {
+        "学前教育": {
+          "type": "object",
+          "properties": {
+            "公办幼儿园保育教育费": {
+              "type": "object",
+              "properties": {
+                "收费标准": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "级别": { "type": "string" },
+                      "计费单位": { "type": "string" },
+                      "全日制": { "type": "number" },
+                      "寄宿制": { "type": "number" }
+                    }
+                  }
+                }
+              }
+            },
+            "普惠性民办幼儿园保育教育费": {
+              "type": "object",
+              "properties": {
+                "收费标准": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "计费单位": { "type": "string" },
+                      "最高收费标准": { "type": "number" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "基础教育": {
+          "type": "object",
+          "properties": {
+            "公办普通高中学费": {
+              "type": "object",
+              "properties": {
+                "收费标准": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "收费项目": { "type": "string" },
+                      "计费单位": { "type": "string" },
+                      "收费标准": { "type": "number" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

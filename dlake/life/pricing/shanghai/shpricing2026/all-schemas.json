@@ -1,0 +1,385 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Shanghai 2026 Pricing Data - Combined Schemas",
+  "description": "Complete JSON schemas for all Shanghai 2026 pricing data categories",
+  "type": "object",
+  "required": ["数据来源", "水电气", "公共交通", "出租车与轮渡", "有线电视与证件", "医疗服务_1", "医疗服务_2", "医疗服务_3", "教育培训_1", "教育培训_2", "教育培训_3", "教育培训_4", "景区门票_1", "景区门票_2", "景区门票_3", "交通运输_1", "交通运输_2", "交通运输_3", "停车收费", "不动产登记"],
+  "properties": {
+    "数据来源": {
+      "type": "string",
+      "description": "数据来源和查看路径"
+    },
+    "水电气": {
+      "type": "object",
+      "description": "Water, Electricity, and Gas Pricing Schema",
+      "properties": {
+        "地区": { "type": "string", "description": "Region or city name" },
+        "适用范围": {
+          "type": "object",
+          "description": "Applicable scope for each utility",
+          "properties": {
+            "水": { "type": "string" },
+            "电": { "type": "string" },
+            "气": { "type": "string" }
+          }
+        },
+        "公告日期": { "type": "string", "description": "Announcement date" },
+        "生效日期": { "type": "string", "description": "Effective date" },
+        "阶梯计量周期": { "type": "string", "description": "Tiered pricing calculation period" },
+        "价格详情": {
+          "type": "object",
+          "properties": {
+            "水": { "type": "object" },
+            "电": { "type": "object" },
+            "气": { "type": "object" }
+          }
+        },
+        "附注": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "公共交通": {
+      "type": "object",
+      "description": "Public Transportation Pricing Schema",
+      "properties": {
+        "交通工具": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "类别": { "type": "string", "enum": ["公共汽(电)车", "轨道交通"] },
+              "线路": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "类型": { "type": "string" },
+                    "票价": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "备注": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "序号": { "type": "number" },
+              "内容": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "出租车与轮渡": {
+      "type": "object",
+      "description": "Taxi and Ferry Pricing Schema",
+      "properties": {
+        "市域巡游出租车": { "type": "object" },
+        "黄浦江过江轮渡": { "type": "object" }
+      }
+    },
+    "有线电视与证件": {
+      "type": "object",
+      "description": "Cable TV and ID Documents Pricing Schema",
+      "properties": {
+        "有线电视": { "type": "object" },
+        "证件申领": { "type": "object" }
+      }
+    },
+    "医疗服务_1": {
+      "type": "object",
+      "description": "Medical Services Pricing Schema (Part 1)",
+      "properties": {
+        "医疗服务收费标准": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "医疗项目": { "type": "string" },
+              "细分项目": { "type": "array", "items": { "type": "object" } }
+            }
+          }
+        }
+      }
+    },
+    "医疗服务_2": {
+      "type": "object",
+      "description": "Medical Services Pricing Schema (Part 2)",
+      "properties": {
+        "医疗服务": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "医疗项目": { "type": "string" },
+              "子项目": { "type": "string" },
+              "类别": { "type": "string" },
+              "计费单位": { "type": "string" },
+              "最高收费标准": { "type": ["number", "string"] }
+            }
+          }
+        }
+      }
+    },
+    "医疗服务_3": {
+      "type": "object",
+      "description": "Medical Services Pricing Schema (Part 3)",
+      "properties": {
+        "医疗项目": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "名称": { "type": "string" },
+              "说明": { "type": "string" },
+              "计费单位": { "type": "string" },
+              "最高收费标准（元）": { "type": ["number", "string"] }
+            }
+          }
+        }
+      }
+    },
+    "教育培训_1": {
+      "type": "object",
+      "description": "Education Pricing Schema (Part 1)",
+      "properties": {
+        "教育": {
+          "type": "object",
+          "properties": {
+            "学前教育": { "type": "object" },
+            "基础教育": { "type": "object" }
+          }
+        }
+      }
+    },
+    "教育培训_2": {
+      "type": "object",
+      "description": "Education Pricing Schema (Part 2)",
+      "properties": {
+        "标题": { "type": "string" },
+        "收费项目": { "type": "object" }
+      }
+    },
+    "教育培训_3": {
+      "type": "object",
+      "description": "Education Pricing Schema (Part 3)",
+      "properties": {
+        "教育": {
+          "type": "object",
+          "properties": {
+            "公办高等教育": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "收费项目": { "type": "string" },
+                  "计费单位": { "type": "string" },
+                  "最高收费标准(元)": { "oneOf": [{ "type": "object" }, { "type": "number" }, { "type": "string" }] },
+                  "备注": { "type": "string" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "教育培训_4": {
+      "type": "object",
+      "description": "Education Pricing Schema (Part 4)",
+      "properties": {
+        "教育": {
+          "type": "object",
+          "properties": {
+            "全日制学术型研究生学费": { "type": "object" },
+            "义务教育阶段学科类校外培训": { "type": "object" }
+          }
+        }
+      }
+    },
+    "景区门票_1": {
+      "type": "object",
+      "description": "Scenic Spot Tickets Schema (Part 1)",
+      "properties": {
+        "标题": { "type": "string" },
+        "更新日期": { "type": "string", "format": "date" },
+        "数据": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "地区": { "type": "string" },
+              "景区": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "名称": { "type": "string" },
+                    "普通门票最高价格": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "景区门票_2": {
+      "type": "object",
+      "description": "Scenic Spot Tickets Schema (Part 2)",
+      "properties": {
+        "景区门票": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "区": { "type": "string" },
+              "景点": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "序号": { "type": "number" },
+                    "名称": { "type": "string" },
+                    "普通门票最高价格(元/人)": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "景区门票_3": {
+      "type": "object",
+      "description": "Scenic Spot Tickets Schema (Part 3)",
+      "properties": {
+        "景区门票": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "序号": { "type": "string" },
+                  "名称": { "type": "string" },
+                  "普通门票最高价格(元/人)": { "type": "string" }
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "地区": { "type": "string" }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "交通运输_1": {
+      "type": "object",
+      "description": "Highway Transportation Schema (Part 1)",
+      "properties": {
+        "高速公路路网车辆通行费车型分类收费标准": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "车型类别": { "type": "string", "enum": ["客车", "货车", "专项作业车"] },
+              "子类别": { "type": "array", "items": { "type": "object" } }
+            }
+          }
+        },
+        "备注": { "type": "string" }
+      }
+    },
+    "交通运输_2": {
+      "type": "object",
+      "description": "Highway Transportation Schema (Part 2)",
+      "properties": {
+        "高速公路": { "type": "string", "description": "Specific highway name" },
+        "备注": { "type": "string" },
+        "收费标准": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "车型类别": { "type": "string", "enum": ["客车", "货车", "专项作业车"] },
+              "子类别": { "type": "array", "items": { "type": "object" } }
+            }
+          }
+        }
+      }
+    },
+    "交通运输_3": {
+      "type": "object",
+      "description": "Highway Transportation Schema (Part 3)",
+      "properties": {
+        "高速公路清障救援服务": {
+          "type": "object",
+          "properties": {
+            "拖车": {
+              "type": "object",
+              "properties": {
+                "收费标准": {
+                  "type": "object",
+                  "properties": {
+                    "表格": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "分类": { "type": "string" },
+                          "车型": { "type": "string", "enum": ["小型车", "大型车", "特大型车"] }
+                        }
+                      }
+                    },
+                    "备注": {
+                      "type": "array",
+                      "items": { "type": "string" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "停车收费": {
+      "type": "object",
+      "description": "Parking Fees Schema",
+      "properties": {
+        "机动车停放": {
+          "type": "object",
+          "properties": {
+            "道路内停车(人工收费)": { "type": "object" },
+            "公共换乘停车场(库)机动车换乘停放服务": { "type": "object" }
+          }
+        }
+      }
+    },
+    "不动产登记": {
+      "type": "object",
+      "description": "Real Estate Registration Schema",
+      "properties": {
+        "不动产登记收费标准": {
+          "type": "object",
+          "properties": {
+            "住宅类不动产登记": { "type": "string" },
+            "廉租住房、公共租赁住房、共有产权保障住房和征收安置住房的所有权及其建设用地使用权登记": { "type": "string" },
+            "非住宅类不动产登记": { "type": "string" },
+            "车库、车位、储藏室不动产登记": { "type": "object" },
+            "证书工本费": { "type": "object" },
+            "备注": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

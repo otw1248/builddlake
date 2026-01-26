@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Taxi and Ferry Pricing Schema",
+  "description": "Schema for taxi and ferry pricing",
+  "type": "object",
+  "properties": {
+    "市域巡游出租车": {
+      "type": "object",
+      "properties": {
+        "起租价": {
+          "type": "object",
+          "description": "Initial fare for first 3km",
+          "properties": {
+            "途安车,荣威Ei5、E6纯电动车": { "type": "string" },
+            "普通车": { "type": "string" }
+          }
+        },
+        "超起租里程运价": {
+          "type": "string",
+          "description": "Fare per km after initial distance"
+        },
+        "低速等候费": {
+          "type": "string",
+          "description": "Waiting fee calculation"
+        },
+        "重大节假日附加费": {
+          "type": "object",
+          "properties": {
+            "春节长假期间附加费": { "type": "string" },
+            "国庆长假及劳动节(五一小长假)期间附加费": { "type": "string" }
+          }
+        },
+        "加价规定": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "备注": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "黄浦江过江轮渡": {
+      "type": "object",
+      "properties": {
+        "票价": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "票别": { "type": "string" },
+              "票价": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Highway Transportation Schema (Part 1)",
+  "description": "Schema for highway network vehicle toll classification",
+  "type": "object",
+  "required": ["高速公路路网车辆通行费车型分类收费标准"],
+  "properties": {
+    "高速公路路网车辆通行费车型分类收费标准": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "车型类别": {
+            "type": "string",
+            "enum": ["客车", "货车", "专项作业车"]
+          },
+          "子类别": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "一类": { "type": "string" },
+                "二类": { "type": "string" },
+                "三类": { "type": "string" },
+                "四类": { "type": "string" },
+                "五类": { "type": "string" },
+                "六类": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "备注": { "type": "string" }
+  }
+}

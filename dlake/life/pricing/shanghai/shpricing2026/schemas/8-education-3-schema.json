@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Education Pricing Schema (Part 3)",
+  "description": "Schema for higher education pricing",
+  "type": "object",
+  "required": ["教育"],
+  "properties": {
+    "教育": {
+      "type": "object",
+      "properties": {
+        "公办高等教育": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "收费项目": { "type": "string" },
+              "计费单位": { "type": "string" },
+              "最高收费标准(元)": {
+                "oneOf": [
+                  { "type": "object" },
+                  { "type": "number" },
+                  { "type": "string" }
+                ]
+              },
+              "备注": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

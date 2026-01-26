@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Cable TV and ID Documents Pricing Schema",
+  "description": "Schema for cable TV fees and ID document application fees",
+  "type": "object",
+  "properties": {
+    "有线电视": {
+      "type": "object",
+      "properties": {
+        "类型": { "type": "string" },
+        "收费标准": { "type": "string" },
+        "备注": { "type": "string" }
+      }
+    },
+    "证件申领": {
+      "type": "object",
+      "properties": {
+        "居民身份证": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "项目": { "type": "string" },
+              "收费标准": { "type": "string" },
+              "备注": { "type": "string" }
+            }
+          }
+        },
+        "户口簿": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "项目": { "type": "string" },
+              "收费标准": { "type": "string" },
+              "备注": { "type": "string" }
+            }
+          }
+        },
+        "居住证": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "项目": { "type": "string" },
+              "收费标准": { "type": "string" },
+              "备注": { "type": "string" }
+            }
+          }
+        },
+        "公民出入境证件": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "项目": { "type": "string" },
+              "收费标准": { "type": "string" },
+              "备注": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

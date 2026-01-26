@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Medical Services Pricing Schema (Part 2)",
+  "description": "Schema for home medical services, ward fees, and medical imaging (CT/MR)",
+  "type": "object",
+  "required": ["医疗服务"],
+  "properties": {
+    "医疗服务": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "医疗项目": { "type": "string" },
+          "子项目": { "type": "string" },
+          "类别": { "type": "string" },
+          "计费单位": { "type": "string" },
+          "最高收费标准": { "type": ["number", "string"] }
+        }
+      }
+    }
+  }
+}

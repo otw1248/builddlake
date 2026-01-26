@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Highway Transportation Schema (Part 2)",
+  "description": "Schema for G40 Yangtze River Tunnel Bridge tolls",
+  "type": "object",
+  "required": ["高速公路", "收费标准"],
+  "properties": {
+    "高速公路": {
+      "type": "string",
+      "description": "Specific highway name"
+    },
+    "备注": { "type": "string" },
+    "收费标准": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "车型类别": {
+            "type": "string",
+            "enum": ["客车", "货车", "专项作业车"]
+          },
+          "子类别": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "车型": { "type": "string" },
+                "长江隧道": { "type": "number" },
+                "长江大桥": { "type": "number" },
+                "合计": { "type": "number" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

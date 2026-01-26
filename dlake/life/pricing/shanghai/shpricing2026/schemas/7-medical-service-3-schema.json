@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Medical Services Pricing Schema (Part 3)",
+  "description": "Schema for ultrasound, electrotherapy, and traditional Chinese medicine treatments",
+  "type": "object",
+  "required": ["医疗项目"],
+  "properties": {
+    "医疗项目": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "名称": { "type": "string" },
+          "说明": { "type": "string" },
+          "计费单位": { "type": "string" },
+          "最高收费标准（元）": { "type": ["number", "string"] }
+        }
+      }
+    }
+  }
+}

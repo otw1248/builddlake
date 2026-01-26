@@ -1,0 +1,167 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Water, Electricity, and Gas Pricing Schema",
+  "description": "Schema for residential and non-residential pricing of water, electricity, and gas utilities",
+  "type": "object",
+  "required": ["地区", "适用范围", "公告日期", "生效日期", "阶梯计量周期", "价格详情"],
+  "properties": {
+    "地区": {
+      "type": "string",
+      "description": "Region or city name"
+    },
+    "适用范围": {
+      "type": "object",
+      "description": "Applicable scope for each utility",
+      "properties": {
+        "水": { "type": "string" },
+        "电": { "type": "string" },
+        "气": { "type": "string" }
+      }
+    },
+    "公告日期": {
+      "type": "string",
+      "description": "Announcement date"
+    },
+    "生效日期": {
+      "type": "string",
+      "description": "Effective date"
+    },
+    "阶梯计量周期": {
+      "type": "string",
+      "description": "Tiered pricing calculation period (e.g., 户年 for household-year)"
+    },
+    "价格详情": {
+      "type": "object",
+      "required": ["水", "电", "气"],
+      "properties": {
+        "水": {
+          "type": "object",
+          "properties": {
+            "价格构成说明": { "type": "string" },
+            "阶梯价格": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "用户类型": { "type": "string" },
+                  "阶梯": { "type": "string" },
+                  "用量范围": {
+                    "type": "object",
+                    "properties": {
+                      "下限": { "type": "number" },
+                      "上限": { "type": "number" },
+                      "单位": { "type": "string" },
+                      "说明": { "type": "string" }
+                    }
+                  },
+                  "自来水价格（元/立方米）": { "type": "number" },
+                  "污水处理费（元/立方米）": { "type": "number" },
+                  "综合水价（元/立方米）": { "type": "number" }
+                }
+              }
+            },
+            "非居民价格": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "用户类型": { "type": "string" },
+                  "自来水价格（元/立方米）": { "type": "number" },
+                  "污水处理费（元/立方米）": { "type": "number" },
+                  "综合水价（元/立方米）": { "type": "number" }
+                }
+              }
+            },
+            "附注": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "电": {
+          "type": "object",
+          "properties": {
+            "计价模式说明": { "type": "string" },
+            "居民阶梯价格": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "用户类型": { "type": "string" },
+                  "档位": { "type": "string" },
+                  "用量范围": {
+                    "type": "object",
+                    "properties": {
+                      "下限": { "type": "number" },
+                      "上限": { "type": "number" },
+                      "单位": { "type": "string" },
+                      "说明": { "type": "string" }
+                    }
+                  },
+                  "未分时电价（元/度）": { "type": "number" },
+                  "分时电价（元/度）": {
+                    "type": "object",
+                    "properties": {
+                      "峰时": { "type": "number" },
+                      "谷时": { "type": "number" }
+                    }
+                  }
+                }
+              }
+            },
+            "非居民价格": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "用户类型": { "type": "string" },
+                  "电压等级": { "type": "string" },
+                  "价格（元/度）": { "type": "number" }
+                }
+              }
+            }
+          }
+        },
+        "气": {
+          "type": "object",
+          "properties": {
+            "居民阶梯价格": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "用户类型": { "type": "string" },
+                  "档位": { "type": "string" },
+                  "用量范围": {
+                    "type": "object",
+                    "properties": {
+                      "下限": { "type": "number" },
+                      "上限": { "type": "number" },
+                      "单位": { "type": "string" },
+                      "说明": { "type": "string" }
+                    }
+                  },
+                  "价格（元/立方米）": { "type": "number" }
+                }
+              }
+            },
+            "非居民价格": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "用户类型": { "type": "string" },
+                  "价格（元/立方米）": { "type": "number" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "附注": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

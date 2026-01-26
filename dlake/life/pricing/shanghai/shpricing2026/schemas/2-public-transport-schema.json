@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Public Transportation Pricing Schema",
+  "description": "Schema for bus and metro (rail transit) pricing",
+  "type": "object",
+  "required": ["交通工具"],
+  "properties": {
+    "交通工具": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "类别": {
+            "type": "string",
+            "enum": ["公共汽(电)车", "轨道交通"]
+          },
+          "线路": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "类型": { "type": "string" },
+                "票价": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "备注": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "序号": { "type": "number" },
+          "内容": { "type": "string" }
+        }
+      }
+    }
+  }
+}

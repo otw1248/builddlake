@@ -1,0 +1,168 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Education Pricing Schema (Part 2)",
+  "description": "Schema for high school accommodation and vocational education pricing",
+  "type": "object",
+  "required": ["标题", "收费项目"],
+  "properties": {
+    "标题": { "type": "string" },
+    "收费项目": {
+      "type": "object",
+      "properties": {
+        "公办普通高中住宿费": {
+          "type": "object",
+          "properties": {
+            "标题": { "type": "string" },
+            "一类条件": {
+              "type": "object",
+              "properties": {
+                "标题": { "type": "string" },
+                "计费单位": { "type": "string" },
+                "收费标准": { "type": "number" }
+              }
+            },
+            "二类条件": {
+              "type": "object",
+              "properties": {
+                "标题": { "type": "string" },
+                "计费单位": { "type": "string" },
+                "收费标准": { "type": "number" }
+              }
+            },
+            "三类条件": {
+              "type": "object",
+              "properties": {
+                "标题": { "type": "string" },
+                "计费单位": { "type": "string" },
+                "收费标准": { "type": "number" }
+              }
+            },
+            "备注": {
+              "type": "object",
+              "properties": {
+                "空调加收": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "收费标准": { "type": "number" }
+                  }
+                },
+                "热水加收": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "收费标准": { "type": "number" }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "中等职业教育学费": {
+          "type": "object",
+          "properties": {
+            "标题": { "type": "string" },
+            "一般学校学费": {
+              "type": "object",
+              "properties": {
+                "标题": { "type": "string" },
+                "一般专业": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "最高收费标准": { "type": "number" }
+                  }
+                },
+                "特殊专业": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "最高收费标准": { "type": "number" }
+                  }
+                },
+                "艺术类专业": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "最高收费标准": { "type": "number" }
+                  }
+                }
+              }
+            },
+            "国家级重点学校学费": {
+              "type": "object",
+              "properties": {
+                "标题": { "type": "string" },
+                "一般专业": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "最高收费标准": { "type": "number" }
+                  }
+                },
+                "特殊专业": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "最高收费标准": { "type": "number" }
+                  }
+                },
+                "艺术类专业": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "最高收费标准": { "type": "number" }
+                  }
+                }
+              }
+            },
+            "成人教育学费": {
+              "type": "object",
+              "properties": {
+                "标题": { "type": "string" },
+                "一般专业": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "收费标准范围": { "type": "string" }
+                  }
+                },
+                "艺术类专业": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "收费标准范围": { "type": "string" }
+                  }
+                }
+              }
+            },
+            "职业高中学费": {
+              "type": "object",
+              "properties": {
+                "标题": { "type": "string" },
+                "学费": {
+                  "type": "object",
+                  "properties": {
+                    "标题": { "type": "string" },
+                    "计费单位": { "type": "string" },
+                    "收费标准": { "type": "number" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

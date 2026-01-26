@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Real Estate Registration Schema",
+  "description": "Schema for real estate registration fees",
+  "type": "object",
+  "required": ["不动产登记收费标准"],
+  "properties": {
+    "不动产登记收费标准": {
+      "type": "object",
+      "properties": {
+        "住宅类不动产登记": { "type": "string" },
+        "廉租住房、公共租赁住房、共有产权保障住房和征收安置住房的所有权及其建设用地使用权登记": { "type": "string" },
+        "非住宅类不动产登记": { "type": "string" },
+        "车库、车位、储藏室不动产登记": {
+          "type": "object",
+          "properties": {
+            "单独核发不动产权属证书或登记证明": { "type": "string" }
+          }
+        },
+        "证书工本费": {
+          "type": "object",
+          "properties": {
+            "核发一本不动产权属证书": { "type": "string" },
+            "一个以上不动产权利人分别持证": { "type": "string" }
+          }
+        },
+        "备注": { "type": "string" }
+      }
+    }
+  }
+}

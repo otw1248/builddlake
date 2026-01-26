@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Scenic Spot Tickets Schema (Part 3)",
+  "description": "Schema for scenic spot tickets with mixed structure (Part 3)",
+  "type": "object",
+  "required": ["景区门票"],
+  "properties": {
+    "景区门票": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          {
+            "type": "object",
+            "properties": {
+              "序号": { "type": "string" },
+              "名称": { "type": "string" },
+              "普通门票最高价格(元/人)": { "type": "string" }
+            }
+          },
+          {
+            "type": "object",
+            "properties": {
+              "地区": { "type": "string" }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
