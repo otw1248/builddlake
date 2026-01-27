@@ -1,6 +1,7 @@
 {
   "noticeSourceUrl": "https://openstd.samr.gov.cn/bzgk/gb/notice?r=0.9454553952911597&page={page}&pageSize=50",
   "noticeSourceUrl2": "https://openstd.samr.gov.cn/bzgk/gb/notice?r=0.9454553952911597&page={page}",
+  "noticeDetailSourceUrl": "https://openstd.samr.gov.cn/bzgk/gb/nd?no=",
   "pageParam": {
     "name": "page",
     "minValue": 1,
@@ -26,6 +27,51 @@
         "textPattern": "float\\s+\\w+\\}\\s*([^<]+)",
         "type": "date",
         "format": "YYYY-MM-DD"
+      }
+    }
+  },
+  "noticeDetailItem": {
+    "selector": "tr",
+    "fields": {
+      "noticeNo": {
+        "extractFrom": "text",
+        "pattern": "^\\d+$",
+        "type": "string"
+      },
+      "stdCode": {
+        "extractFrom": "text",
+        "pattern": "(?:GB|GB/T)?\\s*[A-Z]{1,2}(?:/[A-Z])?\\s*\\d+(?:\\.\\d+)*(?:-\\d+)?",
+        "type": "string"
+      },
+      "stdHeaderUrl": {
+        "extractFrom": "href",
+        "pattern": "http://openstd\\.samr\\.gov\\.cn/bzgk/gb/newGbInfo\\?hcno=[A-F0-9]+",
+        "type": "string"
+      },
+      "previousStdCode": {
+        "extractFrom": "text",
+        "pattern": "(?:GB|GB/T)?\\s*[A-Z]{1,2}(?:/[A-Z])?\\s*\\d+(?:\\.\\d+)*(?:-\\d+)?",
+        "type": "string",
+        "optional": true
+      },
+      "stdNameCn": {
+        "extractFrom": "text",
+        "pattern": ".*",
+        "type": "string"
+      },
+      "stdReleaseDate": {
+        "extractFrom": "text",
+        "pattern": "\\d{4}-\\d{2}-\\d{2}",
+        "type": "date",
+        "format": "YYYY-MM-DD",
+        "optional": true
+      },
+      "stdActivatedDate": {
+        "extractFrom": "text",
+        "pattern": "\\d{4}-\\d{2}-\\d{2}",
+        "type": "date",
+        "format": "YYYY-MM-DD",
+        "optional": true
       }
     }
   }
