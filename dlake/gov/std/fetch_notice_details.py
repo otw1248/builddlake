@@ -346,7 +346,7 @@ class NoticeDetailFetcher:
 
         return items
     
-    def process_notices(self, max_per_run: int = 50):
+    def process_notices(self, max_per_run: int = 90):
         """
         Main processing loop:
         1. Get notice ID list sorted by number
@@ -396,11 +396,11 @@ class NoticeDetailFetcher:
                 continue
 
             # Step 1: Skip until we find notice greater than cursor
-            # if not start_processing:
-            #     if notice_no >= notice_no_cursor:
-            #         start_processing = True
-            #     else:
-            #         continue
+            if not start_processing:
+                if notice_no >= notice_no_cursor:
+                    start_processing = True
+                else:
+                    continue
 
             print(f"\nProcessing notice: {notice_no}")
 
@@ -421,6 +421,12 @@ class NoticeDetailFetcher:
 
             if not notice_details:
                 print(f"No details found for notice {notice_no}")
+                # Added by AI Assistant on 2026-01-27
+                # Write URL and issue content to tocheck.txt
+                tocheck_file = self.output_dir / "tocheck.txt"
+                with open(tocheck_file, 'a', encoding='utf-8') as f:
+                    f.write(f"{url}\n")
+                    f.write(f"Issue: No details found for notice {notice_no}\n")
                 continue
 
             # If less than 5 items, add URL to tocheck.txt
@@ -458,9 +464,9 @@ class NoticeDetailFetcher:
 
             processed_count += 1
 
-            # Wait 10 seconds before processing next notice
+            # Wait 20 seconds before processing next notice
             import time
-            time.sleep(10)
+            time.sleep(20)
 
         print(f"\nRun complete. Processed {processed_count} notices.")
 
