@@ -144,7 +144,7 @@ def main():
     updated_count = 0
     for notice in sorted_notices:
         # Limit to 10 updates per run
-        if updated_count >= 2000:
+        if updated_count >= 200:
             print(f"\nReached limit of 2000 updates. Stopping.")
             break
         std_code = notice.get('stdCode', '')
@@ -210,7 +210,7 @@ def main():
             print(f"  Updated and saved (total updated: {updated_count})")
             
             # Wait 30 + random(1-60) seconds before next request
-            wait_time = 10 + random.randint(1, 30)
+            wait_time = 5 + random.randint(1, 25)
             print(f"  Waiting {wait_time} seconds before next request...")
             time.sleep(wait_time)
         else:
