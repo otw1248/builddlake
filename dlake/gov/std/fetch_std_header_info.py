@@ -144,7 +144,7 @@ def main():
     updated_count = 0
     for notice in sorted_notices:
         # Limit to 10 updates per run
-        if updated_count >= 200:
+        if updated_count >= 2000:
             print(f"\nReached limit of 2000 updates. Stopping.")
             break
         std_code = notice.get('stdCode', '')
