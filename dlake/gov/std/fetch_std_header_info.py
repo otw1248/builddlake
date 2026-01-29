@@ -126,15 +126,17 @@ def main():
     # Step 2: Read std-meta-info.json
     print("Loading std-meta-info.json...")
     meta_info = load_json_file(meta_info_path)
-    
+
     notice_no_cursor_from_detail = meta_info.get('noticeNoCursorFromDetail', '')
     std_code_cursor = meta_info.get('stdCodeCursor', '')
     std_code_already_fetched_list = set(meta_info.get('stdCodeAlreadyFetchedList', '').split(',')) if meta_info.get('stdCodeAlreadyFetchedList') else set()
     std_code_ignore_list = set(meta_info.get('stdCodeIgnoreList', '').split(',')) if meta_info.get('stdCodeIgnoreList') else set()
+    no_std_header_url_notice_no_list = set(meta_info.get('noStdHeaderUrlNoticeNoList', '').split(',')) if meta_info.get('noStdHeaderUrlNoticeNoList') else set()
     
     # Filter out empty strings from sets
     std_code_already_fetched_list.discard('')
     std_code_ignore_list.discard('')
+    no_std_header_url_notice_no_list.discard('')
     
     print(f"Already fetched: {len(std_code_already_fetched_list)}, Ignored: {len(std_code_ignore_list)}")
     
@@ -142,8 +144,8 @@ def main():
     updated_count = 0
     for notice in sorted_notices:
         # Limit to 10 updates per run
-        if updated_count >= 200:
-            print(f"\nReached limit of 200 updates. Stopping.")
+        if updated_count >= 2000:
+            print(f"\nReached limit of 2000 updates. Stopping.")
             break
         std_code = notice.get('stdCode', '')
         
@@ -168,6 +170,12 @@ def main():
 
         if not std_header_url:
             print(f"  No stdHeaderUrl found for {std_code}")
+            # Added by AI Assistant on 2026-01-29
+            # Add noticeNo to noStdHeaderUrlNoticeNoList
+            no_std_header_url_notice_no_list.add(notice_no)
+            meta_info['noStdHeaderUrlNoticeNoList'] = ','.join(sorted(no_std_header_url_notice_no_list))
+            save_json_file(meta_info_path, meta_info)
+            print(f"  Added noticeNo {notice_no} to noStdHeaderUrlNoticeNoList")
             continue
         
         html = fetch_html(std_header_url)
