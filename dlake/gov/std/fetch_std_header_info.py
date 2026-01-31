@@ -210,7 +210,7 @@ def main():
             print(f"  Updated and saved (total updated: {updated_count})")
             
             # Wait 30 + random(1-60) seconds before next request
-            wait_time = 5 + random.randint(1, 25)
+            wait_time = 5 + random.randint(1, 15)
             print(f"  Waiting {wait_time} seconds before next request...")
             time.sleep(wait_time)
         else:
