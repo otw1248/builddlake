@@ -1,0 +1,29 @@
+Processing: GB/T 41158.2-2022 (noticeNo: 1681, url: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=190A106B2279ED102B325D352B234C93)
+  No header info extracted from HTML
+
+Processing: GB/T 41158.1-2022 (noticeNo: 1681, url: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A544B749BCB1665F07F75EBFB589FECB)
+  No header info extracted from HTML
+
+Processing: GB/T 41158.5-2022 (noticeNo: 1681, url: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B8D8698CA49A1A245389D8E44E3A1AF9)
+  No header info extracted from HTML
+
+Processing: GB/T 41158.6-2022 (noticeNo: 1681, url: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=04CDC1DEF5B14DD95D5498059B66991B)
+  No header info extracted from HTML
+
+Processing: GB/T 41158.4-2022 (noticeNo: 1681, url: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=31DFB350E94785DB899816FB76DE7F31)
+  No header info extracted from HTML
+
+Processing: GB/T 41158.3-2022 (noticeNo: 1681, url: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=44CEC4653219A83D8A85D96041D81920)
+  No header info extracted from HTML
+
+Processing: GB/T 41158.7-2022 (noticeNo: 1681, url: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=CFE6525B6E05173BADB0998262993204)
+  No header info extracted from HTML
+
+Processing: GB/T 41157-2022 (noticeNo: 1742, url: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B352079059EE5EDC9EAA9AA010A5E752)
+  No header info extracted from HTML
+
+  Processing:  (noticeNo: 621, url: )
+  No stdHeaderUrl found for 
+  Added noticeNo 621 to noStdHeaderUrlNoticeNoList
+
+  
