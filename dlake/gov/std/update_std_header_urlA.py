@@ -97,28 +97,41 @@ def parse_std_header(html, std_code, std_header_url):
 def main():
     # File paths
     notice_details_path = '/workspace/dlake/gov/std/notice-details.json'
+    std_meta_info_path = '/workspace/dlake/gov/std/std-meta-info.json'
      
-    # Step 1: Read notice-details.json
+    # Step 1: Read std-meta-info.json to get ignore list
+    print("Loading std-meta-info.json...")
+    std_meta_info = load_json_file(std_meta_info_path)
+    ignore_list_str = std_meta_info.get('stdCodeIgnoreList', '')
+    ignore_list = set([code.strip() for code in ignore_list_str.split(',') if code.strip()])
+    print(f"Ignore list contains {len(ignore_list)} stdCodes")
+
+    # Step 2: Read notice-details.json
     print("Loading notice-details.json...")
     notice_details = load_json_file(notice_details_path)
     
-    # Step 2: Find items with stdHeaderUrl, id, noticeNo not empty, but stdCode or stdNameCn or stdNameEn or hcno is empty
+    # Step 3: Find items with stdHeaderUrl, id, noticeNo not empty, but stdCode or stdNameCn or stdNameEn or hcno is empty
+    # Skip items whose stdCode is in the ignore list
     items_to_update = []
     for item in notice_details:
         std_header_url = item.get('stdHeaderUrl', '')
         id_value = item.get('id', '')
         notice_no = item.get('noticeNo', '')
+        std_code = item.get('stdCode', '')
         
         # Check if stdHeaderUrl, id, noticeNo are not empty
         if std_header_url and id_value and notice_no:
             # Check if any of stdCode, stdNameCn, stdNameEn, hcno is empty
-            if (not item.get('stdCode') or not item.get('stdNameCn') or 
+            # Also skip if stdCode is in the ignore list
+            if std_code in ignore_list:
+                print(f"Skipping {std_code} (in ignore list)")
+            elif (not std_code or not item.get('stdNameCn') or 
                 not item.get('stdNameEn') or not item.get('hcno')):
                 items_to_update.append(item)
     
     print(f"Found {len(items_to_update)} items to update")
     
-    # Step 3: Update each item
+    # Step 4: Update each item
     updated_count = 0
     for item in items_to_update:
         std_header_url = item.get('stdHeaderUrl', '')
