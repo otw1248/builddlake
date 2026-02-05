@@ -1,10 +1,11 @@
-Found 255 items with invalid stdNameEn or hcno:
+Found 179 items with invalid stdNameEn or hcno:
 
 [Index 158] ID: 16  noticeNo: 81
   stdCode: GB/T 10827.1-2014
   stdNameCn: 工业车辆  安全要求和验证  第1部分：自行式工业车辆（除无人驾驶车辆、伸缩臂式叉车和载运车）
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B9432660D53D30062F1E65A1F59A2A61
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -13,6 +14,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 钢制球形储罐
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=0F62291B792C0C502ABFF2B536187C54
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -21,6 +23,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 米糠油
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=AE2D0848268F09B0847F5DDCD21E2A8C
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -29,6 +32,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 纳米孔气凝胶复合绝热制品
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EF801885FCD398BFE00D83C26BD44315
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -37,6 +41,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 玩具产品质量可追溯性管理要求及指南
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=6D5D09AFB97DDCF7DED2FA80D49D889F
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -45,6 +50,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 插电式混合动力电动商用车 技术条件
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1EE70481BB07711D22C0BA6BAAB5A2CA
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -53,6 +59,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 生活垃圾流化床焚烧锅炉
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=8CA1F31319EF363D49F746B063D1007F
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -61,6 +68,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 智慧矿山信息系统通用技术规范
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=8D6DAF5A1D2A20B1ACFEDB3B1954FD3F
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -69,6 +77,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 智慧城市评价模型及基础评价指标体系 第3部分：信息资源
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=9636709CBF9D133ADDF39A0602033911
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -77,6 +86,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 智慧城市 技术参考模型
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=7FED1779D26143E4664D1EE1CA6411CD
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -85,6 +95,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 玉米全程机械化生产技术规范
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=23CBF9FA1FB93E311799B2F0AE1A228D
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -93,6 +104,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 自走式秸秆收获方捆压捆机
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=D7B13038EED3FA10EA5CD36F9F234981
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -101,6 +113,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 珠宝玉石 名称
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=18FFB042811998A0309E05CF452B2438
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -109,6 +122,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 珠宝玉石 鉴定
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E0EB1F499F6CC7F2C78351FACEFA7334
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -117,6 +131,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 城市社区多功能公共运动场配置要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=0ECF73E404B51D0FA2755CE4ADD82E44
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -125,6 +140,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动平衡车安全要求及测试方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=68EEFBDE61125A4D32E4BB52694ACFF3
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -133,6 +149,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动平衡车通用技术条件
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E2178B0FB0A43DE2E12E71D91A996BA6
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -141,6 +158,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 聚乙烯吹塑农用地面覆盖薄膜
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=35C143A081197B76BAAE059A52852DC3
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -149,6 +167,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 智慧城市评价模型及基础评价指标体系 第1部分：总体框架及分项评价指标制定的要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=94A3D226FB1D802A5F2E348B0C4BEDBC
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -157,6 +176,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 卫生洁具 智能坐便器
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5D2A37186C72DEA3D8774B7D44213998
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -165,6 +185,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 农产品物流包装材料通用技术要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=83E45AE576E96A36BC41ADC9B9617EDC
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -173,6 +194,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 生活垃圾卫生填埋场环境监测技术要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=79015A3F60CB5B17A6FADC9DEBE562E1
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -181,6 +203,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 国家基本比例尺地图图式 第2部分：1:5 000 1:10 000地形图图式
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=DC96086D46F32B79F235AD44E042F589
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -189,6 +212,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 国家基本比例尺地图图式 第1部分：1:500 1:1 000 1:2 000地形图图式
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=79A910C639883356F324E7A6DCC0C289
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -197,6 +221,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 国家基本比例尺地图图式 第4部分：1:250 000 1:500 000 1:1 000 000地形图图式
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A10C755C261309F52BC8EF4D463FD6D9
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -205,6 +230,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 国家基本比例尺地图图式 第3部分：1:25 000 1:50 000 1:100 000地形图图式
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=288C537E66D4001BD11CBCEFF0FBE3C5
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -213,6 +239,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 职工基本养老保险待遇支付服务规范
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=50E80F36883A192A53CA1D8B7A6ED621
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -221,6 +248,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 再制造 机械零件剩余寿命评估指南
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=8684953C1D0FFC5C2C56B460D397DE65
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -229,6 +257,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 库存积压商品流通术语和分类
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=56150292B4E939974CB49D63C0D12642
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -237,6 +266,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动汽车传导充电互操作性测试规范 第1部分：供电设备
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=263618D6BE2587B97C7779C280A4AF1D
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -245,6 +275,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动汽车传导充电互操作性测试规范 第2部分：车辆
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=F190A1B56E3011885265722D37A5448F
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -253,6 +284,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动汽车非车载传导式充电机与电池管理系统之间的通信协议一致性测试
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A8BD41351026A7825F4726BBF6CD1E83
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -261,6 +293,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 海洋沉积物间隙生物调查规范
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=25CF9DCF6F043BE6739828D1621CD884
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -269,6 +302,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 客车结构安全要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=379BF4826E7DF837D42BFF97FF59D9EA
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -277,6 +311,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 休闲主体功能区服务质量规范
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=8780CDE28CF8C15F2CDC768BEB12C006
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -285,6 +320,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 服务信息公开规范
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=170B31C6C003F08E01CB88D357437054
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -293,6 +329,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 滨海渔家乐经营与服务规范
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=3B079EB1B66CBD4613D7E3296E8D6BC2
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -301,6 +338,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 饲料卫生标准
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=9E5467EA1922E8342AF5F180319F34A0
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -309,6 +347,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 木家具通用技术条件
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C28EC1A5AE106E63F864FBEA8D597DF7
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -317,6 +356,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 汽油辛烷值的测定 马达法（第1号修改单）
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: None
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -325,6 +365,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 汽油辛烷值的测定 研究法（第1号修改单）
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: None
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -333,6 +374,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机动车驾驶员培训机构资格条件（第1号修改单）
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: None
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -341,6 +383,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电力变压器 第1部分：总则《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: None
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -349,6 +392,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 地理标志产品 道光廿五贡酒(锦州道光廿五贡酒)《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: None
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -357,6 +401,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 中小学校教室采光和照明卫生标准《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: None
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -365,6 +410,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 铁路大型线路机械检查与试验方法《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: None
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -373,6 +419,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 铁路大型线路机械通用技术条件《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: None
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -381,6 +428,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 中小功率内燃机 第1部分：通用技术条件《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5E3FBA0817C554D053D5CC53DC53341F
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -389,6 +437,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 粗钢生产主要工序单位产品能源消耗限额《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: None
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -397,6 +446,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 通用硅酸盐水泥《第3号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: None
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -405,6 +455,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 国民经济行业分类《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A703F0E23DD165A5A1318679F312D158
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -413,6 +464,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 制冷剂编号方法和安全性分类《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=ABEBF9FABAB50352DC6364074A45B3CF
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -421,6 +473,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 制冷系统及热泵 安全与环境要求《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EDD74FF4F2F8D0D39D5AA50B9DF62383
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -429,6 +482,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 玉米油《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=98E38A1A8423895B93DFF74208589897
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -437,6 +491,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 风力发电机组 高强螺纹连接副安装技术要求《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B32D1A5C4A9716A865B21B1667125877
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -445,6 +500,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 量度继电器和保护装置 第27部分：产品安全要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4C65FB79459021C7500D1E1454CB6127
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -453,6 +509,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 港口危险货物集装箱堆场安全作业规程
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5EC56002A4066B6715BC0A660AB8C7D4
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -461,6 +518,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 饲料原料显微镜检查方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=ADFFDE79ED3C5A8E755DC46B35929C11
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -469,6 +527,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 工业氟硅酸钠
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=DFD7159D9148E56D4441AE710F6EED45
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -477,6 +536,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机动车运行安全技术条件
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=06A0C376A0CA7B14E93106194C99730F
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -485,6 +545,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 高压锅炉用无缝钢管《第01号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=F077FD1725B73B9CA25DB5EFD4E9B202
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -493,6 +554,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: LED灯具可靠性试验方法《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=37F0F4722650731B4326DB4F882F1358
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -501,6 +563,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 碳纤维复丝拉伸性能试验方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=54B16FC0761DAFF523E8E5290B61555B
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -509,6 +572,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 车用压缩氢气铝内胆碳纤维全缠绕气瓶
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=53A123FBDDE4959413DD1B5BB8E7951A
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -517,6 +581,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 纸尿裤和卫生巾用高吸收性树脂
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4D1F8BBE25568A161364DB2ABAA3CEF6
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -525,6 +590,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 道路运输爆炸品和剧毒化学品车辆安全技术条件
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E43B2810803A76A2FA5D0DC20F94DC07
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -533,6 +599,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 固体矿产勘查工作规范
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=CFA5F5478859EF20919BB8135DAD988C
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -541,6 +608,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 地面数字电视接收机通用规范
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E05E98BEE8A4F77968320C943AFF0F12
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -549,6 +617,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 地面数字电视接收器通用规范
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2C1621EED3E3013B6227534254B8AA0F
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -557,6 +626,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 消毒剂原料清单及禁限用物质
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C04211ADE0E4A79B1E421CE7DCCE5FE2
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -565,6 +635,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 城镇供热服务《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C97454DA41CB056837DDBEEB910F646C
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -573,6 +644,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 制冷剂编号方法和安全性分类《第2号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=ABEBF9FABAB50352DC6364074A45B3CF
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -581,6 +653,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 制冷系统及热泵 安全与环境要求《第2号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EDD74FF4F2F8D0D39D5AA50B9DF62383
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -589,6 +662,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 草鱼出血病诊断规程《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=9DB78B552982011CB6ED5921C6018243
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -597,6 +671,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 淀粉基塑料购物袋《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1C673B5B569B5931DD9999D5E5454780
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -605,6 +680,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机动车运行安全技术条件
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=06A0C376A0CA7B14E93106194C99730F
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -613,6 +689,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 水及燃气用球墨铸铁管、管件和附件
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=69BDE37D18BFFE65EA3E4E810ECE1A11
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -621,6 +698,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 起酥油
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=02AFA7295069E67AEEB008D9FBFDDE0C
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -629,6 +707,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 无缝和焊接（埋弧焊除外）钢管纵向和/或横向缺欠的全圆周自动超声检测
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=9CC92E7DD0FD99B88CEA538409159048
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -637,6 +716,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 绝热用玻璃棉及其制品
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=79E67607CDA102BF3D9A6169849B40AC
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -645,6 +725,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 自动化系统与集成 制造运行管理的关键性能指标 第2部分：定义和描述
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4916E764A4EEE06D414BC4EB69BA6074
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -653,6 +734,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 梳棉胎
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=6CEB0FEBF5A3E5117E38F0B12988ED34
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -661,6 +743,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 家用和类似用途皮肤美容器
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=D975151310DE42EFEEBDC9BE7F60D2BC
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -669,6 +752,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 地漏
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A4DDBA219EA86120BEBF589540BDC6B2
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -677,6 +761,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 物流仓储配送中心成件物品连续垂直输送机
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=8C1387C3129182AB017E5AB22DD0E686
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -685,6 +770,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机械产品三维工艺设计 第2部分：通用要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=190A106B2279ED102B325D352B234C93
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -693,6 +779,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机械产品三维工艺设计 第1部分：术语和定义
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A544B749BCB1665F07F75EBFB589FECB
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -701,6 +788,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机械产品三维工艺设计 第5部分：详细设计
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B8D8698CA49A1A245389D8E44E3A1AF9
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -709,6 +797,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机械产品三维工艺设计 第6部分：数据要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=04CDC1DEF5B14DD95D5498059B66991B
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -717,6 +806,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机械产品三维工艺设计 第4部分：工艺符号与标注
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=31DFB350E94785DB899816FB76DE7F31
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -725,6 +815,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机械产品三维工艺设计 第3部分：模型构建
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=44CEC4653219A83D8A85D96041D81920
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -733,6 +824,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机械产品三维工艺设计 第7部分：发放要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=CFE6525B6E05173BADB0998262993204
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -741,6 +833,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 视觉模组光电性能的图像式检测方法
   stdNameEn: Image-based test method for vision module photoelectric performance
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2A0F7B8CE73344021401A85013D61511
   - hcno is invalid: None
 
 [Index 15809] ID: 330  noticeNo: 1681
@@ -748,6 +841,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动汽车仪表《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C587B22F0073C383DA90726408350345
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -756,6 +850,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 魔芋凝胶食品质量通则
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B352079059EE5EDC9EAA9AA010A5E752
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -764,6 +859,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 铝塑复合压力管 第1部分：铝管搭接焊式铝塑《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=986FE5A9C5FD5674EDE5E52B01A764EB
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -772,6 +868,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 铝塑复合压力管 第2部分：铝管对接焊式铝塑管《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=9EAB4DF20F272E8035F00BE2A90B7627
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -780,6 +877,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 限制商品过度包装要求 食品和化妆品
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=30366DF41D69DA50E3EEABC0CE18A241
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -788,6 +886,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 浸渍胶膜纸饰面胶合板和细木工板《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=50A62315A7D7BDA202FC8F36112DA495
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -796,6 +895,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 蒸压加气混凝土板《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2AA5370607E5683502B45C02D4724523
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -804,6 +904,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 临时搭建演出场所舞台、看台安全《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E86C2C6AF99BEB4FAC216FC12EED0585
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -812,6 +913,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 制药机械 电气安全通用要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=791A9206B29D78F2BC4A8F8FAC498541
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -820,6 +922,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 中华人民共和国口岸及相关地点代码
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=695E692302A4AC4609434D48B61EBB2A
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -828,6 +931,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 液化石油气瓶阀
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5FC561AB82BC5307087642A586DF079B
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -836,6 +940,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 肥料级硫酸铵
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BD443EEE071DB4D2B1B5E1B0713EB280
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -844,6 +949,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 菜籽油《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EFE2E82212B85BEDF1A1636EA24A8884
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -852,6 +958,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 手持式、可移式电动工具和园林工具的安全 第2部分：电钻和冲击电钻的专用要求《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=3A7FFB61D5E6FCB69F0B7B685D278CCC
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -860,6 +967,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 有机无机复混肥料《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1D058CB95DC9BD89C0CFDFEF9B9A2DDE
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -868,6 +976,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 玉米干燥技术规范《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=CB60ACEE52E232C884AB0F49F89AF573
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -876,6 +985,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 橄榄油、油橄榄果渣油《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E4072E961789AD3C72F7B2B9B2F983A5
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -884,6 +994,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 输送液化石油气和液化天然气用热塑性塑料多层（非硫化）软管及软管组合件 规范《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1363B80CBE589AD01182E04E465A5663
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -892,6 +1003,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 旅居车辆  术语
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=CBE5A858839D29AA96DFAA403A806059
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -900,6 +1012,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 无损检测 Ｘ射线应力测定方法《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=251E33438ACBF8185EEB518193B0C9F7
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -908,6 +1021,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 焦化苯《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5FBA466C540048D6864806183CD79A09
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -916,6 +1030,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 客车结构安全要求《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=379BF4826E7DF837D42BFF97FF59D9EA
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -924,6 +1039,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 儿童口罩技术规范《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=29B9D79AC9E657074D49ECC897E88537
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -932,6 +1048,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 空气压缩机油《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=CD2C13958E13FA17134238B308D31C58
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -940,6 +1057,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 乘用车 车轮 弯曲和径向疲劳性能要求及试验方法《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=3F9CB8480E544C1A93EC8531CC727E44
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -948,6 +1066,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 机械通风冷却塔 第3部分：闭式冷却塔《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=802CC3D38F953A505E9990F0C1EB82F0
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -956,6 +1075,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 日用保温容器《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5D4C3D44C287A403785DF335319296DC
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -964,6 +1084,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 能量系统㶲分析技术导则《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5EB7A209A767D2482E2FB4E00D407515
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -972,6 +1093,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 液相色谱仪测试用标准色谱柱《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E2AE2BC551EA40B863BB1C7AA541E0DD
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -980,6 +1102,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 波浪能转换装置发电性能评估《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=ACD115E4C2C4D285D2CE5C0926F01CE9
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -988,6 +1111,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 安全管理体系 要求
   stdNameEn: Safety management systems—Requirements
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=47123E12F8D94E541FFA715C1018DE50
   - hcno is invalid: None
 
 [Index 20642] ID: 414  noticeNo: 2082
@@ -995,6 +1119,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 衣料用洗涤剂去污力及循环洗涤性能的测定《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=7D2A7510B263054FD1C676CC056FA216
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1003,6 +1128,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 金属清洗剂《第1号修改单》
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=44ABECA848AB02844BA21430083B0E22
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1011,6 +1137,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 限制商品过度包装要求 食品和化妆品
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=30366DF41D69DA50E3EEABC0CE18A241
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1019,6 +1146,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 小艇 用操纵速度确定最大推进额定功率 第2部分：艇体长度在8m～24m之间的艇
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B45ED217DE1E457788CA46E0C8A47A08
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1027,6 +1155,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 化学试剂 总氮量测定通用方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=8B2EB8A18710FE2EFD5F36F0BC6FA0A8
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1035,6 +1164,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 玻璃纤维无捻粗纱
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=DDB461EF7A23C2145544F67DFB5BF640
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1043,6 +1173,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 在用含缺陷压力容器安全评定
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=30BBE37873688A3081736CC844065582
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1051,6 +1182,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 消毒产品标签说明书通用要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=6E8C494C8EBF39926D4EAAC7654626FE
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1059,6 +1191,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 道路车辆 标牌和标签
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4F8970BDF94E018A66CEA6CFF1306701
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1067,6 +1200,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 信息技术服务 运行维护 第8部分：医院信息系统管理要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=9DF5490025F8AC19F8C238B2364AD955
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1075,6 +1209,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 外壳防护等级（IP代码）
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=09CCED55688D4116ED89659C1E7526F8
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1083,6 +1218,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=CC7819055CDE3194BB3B136BAD5CF58D
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1091,6 +1227,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 食用马铃薯淀粉
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=91E84FDF86E8FD385249C8A9EE7898FE
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1099,6 +1236,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动自行车用充电器安全技术要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BC0D9809C45954F590D4CFDF19EAFF90
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1107,6 +1245,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 汽车和挂车 制动器用零部件技术要求及试验方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=80D3A4E95AA55554B3C7D2993DF1669C
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1115,6 +1254,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动自行车电气安全要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=591FC179B14496C8827A3C2997624691
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1123,6 +1263,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 信息技术 中文编码字符集
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A1931A578FE14957104988029B0833D3
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1131,6 +1272,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 松香试验方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2DDCB760A952341AEFBA8EC331EA088C
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1139,6 +1281,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 金属材料 硬度和材料参数的仪器化压入试验 第2部分：试验机的检验和校准
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4459931BB469619172A7C60CECD0AABA
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1147,6 +1290,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 考试用铅笔和涂卡专用笔
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=77F1EDA67E3B4C2DEA123223E0E6AD25
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1155,6 +1299,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 用于水泥和混凝土中的粉煤灰
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=55F3B96AC1260FCD3C9452FF47C087E5
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1163,6 +1308,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 罐头食品的检验方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=9D0F7557F8B264350168F3CD32579E25
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1171,6 +1317,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 罐头食品代号
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4D78E5CEAA1EC3659A7D38B183A96BF9
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1179,6 +1326,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 光源控制装置 第 1 部分:一般要求和安全要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B4D7B50A132F6C12F82A082F5B2E5A8E
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1187,6 +1335,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 螺口灯座
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EE093FC5282F7BD720394694A3AF63AD
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1195,6 +1344,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 管形荧光灯灯座和启动器座
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=F4E0D5C879ECCAF4BD13473F16AF09A6
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1203,6 +1353,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 卡口灯座
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5765D7E7BA85799E8A35488CDC27D5BA
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1211,6 +1362,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 光源控制装置 第2-13部分：LED模块用直流或交流电子控制装置的特殊要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B0E53DCC41345B7603F79205BD0293BA
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1219,6 +1371,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 气瓶阀通用技术要求
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C6A8FE53440B9CE0DA4968C964C1B3F9
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1227,6 +1380,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 钢质焊接气瓶
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2C4C0E1B0789B98CD847E5DED54ACDBE
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1235,6 +1389,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 地闪密度分布图绘制方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=8F21757BBAD6170D2B5AF8865C0992AD
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1243,6 +1398,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 信息技术 IT赋能服务业务过程外包（ITES-BPO）生存周期过程 第7部分：成熟度评估范例
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=637D38EE22DC81546F534FC8E7FB706D
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1251,6 +1407,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 高压交流熔断器 第8部分：应用导则
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=742537A2D374720AA8A5D563C1D6486D
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1259,6 +1416,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 海洋能 波浪能、潮流能及其他水流能转换装置 第4部分：新技术鉴定
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=F071ABD52C20FB3B27D582878EBBEF13
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1267,6 +1425,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 轿车轮胎
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E297EF57612F2ACDACE2915D48F35DD9
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1275,6 +1434,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 载重汽车轮胎
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=60BBFBF50CEB2E16603E0021AD325652
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1283,6 +1443,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 煤炭机械化采样 第3部分：精密度测定和偏倚试验
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=67000DF33B00CB0351AD5F0369D79B3E
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1291,6 +1452,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 冷热水用钢增强塑料复合压力管
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=95EEFDCF61143C240C8FF6DF15DC4D72
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1299,6 +1461,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 玉米收获机械
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=8AADB6C077370406D0E4F6FD6933B075
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1307,6 +1470,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 锻制承插焊和螺纹管件
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=9470B225F73CCADDABFF2BC062C3D734
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1315,6 +1479,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 三相异步电动机试验方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=46417B7B778C6036D40BEA7403A93733
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1323,6 +1488,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 道路交通标志和标线  第2部分：道路交通标志
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=15B1FC09EE1AE92F1A9EC97BA3C9E451
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1331,6 +1497,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动汽车能量消耗量和续驶里程试验方法 第1部分：轻型汽车
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=018D351EFF1AACD87C5919D0F21BEEBE
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1339,6 +1506,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 燃料电池电动汽车能量消耗量及续驶里程试验方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=8A3802BE144DE95B270A3FA791A75EB5
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1347,6 +1515,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动汽车能耗折算方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=59FFD3D8B126FD2D44F79251566145B1
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1355,6 +1524,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 铝合金无缝气瓶
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=3557BBDC6B58337CEEFA2853501BC6FA
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1363,6 +1533,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 大容积钢质无缝气瓶
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=967AD478A74EE4E273C789E44099A04B
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1371,6 +1542,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 碳酸锂、单水氢氧化锂、氯化锂化学分析方法  第2部分：氢氧化锂含量的测定  酸碱滴定法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=8B7F432DB9EAFB195564CA865922167B
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1379,6 +1551,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 原油船货油舱用耐腐蚀球扁钢
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C4CB873AE568FAEAE8F7BB0A4CC5A9FD
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1387,6 +1560,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 专用小麦粉
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=D2AF196211F251C2D1358B06359C382C
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1395,6 +1569,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 小麦和小麦粉 面筋含量 第2部分：仪器法测定湿面筋和面筋指数
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A97F97158F39659EC72EA1C1B7FFE019
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1403,6 +1578,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 粮油检验 稻谷和糙米潜在出米率测定方法
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=6A52A3163E569CD932BD6C7B9ED60791
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1411,6 +1587,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 小米
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1DB1550C83FF986F9A88A22FDBCA4B22
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1419,6 +1596,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 高压交流隔离开关和接地开关
   stdNameEn: None
   hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=66EC8A1CCDF11D2CA3826648ECF3BB4F
   - stdNameEn is invalid: None
   - hcno is invalid: None
 
@@ -1427,614 +1605,7 @@ Found 255 items with invalid stdNameEn or hcno:
   stdNameCn: 电动汽车远程服务与管理系统信息安全技术要求及试验方法
   stdNameEn: None
   hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 27990] ID: 1  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 电磁兼容 综述 第5部分：高功率电磁环境（HPEM）对民用系统的影响
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 27991] ID: 2  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 电磁兼容 安装和减缓导则 第8部分：分布式基础设施的HEMP防护方法
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 27992] ID: 3  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 电磁兼容 安装和减缓导则 第9部分：HEMP和HPEM的系统级敏感度评估
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 27993] ID: 4  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 电磁兼容 试验和测量技术 第35部分：HPEM模拟器概述
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 27994] ID: 5  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 电磁兼容 试验和测量技术 第32部分：高空电磁脉冲（HEMP）模拟器概述
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 27995] ID: 6  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 金融服务中基于互联网服务的应用程序编程接口技术规范
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 27996] ID: 7  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 道路车辆 电气/电子部件对传导和耦合引起的电骚扰试验方法 第4部分：沿高压屏蔽电源线的电瞬态传导发射和抗扰性
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 27997] ID: 8  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 金属和合金的腐蚀 人造气氛腐蚀试验 产品鉴定加速腐蚀试验选择指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 27998] ID: 9  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 纳米技术 石墨烯结构表征 第1部分：石墨烯粉末及分散系
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 27999] ID: 10  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 爆炸性环境 第37部分：由二线本质安全以太网概念（2-WISE）保护的设备
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28000] ID: 11  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 纳米制造 材料规范 发光纳米材料 第1部分：空白详细规范
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28001] ID: 12  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 纳米制造 材料规范 发光纳米材料 第2部分：常规照明和显示用详细规范
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28002] ID: 13  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 信息技术 IT赋能服务业务过程外包（ITES-BPO）生存周期过程 第6部分：风险管理指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28003] ID: 14  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 纳米制造 关键控制特性 发光纳米材料 第3部分: 时间相关单光子计数法测量半导体量子点的荧光寿命
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28004] ID: 15  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 纳米制造 关键控制特性 发光纳米材料 第2部分：分散液中量子点质量测量
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28005] ID: 16  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 半导体器件 基于扫描的半导体器件退化水平评估
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28006] ID: 17  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 制造商对医疗器械的上市后监测
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28007] ID: 18  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 教育组织 教育组织管理体系 审核认证机构要求
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28008] ID: 19  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 高压直流系统 交流滤波器规范和设计评估导则 第1部分：概论
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28009] ID: 20  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 标准国外适用性评价指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28010] ID: 21  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 检验实施规范 第1部分：圆柱齿轮齿面的测量
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28011] ID: 22  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 直齿轮和斜齿轮承载能力计算 第31部分：微点蚀承载能力算例
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28012] ID: 23  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 高压直流系统 交流滤波器规范和设计评估导则 第4部分：设备
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28013] ID: 24  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 安全与韧性 城市韧性 框架和原则
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28014] ID: 25  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 系统控制图
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28015] ID: 26  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 表面化学分析 辉光放电质谱 操作程序
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28016] ID: 27  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 锥齿轮承载能力计算方法 第20部分：胶合承载能力计算 闪温法
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28017] ID: 28  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 检验实施规范 第5部分：齿轮测量仪器评价
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28018] ID: 29  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 检验实施规范 第6部分：锥齿轮测量
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28019] ID: 30  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 齿轮 蜗杆副承载能力计算
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28020] ID: 31  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 合格评定 管理体系审核认证机构要求 第14部分：文件（档案）管理体系审核与认证能力要求
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28021] ID: 32  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 土方机械 碰撞警告和避免 第2部分：车载J1939通信接口
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28022] ID: 33  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 产品和服务设计中的消费者隐私保护 应用案例
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28023] ID: 34  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 标准化教育课程建设指南 汽车标准化与应用
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28024] ID: 35  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 标准化教育课程建设指南 物联网标准化
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28025] ID: 36  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 标准化教育课程建设指南 自动化标准化
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28026] ID: 37  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 标准化教育课程建设指南 药学标准化
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28027] ID: 38  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 标准化教育课程建设指南 无机非金属材料标准化
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28028] ID: 39  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 固定铅酸蓄电池和蓄电池组用射频识别（RFID） 试验要求
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28029] ID: 40  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 蓄电池和蓄电池组 起动用铅酸蓄电池减少爆炸危险的装置性能检验的试验方法
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28030] ID: 41  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 核电厂电气系统分析指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28031] ID: 42  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 核电厂固定式铅酸蓄电池监测系统选择与使用指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28032] ID: 43  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 旋转电机 第34部分：轧机用交流调速电动机
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28033] ID: 44  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 环境条件 电子设备振动和冲击 第3部分:利用轨道车辆运输
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28034] ID: 45  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 齿轮 轮齿的磨损和损伤 第2部分：补充信息
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28035] ID: 46  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 锥齿轮承载能力计算方法 第32部分：锥齿轮和准双曲面齿轮的ISO评价体系 胶合承载能力算例
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28036] ID: 47  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 直齿轮和斜齿轮承载能力计算 第20部分：胶合承载能力计算 闪温法
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28037] ID: 48  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 直齿轮和斜齿轮承载能力计算 第21部分：胶合承载能力计算 积温法
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28038] ID: 49  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 健康信息学 3D人体位置系统表示的分类结构 第1部分：骨骼
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28039] ID: 50  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 人-系统交互工效学 第810部分：机器人、智能和自主系统
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28040] ID: 51  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 机械电气安全 安全完整性要求的分配 基本原理
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28041] ID: 52  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 纳米技术 磁性纳米材料 第2部分：核酸提取用磁珠的特性和测量规范
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28042] ID: 53  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 纳米技术 纳米材料导致蛋白质二级结构变化评估 紫外圆二色光谱法
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28043] ID: 54  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 纳米技术 含人造纳米材料纺织品抗菌性能的评估
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28044] ID: 55  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 增材制造 设计 功能梯度增材制造
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28045] ID: 56  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 杀菌用UV-C辐射产品安全指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28046] ID: 57  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 标准化教育课程建设指南 物流标准化
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28047] ID: 58  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 标准化教育课程建设指南 养老服务标准化
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28048] ID: 59  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 纳米技术 纳米颗粒数量浓度测量指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28049] ID: 60  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 钠离子电池正极材料通则
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28050] ID: 61  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 优化肌肉骨骼工作负荷的人类工效学指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28051] ID: 62  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 信息技术 生物特征识别 用于技术评估的指纹数据库的难度表征和测量
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28052] ID: 63  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 电磁兼容 试验和测量技术 第40部分：测量调制或畸变信号电气量的数字方法
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28053] ID: 64  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 电气简图用图形符号 IEC 60617标准化设计指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28054] ID: 65  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 用于电量测量和监测、电能质量监测、数据采集和分析的装置的网络安全
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28055] ID: 66  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 老龄化社会 家用健康照顾产品及相关服务与环境 可达性与可用性指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28056] ID: 67  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 共享经济 数字平台可靠性和安全性通用要求
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28057] ID: 68  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 航空电子过程管理 电子设计 第1部分：电信号特性、命名约定和接口控制文件（ICD）
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28058] ID: 69  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 航空电子过程管理 航空航天合格电子元器件（AQEC） 第1部分：集成电路和半导体分立器件
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28059] ID: 70  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 航空电子过程管理 航空航天、国防及其他高性能应用领域（ADHP）电子元器件 第2部分：无源元件通用要求
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28060] ID: 71  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 航空航天电气要求 套管和模缩套 飞机用标准清单
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28061] ID: 72  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 永磁体磁化行为指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28062] ID: 73  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 质量管理体系 组织变革管理 过程
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28063] ID: 74  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 动态光散射法（DLS）测量操作指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28064] ID: 75  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 教育与学习服务 远程与数字学习服务 良好实践指南
-  stdNameEn: None
-  hcno: None
-  - stdNameEn is invalid: None
-  - hcno is invalid: None
-
-[Index 28065] ID: 76  noticeNo: 2581
-  stdCode: None
-  stdNameCn: 船用电气装置 一次直流配电 系统设计结构
-  stdNameEn: None
-  hcno: None
+  stdHeaderUrl: http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=AC47DD65376598FB44E0F24FBEBBF769
   - stdNameEn is invalid: None
   - hcno is invalid: None
 

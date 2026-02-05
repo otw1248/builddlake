@@ -48,6 +48,7 @@ def find_invalid_items(json_file_path: str) -> List[Dict]:
                 'stdNameCn': item.get('stdNameCn'),
                 'stdNameEn': item.get('stdNameEn'),
                 'hcno': item.get('hcno'),
+                'stdHeaderUrl': item.get('stdHeaderUrl'),
                 'issues': issues
             })
 
@@ -72,6 +73,7 @@ def main():
                 f.write(f"  stdNameCn: {item['stdNameCn']}\n")
                 f.write(f"  stdNameEn: {item['stdNameEn']}\n")
                 f.write(f"  hcno: {item['hcno']}\n")
+                f.write(f"  stdHeaderUrl: {item['stdHeaderUrl']}\n")
                 for issue in item['issues']:
                     f.write(f"  - {issue}\n")
                 f.write("\n")
