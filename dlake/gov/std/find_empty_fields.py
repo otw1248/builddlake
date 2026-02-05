@@ -6,6 +6,20 @@ import json
 from typing import List, Dict
 
 
+def load_std_code_ignore_list(meta_info_path: str) -> set:
+    """Load stdCodeIgnoreList from the meta-info JSON file"""
+    try:
+        with open(meta_info_path, 'r', encoding='utf-8') as f:
+            meta_data = json.load(f)
+        ignore_list_str = meta_data.get('stdCodeIgnoreList', '')
+        # Parse comma-separated values and strip whitespace
+        ignore_list = [code.strip() for code in ignore_list_str.split(',') if code.strip()]
+        return set(ignore_list)
+    except Exception as e:
+        print(f"Warning: Could not load stdCodeIgnoreList: {e}")
+        return set()
+
+
 def is_empty_or_short(value: any) -> bool:
     """Check if value is None, empty string, or length < 2"""
     if value is None:
@@ -19,14 +33,18 @@ def is_empty_or_short(value: any) -> bool:
     return False
 
 
-def find_invalid_items(json_file_path: str) -> List[Dict]:
-    """Find items where stdNameEn or hcno is empty or length < 2"""
+def find_invalid_items(json_file_path: str, ignore_std_codes: set) -> List[Dict]:
+    """Find items where stdNameEn or hcno is empty or length < 2, ignoring specified stdCodes"""
     with open(json_file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     invalid_items = []
 
     for idx, item in enumerate(data, start=1):
+        # Skip items in the ignore list
+        std_code = item.get('stdCode', '')
+        if std_code in ignore_std_codes:
+            continue
         issues = []
 
         # Check stdNameEn
@@ -57,11 +75,16 @@ def find_invalid_items(json_file_path: str) -> List[Dict]:
 
 def main():
     json_file = '/workspace/dlake/gov/std/notice-details.json'
+    meta_info_file = '/workspace/dlake/gov/std/std-meta-info.json'
     output_file = '/workspace/dlake/gov/std/tocheck.txt'
 
-    print(f"Scanning file: {json_file}\n")
+    # Load stdCode ignore list
+    ignore_std_codes = load_std_code_ignore_list(meta_info_file)
+    print(f"Loaded {len(ignore_std_codes)} stdCode entries to ignore")
 
-    invalid_items = find_invalid_items(json_file)
+    print(f"\nScanning file: {json_file}\n")
+
+    invalid_items = find_invalid_items(json_file, ignore_std_codes)
 
     # Write results to file
     with open(output_file, 'w', encoding='utf-8') as f:
