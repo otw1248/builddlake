@@ -111,7 +111,7 @@ def main():
     # File paths
     notice_details_path = '/workspace/dlake/gov/std/notice-details.json'
     meta_info_path = '/workspace/dlake/gov/std/std-meta-info.json'
-    
+     
     # Step 1: Read notice-details.json
     print("Loading notice-details.json...")
     notice_details = load_json_file(notice_details_path)
