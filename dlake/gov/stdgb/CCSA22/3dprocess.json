@@ -1,0 +1,599 @@
+{
+  "Table2": {
+    "name": "机加工",
+    "items": [
+      {
+        "CnName": "车削",
+        "EnName": "turning"
+      },
+      {
+        "CnName": "镗削",
+        "EnName": "boring"
+      },
+      {
+        "CnName": "龙门刨刨",
+        "EnName": "planing"
+      },
+      {
+        "CnName": "牛头刨刨",
+        "EnName": "shaping"
+      },
+      {
+        "CnName": "插削",
+        "EnName": "slotting"
+      },
+      {
+        "CnName": "钻削",
+        "EnName": "drilling"
+      },
+      {
+        "CnName": "铣削",
+        "EnName": "milling"
+      },
+      {
+        "CnName": "逆铣",
+        "EnName": "conventional milling"
+      },
+      {
+        "CnName": "顺铣",
+        "EnName": "climb milling"
+      },
+      {
+        "CnName": "磨削",
+        "EnName": "grinding"
+      },
+      {
+        "CnName": "内圆珩磨",
+        "EnName": "internal honing"
+      },
+      {
+        "CnName": "无心磨削",
+        "EnName": "external honing"
+      },
+      {
+        "CnName": "研磨",
+        "EnName": "lapping"
+      },
+      {
+        "CnName": "车螺纹",
+        "EnName": "single-point threading"
+      },
+      {
+        "CnName": "铰削",
+        "EnName": "reaming"
+      },
+      {
+        "CnName": "攻丝",
+        "EnName": "tapping"
+      },
+      {
+        "CnName": "外拉削",
+        "EnName": "external broaching"
+      },
+      {
+        "CnName": "内拉削",
+        "EnName": "internal broaching"
+      },
+      {
+        "CnName": "扩孔",
+        "EnName": "core drilling"
+      },
+      {
+        "CnName": "锪孔",
+        "EnName": "counter boring"
+      },
+      {
+        "CnName": "挤孔",
+        "EnName": "hole burnishing"
+      },
+      {
+        "CnName": "滚压孔",
+        "EnName": "hole rolling"
+      },
+      {
+        "CnName": "滚齿",
+        "EnName": "gear hobbing"
+      },
+      {
+        "CnName": "插齿",
+        "EnName": "gear shaping"
+      },
+      {
+        "CnName": "剃齿",
+        "EnName": "gear shaving"
+      },
+      {
+        "CnName": "刨齿",
+        "EnName": "gear planing"
+      },
+      {
+        "CnName": "铣齿",
+        "EnName": "gear milling"
+      },
+      {
+        "CnName": "磨齿",
+        "EnName": "gear grinding"
+      },
+      {
+        "CnName": "珩齿",
+        "EnName": "gear honing"
+      },
+      {
+        "CnName": "铣螺纹",
+        "EnName": "thread milling"
+      },
+      {
+        "CnName": "滚压螺纹",
+        "EnName": "thread rolling"
+      },
+      {
+        "CnName": "磨螺纹",
+        "EnName": "thread grinding"
+      },
+      {
+        "CnName": "套螺纹",
+        "EnName": "thread die cutting"
+      }
+    ]
+  },
+  "Table3": {
+    "name": "机加工刀具",
+    "items": [
+      {
+        "CnName": "铣刀",
+        "EnName": "milling cutter"
+      },
+      {
+        "CnName": "立铣刀",
+        "EnName": "end mill"
+      },
+      {
+        "CnName": "圆柱形球头立铣刀",
+        "EnName": "cylindrical ball-nosed end mill"
+      },
+      {
+        "CnName": "圆柱形铣刀",
+        "EnName": "cylindrical cutter"
+      },
+      {
+        "CnName": "键槽铣刀",
+        "EnName": "slot drill"
+      },
+      {
+        "CnName": "角度铣刀",
+        "EnName": "angular cutter"
+      },
+      {
+        "CnName": "燕尾槽铣刀",
+        "EnName": "dovetail cutter"
+      },
+      {
+        "CnName": "圆锯",
+        "EnName": "circular saw"
+      },
+      {
+        "CnName": "钻头",
+        "EnName": "drill"
+      },
+      {
+        "CnName": "中心钻",
+        "EnName": "center drill"
+      },
+      {
+        "CnName": "深孔钻",
+        "EnName": "deep-hole drill"
+      },
+      {
+        "CnName": "扁钻",
+        "EnName": "spade drill"
+      },
+      {
+        "CnName": "扩孔钻",
+        "EnName": "core drill"
+      },
+      {
+        "CnName": "锪钻",
+        "EnName": "countersinks"
+      },
+      {
+        "CnName": "铰刀",
+        "EnName": "reamer"
+      },
+      {
+        "CnName": "丝锥",
+        "EnName": "tap szlc"
+      },
+      {
+        "CnName": "组合铣刀",
+        "EnName": "cutter block(with blades)"
+      },
+      {
+        "CnName": "砂轮",
+        "EnName": "grinding wheels"
+      },
+      {
+        "CnName": "内拉刀",
+        "EnName": "internal broach"
+      },
+      {
+        "CnName": "外拉刀",
+        "EnName": "external broach"
+      },
+      {
+        "CnName": "直锯",
+        "EnName": "linear saw"
+      },
+      {
+        "CnName": "滚刀",
+        "EnName": "hob"
+      },
+      {
+        "CnName": "插齿刀",
+        "EnName": "gear shaper cutter"
+      },
+      {
+        "CnName": "直杆刨刀",
+        "EnName": "straight rod plow tool"
+      },
+      {
+        "CnName": "弯颈刨刀",
+        "EnName": "bending neck plow tool"
+      },
+      {
+        "CnName": "弯头刨刀",
+        "EnName": "bending head plow tool"
+      },
+      {
+        "CnName": "弯切刨刀",
+        "EnName": "bending cutting plow tool"
+      },
+      {
+        "CnName": "圆头刨刀",
+        "EnName": "round head plow tool"
+      },
+      {
+        "CnName": "偏刨刀",
+        "EnName": "partial plow tool"
+      },
+      {
+        "CnName": "镗刀",
+        "EnName": "boring tool"
+      },
+      {
+        "CnName": "插刀",
+        "EnName": "slotting tool"
+      }
+    ]
+  },
+  "Table4": {
+    "name": "钣金",
+    "items": [
+      {
+        "CnName": "折弯",
+        "EnName": "bending"
+      },
+      {
+        "CnName": "折边",
+        "EnName": "edge folding"
+      },
+      {
+        "CnName": "折圆弧",
+        "EnName": "circle folding"
+      },
+      {
+        "CnName": "滚弯",
+        "EnName": "roll bending"
+      },
+      {
+        "CnName": "冲孔",
+        "EnName": "punching"
+      },
+      {
+        "CnName": "引深",
+        "EnName": "deep drawing"
+      },
+      {
+        "CnName": "落料",
+        "EnName": "droping"
+      },
+      {
+        "CnName": "剪切",
+        "EnName": "cutting"
+      },
+      {
+        "CnName": "旋压",
+        "EnName": "spinning"
+      },
+      {
+        "CnName": "滚压",
+        "EnName": "rolling"
+      },
+      {
+        "CnName": "压延",
+        "EnName": "calendering"
+      },
+      {
+        "CnName": "压筋",
+        "EnName": "ribbing"
+      },
+      {
+        "CnName": "绕弯",
+        "EnName": "curl bending"
+      },
+      {
+        "CnName": "拉弯",
+        "EnName": "stretch bending"
+      },
+      {
+        "CnName": "拉伸",
+        "EnName": "stretch forming"
+      },
+      {
+        "CnName": "激光切割",
+        "EnName": "laser cutting"
+      },
+      {
+        "CnName": "火焰切割",
+        "EnName": "flame cutting"
+      },
+      {
+        "CnName": "等离子切割",
+        "EnName": "plasma cutting"
+      },
+      {
+        "CnName": "水切割",
+        "EnName": "water cutting"
+      },
+      {
+        "CnName": "去毛刺",
+        "EnName": "burring"
+      },
+      {
+        "CnName": "调平",
+        "EnName": "leveling"
+      },
+      {
+        "CnName": "整形",
+        "EnName": "reshaping"
+      }
+    ]
+  },
+  "Table5": {
+    "name": "焊接",
+    "items": [
+      {
+        "CnName": "焊条电弧焊",
+        "EnName": "shielded metal arc welding"
+      },
+      {
+        "CnName": "手工金属弧焊",
+        "EnName": "manual metal arc welding"
+      },
+      {
+        "CnName": "熔化极惰性气体保护/熔化极活性气体保护焊",
+        "EnName": "MIG/MAG welding"
+      },
+      {
+        "CnName": "钨极惰性气体保护焊",
+        "EnName": "TIG welding"
+      },
+      {
+        "CnName": "电弧点焊",
+        "EnName": "arc spot welding"
+      },
+      {
+        "CnName": "熔化极惰性气体保护/熔化极活性气体保护点焊",
+        "EnName": "MIG/MAG spot welding"
+      },
+      {
+        "CnName": "钨极惰性气体保护点焊",
+        "EnName": "TIG spot welding"
+      },
+      {
+        "CnName": "埋弧焊",
+        "EnName": "submerged arc welding"
+      },
+      {
+        "CnName": "等离子焊",
+        "EnName": "plasma welding"
+      },
+      {
+        "CnName": "双行程电阻点焊",
+        "EnName": "resistance spot welding, double stroke"
+      },
+      {
+        "CnName": "点焊,单点焊",
+        "EnName": "spot welding,single spot welding"
+      },
+      {
+        "CnName": "点焊,重复点焊",
+        "EnName": "spot welding,repeat spot welding"
+      },
+      {
+        "CnName": "断续电流缝焊",
+        "EnName": "seam welding with interrupted current"
+      },
+      {
+        "CnName": "连续缝焊,连续电流缝焊",
+        "EnName": "continuous seam welding, continuous-current seam welding"
+      },
+      {
+        "CnName": "气焊",
+        "EnName": "oxyfuel gas welding"
+      },
+      {
+        "CnName": "压焊",
+        "EnName": "pressure welding"
+      },
+      {
+        "CnName": "超声波焊",
+        "EnName": "ultrasonic welding"
+      },
+      {
+        "CnName": "线性摩擦焊",
+        "EnName": "linear friction welding"
+      },
+      {
+        "CnName": "旋转摩擦焊",
+        "EnName": "rotary friction welding"
+      },
+      {
+        "CnName": "搅拌摩擦焊",
+        "EnName": "friction stir welding"
+      },
+      {
+        "CnName": "电子束焊",
+        "EnName": "electron beam welding"
+      },
+      {
+        "CnName": "激光焊",
+        "EnName": "laser beam welding"
+      },
+      {
+        "CnName": "炉中硬钎焊",
+        "EnName": "furnace brazing"
+      },
+      {
+        "CnName": "真空硬钎焊",
+        "EnName": "vacuum brazing"
+      },
+      {
+        "CnName": "炉中软钎焊",
+        "EnName": "furnace soldering"
+      },
+      {
+        "CnName": "感应软钎焊",
+        "EnName": "induction soldering"
+      },
+      {
+        "CnName": "真空软钎焊",
+        "EnName": "vacuum soldering"
+      },
+      {
+        "CnName": "气体钎焊",
+        "EnName": "gas braze welding"
+      },
+      {
+        "CnName": "波峰焊",
+        "EnName": "wave soldering"
+      },
+      {
+        "CnName": "装贴/表贴焊",
+        "EnName": "match assemble welding"
+      },
+      {
+        "CnName": "倒装焊",
+        "EnName": "flip chip"
+      },
+      {
+        "CnName": "丝焊",
+        "EnName": "wire bond"
+      },
+      {
+        "CnName": "锡焊",
+        "EnName": "tin soldering"
+      }
+    ]
+  },
+  "Table6": {
+    "name": "装配",
+    "items": [
+      {
+        "CnName": "螺纹连接",
+        "EnName": "thread connection"
+      },
+      {
+        "CnName": "键连接",
+        "EnName": "key connection"
+      },
+      {
+        "CnName": "联轴器连接",
+        "EnName": "coupling connection"
+      },
+      {
+        "CnName": "销连接",
+        "EnName": "pin connection"
+      },
+      {
+        "CnName": "铆接",
+        "EnName": "riveting"
+      },
+      {
+        "CnName": "粘接",
+        "EnName": "adhesive"
+      },
+      {
+        "CnName": "压装",
+        "EnName": "press fitting"
+      },
+      {
+        "CnName": "热装",
+        "EnName": "shrinkage fitting"
+      },
+      {
+        "CnName": "冷装",
+        "EnName": "expansion fitting"
+      },
+      {
+        "CnName": "吊装",
+        "EnName": "lift fitting"
+      },
+      {
+        "CnName": "涂装",
+        "EnName": "painting dressing"
+      },
+      {
+        "CnName": "线缆制作",
+        "EnName": "cable fabricating"
+      },
+      {
+        "CnName": "布线",
+        "EnName": "wiring"
+      },
+      {
+        "CnName": "线缆插装",
+        "EnName": "cable plugging"
+      },
+      {
+        "CnName": "表面组装技术",
+        "EnName": "surface mount technology (SMT)"
+      },
+      {
+        "CnName": "元器件插装",
+        "EnName": "component and device plugging"
+      },
+      {
+        "CnName": "微组装",
+        "EnName": "micro assembly"
+      },
+      {
+        "CnName": "封装",
+        "EnName": "packaging"
+      },
+      {
+        "CnName": "点胶",
+        "EnName": "dispensing"
+      },
+      {
+        "CnName": "润滑",
+        "EnName": "lubrication"
+      },
+      {
+        "CnName": "加热",
+        "EnName": "heating"
+      },
+      {
+        "CnName": "冷却;冷气调节",
+        "EnName": "cooling; air conditioning"
+      },
+      {
+        "CnName": "手工清洗",
+        "EnName": "manual cleaning"
+      },
+      {
+        "CnName": "自动清洗",
+        "EnName": "automatic cleaning"
+      }
+    ]
+  }
+}
