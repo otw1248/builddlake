@@ -1,0 +1,1081 @@
+{
+  "test_cases": [
+    {
+      "mbti_type": "ISTJ",
+      "full_name": "Introverted Sensing Thinking Judging",
+      "description": "The Inspector",
+      "traits": {
+        "energy_source": "Introversion",
+        "information_processing": "Sensing",
+        "decision_making": "Thinking",
+        "lifestyle": "Judging"
+      },
+      "strengths": [
+        "Honest and direct",
+        "Determined and dutiful",
+        "Very responsible",
+        "Calm and practical",
+        "Good at creating order"
+      ],
+      "weaknesses": [
+        "Judgemental",
+        "Resistant to change",
+        "Unreasonable expectations",
+        "Can be insensitive",
+        "Blames themselves for everything"
+      ],
+      "test_questions": [
+        {
+          "question": "In social situations, do you:",
+          "options": [
+            {"text": "Prefer one-on-one conversations", "score": "I"},
+            {"text": "Enjoy meeting new people", "score": "E"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When solving problems, do you:",
+          "options": [
+            {"text": "Rely on past experience and facts", "score": "S"},
+            {"text": "Look for new possibilities and patterns", "score": "N"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When making decisions, do you:",
+          "options": [
+            {"text": "Use logic and objective analysis", "score": "T"},
+            {"text": "Consider people's feelings", "score": "F"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "In your daily life, do you:",
+          "options": [
+            {"text": "Prefer having a planned schedule", "score": "J"},
+            {"text": "Like to keep options open", "score": "P"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Accountant",
+        "Auditor",
+        "Police Officer",
+        "Lawyer",
+        "Military Officer"
+      ]
+    },
+    {
+      "mbti_type": "ISFJ",
+      "full_name": "Introverted Sensing Feeling Judging",
+      "description": "The Protector",
+      "traits": {
+        "energy_source": "Introversion",
+        "information_processing": "Sensing",
+        "decision_making": "Feeling",
+        "lifestyle": "Judging"
+      },
+      "strengths": [
+        "Supportive and reliable",
+        "Patient",
+        "Observant",
+        "Good practical skills",
+        "Excellent listener"
+      ],
+      "weaknesses": [
+        "Humble and shy",
+        "Take things too personally",
+        "Repress their feelings",
+        "Overload themselves",
+        "Reluctant to change"
+      ],
+      "test_questions": [
+        {
+          "question": "In social situations, do you:",
+          "options": [
+            {"text": "Prefer small groups or alone time", "score": "I"},
+            {"text": "Feel energized by social interaction", "score": "E"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When learning new things, do you:",
+          "options": [
+            {"text": "Prefer hands-on experience", "score": "S"},
+            {"text": "Like theories and concepts", "score": "N"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When making decisions, do you:",
+          "options": [
+            {"text": "Prioritize harmony and values", "score": "F"},
+            {"text": "Focus on logical consistency", "score": "T"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "How do you approach deadlines?",
+          "options": [
+            {"text": "Complete work ahead of schedule", "score": "J"},
+            {"text": "Work best under pressure", "score": "P"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Social Worker",
+        "Teacher",
+        "Nurse",
+        "Administrative Assistant",
+        "Counselor"
+      ]
+    },
+    {
+      "mbti_type": "INFJ",
+      "full_name": "Introverted Intuitive Feeling Judging",
+      "description": "The Counselor",
+      "traits": {
+        "energy_source": "Introversion",
+        "information_processing": "Intuition",
+        "decision_making": "Feeling",
+        "lifestyle": "Judging"
+      },
+      "strengths": [
+        "Insightful and inspiring",
+        "Principled",
+        "Creative",
+        "Altruistic",
+        "Passionate"
+      ],
+      "weaknesses": [
+        "Sensitive",
+        "Extremely private",
+        "Perfectionistic",
+        "Need constant approval",
+        "Can burn out easily"
+      ],
+      "test_questions": [
+        {
+          "question": "At parties, do you:",
+          "options": [
+            {"text": "Leave early to recharge", "score": "I"},
+            {"text": "Stay until the end", "score": "E"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When working on projects, do you:",
+          "options": [
+            {"text": "Focus on the big picture", "score": "N"},
+            {"text": "Pay attention to details", "score": "S"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When friends come to you with problems, do you:",
+          "options": [
+            {"text": "Offer emotional support", "score": "F"},
+            {"text": "Suggest practical solutions", "score": "T"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer:",
+          "options": [
+            {"text": "Having things decided", "score": "J"},
+            {"text": "Keeping options flexible", "score": "P"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Psychologist",
+        "Writer",
+        "Teacher",
+        "Human Resources",
+        "Non-profit Director"
+      ]
+    },
+    {
+      "mbti_type": "INTJ",
+      "full_name": "Introverted Intuitive Thinking Judging",
+      "description": "The Mastermind",
+      "traits": {
+        "energy_source": "Introversion",
+        "information_processing": "Intuition",
+        "decision_making": "Thinking",
+        "lifestyle": "Judging"
+      },
+      "strengths": [
+        "Rational",
+        "Informed",
+        "Independent",
+        "Determined",
+        "Strategic"
+      ],
+      "weaknesses": [
+        "Arrogant",
+        "Judgemental",
+        "Overly analytical",
+        "Dislike rules",
+        "Can be socially clueless"
+      ],
+      "test_questions": [
+        {
+          "question": "After a long day, do you:",
+          "options": [
+            {"text": "Need alone time to recharge", "score": "I"},
+            {"text": "Want to socialize with friends", "score": "E"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When planning, do you:",
+          "options": [
+            {"text": "Think about long-term possibilities", "score": "N"},
+            {"text": "Focus on immediate realities", "score": "S"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "In debates, do you:",
+          "options": [
+            {"text": "Argue with logic and facts", "score": "T"},
+            {"text": "Consider emotional impact", "score": "F"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "When traveling, do you:",
+          "options": [
+            {"text": "Plan every detail", "score": "J"},
+            {"text": "Go with the flow", "score": "P"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Software Architect",
+        "Scientist",
+        "Lawyer",
+        "Strategic Planner",
+        "Consultant"
+      ]
+    },
+    {
+      "mbti_type": "ISTP",
+      "full_name": "Introverted Sensing Thinking Perceiving",
+      "description": "The Craftsman",
+      "traits": {
+        "energy_source": "Introversion",
+        "information_processing": "Sensing",
+        "decision_making": "Thinking",
+        "lifestyle": "Perceiving"
+      },
+      "strengths": [
+        "Optimistic and energetic",
+        "Creative and practical",
+        "Spontaneous",
+        "Know how to prioritize",
+        "Excellent crisis handler"
+      ],
+      "weaknesses": [
+        "Private and reserved",
+        "Insensitive",
+        "Easily bored",
+        "Commitment-phobic",
+        "Risky behavior"
+      ],
+      "test_questions": [
+        {
+          "question": "In group projects, do you:",
+          "options": [
+            {"text": "Work quietly on your part", "score": "I"},
+            {"text": "Take the lead", "score": "E"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When learning, do you prefer:",
+          "options": [
+            {"text": "Practical hands-on approach", "score": "S"},
+            {"text": "Theoretical understanding", "score": "N"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When giving feedback, do you:",
+          "options": [
+            {"text": "Be direct and honest", "score": "T"},
+            {"text": "Consider their feelings", "score": "F"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer:",
+          "options": [
+            {"text": "Flexible, adaptable plans", "score": "P"},
+            {"text": "Structured schedules", "score": "J"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Mechanic",
+        "Engineer",
+        "Forensic Scientist",
+        "Pilot",
+        "Surgeon"
+      ]
+    },
+    {
+      "mbti_type": "ISFP",
+      "full_name": "Introverted Sensing Feeling Perceiving",
+      "description": "The Composer",
+      "traits": {
+        "energy_source": "Introversion",
+        "information_processing": "Sensing",
+        "decision_making": "Feeling",
+        "lifestyle": "Perceiving"
+      },
+      "strengths": [
+        "Charming",
+        "Sensitive to others",
+        "Imaginative",
+        "Passionate",
+        "Artistic"
+      ],
+      "weaknesses": [
+        "Fiercely independent",
+        "Unpredictable",
+        "Easily stressed",
+        "Competitive",
+        "Fluctuating self-esteem"
+      ],
+      "test_questions": [
+        {
+          "question": "At social gatherings, do you:",
+          "options": [
+            {"text": "Feel drained after time", "score": "I"},
+            {"text": "Gain energy from people", "score": "E"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When describing an event, do you:",
+          "options": [
+            {"text": "Focus on what happened", "score": "S"},
+            {"text": "Focus on the meaning", "score": "N"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When conflicts arise, do you:",
+          "options": [
+            {"text": "Prioritize relationships", "score": "F"},
+            {"text": "Focus on truth and justice", "score": "T"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer to:",
+          "options": [
+            {"text": "Keep options open", "score": "P"},
+            {"text": "Make decisions quickly", "score": "J"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Artist",
+        "Designer",
+        "Veterinarian",
+        "Fashion Designer",
+        "Chef"
+      ]
+    },
+    {
+      "mbti_type": "INFP",
+      "full_name": "Introverted Intuitive Feeling Perceiving",
+      "description": "The Healer",
+      "traits": {
+        "energy_source": "Introversion",
+        "information_processing": "Intuition",
+        "decision_making": "Feeling",
+        "lifestyle": "Perceiving"
+      },
+      "strengths": [
+        "Idealistic",
+        "Seek to understand people",
+        "Dedicated and hardworking",
+        "Excellent listener",
+        "Creative"
+      ],
+      "weaknesses": [
+        "Too idealistic",
+        "Dislike dealing with data",
+        "Take things personally",
+        "Hard to get to know",
+        "Impractical"
+      ],
+      "test_questions": [
+        {
+          "question": "When stressed, do you:",
+          "options": [
+            {"text": "Withdraw and think alone", "score": "I"},
+            {"text": "Talk to people about it", "score": "E"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When reading, do you prefer:",
+          "options": [
+            {"text": "Stories with deep meaning", "score": "N"},
+            {"text": "Realistic accounts", "score": "S"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When evaluating decisions, do you:",
+          "options": [
+            {"text": "Consider values and impact on others", "score": "F"},
+            {"text": "Use objective criteria", "score": "T"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you work best:",
+          "options": [
+            {"text": "With flexibility and spontaneity", "score": "P"},
+            {"text": "With structure and deadlines", "score": "J"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Writer",
+        "Counselor",
+        "Graphic Designer",
+        "Editor",
+        "Activist"
+      ]
+    },
+    {
+      "mbti_type": "INTP",
+      "full_name": "Introverted Intuitive Thinking Perceiving",
+      "description": "The Architect",
+      "traits": {
+        "energy_source": "Introversion",
+        "information_processing": "Intuition",
+        "decision_making": "Thinking",
+        "lifestyle": "Perceiving"
+      },
+      "strengths": [
+        "Great analysts",
+        "Abstract thinkers",
+        "Original and creative",
+        "Open-minded",
+        "Honest"
+      ],
+      "weaknesses": [
+        "Very private",
+        "Insensitive",
+        "Absent-minded",
+        "Dislike rules",
+        "Second-guess themselves"
+      ],
+      "test_questions": [
+        {
+          "question": "In meetings, do you:",
+          "options": [
+            {"text": "Listen more than speak", "score": "I"},
+            {"text": "Actively participate", "score": "E"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When solving problems, do you:",
+          "options": [
+            {"text": "Find innovative solutions", "score": "N"},
+            {"text": "Use proven methods", "score": "S"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When criticized, do you:",
+          "options": [
+            {"text": "Analyze if it's logically valid", "score": "T"},
+            {"text": "Feel hurt personally", "score": "F"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer:",
+          "options": [
+            {"text": "Keeping plans flexible", "score": "P"},
+            {"text": "Following a schedule", "score": "J"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Software Developer",
+        "Professor",
+        "Research Scientist",
+        "Data Analyst",
+        "Mathematician"
+      ]
+    },
+    {
+      "mbti_type": "ESTP",
+      "full_name": "Extraverted Sensing Thinking Perceiving",
+      "description": "The Dynamo",
+      "traits": {
+        "energy_source": "Extraversion",
+        "information_processing": "Sensing",
+        "decision_making": "Thinking",
+        "lifestyle": "Perceiving"
+      },
+      "strengths": [
+        "Bold",
+        "Practical and observant",
+        "Excellent listener",
+        "Direct",
+        "Perceptive"
+      ],
+      "weaknesses": [
+        "Insensitive",
+        "Impatient",
+        "Risk-prone",
+        "May miss the bigger picture",
+        "Unstructured"
+      ],
+      "test_questions": [
+        {
+          "question": "After work, do you:",
+          "options": [
+            {"text": "Feel energized by social activities", "score": "E"},
+            {"text": "Need quiet time to recharge", "score": "I"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When given a task, do you:",
+          "options": [
+            {"text": "Jump in and learn by doing", "score": "S"},
+            {"text": "Research and plan first", "score": "N"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When making a purchase, do you:",
+          "options": [
+            {"text": "Research specs and reviews", "score": "T"},
+            {"text": "Follow your gut feeling", "score": "F"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer:",
+          "options": [
+            {"text": "Adapting as situations change", "score": "P"},
+            {"text": "Following a set plan", "score": "J"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Sales Representative",
+        "Entrepreneur",
+        "Police Detective",
+        "Athletic Coach",
+        "Stock Broker"
+      ]
+    },
+    {
+      "mbti_type": "ESFP",
+      "full_name": "Extraverted Sensing Feeling Perceiving",
+      "description": "The Performer",
+      "traits": {
+        "energy_source": "Extraversion",
+        "information_processing": "Sensing",
+        "decision_making": "Feeling",
+        "lifestyle": "Perceiving"
+      },
+      "strengths": [
+        "Bold",
+        "Original and aesthetic",
+        "Excellent people skills",
+        "Practical",
+        "Observant"
+      ],
+      "weaknesses": [
+        "Sensitive",
+        "Dislike conflict",
+        "Easily bored",
+        "Poor long-term planners",
+        "Impulsive"
+      ],
+      "test_questions": [
+        {
+          "question": "At a party, do you:",
+          "options": [
+            {"text": "Mingle and meet everyone", "score": "E"},
+            {"text": "Stick with people you know", "score": "I"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When learning, do you prefer:",
+          "options": [
+            {"text": "Hands-on experiences", "score": "S"},
+            {"text": "Abstract theories", "score": "N"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When friends disagree, do you:",
+          "options": [
+            {"text": "Try to maintain harmony", "score": "F"},
+            {"text": "Take a logical approach", "score": "T"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you:",
+          "options": [
+            {"text": "Enjoy spontaneity", "score": "P"},
+            {"text": "Prefer planning ahead", "score": "J"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Actor",
+        "Event Planner",
+        "Public Relations",
+        "Tour Guide",
+        "Salesperson"
+      ]
+    },
+    {
+      "mbti_type": "ENFP",
+      "full_name": "Extraverted Intuitive Feeling Perceiving",
+      "description": "The Champion",
+      "traits": {
+        "energy_source": "Extraversion",
+        "information_processing": "Intuition",
+        "decision_making": "Feeling",
+        "lifestyle": "Perceiving"
+      },
+      "strengths": [
+        "Curious",
+        "Observant",
+        "Energetic and enthusiastic",
+        "Excellent communicators",
+        "Know how to relax"
+      ],
+      "weaknesses": [
+        "Poor practical skills",
+        "Find it difficult to focus",
+        "Think too much",
+        "Get stressed easily",
+        "Highly emotional"
+      ],
+      "test_questions": [
+        {
+          "question": "When working alone, do you:",
+          "options": [
+            {"text": "Feel bored and unmotivated", "score": "E"},
+            {"text": "Thrive in solitude", "score": "I"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When brainstorming, do you:",
+          "options": [
+            {"text": "Generate many ideas", "score": "N"},
+            {"text": "Focus on one or two practical ideas", "score": "S"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When giving advice, do you:",
+          "options": [
+            {"text": "Focus on emotional support", "score": "F"},
+            {"text": "Give practical solutions", "score": "T"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer to:",
+          "options": [
+            {"text": "Keep options open", "score": "P"},
+            {"text": "Make decisions quickly", "score": "J"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Journalist",
+        "Teacher",
+        "Marketing Manager",
+        "Creative Director",
+        "Diplomat"
+      ]
+    },
+    {
+      "mbti_type": "ENTP",
+      "full_name": "Extraverted Intuitive Thinking Perceiving",
+      "description": "The Visionary",
+      "traits": {
+        "energy_source": "Extraversion",
+        "information_processing": "Intuition",
+        "decision_making": "Thinking",
+        "lifestyle": "Perceiving"
+      },
+      "strengths": [
+        "Knowledgeable",
+        "Quick thinkers",
+        "Original",
+        "Brainstorming",
+        "Charismatic"
+      ],
+      "weaknesses": [
+        "Argumentative",
+        "Insensitive",
+        "Intolerant",
+        "Can find it difficult to focus",
+        "Dislike practical matters"
+      ],
+      "test_questions": [
+        {
+          "question": "In discussions, do you:",
+          "options": [
+            {"text": "Enjoy debating and challenging ideas", "score": "E"},
+            {"text": "Prefer listening and observing", "score": "I"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When faced with a problem, do you:",
+          "options": [
+            {"text": "Look for creative solutions", "score": "N"},
+            {"text": "Use established methods", "score": "S"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When making tough decisions, do you:",
+          "options": [
+            {"text": "Use logical analysis", "score": "T"},
+            {"text": "Consider emotional impact", "score": "F"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer:",
+          "options": [
+            {"text": "Flexible, adaptable approaches", "score": "P"},
+            {"text": "Structured, planned approaches", "score": "J"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Lawyer",
+        "Entrepreneur",
+        "Political Consultant",
+        "Software Developer",
+        "Venture Capitalist"
+      ]
+    },
+    {
+      "mbti_type": "ESTJ",
+      "full_name": "Extraverted Sensing Thinking Judging",
+      "description": "The Supervisor",
+      "traits": {
+        "energy_source": "Extraversion",
+        "information_processing": "Sensing",
+        "decision_making": "Thinking",
+        "lifestyle": "Judging"
+      },
+      "strengths": [
+        "Dedicated",
+        "Strong-willed",
+        "Direct and honest",
+        "Loyal",
+        "Patient and reliable"
+      ],
+      "weaknesses": [
+        "Stubborn",
+        "Inflexible",
+        "Uncomfortable with unconventional situations",
+        "Judgmental",
+        "Too focused on social status"
+      ],
+      "test_questions": [
+        {
+          "question": "Do you feel energized by:",
+          "options": [
+            {"text": "Being around people", "score": "E"},
+            {"text": "Spending time alone", "score": "I"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When giving instructions, do you:",
+          "options": [
+            {"text": "Be specific and detailed", "score": "S"},
+            {"text": "Give general ideas", "score": "N"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When managing a team, do you:",
+          "options": [
+            {"text": "Focus on efficiency and results", "score": "T"},
+            {"text": "Focus on team harmony", "score": "F"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer:",
+          "options": [
+            {"text": "Clear plans and deadlines", "score": "J"},
+            {"text": "Flexible approaches", "score": "P"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Executive",
+        "Police Chief",
+        "Military Officer",
+        "School Principal",
+        "Project Manager"
+      ]
+    },
+    {
+      "mbti_type": "ESFJ",
+      "full_name": "Extraverted Sensing Feeling Judging",
+      "description": "The Provider",
+      "traits": {
+        "energy_source": "Extraversion",
+        "information_processing": "Sensing",
+        "decision_making": "Feeling",
+        "lifestyle": "Judging"
+      },
+      "strengths": [
+        "Strong practical skills",
+        "Strong sense of duty",
+        "Very loyal",
+        "Sensitive and warm",
+        "Good team players"
+      ],
+      "weaknesses": [
+        "Worried about social status",
+        "Inflexible",
+        "Reluctant to innovate",
+        "Vulnerable to criticism",
+        "Too needy"
+      ],
+      "test_questions": [
+        {
+          "question": "When you have free time, do you:",
+          "options": [
+            {"text": "Spend it with friends", "score": "E"},
+            {"text": "Enjoy quiet activities alone", "score": "I"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When helping someone, do you:",
+          "options": [
+            {"text": "Offer practical help", "score": "S"},
+            {"text": "Explore underlying issues", "score": "N"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When there's conflict, do you:",
+          "options": [
+            {"text": "Work to restore harmony", "score": "F"},
+            {"text": "Analyze who's right", "score": "T"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer:",
+          "options": [
+            {"text": "Schedules and routines", "score": "J"},
+            {"text": "Spontaneity", "score": "P"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Teacher",
+        "Social Worker",
+        "Healthcare Administrator",
+        "Public Relations",
+        "Event Planner"
+      ]
+    },
+    {
+      "mbti_type": "ENFJ",
+      "full_name": "Extraverted Intuitive Feeling Judging",
+      "description": "The Teacher",
+      "traits": {
+        "energy_source": "Extraversion",
+        "information_processing": "Intuition",
+        "decision_making": "Feeling",
+        "lifestyle": "Judging"
+      },
+      "strengths": [
+        "Charismatic",
+        "Natural leaders",
+        "Tolerant",
+        "Reliable",
+        "Altruistic"
+      ],
+      "weaknesses": [
+        "Too idealistic",
+        "Too sensitive",
+        "Indecisive",
+        "Self-sacrificing",
+        "Too vulnerable"
+      ],
+      "test_questions": [
+        {
+          "question": "In team settings, do you:",
+          "options": [
+            {"text": "Take charge and motivate others", "score": "E"},
+            {"text": "Contribute quietly", "score": "I"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When planning the future, do you:",
+          "options": [
+            {"text": "Visualize possibilities", "score": "N"},
+            {"text": "Focus on practical realities", "score": "S"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When evaluating others' work, do you:",
+          "options": [
+            {"text": "Consider their efforts and feelings", "score": "F"},
+            {"text": "Give objective feedback", "score": "T"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer to:",
+          "options": [
+            {"text": "Have a clear plan", "score": "J"},
+            {"text": "Remain flexible", "score": "P"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "Human Resources Manager",
+        "Teacher",
+        "Politician",
+        "Non-profit Director",
+        "Life Coach"
+      ]
+    },
+    {
+      "mbti_type": "ENTJ",
+      "full_name": "Extraverted Intuitive Thinking Judging",
+      "description": "The Commander",
+      "traits": {
+        "energy_source": "Extraversion",
+        "information_processing": "Intuition",
+        "decision_making": "Thinking",
+        "lifestyle": "Judging"
+      },
+      "strengths": [
+        "Efficient",
+        "Energetic",
+        "Self-confident",
+        "Strong-willed",
+        "Strategic thinkers"
+      ],
+      "weaknesses": [
+        "Stubborn",
+        "Intolerant",
+        "Impatient",
+        "Arrogant",
+        "Poor handling of emotions"
+      ],
+      "test_questions": [
+        {
+          "question": "Do you gain energy from:",
+          "options": [
+            {"text": "Social interaction", "score": "E"},
+            {"text": "Solitary activities", "score": "I"}
+          ],
+          "dimension": "EI"
+        },
+        {
+          "question": "When working on a project, do you:",
+          "options": [
+            {"text": "See the big picture", "score": "N"},
+            {"text": "Focus on current details", "score": "S"}
+          ],
+          "dimension": "SN"
+        },
+        {
+          "question": "When making difficult decisions, do you:",
+          "options": [
+            {"text": "Prioritize logic and efficiency", "score": "T"},
+            {"text": "Consider people's feelings", "score": "F"}
+          ],
+          "dimension": "TF"
+        },
+        {
+          "question": "Do you prefer:",
+          "options": [
+            {"text": "Structured, organized environments", "score": "J"},
+            {"text": "Flexible, adaptable environments", "score": "P"}
+          ],
+          "dimension": "JP"
+        }
+      ],
+      "career_matches": [
+        "CEO",
+        "Management Consultant",
+        "Lawyer",
+        "University Professor",
+        "Entrepreneur"
+      ]
+    }
+  ],
+  "scoring_guide": {
+    "dimensions": {
+      "EI": {
+        "name": "Extraversion vs Introversion",
+        "description": "How you direct your energy and attention"
+      },
+      "SN": {
+        "name": "Sensing vs Intuition",
+        "description": "How you take in information"
+      },
+      "TF": {
+        "name": "Thinking vs Feeling",
+        "description": "How you make decisions"
+      },
+      "JP": {
+        "name": "Judging vs Perceiving",
+        "description": "How you approach the outside world"
+      }
+    },
+    "instructions": "For each question, select the option that best describes you. The score for each dimension (EI, SN, TF, JP) determines your MBTI type. Count the majority score in each dimension to determine your four-letter type."
+  }
+}

@@ -1,0 +1,1684 @@
+{
+  "3 一般术语": {
+    "3.1": {
+      "3.1.1": {
+        "CnName": "工艺",
+        "EnName": "echnology"
+      },
+      "3.1.2": {
+        "CnName": "机械制造工艺",
+        "EnName": ""
+      },
+      "3.1.3": {
+        "CnName": "典型工艺",
+        "EnName": "icalprocessyp"
+      },
+      "3.1.4": {
+        "CnName": "产品结构工艺性",
+        "EnName": "echnoloicalefficiencfproductdesigyogn"
+      },
+      "3.1.5": {
+        "CnName": "零件结构工艺性",
+        "EnName": "echnoloicalefficiencfpartsdesigyogn"
+      },
+      "3.1.6": {
+        "CnName": "工艺性分析",
+        "EnName": "lsisfortechnoloicalefficiencygy"
+      },
+      "3.1.7": {
+        "CnName": "工艺性审查",
+        "EnName": "eviewoftechnoloicalefficiencgy"
+      },
+      "3.1.8": {
+        "CnName": "可加工性",
+        "EnName": ""
+      },
+      "3.1.9": {
+        "CnName": "生产过程",
+        "EnName": "oductionprocess"
+      },
+      "3.1.10": {
+        "CnName": "工艺过程",
+        "EnName": "ocess"
+      },
+      "3.1.11": {
+        "CnName": "工艺文件",
+        "EnName": "echnoloicaldocumentationg"
+      },
+      "3.1.12": {
+        "CnName": "工艺方案",
+        "EnName": "ocessproramg"
+      },
+      "3.1.13": {
+        "CnName": "工艺路线",
+        "EnName": "ocessroute"
+      },
+      "3.1.14": {
+        "CnName": "工艺规程",
+        "EnName": "ocedure"
+      },
+      "3.1.15": {
+        "CnName": "工艺设计",
+        "EnName": "ocessdesiocessplanninggnpr"
+      },
+      "3.1.16": {
+        "CnName": "工艺要素",
+        "EnName": "ocessfactor"
+      },
+      "3.1.17": {
+        "CnName": "工艺规范",
+        "EnName": "ocessscificationpe"
+      },
+      "3.1.18": {
+        "CnName": "工艺参数",
+        "EnName": "ocessparameter"
+      },
+      "3.1.19": {
+        "CnName": "工艺准备",
+        "EnName": "echnoloicalprerationofproductiongpa"
+      },
+      "3.1.20": {
+        "CnName": "工艺试验",
+        "EnName": "ngineertest"
+      },
+      "3.1.21": {
+        "CnName": "工艺验证",
+        "EnName": "ocessverification"
+      },
+      "3.1.22": {
+        "CnName": "工艺管理",
+        "EnName": "echnoloicalmanaementgg"
+      },
+      "3.1.23": {
+        "CnName": "工艺设备",
+        "EnName": ""
+      },
+      "3.1.24": {
+        "CnName": "工艺装备（工装）",
+        "EnName": "ooling"
+      },
+      "3.1.25": {
+        "CnName": "工艺系统",
+        "EnName": ""
+      },
+      "3.1.26": {
+        "CnName": "工艺纪律",
+        "EnName": ""
+      },
+      "3.1.27": {
+        "CnName": "成组技术",
+        "EnName": ""
+      },
+      "3.1.28": {
+        "CnName": "自动化生产",
+        "EnName": "tomatedproduction"
+      },
+      "3.1.29": {
+        "CnName": "数控加工",
+        "EnName": "ricallontrolledmachiningyc"
+      },
+      "3.1.30": {
+        "CnName": "适应控制",
+        "EnName": "tivecontrol"
+      },
+      "3.1.31": {
+        "CnName": "工艺过程优化",
+        "EnName": "ocessoptimization"
+      },
+      "3.1.32": {
+        "CnName": "工艺数据库",
+        "EnName": "echnoloicalbaseg"
+      },
+      "3.1.33": {
+        "CnName": "生产纲领",
+        "EnName": "oductionproramg"
+      },
+      "3.1.34": {
+        "CnName": "生产类型",
+        "EnName": "sofproductionype"
+      },
+      "3.1.35": {
+        "CnName": "生产批量",
+        "EnName": "oductionbatch"
+      },
+      "3.1.36": {
+        "CnName": "生产周期",
+        "EnName": "oductionccley"
+      },
+      "3.1.37": {
+        "CnName": "生产节拍",
+        "EnName": "acceofproductionpa"
+      },
+      "3.1.38": {
+        "CnName": "工艺数据",
+        "EnName": "ocessdata"
+      },
+      "3.1.39": {
+        "CnName": "流程图",
+        "EnName": "lowdiaramg"
+      },
+      "3.1.40": {
+        "CnName": "虚拟制造",
+        "EnName": "irtualmanufacturing"
+      },
+      "3.1.41": {
+        "CnName": "柔性制造技术",
+        "EnName": "lexiblemanufacturingtechnolo"
+      },
+      "3.1.42": {
+        "CnName": "可复用工艺设计",
+        "EnName": "eusableprocessplanning"
+      },
+      "3.1.43": {
+        "CnName": "",
+        "EnName": "computer"
+      },
+      "3.1.44": {
+        "CnName": "计算机辅助工艺规划设计",
+        "EnName": "omputeaidedprocessplanni"
+      },
+      "3.1.45": {
+        "CnName": "绿色制造",
+        "EnName": "reenmanufacturing"
+      },
+      "3.1.46": {
+        "CnName": "绿色加工",
+        "EnName": "reenprocessing"
+      },
+      "3.1.47": {
+        "CnName": "敏捷制造",
+        "EnName": "ilemanufacturi"
+      },
+      "3.1.48": {
+        "CnName": "再制造",
+        "EnName": "emanufacturing"
+      }
+    },
+    "3.2": {
+      "3.2.1": {
+        "CnName": "原材料",
+        "EnName": "awmaterial"
+      },
+      "3.2.2": {
+        "CnName": "主要材料",
+        "EnName": "imarterialyma"
+      },
+      "3.2.3": {
+        "CnName": "辅助材料",
+        "EnName": "iliarteria"
+      },
+      "3.2.4": {
+        "CnName": "毛坯",
+        "EnName": "lank"
+      },
+      "3.2.5": {
+        "CnName": "铸件",
+        "EnName": "asting"
+      },
+      "3.2.6": {
+        "CnName": "锻件",
+        "EnName": "oringg"
+      },
+      "3.2.7": {
+        "CnName": "焊接件",
+        "EnName": ""
+      },
+      "3.2.8": {
+        "CnName": "冲压件",
+        "EnName": "tamping"
+      },
+      "3.2.9": {
+        "CnName": "工件",
+        "EnName": ""
+      },
+      "3.2.10": {
+        "CnName": "工艺关键件",
+        "EnName": "omponentsandpartsinprocessyc"
+      },
+      "3.2.11": {
+        "CnName": "外协件",
+        "EnName": "ooperationpart"
+      },
+      "3.2.12": {
+        "CnName": "试件",
+        "EnName": "cime"
+      },
+      "3.2.13": {
+        "CnName": "工艺用件",
+        "EnName": "cifiedpartsinprocesspe"
+      },
+      "3.2.14": {
+        "CnName": "在制品",
+        "EnName": ""
+      },
+      "3.2.15": {
+        "CnName": "半成品",
+        "EnName": "emifinishedproduc"
+      },
+      "3.2.16": {
+        "CnName": "合格品",
+        "EnName": "onforming"
+      },
+      "3.2.17": {
+        "CnName": "不合格品",
+        "EnName": ""
+      },
+      "3.2.18": {
+        "CnName": "废品",
+        "EnName": "crap"
+      },
+      "3.2.19": {
+        "CnName": "制成品",
+        "EnName": "inishedgoods"
+      },
+      "3.2.20": {
+        "CnName": "制成品放弃",
+        "EnName": "inishedgoodswaivers"
+      },
+      "3.2.21": {
+        "CnName": "装配件",
+        "EnName": "ssembly"
+      }
+    },
+    "3.3": {
+      "3.3.1": {
+        "CnName": "铸造",
+        "EnName": "oundr"
+      },
+      "3.3.2": {
+        "CnName": "锻造",
+        "EnName": "oringg"
+      },
+      "3.3.3": {
+        "CnName": "焊接",
+        "EnName": ""
+      },
+      "3.3.4": {
+        "CnName": "热处理",
+        "EnName": "attreatment"
+      },
+      "3.3.5": {
+        "CnName": "表面处理",
+        "EnName": "urfacetreatment"
+      },
+      "3.3.6": {
+        "CnName": "表面涂覆",
+        "EnName": "urfacecoating"
+      },
+      "3.3.7": {
+        "CnName": "粉末冶金",
+        "EnName": "ermetallurgy"
+      },
+      "3.3.8": {
+        "CnName": "注射成形",
+        "EnName": "nectionformingj"
+      },
+      "3.3.9": {
+        "CnName": "机械加工",
+        "EnName": ""
+      },
+      "3.3.10": {
+        "CnName": "压力加工",
+        "EnName": "essworking"
+      },
+      "3.3.11": {
+        "CnName": "切削加工",
+        "EnName": "utting"
+      },
+      "3.3.12": {
+        "CnName": "车削",
+        "EnName": "urning"
+      },
+      "3.3.13": {
+        "CnName": "铣削",
+        "EnName": ""
+      },
+      "3.3.14": {
+        "CnName": "刨削",
+        "EnName": ""
+      },
+      "3.3.15": {
+        "CnName": "钻削",
+        "EnName": "rilling"
+      },
+      "3.3.16": {
+        "CnName": "铰削",
+        "EnName": "eaming"
+      },
+      "3.3.17": {
+        "CnName": "锪削",
+        "EnName": "tti"
+      },
+      "3.3.18": {
+        "CnName": "镗削",
+        "EnName": "ring"
+      },
+      "3.3.19": {
+        "CnName": "插削",
+        "EnName": "lotting"
+      },
+      "3.3.20": {
+        "CnName": "拉削",
+        "EnName": ""
+      },
+      "3.3.21": {
+        "CnName": "推削",
+        "EnName": "shbroaching"
+      },
+      "3.3.22": {
+        "CnName": "铲削",
+        "EnName": "elievi"
+      },
+      "3.3.23": {
+        "CnName": "刮削",
+        "EnName": "craping"
+      },
+      "3.3.24": {
+        "CnName": "磨削",
+        "EnName": "rinding"
+      },
+      "3.3.25": {
+        "CnName": "研磨",
+        "EnName": "apping"
+      },
+      "3.3.26": {
+        "CnName": "珩磨",
+        "EnName": "ing"
+      },
+      "3.3.27": {
+        "CnName": "超精加工",
+        "EnName": "uperfinishing"
+      },
+      "3.3.28": {
+        "CnName": "抛光",
+        "EnName": "lishing"
+      },
+      "3.3.29": {
+        "CnName": "挤压",
+        "EnName": "xtruding"
+      },
+      "3.3.30": {
+        "CnName": "旋压",
+        "EnName": "inningp"
+      },
+      "3.3.31": {
+        "CnName": "轧制",
+        "EnName": "olling"
+      },
+      "3.3.32": {
+        "CnName": "滚压",
+        "EnName": "olling"
+      },
+      "3.3.33": {
+        "CnName": "喷丸",
+        "EnName": "hot"
+      },
+      "3.3.34": {
+        "CnName": "喷砂",
+        "EnName": "and"
+      },
+      "3.3.35": {
+        "CnName": "冷作",
+        "EnName": "oldwork"
+      },
+      "3.3.36": {
+        "CnName": "冲压",
+        "EnName": "tampi"
+      },
+      "3.3.37": {
+        "CnName": "铆接",
+        "EnName": "iveting"
+      },
+      "3.3.38": {
+        "CnName": "粘结",
+        "EnName": "luing"
+      },
+      "3.3.39": {
+        "CnName": "钳加工",
+        "EnName": "enchwork"
+      },
+      "3.3.40": {
+        "CnName": "电加工",
+        "EnName": "lectricmachining"
+      },
+      "3.3.41": {
+        "CnName": "电火花加工",
+        "EnName": "lectricaldischaremachini"
+      },
+      "3.3.42": {
+        "CnName": "电解加工（电化学加工）",
+        "EnName": "lectro"
+      },
+      "3.3.43": {
+        "CnName": "电子束加工",
+        "EnName": "lectronbeammachini"
+      },
+      "3.3.44": {
+        "CnName": "离子束加工",
+        "EnName": "onbeammachining"
+      },
+      "3.3.45": {
+        "CnName": "等离子加工",
+        "EnName": "lasmamachining"
+      },
+      "3.3.46": {
+        "CnName": "电铸",
+        "EnName": "alvanoplastic"
+      },
+      "3.3.47": {
+        "CnName": "激光加工",
+        "EnName": "aserbeammachining"
+      },
+      "3.3.48": {
+        "CnName": "超声波加工",
+        "EnName": "ltrasonicmachining"
+      },
+      "3.3.49": {
+        "CnName": "",
+        "EnName": "ghgyhi"
+      },
+      "3.3.50": {
+        "CnName": "装配",
+        "EnName": "ssembly"
+      },
+      "3.3.51": {
+        "CnName": "包装",
+        "EnName": "ckaingg"
+      },
+      "3.3.52": {
+        "CnName": "纳米加工",
+        "EnName": ""
+      },
+      "3.3.53": {
+        "CnName": "精密加工",
+        "EnName": "ecisionmachining"
+      },
+      "3.3.54": {
+        "CnName": "特种加工",
+        "EnName": ""
+      },
+      "3.3.55": {
+        "CnName": "高速切削",
+        "EnName": "i"
+      },
+      "3.3.56": {
+        "CnName": "高压水切割",
+        "EnName": "iessurewatercuttingghpr"
+      },
+      "3.3.57": {
+        "CnName": "快速原型",
+        "EnName": "apidprototi"
+      },
+      "3.3.58": {
+        "CnName": "硬态切削",
+        "EnName": "rdcutting"
+      },
+      "3.3.59": {
+        "CnName": "干式切削",
+        "EnName": "ruttingyc"
+      },
+      "3.3.60": {
+        "CnName": "立体印刷",
+        "EnName": "tereoscopicprinting"
+      },
+      "3.3.61": {
+        "CnName": "分层实体制造",
+        "EnName": "aminatedobectmanufacturingj"
+      },
+      "3.3.62": {
+        "CnName": "选择性激光烧结",
+        "EnName": "electivelasersintering"
+      },
+      "3.3.63": {
+        "CnName": "熔融沉积成形",
+        "EnName": "useddesitionformingpo"
+      },
+      "3.3.64": {
+        "CnName": "覆层工艺",
+        "EnName": "oatingprocess"
+      },
+      "3.3.65": {
+        "CnName": "真空沉积",
+        "EnName": "acuumdeposition"
+      },
+      "3.3.66": {
+        "CnName": "热浸镀",
+        "EnName": "tdip"
+      },
+      "3.3.67": {
+        "CnName": "转化膜",
+        "EnName": "onversioncoating"
+      },
+      "3.3.68": {
+        "CnName": "热喷涂",
+        "EnName": "hermalsapry"
+      },
+      "3.3.69": {
+        "CnName": "等离子喷涂",
+        "EnName": "lasmasapry"
+      },
+      "3.3.70": {
+        "CnName": "复合加工",
+        "EnName": "ompoundmachining"
+      },
+      "3.3.71": {
+        "CnName": "振动切削",
+        "EnName": "ibrocutting"
+      },
+      "3.3.72": {
+        "CnName": "电解磨削",
+        "EnName": "lectrolsisgrindingy"
+      },
+      "3.3.73": {
+        "CnName": "加热机械切削",
+        "EnName": ""
+      },
+      "3.3.74": {
+        "CnName": "超声研磨",
+        "EnName": "ltrasoundgrinding"
+      },
+      "3.3.75": {
+        "CnName": "超声电火花加工",
+        "EnName": "ltras"
+      },
+      "3.3.76": {
+        "CnName": "爆炸索切割",
+        "EnName": "eoflexcutting"
+      },
+      "3.3.77": {
+        "CnName": "超声电解复合加工",
+        "EnName": "lectrolsisofultrasonicmachiningy"
+      },
+      "3.3.78": {
+        "CnName": "电解电火花复合加工 犈犇犕",
+        "EnName": "ompositeprocessingelectrolticy"
+      },
+      "3.3.79": {
+        "CnName": "电解研磨",
+        "EnName": "lectrolticpolishingy"
+      },
+      "3.3.80": {
+        "CnName": "直接成形技术",
+        "EnName": "irectmoldingtechnology"
+      },
+      "3.3.81": {
+        "CnName": "液压成形",
+        "EnName": "raulicmoulding"
+      },
+      "3.3.82": {
+        "CnName": "爆炸成形",
+        "EnName": "ormingexplosion"
+      },
+      "3.3.83": {
+        "CnName": "喷丸成形",
+        "EnName": "loudbursttreatmentforming"
+      },
+      "3.3.84": {
+        "CnName": "粗化",
+        "EnName": "oarsening"
+      },
+      "3.3.85": {
+        "CnName": "强化",
+        "EnName": "trengthening"
+      },
+      "3.3.86": {
+        "CnName": "微细加工",
+        "EnName": ""
+      },
+      "3.3.87": {
+        "CnName": "硅微细加工",
+        "EnName": "iliconmicrochining"
+      },
+      "3.3.88": {
+        "CnName": "光刻加工",
+        "EnName": "tolithoraphyprocessingg"
+      }
+    },
+    "3.4": {
+      "3.4.1": {
+        "CnName": "工序",
+        "EnName": "ration"
+      },
+      "3.4.2": {
+        "CnName": "安装",
+        "EnName": "etup"
+      },
+      "3.4.3": {
+        "CnName": "工步",
+        "EnName": "te"
+      },
+      "3.4.4": {
+        "CnName": "辅助工步",
+        "EnName": "iliartepys"
+      },
+      "3.4.5": {
+        "CnName": "工作行程",
+        "EnName": ""
+      },
+      "3.4.6": {
+        "CnName": "空行程",
+        "EnName": "dlestroke"
+      },
+      "3.4.7": {
+        "CnName": "工位",
+        "EnName": "sition"
+      },
+      "3.4.8": {
+        "CnName": "基准",
+        "EnName": "tum"
+      },
+      "3.4.9": {
+        "CnName": "设计基准",
+        "EnName": "esitumgnda"
+      },
+      "3.4.10": {
+        "CnName": "工艺基准",
+        "EnName": "ocessdatum"
+      },
+      "3.4.11": {
+        "CnName": "工序基准",
+        "EnName": "rationdatum"
+      },
+      "3.4.12": {
+        "CnName": "定位基准",
+        "EnName": "ixeddatum"
+      },
+      "3.4.13": {
+        "CnName": "测量基准",
+        "EnName": ""
+      },
+      "3.4.14": {
+        "CnName": "装配基准",
+        "EnName": "ssembltumyda"
+      },
+      "3.4.15": {
+        "CnName": "辅助基准",
+        "EnName": "iliartumyda"
+      },
+      "3.4.16": {
+        "CnName": "工艺孔",
+        "EnName": "iliarleyho"
+      },
+      "3.4.17": {
+        "CnName": "工艺凸台",
+        "EnName": "alseboss"
+      },
+      "3.4.18": {
+        "CnName": "工艺尺寸",
+        "EnName": "ocessdimension"
+      },
+      "3.4.19": {
+        "CnName": "工序尺寸",
+        "EnName": "rationdimension"
+      },
+      "3.4.20": {
+        "CnName": "尺寸链",
+        "EnName": "imensionalchain"
+      },
+      "3.4.21": {
+        "CnName": "工艺尺寸链",
+        "EnName": "ocessdimensionchain"
+      },
+      "3.4.22": {
+        "CnName": "加工总余量（毛坯余量）",
+        "EnName": "otalallowanceformachining"
+      },
+      "3.4.23": {
+        "CnName": "工序余量",
+        "EnName": "rationallowance"
+      },
+      "3.4.24": {
+        "CnName": "切入量（切入长度）",
+        "EnName": "oach"
+      },
+      "3.4.25": {
+        "CnName": "切出量（切出长度）",
+        "EnName": "vertrave"
+      },
+      "3.4.26": {
+        "CnName": "工艺留量",
+        "EnName": "ocessallowance"
+      },
+      "3.4.27": {
+        "CnName": "切削用量",
+        "EnName": "uttingconditions"
+      },
+      "3.4.28": {
+        "CnName": "切削速度",
+        "EnName": "uttingsedpe"
+      },
+      "3.4.29": {
+        "CnName": "主轴转速",
+        "EnName": "indlesedppe"
+      },
+      "3.4.30": {
+        "CnName": "往复次数",
+        "EnName": "erofstrokes"
+      },
+      "3.4.31": {
+        "CnName": "切削深度",
+        "EnName": "ethofcutp"
+      },
+      "3.4.32": {
+        "CnName": "进给量",
+        "EnName": "eed"
+      },
+      "3.4.33": {
+        "CnName": "进给速度",
+        "EnName": "eedsedpe"
+      },
+      "3.4.34": {
+        "CnName": "切削力",
+        "EnName": "uttingforce"
+      },
+      "3.4.35": {
+        "CnName": "切削功率",
+        "EnName": "uttingpower"
+      },
+      "3.4.36": {
+        "CnName": "切削热",
+        "EnName": "atinmetalcutting"
+      },
+      "3.4.37": {
+        "CnName": "切削温度",
+        "EnName": "uttingtemperature"
+      },
+      "3.4.38": {
+        "CnName": "切削液",
+        "EnName": "uttingfluid"
+      },
+      "3.4.39": {
+        "CnName": "产量定额",
+        "EnName": "atedouttpu"
+      },
+      "3.4.40": {
+        "CnName": "时间定额",
+        "EnName": "tandardtime"
+      },
+      "3.4.41": {
+        "CnName": "作业时间",
+        "EnName": "sicccletimey"
+      },
+      "3.4.42": {
+        "CnName": "基本时间",
+        "EnName": ""
+      },
+      "3.4.43": {
+        "CnName": "辅助时间",
+        "EnName": "iliarimeyt"
+      },
+      "3.4.44": {
+        "CnName": "布置工作地时间",
+        "EnName": "imeformachineservicing"
+      },
+      "3.4.45": {
+        "CnName": "休息与生理需要时间",
+        "EnName": "imeforrestandpersonalneeds"
+      },
+      "3.4.46": {
+        "CnName": "准备与终结时间",
+        "EnName": "imeforprerationandfinishpa"
+      },
+      "3.4.47": {
+        "CnName": "材料消耗工艺定额",
+        "EnName": ""
+      },
+      "3.4.48": {
+        "CnName": "材料工艺性消耗",
+        "EnName": ""
+      },
+      "3.4.49": {
+        "CnName": "材料利用率",
+        "EnName": "verallmaterialutilizationfactor"
+      },
+      "3.4.50": {
+        "CnName": "设备负荷率",
+        "EnName": ""
+      },
+      "3.4.51": {
+        "CnName": "加工误差",
+        "EnName": ""
+      },
+      "3.4.52": {
+        "CnName": "加工精度",
+        "EnName": ""
+      },
+      "3.4.53": {
+        "CnName": "加工经济精度",
+        "EnName": "conomicalaccuracfmachiningyo"
+      },
+      "3.4.54": {
+        "CnName": "表面粗糙度",
+        "EnName": "urfaceroughness"
+      },
+      "3.4.55": {
+        "CnName": "工序能力",
+        "EnName": "ocesscapability"
+      },
+      "3.4.56": {
+        "CnName": "工序能力系数",
+        "EnName": "ocesscapabilitndexyi"
+      }
+    },
+    "3.5": {
+      "3.5.1": {
+        "CnName": "工艺路线表",
+        "EnName": "heetofprocessrout"
+      },
+      "3.5.2": {
+        "CnName": "车间分工明细表",
+        "EnName": ""
+      },
+      "3.5.3": {
+        "CnName": "工艺过程卡片",
+        "EnName": "oceduresheet"
+      },
+      "3.5.4": {
+        "CnName": "工艺卡片",
+        "EnName": "ocesssheet"
+      },
+      "3.5.5": {
+        "CnName": "工序卡片",
+        "EnName": "rationsheet"
+      },
+      "3.5.6": {
+        "CnName": "典型工艺过程卡片",
+        "EnName": "icalprocessflowsheetyp"
+      },
+      "3.5.7": {
+        "CnName": "犝",
+        "EnName": "yp"
+      },
+      "3.5.8": {
+        "CnName": "典型工序卡片",
+        "EnName": "icaloperationsheetyp"
+      },
+      "3.5.9": {
+        "CnName": "调整卡片",
+        "EnName": "ustingtablesj"
+      },
+      "3.5.10": {
+        "CnName": "工艺守则",
+        "EnName": "ocessinstructions"
+      },
+      "3.5.11": {
+        "CnName": "工艺附图",
+        "EnName": "ocessaccompanyingfiregu"
+      },
+      "3.5.12": {
+        "CnName": "毛坯图",
+        "EnName": "lankdrawing"
+      },
+      "3.5.13": {
+        "CnName": "装配系统图",
+        "EnName": "ssembllowchart"
+      },
+      "3.5.14": {
+        "CnName": "专用工艺装备设计任务书",
+        "EnName": "sissintforscialtechnicaleintgnagnmepequpme"
+      },
+      "3.5.15": {
+        "CnName": "专用设备设计任务书",
+        "EnName": "esissitforscialequintgnagnmenpepme"
+      },
+      "3.5.16": {
+        "CnName": "组合夹具组装任务书",
+        "EnName": "ssemblssintmodularfixtureyagnme"
+      },
+      "3.5.17": {
+        "CnName": "工艺关键件明细表",
+        "EnName": "istofkeomponentsandpartsinprocessyc"
+      },
+      "3.5.18": {
+        "CnName": "外协件明细表",
+        "EnName": "istofcooperationpart"
+      },
+      "3.5.19": {
+        "CnName": "专用工艺装备明细表",
+        "EnName": "istofscialtoolingpe"
+      },
+      "3.5.20": {
+        "CnName": "外购工具明细表",
+        "EnName": "istofpurchasedtooling"
+      },
+      "3.5.21": {
+        "CnName": "标准工具明细表",
+        "EnName": "istoffactortandardtoolsys"
+      },
+      "3.5.22": {
+        "CnName": "组合夹具明细表",
+        "EnName": "istofuniversalmodularjisandfixturessstemgy"
+      },
+      "3.5.23": {
+        "CnName": "工位器具明细表",
+        "EnName": "istofpartsstandsandracks"
+      },
+      "3.5.24": {
+        "CnName": "材料消耗工艺定额明细表",
+        "EnName": "istofmaterialconsumptionquotainprocess"
+      },
+      "3.5.25": {
+        "CnName": "材料消耗工艺定额汇总表",
+        "EnName": "ummariesofmaterialconsumptionquotainprocess"
+      },
+      "3.5.26": {
+        "CnName": "工艺装备验证书",
+        "EnName": "oofrecordfortooling"
+      },
+      "3.5.27": {
+        "CnName": "工艺试验报告",
+        "EnName": "ertofengineertestpo"
+      },
+      "3.5.28": {
+        "CnName": "工艺总结",
+        "EnName": "ummarftechnoloicalworkyog"
+      },
+      "3.5.29": {
+        "CnName": "工艺文件目录",
+        "EnName": "ataloeofprocessdocumentsgu"
+      },
+      "3.5.30": {
+        "CnName": "工艺文件更改通知单",
+        "EnName": "eorderfortechnoloicaldocumentationg"
+      },
+      "3.5.31": {
+        "CnName": "临时脱离工艺通知单",
+        "EnName": "rderfortemporarisengaeprocessydg"
+      },
+      "3.5.32": {
+        "CnName": "工艺决策",
+        "EnName": "ocessdecision"
+      },
+      "3.5.33": {
+        "CnName": "工艺信息模型",
+        "EnName": "ocessinformationmodel"
+      },
+      "3.5.34": {
+        "CnName": "零件信息模型",
+        "EnName": "rtsinformationmodel"
+      },
+      "3.5.35": {
+        "CnName": "（零件）特征",
+        "EnName": "eature"
+      },
+      "3.5.36": {
+        "CnName": "特征代号",
+        "EnName": "eatur"
+      },
+      "3.5.37": {
+        "CnName": "工序图",
+        "EnName": "rationdiaramg"
+      }
+    },
+    "3.6": {
+      "3.6.1": {
+        "CnName": "专用工艺装备",
+        "EnName": "cialtoolingpe"
+      },
+      "3.6.2": {
+        "CnName": "通用工艺装备",
+        "EnName": "iversaltooling"
+      },
+      "3.6.3": {
+        "CnName": "标准工艺装备",
+        "EnName": "tandardtooling"
+      },
+      "3.6.4": {
+        "CnName": "夹具",
+        "EnName": "i"
+      },
+      "3.6.5": {
+        "CnName": "模具",
+        "EnName": "i"
+      },
+      "3.6.6": {
+        "CnName": "刀具",
+        "EnName": "uttingtool"
+      },
+      "3.6.7": {
+        "CnName": "计量器具",
+        "EnName": ""
+      },
+      "3.6.8": {
+        "CnName": "犅",
+        "EnName": "yt"
+      },
+      "3.6.9": {
+        "CnName": "钳工工具",
+        "EnName": "enchrktool"
+      },
+      "3.6.10": {
+        "CnName": "工位器具",
+        "EnName": "tationfacilities"
+      },
+      "3.6.11": {
+        "CnName": "装夹",
+        "EnName": "et"
+      },
+      "3.6.12": {
+        "CnName": "定位",
+        "EnName": "sitioning"
+      },
+      "3.6.13": {
+        "CnName": "夹紧（卡夹）",
+        "EnName": "lamping"
+      },
+      "3.6.14": {
+        "CnName": "找正",
+        "EnName": "lii"
+      },
+      "3.6.15": {
+        "CnName": "对刀",
+        "EnName": "osize"
+      }
+    },
+    "3.7": {
+      "3.7.1": {
+        "CnName": "粗加工",
+        "EnName": "oughing"
+      },
+      "3.7.2": {
+        "CnName": "半精加工",
+        "EnName": "emi"
+      },
+      "3.7.3": {
+        "CnName": "精加工",
+        "EnName": "inishing"
+      },
+      "3.7.4": {
+        "CnName": "光整加工",
+        "EnName": "inishingcut"
+      },
+      "3.7.5": {
+        "CnName": "超精密加工",
+        "EnName": "ltraprecisionmachining"
+      },
+      "3.7.6": {
+        "CnName": "试切法",
+        "EnName": ""
+      },
+      "3.7.7": {
+        "CnName": "调整法",
+        "EnName": ""
+      },
+      "3.7.8": {
+        "CnName": "定尺寸刀具法",
+        "EnName": "imensioningcuttingtool"
+      },
+      "3.7.9": {
+        "CnName": "展成法（滚切法）",
+        "EnName": "enerating"
+      },
+      "3.7.10": {
+        "CnName": "仿形法",
+        "EnName": "opying"
+      },
+      "3.7.11": {
+        "CnName": "成形法",
+        "EnName": "orming"
+      },
+      "3.7.12": {
+        "CnName": "配作",
+        "EnName": ""
+      }
+    },
+    "3.6937": {
+      "3.6937": {
+        "CnName": "犌犅／犜 ４８６３—２００８",
+        "EnName": ""
+      }
+    },
+    "3.1639": {
+      "3.1639": {
+        "CnName": "犌犅／犜 ４８６３—２００８",
+        "EnName": ""
+      }
+    },
+    "3.4447": {
+      "3.4447": {
+        "CnName": "犌犅／犜 ４８６３—２００８",
+        "EnName": ""
+      }
+    },
+    "3.3351": {
+      "3.3351": {
+        "CnName": "犌犅／犜 ４８６３—２００８",
+        "EnName": ""
+      }
+    },
+    "3.452": {
+      "3.452": {
+        "CnName": "犌犅／犜 ４８６３—２００８",
+        "EnName": ""
+      }
+    }
+  },
+  "4 典型表面加工术语": {
+    "4.1": {
+      "4.1.1": {
+        "CnName": "钻孔",
+        "EnName": "rilli"
+      },
+      "4.1.2": {
+        "CnName": "扩孔",
+        "EnName": "oredrilling"
+      },
+      "4.1.3": {
+        "CnName": "铰孔",
+        "EnName": "eaming"
+      },
+      "4.1.4": {
+        "CnName": "锪孔",
+        "EnName": "ounterbori"
+      },
+      "4.1.5": {
+        "CnName": "镗孔",
+        "EnName": "ring"
+      },
+      "4.1.6": {
+        "CnName": "车孔",
+        "EnName": "leturni"
+      },
+      "4.1.7": {
+        "CnName": "铣孔",
+        "EnName": "lemilling"
+      },
+      "4.1.8": {
+        "CnName": "拉孔",
+        "EnName": "lebroachi"
+      },
+      "4.1.9": {
+        "CnName": "推孔",
+        "EnName": "lepushbroaching"
+      },
+      "4.1.10": {
+        "CnName": "插孔",
+        "EnName": "leslotting"
+      },
+      "4.1.11": {
+        "CnName": "磨孔",
+        "EnName": "legrindi"
+      },
+      "4.1.12": {
+        "CnName": "珩孔",
+        "EnName": "lehoning"
+      },
+      "4.1.13": {
+        "CnName": "研孔",
+        "EnName": "lelapping"
+      },
+      "4.1.14": {
+        "CnName": "刮孔",
+        "EnName": "lescraping"
+      },
+      "4.1.15": {
+        "CnName": "挤孔",
+        "EnName": "leburnishing"
+      },
+      "4.1.16": {
+        "CnName": "滚压孔",
+        "EnName": "lerolling"
+      },
+      "4.1.17": {
+        "CnName": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ３．",
+        "EnName": "ingpunchshbroachingpu"
+      },
+      "4.1.18": {
+        "CnName": "激光打孔",
+        "EnName": "aserbeamperforation"
+      },
+      "4.1.19": {
+        "CnName": "电火花打孔",
+        "EnName": "lectricsrk"
+      },
+      "4.1.20": {
+        "CnName": "超声波打孔",
+        "EnName": "ltrasonicperforation"
+      },
+      "4.1.21": {
+        "CnName": "电子束打孔",
+        "EnName": "lectronbeamperforation"
+      }
+    },
+    "4.2": {
+      "4.2.1": {
+        "CnName": "车外圆",
+        "EnName": "urni"
+      },
+      "4.2.2": {
+        "CnName": "磨外圆",
+        "EnName": "lindricalgrindi"
+      },
+      "4.2.3": {
+        "CnName": "珩磨外圆",
+        "EnName": "lindricalhoningy"
+      },
+      "4.2.4": {
+        "CnName": "研磨外圆",
+        "EnName": "lindricallappingy"
+      },
+      "4.2.5": {
+        "CnName": "抛光外圆",
+        "EnName": "lindricalpolishi"
+      },
+      "4.2.6": {
+        "CnName": "滚压外圆",
+        "EnName": "lindricalrollingy"
+      }
+    },
+    "4.3": {
+      "4.3.1": {
+        "CnName": "车平面",
+        "EnName": "urfaceturni"
+      },
+      "4.3.2": {
+        "CnName": "铣平面",
+        "EnName": "lainmilli"
+      },
+      "4.3.3": {
+        "CnName": "刨平面",
+        "EnName": "urfaceshapi"
+      },
+      "4.3.4": {
+        "CnName": "磨平面",
+        "EnName": "urfacegrindi"
+      },
+      "4.3.5": {
+        "CnName": "珩平面",
+        "EnName": "urfacehoning"
+      },
+      "4.3.6": {
+        "CnName": "刮平面",
+        "EnName": "urfacescraping"
+      },
+      "4.3.7": {
+        "CnName": "拉平面",
+        "EnName": "urfacebroaching"
+      },
+      "4.3.8": {
+        "CnName": "锪平面",
+        "EnName": "tfaci"
+      },
+      "4.3.9": {
+        "CnName": "研平面",
+        "EnName": "latlapping"
+      },
+      "4.3.10": {
+        "CnName": "抛光平面",
+        "EnName": ""
+      }
+    },
+    "4.4": {
+      "4.4.1": {
+        "CnName": "车槽",
+        "EnName": ""
+      },
+      "4.4.2": {
+        "CnName": "铣槽",
+        "EnName": "lotmilliideandfacemilli"
+      },
+      "4.4.3": {
+        "CnName": "刨槽",
+        "EnName": "lotshapi"
+      },
+      "4.4.4": {
+        "CnName": "插槽",
+        "EnName": "lotti"
+      },
+      "4.4.5": {
+        "CnName": "拉槽",
+        "EnName": "lotbroachi"
+      },
+      "4.4.6": {
+        "CnName": "推槽",
+        "EnName": "lotpushbroaching"
+      },
+      "4.4.7": {
+        "CnName": "镗槽",
+        "EnName": "lotboring"
+      },
+      "4.4.8": {
+        "CnName": "磨槽",
+        "EnName": "lotgrinding"
+      },
+      "4.4.9": {
+        "CnName": "研槽",
+        "EnName": "lotlapping"
+      },
+      "4.4.10": {
+        "CnName": "滚槽",
+        "EnName": "lotrolling"
+      },
+      "4.4.11": {
+        "CnName": "刮槽",
+        "EnName": "lotscraping"
+      }
+    },
+    "4.5": {
+      "4.5.1": {
+        "CnName": "车螺纹",
+        "EnName": "ingle"
+      },
+      "4.5.2": {
+        "CnName": "梳螺纹",
+        "EnName": "hreadchasing"
+      },
+      "4.5.3": {
+        "CnName": "铣螺纹",
+        "EnName": "hreadmilling"
+      },
+      "4.5.4": {
+        "CnName": "旋风铣螺纹",
+        "EnName": ""
+      },
+      "4.5.5": {
+        "CnName": "滚压螺纹",
+        "EnName": "hreadrolli"
+      },
+      "4.5.6": {
+        "CnName": "搓螺纹",
+        "EnName": "hreadrolli"
+      },
+      "4.5.7": {
+        "CnName": "拉螺纹",
+        "EnName": "nternalthreadbroachi"
+      },
+      "4.5.8": {
+        "CnName": "攻螺纹",
+        "EnName": "apping"
+      },
+      "4.5.9": {
+        "CnName": "套螺纹",
+        "EnName": "hreaddiecutti"
+      },
+      "4.5.10": {
+        "CnName": "磨螺纹",
+        "EnName": "hreadgrinding"
+      },
+      "4.5.11": {
+        "CnName": "珩螺纹",
+        "EnName": "hreadhoning"
+      },
+      "4.5.12": {
+        "CnName": "研螺纹",
+        "EnName": "hreadlapping"
+      }
+    },
+    "4.6": {
+      "4.6.1": {
+        "CnName": "铣齿",
+        "EnName": "earmilling"
+      },
+      "4.6.2": {
+        "CnName": "刨齿",
+        "EnName": "earplaning"
+      },
+      "4.6.3": {
+        "CnName": "插齿",
+        "EnName": "earshaping"
+      },
+      "4.6.4": {
+        "CnName": "滚齿",
+        "EnName": ""
+      },
+      "4.6.5": {
+        "CnName": "剃齿",
+        "EnName": "earshaving"
+      },
+      "4.6.6": {
+        "CnName": "珩齿",
+        "EnName": "earhoning"
+      },
+      "4.6.7": {
+        "CnName": "磨齿",
+        "EnName": "eargrinding"
+      },
+      "4.6.8": {
+        "CnName": "研齿",
+        "EnName": "earlapping"
+      },
+      "4.6.9": {
+        "CnName": "拉齿",
+        "EnName": "earbroaching"
+      },
+      "4.6.10": {
+        "CnName": "轧齿",
+        "EnName": "earrolling"
+      },
+      "4.6.11": {
+        "CnName": "挤齿",
+        "EnName": "earburnishing"
+      },
+      "4.6.12": {
+        "CnName": "冲齿轮",
+        "EnName": "earstamping"
+      },
+      "4.6.13": {
+        "CnName": "铸齿轮",
+        "EnName": "earcasting"
+      }
+    },
+    "4.7": {
+      "4.7.1": {
+        "CnName": "车成形面",
+        "EnName": "ormturni"
+      },
+      "4.7.2": {
+        "CnName": "铣成形面",
+        "EnName": "ormmilli"
+      },
+      "4.7.3": {
+        "CnName": "刨成形面",
+        "EnName": "ormshaping"
+      },
+      "4.7.4": {
+        "CnName": "磨成形面",
+        "EnName": "ormgrinding"
+      },
+      "4.7.5": {
+        "CnName": "抛光成形面",
+        "EnName": "ormpolishing"
+      },
+      "4.7.6": {
+        "CnName": "电加工成形面",
+        "EnName": "ormelectrochining"
+      }
+    },
+    "4.8": {
+      "4.8.1": {
+        "CnName": "滚花",
+        "EnName": "rling"
+      },
+      "4.8.2": {
+        "CnName": "倒角",
+        "EnName": "ering"
+      },
+      "4.8.3": {
+        "CnName": "倒圆角",
+        "EnName": "oundi"
+      },
+      "4.8.4": {
+        "CnName": "钻中心孔",
+        "EnName": "entering"
+      },
+      "4.8.5": {
+        "CnName": "磨中心孔",
+        "EnName": "entergrindi"
+      },
+      "4.8.6": {
+        "CnName": "研中心孔",
+        "EnName": "enterlappi"
+      },
+      "4.8.7": {
+        "CnName": "挤压中心孔",
+        "EnName": "enterseezi"
+      },
+      "4.8.8": {
+        "CnName": "切断",
+        "EnName": ""
+      }
+    }
+  },
+  "5 冷作、钳工及装配常用术语": {
+    "5.3": {
+      "5.3.1": {
+        "CnName": "配套",
+        "EnName": "ormingacompleteset"
+      },
+      "5.3.2": {
+        "CnName": "部装",
+        "EnName": "ubassembly"
+      },
+      "5.3.3": {
+        "CnName": "总装",
+        "EnName": "eneralassembl"
+      },
+      "5.3.4": {
+        "CnName": "犃犕）!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ３．",
+        "EnName": "jymeailemanufacturi"
+      },
+      "5.3.5": {
+        "CnName": "修配装配法",
+        "EnName": "ittingassemblthodyme"
+      },
+      "5.3.6": {
+        "CnName": "安装件",
+        "EnName": "nstallation"
+      },
+      "5.3.7": {
+        "CnName": "虚拟装配",
+        "EnName": "irtualassembly"
+      },
+      "5.3.8": {
+        "CnName": "互换装配法",
+        "EnName": "nterchangeableassemblthodyme"
+      },
+      "5.3.9": {
+        "CnName": "分组装配法",
+        "EnName": "lassifiedgroupsassemblthodyme"
+      },
+      "5.3.10": {
+        "CnName": "压装",
+        "EnName": "essfitting"
+      },
+      "5.3.11": {
+        "CnName": "热装",
+        "EnName": "hrinkaefittingg"
+      },
+      "5.3.12": {
+        "CnName": "冷装",
+        "EnName": "xpansionfitting"
+      },
+      "5.3.13": {
+        "CnName": "吊装",
+        "EnName": "iftfitting"
+      },
+      "5.3.14": {
+        "CnName": "试装",
+        "EnName": "rialassembly"
+      },
+      "5.3.15": {
+        "CnName": "装配尺寸链",
+        "EnName": "imensionalchainforassembly"
+      },
+      "5.3.16": {
+        "CnName": "预载",
+        "EnName": "eload"
+      },
+      "5.3.17": {
+        "CnName": "静平衡试验",
+        "EnName": "taticbalancetest"
+      },
+      "5.3.18": {
+        "CnName": "动平衡试验",
+        "EnName": "cbalancingtest"
+      },
+      "5.3.19": {
+        "CnName": "试车",
+        "EnName": "estrun"
+      },
+      "5.3.20": {
+        "CnName": "空运转试验",
+        "EnName": ""
+      },
+      "5.3.21": {
+        "CnName": "负荷试验",
+        "EnName": "oadtest"
+      },
+      "5.3.22": {
+        "CnName": "超负荷试验",
+        "EnName": "verloadtest"
+      },
+      "5.3.23": {
+        "CnName": "型式试验",
+        "EnName": ""
+      },
+      "5.3.24": {
+        "CnName": "性能试验",
+        "EnName": "rformancetest"
+      },
+      "5.3.25": {
+        "CnName": "寿命试验",
+        "EnName": "ifetest"
+      },
+      "5.3.26": {
+        "CnName": "破坏性试验",
+        "EnName": "estructivetest"
+      },
+      "5.3.27": {
+        "CnName": "温度试验",
+        "EnName": "emperaturetest"
+      },
+      "5.3.28": {
+        "CnName": "压力试验",
+        "EnName": "essuretest"
+      },
+      "5.3.29": {
+        "CnName": "噪声试验",
+        "EnName": "isemeasurement"
+      },
+      "5.3.30": {
+        "CnName": "电气试验",
+        "EnName": "lectrictest"
+      },
+      "5.3.31": {
+        "CnName": "渗漏试验",
+        "EnName": "eakaetestg"
+      },
+      "5.3.32": {
+        "CnName": "气密性试验",
+        "EnName": "ir"
+      },
+      "5.3.33": {
+        "CnName": "油封",
+        "EnName": "ilsealing"
+      },
+      "5.3.34": {
+        "CnName": "漆封",
+        "EnName": "intsealing"
+      },
+      "5.3.35": {
+        "CnName": "拆卸",
+        "EnName": "isassembly"
+      },
+      "5.3.36": {
+        "CnName": "铅封",
+        "EnName": "eadsealing"
+      },
+      "5.3.37": {
+        "CnName": "启封",
+        "EnName": "sealing"
+      },
+      "5.3.38": {
+        "CnName": "装配顺序规划",
+        "EnName": "ssemblesequenceplanning"
+      }
+    },
+    "5.3545": {
+      "5.3545": {
+        "CnName": "犌犅／犜 ４８６３—２００８",
+        "EnName": ""
+      }
+    }
+  }
+}
