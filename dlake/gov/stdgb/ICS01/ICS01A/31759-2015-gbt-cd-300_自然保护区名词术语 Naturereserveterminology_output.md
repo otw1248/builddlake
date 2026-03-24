@@ -1,0 +1,660 @@
+
+
+# 中华人民共和国国家标准
+
+GB/T 31759—2015
+
+# 自然保护区名词术语
+
+Nature reserve terminology
+
+2015-07-03 发布
+
+2015-11-02 实施
+
+## 目次
+
+前言 …… I  
+  
+1 范围 …… 1  
+  
+2 自然保护区分类分级 …… 1  
+  
+3 自然保护区保护对象 …… 2  
+  
+4 自然保护区规划建设 …… 4  
+  
+5 自然保护区保护管理 …… 6  
+  
+索引 …… 8
+
+## 前言
+
+本标准按照 GB/T 1.1—2009 给出的规则起草。
+
+本标准由国家林业局提出并归口。
+
+本标准起草单位：北京林业大学、国家林业局、国家海洋局、环境保护部。
+
+本标准主要起草人：崔国发、李忠、王清春、邢韶华、雷霆、徐基良、何友均、严旬、郭红燕、安丽丹、武立磊、王隆富、王斌、陶思明。
+
+## 自然保护区名词术语
+
+## 1 范围
+
+本标准规定了自然保护区设立、建设和管理中常用的名词术语。
+
+本标准适用于自然保护区建设、管理、教学、科研及其他有关领域。
+
+## 2 自然保护区分类分级
+
+### 2.1 
+
+## 自然保护区 nature reserve
+
+对有代表性或有重要保护价值的自然生态系统、珍稀濒危野生动植物物种的天然集中分布区、有特殊意义的自然遗迹等保护对象所在的陆地、内陆湿地或者海域，依法划出一定范围予以特殊保护和管理的区域。
+
+### 2.2 
+
+## 自然保护区类型 category of nature reserve
+
+根据自然保护区主要保护对象的自然属性划分的自然保护区类别，分为三大类，九个类型。
+
+### 2.3 
+
+## 自然生态系统类自然保护区 nature reserve for natural ecosystem
+
+以具有一定代表性、典型性和完整性的生物群落和非生物环境共同组成的自然生态系统为主要保护对象的自然保护区，包括森林生态系统、草原与草甸生态系统、荒漠生态系统、内陆湿地与水域生态系统、海洋和海岸生态系统5个类型自然保护区。
+
+### 2.4 
+
+## 野生生物类自然保护区 nature reserve for wildlife
+
+以野生生物物种，特别是珍稀濒危和重要经济动植物种群及其自然生境为主要保护对象的自然保护区，包括野生动物和野生植物两个类型自然保护区。
+
+### 2.5 
+
+## 自然遗迹类自然保护区 nature reserve for natural monument
+
+以特殊意义的地质遗迹和古生物遗迹等为主要保护对象的自然保护区，包括地质遗迹和古生物遗迹两个类型自然保护区。
+
+[GB/T 14529—1993, 定义 3.4]
+
+### 2.6 
+
+## 自然保护区的级别 level of nature reserve
+
+国务院或各级地方政府根据自然保护区的保护价值批准的级别，分为国家级自然保护区和地方级自然保护区。其中地方级自然保护区包括省（自治区、直辖市）级、市（自治州、盟）级和县（自治县、旗、县级市）级自然保护区。
+
+### 2.7 
+
+## 生物圈保护区 biosphere reserve
+
+列入联合国教科文组织(UNESCO)人与生物圈计划(MAB)“世界生物圈保护区网络”或“中国生物圈保护区网络”的自然保护区，注重发挥促进资源可持续利用和社区协调发展的功能。
+
+### 2.8 
+
+## 海洋特别保护区 special marine protected area
+
+对具有特殊地理条件、生态系统、生物与非生物资源及海洋开发利用特殊需要的区域，而采取有效的保护措施和科学的开发方式进行特殊管理的海洋区域。
+
+### 2.9 
+
+## 国家公园 national park
+
+为保护具有国家或国际重要意义的自然区域而划定的陆地或海域。其管理目标是在保护自然生态系统、物种及其生境或自然遗迹的同时为人类提供娱乐和游憩的场所。
+
+## 3 自然保护区保护对象
+
+### 3.1 
+
+## 生物多样性 biodiversity; biological diversity
+
+一定地区的全部物种、生物的所有遗传变异和各种各样的生态系统，包括遗传多样性、物种多样性、生态系统多样性三个层次。
+
+### 3.2 
+
+## 遗传多样性 genetic diversity
+
+种内的遗传变异，既包括一个种群内个体间的变异，也包括地理上隔离的种群间的变异。
+
+### 3.3 
+
+## 物种多样性 species diversity
+
+某一地区的所有生物物种。
+
+### 3.4 
+
+## 生态系统多样性 ecosystem diversity
+
+某一地区各种各样的生物群落及其与生存环境相互作用的生态过程。
+
+### 3.5 
+
+## 野生植物 wild plant
+
+天然生长在自然生境中的植物。
+
+### 3.6 
+
+## 野生动物 wild animal; wildlife
+
+一般指天然分布在自然环境中的动物。出于保护、管理和科研等目的，人工驯养但尚未形成明显遗传变异的动物也被称为野生动物。
+
+### 3.7 
+
+## 生境 habitat
+
+## 栖息地
+
+生物个体、种群能够正常生活或繁衍后代的自然场所。
+
+### 3.8 
+
+## 保护物种 protected species
+
+依法受到保护，禁止或限制捕杀、采集、贸易的野生物种。
+
+### 3.9 
+
+## 国家重点保护物种 the wildlife under special state protection
+
+由国家正式发布，依法重点保护的物种。包括数量极少、分布范围较窄的物种，具有重要经济、科研、文化价值的受威胁种，重要家禽、家畜和作物的野生种、近缘种，或有重要经济价值但因过度利用使数量急剧减少的物种。
+
+### 3.10 
+
+## 国家一级重点保护植物 protected plants of national class I
+
+我国特有并具有极为重要的科研、经济或文化价值的珍稀濒危植物种类。国家一级保护植物（包括根、茎、叶、花、果实、种子）严禁采摘和砍伐，如因科学研究、人工培育、文化交流等特殊需要，采集国家一级保护野生植物的，必须经采集地的省、自治区、直辖市人民政府野生植物行政主管部门签署意见后，向国务院野生植物行政主管部门或者其授权的机构申请采集证。
+
+### 3.11 
+
+## 国家二级重点保护植物 protected plants of national class II
+
+具有重要的科研、经济或文化价值的珍稀濒危植物种类。国家二级保护植物禁止采摘和砍伐，特殊需要时须经采集地的县级人民政府野生植物行政主管部门签署意见后，向省、自治区、直辖市人民政府野生植物行政主管部门或者其授权的机构申请采集证。
+
+### 3.12 
+
+## 国家一级重点保护动物 protected animals of national class I
+
+我国特有、稀有或濒于灭绝的野生动物。该类物种受到严格保护，因科学研究、驯养繁殖、展览或者其他特殊原因，需要捕捉、捕捞国家一级重点保护野生动物的，必须经省级野生动物主管部门同意，并向国务院野生动物行政主管部门申请特许猎捕证。
+
+### 3.13 
+
+## 国家二级重点保护动物 protected animals of national class II
+
+数量稀少或分布地域狭窄，若不采取保护措施将有灭绝危险的野生动物。因特殊情况需要捕猎国家二级重点保护野生动物的，须经县级以上野生动物主管部门同意，并向所在省、自治区、直辖市政府野生动物行政主管部门申请特许猎捕证。
+
+### 3.14 
+
+“三有”动物 wildlife species which are beneficial or of important economic or scientific value 有益的和有重要经济、科学研究价值的野生动物。
+
+### 3.15 
+
+## 受威胁物种 threatened species
+
+种群数量持续减少，生境质量不断下降，具有一定灭绝风险的物种，分为极危种、濒危种和易危种。
+
+3.16
+
+## 残遗种 relic species
+
+在古地质史上分布区广大，但现在只分布在孤立的狭窄地域或者星散分布的物种。也称孑遗种。常被称作“活化石”。
+
+### 3.17 
+
+## 极小种群 minimal population
+
+种群个体数量极少，已经低于最小可存活种群而随时濒临灭绝的生物种群。
+
+### 3.18 
+
+## 最小可存活种群 minimum viable population
+
+指某一生境中的物种，在可预见的环境、遗传变异和自然灾害等随机因素影响下，以一定的概率存活一定时间所需的最小种群数量。
+
+### 3.19 
+
+## 自然遗迹 nature monument
+
+自然界在其发展过程中天然形成并遗留下来的，在科学、文化、艺术和观赏等方面具有突出价值的自然产物。
+
+### 3.20 
+
+## 地质遗迹 geological formation
+
+在地球形成和演化的漫长地质历史时期，受各种内外动力作用而形成并遗留的自然产物，可分为地质构造、地质景观和地质灾害3类。
+
+### 3.21 
+
+## 古生物遗迹 paleontologic remains
+
+在不同地质历史时期形成的古人类和古生物化石产地及活动遗迹。
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_161_398_198_426.jpg" alt="Image" width="3%" /></div>
+
+
+## 4 自然保护区规划建设
+
+### 4.1 
+
+## 自然保护区网络 nature reserve network
+
+在一个区域内，为了全面、系统、有效地保护生物多样性而规划和建设的自然保护区体系。
+
+### 4.2 
+
+## 自然保护区群 nature reserve group
+
+在一定的地理单元内，由保护对象相同的多个自然保护区组成的集群，一般由自然保护区和生境廊道构成。
+
+### 4.3 
+
+## 自然保护区集合体 nature reserve complex
+
+在一个行政区域内，具有统一管理机构的多个相对独立的子保护区、保护片区的综合体。
+
+### 4.4 
+
+## 跨界保护区 transboundary protected areas
+
+为了保护完整的自然生态系统、野生动植物生境，开展有效的合作管理，相邻的国家和地区通过共同协商建立的跨越国界的保护区。
+
+### 4.5 
+
+## 自然保护小区 mini reserve
+
+为保护国家或地方重点保护的野生动植物物种、典型植物群落，由各级政府或地方社区设定的面积较小的保护区域。
+
+### 4.6 
+
+## 自然保护点 nature conservation spot
+
+为保护零星分布的国家或地方重点保护的野生动植物物种、小片的稀有植物群落，由各级政府或地方社区设定的保护地段。
+
+### 4.7 
+
+## 水产种质资源保护区 protection zone for aquatic germplasm resources
+
+指为保护水产种质资源及其生存环境，在具有较高经济价值和遗传育种价值的水产种质资源的主要生长繁育区域，依法划定并予以特殊保护和管理的水域、滩涂及其毗邻的岛礁、陆域。
+
+### 4.8 
+
+## 农用种质资源原位保护点 in-situ protection zone for agricultural germplasm resources
+
+为了在原生境下就地保存和保护野生稻、野生柑橘等重要农用种质资源而人为依法划定进行保护管理的区域。也叫原生境保护点。
+
+### 4.9 
+
+## 自然保护区总体规划 master plan of nature reserve
+
+在对自然保护区的资源与环境特点、社会经济条件、资源保护与开发利用现状以及潜在可能性等综
+
+合调查分析的基础上，明确自然保护区的范围、性质、类型、发展方向和一定时期内的发展规模与目标，制定自然保护区保护、科研、监测、宣教、资源利用、社区发展、行政管理与资金估算等方面的行动计划与措施的过程。总体规划是长期指导自然保护区的建设与管理、确定和落实今后较长时期建设任务的依据。
+
+[GB/T 20399—2006, 定义 3.6]
+
+### 4.10 
+
+## 自然保护区适宜面积 suitable area for nature reserve
+
+为满足主要保护对象的长期存在和有效保护，协调自然保护与周边社区发展，自然保护区应具有的面积。
+
+### 4.11 
+
+## 自然保护区最小面积 minimum area for nature reserve
+
+为维持自然生态系统的长期稳定性、野生动植物的最小可存活种群，自然保护区应具有的最小面积。
+
+### 4.12 
+
+## 动态自然保护区 moving nature reserve
+
+由于长期水陆变化等原因，导致自然保护区内生境发生不可逆的自然演化，保护对象的集中分布区发生位移，依此定期重新划定范围的自然保护区。
+
+### 4.13 
+
+## 自然保护区功能区划分 zoning of nature reserve
+
+根据保护和管理需要，将自然保护区划分为具有不同功能的区域。一般划分为核心区、缓冲区和实验区。
+
+### 4.14 
+
+## 动态区划 dynamic zoning
+
+根据主要保护对象的季节性变化规律进行的自然保护区功能区划分。
+
+### 4.15 
+
+## 核心区 core zone; central area
+
+自然保护区内保存完好的自然生态系统，珍稀、濒危野生动植物和自然遗迹的集中分布区。该区域需要严格保护与管理。
+
+### 4.16 
+
+## 季节性核心区 seasonal core zone
+
+根据野生动物的迁徙或洄游规律确定的核心区，在野生动物集中分布的时段按核心区管理，在其他时段则按实验区管理。
+
+### 4.17 
+
+## 缓冲区 buffer zone; easement zone
+
+在核心区外围划定的用于减缓外界对核心区干扰的区域。
+
+### 4.18 
+
+## 实验区 experiment zone
+
+自然保护区内自然保护与资源可持续利用有效结合的区域。实验区可进一步划分为科学实验、教学实习、生态旅游、生产经营和生活办公等小区。
+
+### 4.19 
+
+## 外围保护地带 peripheral easement zone
+
+在自然保护区外划定的、主要对自然保护区建设与管理起增强、协调、补充作用的保护地带。
+
+### 4.20 
+
+## 生物廊道 biological corridor
+
+## 生态廊道 ecological corridor
+
+连接隔离生境斑块并适宜生物生存、扩散和基因交流等活动的生态走廊。
+
+### 4.21 
+
+## 野生动物通道 animal passage; wildlife path
+
+为保证野生动物能够穿越铁路、公路、草原围栏、水渠等建筑物和构筑物而建造或保留的通道。
+
+### 4.22 
+
+## 鱼道 fish path
+
+为洄游鱼类通过河道中的水利设施而设置的通道。
+
+## 5 自然保护区保护管理
+
+### 5.1 
+
+## 自然保护区管理计划 management plan for nature reserve
+
+自然保护区开展保护、科研监测、宣传教育、社区管理等日常工作的详细方案。
+
+### 5.2 
+
+## 就地保护 in situ conservation
+
+在保护对象的天然分布区对其实施保护的方式。
+
+### 5.3 
+
+## 近地保护 near site conservation
+
+将生存和繁衍受到威胁的野生动植物从原生境转移到附近相同或相似的生境，进行人工管护和扩繁的保护措施。
+
+### 5.4 
+
+## 迁地保护 ex situ conservation
+
+把生存和繁衍受威胁的野生动植物迁移到天然分布区以外的自然生境或人工环境进行保护的方式。又称易地保护、异地保护或移地保护。
+
+### 5.5 
+
+## 生态系统管理 ecosystem management
+
+为维持或恢复自然生态系统的正常功能，对生态系统结构和过程进行调控。
+
+### 5.6 
+
+## 生境管理 habitat management
+
+## 栖息地管理
+
+为保障野生动植物的生存和繁衍，采取人为措施对其生境进行维护、修复或改造。
+
+### 5.7 
+
+## 管护性干扰 managemental disturbance
+
+自然保护区内网围栏和巡护道路等设施建设不合理、调查巡护和标本采集等活动不科学、防火和病虫鼠害防治等措施实施不当对保护对象产生的干扰。
+
+### 5.8 
+
+## 生物多样性监测 biodiversity monitoring
+
+对物种、生物遗传变异、生物群落及生态过程进行的定期调查评估。
+
+### 5.9 
+
+## 生物多样性影响评价 biodiversity impact assessment
+
+对工程建设、资源开发等项目可能造成的生物多样性影响进行评估，并提出预防或者减轻不良影响的对策和措施。
+
+### 5.10 
+
+## 自然保护区管理评估 assessment of nature reserve management
+
+对保护对象的保护成效和管理有效性进行的评估。
+
+### 5.11 
+
+## 自然保护区标识 identifiers for nature reserve
+
+对自然保护区设施进行标示、说明或引导的特定文字、图形和符号。
+
+### 5.12 
+
+## 自然保护区解说系统 interpretation system
+
+为向公众介绍自然保护区的保护对象及其自然环境的特征、保护价值和意义等相关信息，以实物、人工模型、文字材料和音像制品等载体构成的交流平台。
+
+### 5.13 
+
+## 社区共管 community co-management
+
+社区参与自然保护区保护管理方案的制定、实施和评估的过程。
+
+### 5.14 
+
+## 自然保护区共管委员会 co-management committee for nature reserve
+
+由自然保护区的利益相关者代表共同组成的管理自然保护区相关事务的组织。
+
+### 5.15 
+
+## 自然保护区自然资本 natural capital of nature reserve
+
+自然保护区生物多样性经济价值和生态系统服务中可带来经济收益的组成部分。
+
+### 5.16 
+
+## 生物多样性经济价值 economic value of biodiversity
+
+生物多样性及其相关的各种生态过程所提供的使用价值和非使用价值。其中使用价值包括直接使用价值和间接使用价值，非使用价值包括选择价值、遗产价值和存在价值等。
+
+### 5.17 
+
+## 生态系统服务 ecosystem service
+
+自然生态系统提供的对人类生存和生活质量有贡献的原料、产品和生态功能。
+
+### 5.18 
+
+## 生态旅游 ecotourism
+
+利用和消费自然旅游资源、开发和体验可持续性旅游产品、建设和使用环境友好型服务设施、提供和获取生态文化知识的旅游活动。
+
+### 5.19 
+
+## 自然保护区适应性经营 adaptive management of nature reserve
+
+根据保护对象对生境的需求，及其对人类的干扰方式和强度而采取相应的生产经营活动。
+
+## 索引
+
+B  
+N  
+保护物种 3.8 农用种质资源原位保护点 4.8  
+C  
+Q  
+残遗种 3.16 栖息地 3.7  
+D  
+栖息地管理 5.6  
+迁地保护 5.4  
+地质遗迹 3.20  
+动态区划 4.14  
+动态自然保护区 4.12  
+G  
+“三有”动物 3.14  
+社区共管 5.13  
+生境 3.7  
+古生物遗迹 3.21  
+生境管理 5.6  
+管护性干扰 5.7  
+生态廊道 4.20  
+国家二级重点保护动物 3.13  
+生态旅游 5.18  
+国家二级重点保护植物 3.11  
+生态系统多样性 3.4  
+国家公园 2.9  
+生态系统服务 5.17  
+国家一级重点保护动物 3.12  
+生态系统管理 5.5  
+国家一级重点保护植物 3.10  
+生物多样性 3.1  
+国家重点保护物种 3.9  
+生物多样性监测 5.8  
+H  
+生物多样性经济价值 5.16  
+海洋特别保护区 2.8  
+生物多样性影响评价 5.9  
+核心区 4.15  
+生物圈保护区 2.7  
+缓冲区 4.17  
+实验区 4.18  
+受威胁物种 3.15  
+J  
+水产种质资源保护区 4.7  
+极小种群 3.17  
+季节性核心区 4.16  
+W  
+近地保护 5.3  
+外围保护地带 4.19  
+就地保护 5.2  
+物种多样性 3.3  
+K  
+Y  
+跨界保护区 4.4  
+野生动物 3.6  
+野生动物通道 4.21
+
+野生生物类自然保护区 …… 2.4 自然保护区类型 …… 2.2  
+野生植物 …… 3.5 自然保护区集合体 …… 4.3  
+遗传多样性 …… 3.2 自然保护区群 …… 4.2  
+鱼道 …… 4.22 自然保护区适宜面积 …… 4.10  
+自然保护区适应性经营 …… 5.19  
+自然保护区网络 …… 4.1  
+自然保护点 …… 4.6 自然保护区总体规划 …… 4.9  
+自然保护区 …… 2.1 自然保护区最小面积 …… 4.11  
+自然保护区标识 …… 5.11 自然保护区自然资本 …… 5.15  
+自然保护区的级别 …… 2.6 自然保护小区 …… 4.5  
+自然保护区功能区划分 …… 4.13 自然生态系统类自然保护区 …… 2.3  
+自然保护区共管委员会 …… 5.14 自然遗迹 …… 3.19  
+自然保护区管理计划 …… 5.1 自然遗迹类自然保护区 …… 2.5  
+自然保护区管理评估 …… 5.10 最小可存活种群 …… 3.18  
+自然保护区解说系统 …… 5.12  
+英文对应词索引  
+A  
+adaptive management of nature reserve …… 5.19  
+animal passage; wildlife path …… 4.21  
+assessment of nature reserve management …… 5.10  
+B  
+biodiversity impact assessment …… 5.9  
+biodiversity monitoring …… 5.8  
+biodiversity; biological diversity …… 3.1  
+biological corridor …… 4.20  
+biosphere reserve …… 2.7  
+buffer zone; easement zone …… 4.17  
+C  
+category of nature reserve …… 2.2  
+co-management committee for nature reserve …… 5.14  
+community co-management …… 5.13  
+core zone; central area …… 4.15  
+D  
+dynamic zoning …… 4.14  
+E  
+ecological corridor …… 4.20  
+economic value of biodiversity …… 5.16
+
+ecosystem diversity ..... 3.4  
+ecosystem management ..... 5.5  
+ecosystem service ..... 5.17  
+ecotourism ..... 5.18  
+ex situ conservation ..... 5.4  
+experiment zone ..... 4.18  
+F  
+fish pass ..... 4.22  
+G  
+genetic diversity ..... 3.2  
+geological formation ..... 3.20  
+H  
+habitat ..... 3.7  
+habitat management ..... 5.6  
+I  
+identifiers for nature reserve ..... 5.11  
+in situ conservation ..... 5.2  
+in-situ protection zone for agricultural germplasm resources ..... 4.8  
+interpretation system ..... 5.12  
+L  
+level of nature reserve ..... 2.6  
+M  
+management plan for nature reserve ..... 5.1  
+managemental disturbance ..... 5.7  
+master plan of nature reserve ..... 4.9  
+mini reserve ..... 4.5  
+minimal population ..... 3.17  
+minimum area for nature reserve ..... 4.11  
+minimum viable population ..... 3.18  
+moving nature reserve ..... 4.12  
+N  
+national park ..... 2.9  
+natural capital of nature reserve ..... 5.15  
+natural monument ..... 3.19  
+nature conservation spot ..... 4.6  
+nature reserve ..... 2.1  
+nature reserve complex ..... 4.3
+
+nature reserve for natural ecosystem 2.3  
+nature reserve for natural monument 2.5  
+nature reserve for wildlife 2.4  
+nature reserve group 4.2  
+nature reserve network 4.1  
+near site conservation 5.3  
+P  
+paleontologic remains 3.21  
+Peripheral easement zone 4.19  
+protected animals of national class I 3.12  
+protected animals of national class II 3.13  
+protected plants of national class I 3.10  
+protected plants of national class II 3.11  
+protected species 3.8  
+protection zone for aquatic germplasm resources 4.7  
+R  
+relic species 3.16  
+S  
+seasonal core zone 4.16  
+special marine protected area 2.8  
+species diversity 3.3  
+suitable area for nature reserve 4.10  
+T  
+threatened species 3.15  
+the wildlife under special state protection 3.9  
+transboundary protected areas 4.4  
+W  
+wild animal; wildlife 3.6  
+wild plant 3.5  
+Z  
+zoning of nature reserve 4.13
