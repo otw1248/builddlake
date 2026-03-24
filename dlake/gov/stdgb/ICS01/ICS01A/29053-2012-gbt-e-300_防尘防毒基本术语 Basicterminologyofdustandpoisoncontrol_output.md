@@ -1,0 +1,1818 @@
+
+
+# 中华人民共和国国家标准
+
+GB/T 29053—2012
+
+# 防尘防毒基本术语
+
+# Basic terminology of dust and poison control
+
+2012-12-31 发布
+
+2013-10-01 实施
+
+## 目次
+
+前言 …… I    
+1 范围 …… 1    
+2 基础术语 …… 1    
+3 通风术语 …… 6    
+3.1 通风方式 …… 6    
+3.2 通风技术 …… 7    
+3.3 通风设备与装置 …… 8    
+4 防尘术语 …… 11    
+4.1 防尘技术 …… 11    
+4.2 除尘设备 …… 13    
+5 防毒术语 …… 14    
+5.1 防毒技术 …… 14    
+5.2 净化设备 …… 15    
+索引 …… 17
+
+## 前言
+
+本标准按照 GB/T 1.1—2009 给出的规则起草。
+
+本标准由国家安全生产监督管理总局提出。
+
+本标准由全国安全生产标准化技术委员会(SAC/TC 288)归口。
+
+本标准起草单位：首都经济贸易大学、中钢集团马鞍山矿山研究院、北京市疾病预防控制中心。
+
+本标准主要起草人：姜亢、郭金峰、赵容、郭建中、王勇毅、王希、方金铭、潘罗敏。
+
+## 防尘防毒基本术语
+
+## 1 范围
+
+本标准规定了防尘防毒的基本术语和相关定义。
+
+本标准适用于防尘防毒的工程设计、管理、研究与教学等相关领域。
+
+## 2 基础术语
+
+### 2.1 
+
+粉尘 dust
+
+能够较长时间悬浮于空气中的固体微粒。
+
+### 2.2 
+
+纤维性粉尘 fibrous dust
+
+天然或人工合成的纤维状微细丝粉尘。
+
+### 2.3 
+
+## 游离二氧化硅 free silica
+
+free silicon dioxide
+
+单独以晶体状态存在的二氧化硅。
+
+### 2.4 
+
+## 气溶胶 aerosol
+
+以大小为  $ 10^{-3} $  cm～ $ 10^{-7} $  cm 的液体或固体小颗粒为分散相，分散在气体介质中的溶胶物质，如烟或雾。
+
+### 2.5 
+
+总粉尘 total dust
+
+检测技术上为用总粉尘采样器按标准方法在呼吸带采集并测得的所有粉尘。
+
+### 2.6 
+
+## 烟 fume
+
+直径小于  $ 0.1 \mu m $  的固体微粒分散在空气中的气溶胶。
+
+### 2.7 
+
+## 飞灰 fly ash
+
+随燃料燃烧产生的烟气所排出的分散较细的灰。
+
+### 2.8 
+
+## 烟尘 smoke
+
+高温分解或燃烧时所产生的、其粒径范围一般为  $ 0.01 \mu m \sim 1 \mu m $  的可见气溶胶。
+
+### 2.9 
+
+## 雾 mist
+
+防尘防毒技术上是指工艺中由液体微滴分散在空气中冷却、凝结而形成，以及由液体喷散形成的气溶胶状物。
+
+### 2.10 
+
+## 无机粉尘 inorganic dust
+
+包括矿物性粉尘、金属性粉尘及人工无机性粉尘等的总称。
+
+## GB/T 29053—2012
+
+### 2.11 
+
+## 有机粉尘 organic dust
+
+包括动物性粉尘、植物性粉尘及人工有机性粉尘等粉尘的总称。
+
+### 2.12 
+
+## 混合性粉尘 mixed-dust
+
+两种类型或两种类型以上粉尘的混合物。
+
+### 2.13 
+
+## 可见粉尘 visible dust
+
+肉眼可见的粉尘，粒径大于 $ 10\mu m $ 。
+
+### 2.14 
+
+## 显微粉尘 micro dust
+
+在光学显微镜下可以分辨的粉尘，粒径为  $ 0.25 \mu m \sim 10 \mu m $ 。
+
+### 2.15 
+
+## 超显微粉尘 ultra-micro dust
+
+在超倍显微镜或电子显微镜下才能分辨的粉尘，粒径小于 $ 0.25\mu m $ 。
+
+### 2.16 
+
+## 呼吸性粉尘 respirable dust
+
+能进入人体的细支气管到达肺泡的粉尘微粒。
+
+### 2.17 
+
+## 粒径 particle size
+
+粒子的直径或粒子的大小。
+
+### 2.18 
+
+## 空气动力学直径 aerodynamic diameter
+
+将实际的粉尘颗粒粒径换成具有相同空气动力学特性的等效直径。
+
+### 2.19 
+
+## 中位径 median diameter
+
+颗粒物集合中，小于它和大于它的颗粒各占50%时的粉尘粒径，分质量中位径和数量中位径。
+
+### 2.20 
+
+## 分散度 dispersity
+
+颗粒物集合中，各种粒径范围的粒子质量或粒子个数分别占粒子总质量或总粒数的百分率。
+
+### 2.21 
+
+## 粉尘磨损性 dust wear resistance
+
+粉尘在流动过程中对器壁或管壁造成磨损的性质。
+
+### 2.22 
+
+## 堆积密度 bulk density
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_939_1282_976_1319.jpg" alt="Image" width="3%" /></div>
+
+
+apparent density; volume density
+
+包括粉尘颗粒之间及其内部的空隙，松散状态下单位体积粉尘所具有的质量。
+
+### 2.23 
+
+## 真密度 actual density
+
+density of dust particle
+
+排除粉尘颗粒之间及其内部的空隙后，密实状态下单位体积粉尘所具有的质量。
+
+### 2.24 
+
+## 安息角 angle of rest
+
+angle of repose
+
+一定性状的粉尘能自然堆积在水平面上而不下滑时所形成的圆锥体的最大锥底角。
+
+### 2.25 
+
+## 滑动角 angle of slide
+
+将粉尘置于光滑的平板上，使该板倾斜到粉尘沿直线下滑时的角度。
+
+### 2.26 
+
+## 附着性 adhesion
+
+尘粒与物质的贴附性质。
+
+### 2.27 
+
+## 润湿性 wettability
+
+粉尘粒子能否与水或其他液体相互附着或附着难易程度的性质。
+
+### 2.28 
+
+## 比电阻 resistivity
+
+specific resistance
+
+表示物质电阻特性的物理量,粉尘的比电阻在数值上等于单位面积粉尘在单位厚度上的电阻值。
+
+### 2.29 
+
+## 水硬性 hydraulicity
+
+某些粉尘吸水后变成而易硬结的性质。
+
+### 2.30 
+
+## 沉降速度 settling velocity
+
+静止空气中的尘粒在重力作用下降落时所达到的恒定速度。
+
+### 2.31 
+
+## 悬浮速度 suspended velocity
+
+使尘粒处于悬浮状态时的最小上升气流速度。
+
+### 2.32 
+
+## 尘源 dust source
+
+生产过程中工作场所或工艺设备产生并发散粉尘的位置。
+
+### 2.33 
+
+## 尘化作用 pulvation action
+
+在自然力或机械力作用下，使粉尘或雾滴从静止状态变为悬浮于空气状态的现象。
+
+### 2.34 
+
+## 二 次扬尘 reentrainment of dust
+
+沉积于设备和围护结构表面上的粉尘，在尘化作用下重新悬浮于空气中的现象。
+
+### 2.35 
+
+## 除尘 dust removal
+
+dust separation; dust control
+
+捕集、分离含尘气流中的粉尘等固体粒子的过程。
+
+### 2.36 
+
+## 有害气体 harmful gas and vapor
+
+对人的生命健康和生态环境有破坏作用的气体或蒸气。
+
+### 2.37 
+
+## 有害物质 harmful substance
+
+能使人引起疾病或健康状况下降、对生态环境有破坏作用的物质。
+
+### 2.38 
+
+## 有害物质浓度 concentration of harmful substance
+
+单位体积空气中有害物质的含量。
+
+注：包括质量浓度、体积浓度、计数浓度等。
+
+### 2.39 
+
+## 质量浓度 mass concentration
+
+单位体积空气混合物中所含有害物质的质量。
+
+### 2.40 
+
+## 体积浓度 volumetric concentration
+
+单位体积空气混合物中所含有害气体的毫升数。
+
+### 2.41 
+
+## 计数浓度 number concentration
+
+particle number concentration
+
+单位体积空气与其他物质的混合物中所含颗粒状物质的颗粒个数，一般用于纤维尘的度量。
+
+### 2.42 
+
+## 尘肺 pneumoconiosis
+
+作业人员在职业活动中长期吸入生产性粉尘，使其在肺内潴留而引起的、以肺组织弥漫性纤维化为主要表现的全身性疾病。
+
+### 2.43 
+
+## 毒物 toxicant
+
+在一定条件下，较小剂量可造成机体功能性或器质性损害的外源性化学物质。
+
+### 2.44 
+
+## 生产性毒物 industrial toxicology
+
+在生产过程中所使用或产生的、进入人体后能引起有害作用的物质。
+
+### 2.45 
+
+## 中毒 poisoning
+
+有毒物质进入体内，影响机体的生理功能并导致组织器官急性或慢性健康损害的状态。
+
+### 2.46 
+
+## 急性中毒 acute intoxication
+
+大量毒物在短时间内通过皮肤、黏膜、呼吸道及消化道等途径进入人体，使机体受损并发生功能障碍的疾病状态。
+
+### 2.47 
+
+## 慢性中毒 chronic intoxication
+
+毒物在不引起急性中毒的剂量条件下，长期反复进入机体所引起的机体在生理、生化及病理学方面的改变，出现异常临床症状和体征的疾病状态。
+
+### 2.48 
+
+## 刺激性气体 irritant gas
+
+对眼、呼吸道黏膜和皮肤具有刺激作用的气体。
+
+### 2.49 
+
+## 窒息 asphyxia
+
+机体由于急性缺氧而导致的晕倒甚至死亡的现象。窒息分为内窒息和外窒息，生产环境中的严重缺氧可导致外窒息，吸入窒息性气体导致的窒息为内窒息。
+
+### 2.50 
+
+## 窒息性气体 asphyxiating gas
+
+侵入机体并直接影响机体氧的供给、摄取、运输和利用，导致机体发生缺氧损害的气体。
+
+### 2.51 
+
+## 剂量 dose
+
+某对象所接受的、能引起一定作用或效应的物质的量。
+
+### 2.52 
+
+## 致死剂量 lethal dose (concentration): LD (LC)
+
+一定条件下，化学物质导致一定百分率生物体死亡的剂量(浓度)。
+
+### 2.53 
+
+## 半数致死剂量 median lethal dose (concentration);  $ LD_{50} $  ( $ LC_{50} $ )
+
+一定条件下，引起受试对象发生死亡概率为50%的化学物质的剂量（浓度）。
+
+### 2.54 
+
+## 最低致死剂量 minimum lethal dose: MLD
+
+化学毒物引起受试对象中的个别成员出现死亡的剂量。
+
+### 2.55 
+
+## 阈剂量 threshold dose
+
+化学物质引起受试对象中的少数个体出现某种最轻微的异常改变所需要的最低剂量。
+
+### 2.56 
+
+## 密闭 confined
+
+对有害物质散发源进行封闭，抑制其外逸或发散的措施。
+
+### 2.57 
+
+## 吸收剂 absorbent
+
+能将与其接触的液体或气体介质中的部分物质结合并吸收的液体物质。
+
+### 2.58 
+
+## 吸收质 absorbate
+
+存在于介质中能被吸收剂吸收的物质。
+
+### 2.59 
+
+## 吸附剂 adsorbent
+
+能将与其接触的液体或气体介质中的部分物质吸附的固体物质。
+
+### 2.60 
+
+## 吸附质 adsorbate
+
+存在于介质中能被吸附剂吸附的物质。
+
+### 2.61 
+
+## 职业危害因素 occupational hazard factor
+
+在职业活动中产生的可直接危害劳动者身体健康的因素。
+
+注：按其性质分为物理性危害因素、化学性危险因素和生物性危害因素。
+
+### 2.62 
+
+时间加权平均容许浓度 permissible concentration-time weighted average ;PC-TWA
+
+以时间为权数规定的 8 h 工作日、40 h 工作周的平均容许接触浓度。
+
+### 2.63 
+
+短时间接触容许浓度 permissible concentration-short term exposure limit ;PC-STEL
+
+按标准方法检测，符合 PC-TWA 数值的前提下容许短时间（15 min）接触的浓度。
+
+### 2.64 
+
+## 最高容许浓度 maximum allowable concentration ; MAC
+
+一种有毒物质在工作地点、一个工作日内任何时间均不应超过的浓度。
+
+### 2.65 
+
+## 超限倍数 excursion limits
+
+对未制定 PC-STEL 的化学有害因素，在符合 8 h 时间加权平均容许浓度的情况下，任何一次短时间（15 min）接触的浓度均不应超过的 PC-TWA 的倍数值。
+
+## 3 通风术语
+
+### 3.1 通风方式
+
+#### 3.1.1 
+
+## 通风 ventilation
+
+采用自然或机械方法，对某一空间进行空气置换，以形成卫生、安全或适宜的空气环境。
+
+#### 3.1.2 
+
+## 工业通风 industrial ventilation
+
+针对生产过程中产生的余热、余湿、粉尘和有害气体等进行控制和治理而进行的通风。
+
+#### 3.1.3 
+
+## 自然通风 natural ventilation
+
+利用室内外空气温差、密度差及风压的作用实现室内外空气置换的通风方式。
+
+#### 3.1.4 
+
+## 机械通风 mechanical ventilation
+
+forced ventilation
+
+利用机械实现室内外空气置换的通风方式。
+
+#### 3.1.5 
+
+## 机械通风系统 mechanical ventilating system
+
+由通风机和通风管网等组成、为实现室内外空气置换的装置。
+
+#### 3.1.6 
+
+## 全面通风 general ventilation
+
+entirely ventilation; general air change
+
+用清洁空气对整个空间进行空气置换的通风方式。
+
+#### 3.1.7 
+
+## 局部通风 local ventilation
+
+对空间内的部分区域采取的通风方式。
+
+#### 3.1.8 
+
+## 全面排风 general exhaust ventilation ; GEV
+
+从整个空间排出余热、余湿、粉尘和有害物质的通风方式。
+
+#### 3.1.9 
+
+## 有组织通风 organized ventilation
+
+以自然或机械方法将室外新鲜空气送入室内，将室内污染空气排出室外的通风方式。
+
+#### 3.1.10 
+
+## 局部送风 local relief
+
+将一定容积的空气，以一定的速度送至指定地点或区域的通风方式。
+
+#### 3.1.11 
+
+## 局部排风 local exhaust ventilation ; LEV
+
+在散发有害物质的局部空间设置排风罩捕集有害物质并将其排至室外的通风方式。
+
+#### 3.1.12 
+
+## 槽边通风 rim ventilation
+
+slot exhaust on edges of tanks
+
+利用在槽边设置的排风罩排除槽内液面散发的有害物质的空气置换方式。
+
+#### 3.1.13 
+
+## 事故通风 emergency ventilation
+
+排除或稀释空间内发生事故时突然散发的大量有害物质、有爆炸危险的气体或蒸气的通风方式。
+
+#### 3.1.14 
+
+## 事故通风系统 emergency ventilation system
+
+空间内发生事故时的机械通风系统。
+
+注：包括事故送风系统和事故排风系统。
+
+#### 3.1.15 
+
+## 诱导通风 inductive ventilation
+
+利用空气射流的引射作用进行通风的方式。
+
+### 3.2 通风技术
+
+#### 3.2.1 
+
+## 通风量 ventilation rate
+
+单位时间内进入系统或从系统排出的风量。
+
+#### 3.2.2 
+
+## 进风量 supply air rate
+
+单位时间内进入某空间的风量。
+
+#### 3.2.3 
+
+## 排风量 exhaust air rate
+
+单位时间内从某空间排出的风量。
+
+#### 3.2.4 
+
+## 换气次数 air changes
+
+ventilation rate
+
+单位时间内室内空气的更换次数，以通风量与空间容积的比值计算。
+
+#### 3.2.5 
+
+## 热压 thermal pressure
+
+thermal buoyancy; stack effect pressure
+
+由于温差引起的室内外或管内外空气柱的重力差。
+
+#### 3.2.6 
+
+## 风压 wind pressure
+
+风流经建筑物时，在建筑物周围形成的静压与稳定气流静压的差值。
+
+#### 3.2.7 
+
+## 正压区 zone of positive pressure
+
+风吹向建筑物时，由于撞击作用而使建筑物周围静压高于稳定气流区静压的区域。
+
+#### 3.2.8 
+
+## 负压区 zone of negative pressure
+
+风流经建筑物时，由于气流在屋顶、侧墙和背风侧产生局部涡流，而使上述部位附近静压低于稳定气流区静压的区域。
+
+#### 3.2.9 
+
+## 风量平衡 air balance
+
+采取措施使送风量与排风量相等的过程。
+
+#### 3.2.10 
+
+## 热平衡 heat balance
+
+通风时，为保持室温达到设计要求，通过计算和采取相应措施，使进入室内的热量与从室内排出的热量相等。
+
+#### 3.2.11 
+
+## 罩口风速 hood face velocity
+
+罩口处有效断面上的平均风速。
+
+#### 3.2.12 
+
+## 控制点 capture point
+
+有害物质散发直到耗尽最初能量，散发速度降低到环境中无规则气流速度大小时的位置。
+
+#### 3.2.13 
+
+## 控制距离 capture distance
+
+控制点到罩口中心的距离。
+
+#### 3.2.14 
+
+## 控制风速 capture velocity
+
+将控制点处的有害物质吸入罩内所需的最小风速。
+
+#### 3.2.15 
+
+## 气流组织 air distribution
+
+对室内空气的流动形态和分布进行合理组织，合理布置送、排风口的位置，以较小的通风量实现良好的通风效果。
+
+#### 3.2.16 
+
+## 射流 jet
+
+从通风孔口向相对静止的周围空气射出的气流。
+
+### 3.3 通风设备与装置
+
+#### 3.3.1 
+
+## 通风设备 ventilation equipment
+
+ventilation facilities
+
+为实现通风所需要的各种设备与部件的统称。
+
+注：常用通风设备包括通风机、除尘器、空气净化器、空气换热器以及各类通风系统的部件。
+
+#### 3.3.2 
+
+## 通风部件 components
+
+通风与空调系统中用于连接系统部件，引导或阻隔气流的各类部件。
+
+注：常用通风部件包括各类风帽、风口、排风罩、风管、阀门、检查孔、弯头、三通、变径管、来回管、导流板和法兰。
+
+#### 3.3.3 
+
+## 通风管道 ventilation duct
+
+输送空气和空气混合物的各种风管和风道的统称。
+
+#### 3.3.4 
+
+## 风管 air duct
+
+薄钢板、铝板、硬聚氯乙烯板或玻璃钢等材料制成的通风管道。
+
+#### 3.3.5 
+
+## 风道 air channel
+
+由砖、混凝土、石膏板等建筑材料制成的通风管道。
+
+#### 3.3.6 
+
+## 柔性接头 flexible joint
+
+通风机进、出口与刚性风管连接的可变性短管，常用橡胶、帆布等材料制作。
+
+#### 3.3.7 
+
+## 集合管 air manifold
+
+汇集各种并联支、干管的横截面较大的直管段。
+
+#### 3.3.8 
+
+## 风帽 ventilator
+
+排风时置于垂直或水平管道末端的避风设备。
+
+#### 3.3.9 
+
+## 阀门 valve
+
+使配管和设备内的介质(液体、气体、粉末)流动或停止，并能控制其流量的装置。
+
+#### 3.3.10 
+
+## 风口 air inlet
+
+装在通风管道侧面或支管末端用于送风、排风或回风的孔口或装置的统称。
+
+#### 3.3.11 
+
+## 吸风口 exhaust inlet
+
+用以将室内空气引入排风或回风系统中的风口。
+
+#### 3.3.12 
+
+## 排风口 exhaust outlet
+
+将排风系统中的空气及其混合物排到室外大气的风口。
+
+#### 3.3.13 
+
+## 送风口 Inlet port
+
+用于向室内送入经过处理的空气的风口。
+
+#### 3 \.3\.14
+
+## 清扫孔 cleanout hole
+
+用于清除通风除尘系统管道内积尘的密封可拆装孔口。
+
+#### 3.3.15 
+
+## 检查门 access door
+
+装在空气处理室侧壁上，用于检修设备的密闭门。
+
+#### 3.3.16 
+
+## 测孔 sampling hole
+
+用于检测设备及通风管道内空气及其混合物的各种参数，但平时须加以密封的孔口。
+
+#### 3 \.3\.17
+
+## 排风罩 hood
+
+设置在有害物质散发源处，捕集和控制有害物质的通风部件。
+
+#### 3.3.18 
+
+## 密闭罩 enclosed hood
+
+将有害物质散发源全部密闭在一定空间内，抑制其发散的遮挡结构的总称。
+
+#### 3.3.19 
+
+## 局部密闭罩 partial enclosure
+
+仅将工艺设备放散有害物质的部分加以密闭的遮挡结构。
+
+#### 3.3.20 
+
+## 整体密闭罩 integral enclosure
+
+将放散有害物质的工艺设备大部分或全部密闭起来的遮挡结构。
+
+#### 3.3.21 
+
+## 外部吸气罩 capturing hood
+
+依靠罩口的抽吸作用，在控制点形成一定的风速，以排除受控范围内有害物质的局部排风罩。
+
+#### 3.3.22 
+
+## 接受式排风罩 receiving hood
+
+利用生产过程中含有害气体的气流的自身运动，接受须排除有害物质的局部排风罩。
+
+#### 3.3.23 
+
+## 吹吸式排风罩 push-pull hood
+
+利用吹吸气流的联合作用控制有害物质扩散并将其排除的局部排风罩。
+
+#### 3.3.24 
+
+## 排风柜 laboratory hood
+
+一种三面围挡、一面敞开或装有操作拉门的柜式排风罩。
+
+#### 3.3.25 
+
+## 伞形罩 canopy hood
+
+装在有害物散发源上方的呈伞状的局部排风罩。
+
+#### 3.3.26 
+
+## 侧吸罩 lateral hood (side hood)
+
+设置在有害物散发源侧面的局部排风罩。
+
+#### 3.3.27 
+
+## 槽边排风罩 rim exhaust
+
+沿槽边设置，用以收集槽内液面散发的有害物质，吸风口呈平口或条缝式的局部排风罩。
+
+#### 3.3.28 
+
+## 通风机 fan
+
+将机械能转变为气体的势能和动能，用于输送空气及物料的动力机械。
+
+注：按气体流动的方向，通风机可分为离心式、轴流式、贯流式等类型。
+
+#### 3.3.29 
+
+## 离心式通风机 centrifugal fan
+
+空气沿轴向流入叶轮，并沿垂直轴向流出叶轮的通风机。
+
+#### 3.3.30 
+
+## 轴流式通风机 axial-flow fan
+
+空气沿叶轮轴向进入并离开的通风机。
+
+#### 3.3.31 
+
+## 贯流式通风机 cross-flow fan
+
+空气以垂直于叶轮轴的方向由机壳一侧的叶轮边缘进入并在机壳另一侧流出的通风机。
+
+#### 3.3.32 
+
+## 导流板 guide vane
+
+装于通风管道内的一个或多个叶片，使气流分成多股平行气流，从而减少阻力的配件。
+
+## 4 防尘术语
+
+### 4.1 防尘技术
+
+#### 4.1.1 
+
+## 通风除尘 ventilation and dust control
+
+利用通风的方法排出并净化被粉尘污染的空气。
+
+#### 4.1.2 
+
+## 机械除尘 mechanical dust removal
+
+借助机械设备去除含尘气体中粉尘的过程。
+
+#### 4.1.3 
+
+## 过滤除尘 porous layer dust collection
+
+利用多孔介质的过滤作用捕集含尘气体中粉尘的技术。
+
+#### 4.1.4 
+
+## 静电除尘 electrostatic precipitation
+
+含尘气流进入装置，利用高压放电而使气体在装置内电离，其中的粉尘荷电后向收尘极板移动从而去除含尘气体中粉尘的技术。
+
+#### 4.1.5 
+
+## 湿法除尘 wet dust collection
+
+水力除尘、蒸汽除尘和喷雾降尘等除尘方式的统称。
+
+#### 4.1.6 
+
+## 湿式作业 wet method operating
+
+将物料加湿、抑制粉尘发散的操作方式。
+
+#### 4.1.7 
+
+## 联合除尘 mechanical and hydraulic combined dust removal
+
+两种或两种以上除尘方法相结合的除尘方式。
+
+#### 4.1.8 
+
+## 除尘系统 dust removing system
+
+由局部排风罩、风管、阀门、通风机和除尘器、风帽等组成的，用以捕集粉尘、输送和净化含尘气流和净化空气的机械排风系统。
+
+#### 4.1.9 
+
+## 就地式除尘系统 spot-type dust removal system
+
+将除尘设备直接安装在产尘设备上捕集和回收粉尘的除尘系统。
+
+#### 4.1.10 
+
+## 分散式除尘系统 distributed dust removal system
+
+将由一个或数个同一工艺流程中的产尘点作为一个系统，在产尘点分别设置独立的除尘设备的除尘系统。
+
+#### 4 \.1\.11
+
+## 集中式除尘系统 centralized dust removal system
+
+将多个产尘点、整个车间甚至全厂的产尘点全部集中为一个系统，系统中的除尘设备放置在专门的除尘室内的除尘系统。
+
+#### 4.1.12 
+
+## 真空清扫 vacuum cleaning
+
+利用风机或真空泵的吸力将粉尘吸进吸尘装置，经除尘器净化后排出的过程。
+
+#### 4.1.13 
+
+## 处理风量 air volume
+
+标准状态下，单位时间内通过除尘器的含尘气体量。
+
+#### 4.1.14 
+
+## 除尘器阻力 working resistance
+
+气体通过除尘器的压力损失，即除尘器进口断面与出口断面的气流平均全压之差。
+
+#### 4.1.15 
+
+## 除尘效率 collection efficiency
+
+单位时间内，除尘器捕集到的粉尘质量占进入除尘器的粉尘质量的百分数。
+
+#### 4.1.16 
+
+## 穿透率 penetration
+
+在同一时间内，排出除尘器的粉尘量与进入除尘器的总粉尘量的百分比。
+
+#### 4.1.17 
+
+## 漏风率 air leakage ratio
+
+漏入或漏出除尘器的风量与入口风量（均折算为标准状态风量）的比率。
+
+#### 4.1.18 
+
+## 分级效率 grade collection efficiency
+
+除尘器对某一粒径(或粒径范围)粉尘的去除效率。
+
+#### 4.1.19 
+
+## 含尘浓度 dust concentration
+
+单位体积气体中含有的粉尘质量。
+
+#### 4.1.20 
+
+## 排放浓度 emission concentration
+
+排放气体单位体积中所含有害物质的质量。
+
+#### 4.1.21 
+
+## 过滤风速 filtration velocity
+
+含尘气流通过滤料有效面积的平均速度。
+
+#### 4.1.22 
+
+## 气布比 air-to-cloth ratio
+
+比负荷
+
+单位面积滤料所通过的空气量。
+
+#### 4.1.23 
+
+## 过滤面积 filtration area
+
+起滤尘作用的滤料有效面积。
+
+#### 4 \.1\.24
+
+## 过滤器初阻力 initial resistance of filter
+
+额定风量下，过滤器没有积尘时的阻力。
+
+#### 4.1.25 
+
+## 过滤器终阻力 final resistance of filter
+
+额定风量下，过滤器的容尘量达到足够大而需要清洗或更换滤料时的阻力。
+
+#### 4.1.26 
+
+## 容尘量 dust capacity
+
+过滤器达到终阻力值时所能容纳的粉尘量。
+
+#### 4.1.27 
+
+## 电场风速 precipitator gas velocity
+
+气体流经电场的平均速度，即电除尘器单位时间内处理的气体量和电场流通面积的比值。
+
+#### 4.1.28 
+
+## 粉尘驱进速度 dust drift velocity
+
+荷电粉尘在电场力作用下向阳极板表面运动的速度。
+
+#### 4.1.29 
+
+## 清灰 dust cleaning
+
+利用机械或空气动力等方法去除过滤介质上所粘附的粉尘层，恢复介质过滤或清除粉尘能力的过程。
+
+#### 4.1.30 
+
+## 连续除灰 continuous dust dislodging
+
+用螺旋输送机或气力输送等装置，将除尘器灰斗中的粉尘连续排除的除灰方式。
+
+### 4.2 除尘设备
+
+#### 4.2.1 
+
+## 除尘器 dust collector
+
+dust separator
+
+从含尘气体中分离、捕集粉尘的装置或设备。
+
+#### 4.2.2 
+
+## 惯性除尘器 inertial dust collector
+
+使含尘气体与物体撞击或急剧地改变气流运动方向，从而利用惯性力分离并捕集粉尘的除尘装置。
+
+#### 4.2.3 
+
+## 重力沉降室(除尘器) gravity dust collector
+
+粉尘在重力作用下沉降而被分离出来的一种惯性除尘装置。
+
+#### 4.2.4 
+
+## 离心式除尘器 centrifugal dust collector
+
+利用含尘气体的旋转流动，使粉尘在离心力的作用下沿径向移动而被分离出来的除尘装置。
+
+#### 4.2.5 
+
+## 过滤式除尘器 porous layer dust collector
+
+利用多孔介质的过滤作用捕集含尘气体中粉尘的除尘设备；包括袋式除尘器、颗粒层除尘装置等。
+
+#### 4.2.6 
+
+## 袋式除尘器 bag filter
+
+利用由过滤介质制成的袋状或筒状过滤元件来捕集含尘气体中粉尘的除尘装置。
+
+#### 4.2.7 
+
+## 湿式除尘器 wet dust collector
+
+wet scrubber
+
+利用液体的洗涤作用将粉尘从含尘气体中分离出来的除尘装置。
+
+#### 4.2.8 
+
+## 冲激式除尘器 impact dust scrubber
+
+利用含尘气体冲击液体，激起雾滴，使粉尘被液体、液滴捕集的湿式除尘装置。
+
+#### 4.2.9 
+
+## 文丘里除尘器 Venturi scrubber
+
+含尘气体经过喉管形成高速湍流，使液滴雾化并易于与粉尘碰撞、凝聚后被捕集的湿式除尘装置。
+
+#### 4.2.10 
+
+## 旋风水膜除尘器 cyclone scrubber
+
+在筒体内壁形成一层流体水膜，含尘气流中粉尘靠离心作用甩向筒壁被水膜所捕集的湿式除尘装置。
+
+#### 4.2.11 
+
+## 泡沫除尘器 bubbling scrubber
+
+依靠含尘气体流经筛板产生的泡沫捕集粉尘的湿式除尘装置。
+
+#### 4.2.12 
+
+## 洗涤过滤式除尘器 filtering scrubber
+
+利用不断被液体冲洗的过滤介质捕集含尘气体中粉尘的湿式除尘装置。
+
+#### 4.2.13 
+
+## 电除尘器 electrostatic precipitator
+
+利用高压电场将空气电离，使粉尘荷电，通过荷电粉尘向极性相反的电极运动，把粉尘从含尘气体中分离出来的除尘装置。
+
+#### 4.2.14 
+
+## 除尘机组 dust collecting unit
+
+由吸尘罩、管道、风机、除尘器及配件等组合为一体的除尘装置。
+
+#### 4.2.15 
+
+## 复合除尘器 complex of dust collector
+
+利用两种或两种以上不同除尘机理将组件综合在一起组成的除尘器。
+
+注：如电-旋风除尘器、喷雾-冲激除尘器、干-湿一体除尘器、电-袋复合除尘器等。
+
+#### 4.2.16 
+
+## 滤料 filter media
+
+对空气中微粒具有过滤作用的材料。
+
+注：常用的有合成或天然纤维、玻璃纤维、金属丝或多孔材料等做成的滤纸、滤布、滤网等。
+
+## 5 防毒术语
+
+### 5.1 防毒技术
+
+#### 5.1.1 
+
+## 气体吸收 absorption of gas and vapor
+
+利用液体吸收剂清除气体中有害组分的方法。
+
+#### 5.1.2 
+
+## 气体吸附 adsorption of gas and vapor
+
+利用固体吸附剂清除气体中有害组分的方法。
+
+#### 5.1.3 
+
+## 解吸 desorption
+
+吸收和吸附的逆过程；通过与气体吸附或吸收相反的过程，将被吸附或被吸收的气体或溶质从吸附剂或吸收剂中释放出来的方法。
+
+#### 5.1.4 
+
+## 直接燃烧净化 direct incineration
+
+以有害废气为燃料，参与燃烧并将含有害废气的空气净化的方法。
+
+#### 5.1.5 
+
+## 热力燃烧净化 thermal oxidation
+
+在使用辅助燃料的前提下，将可燃的有害气体的温度提高到反应温度，使其进行氧化分解的燃烧净化方法。
+
+#### 5.1.6 
+
+## 催化燃烧净化 catalytic combustion
+
+利用催化剂使废气中的可燃物质能在较低温度下被氧化分解的燃烧净化方法。
+
+#### 5.1.7 
+
+## 气体冷凝 condensation of vapor
+
+通过冷却使有害蒸气凝结并从气体中分离出来的方法。
+
+#### 5.1.8 
+
+## 吸收速率 absorption rate
+
+吸收过程中，单位时间通过单位相际传质面积所传递的物质量。
+
+### 5.2 净化设备
+
+#### 5.2.1 
+
+## 吸收装置 absorption equipment
+
+采用适当的液体吸收剂清除混合气体中某种有害组分的设备。
+
+#### 5.2.2 
+
+## 吸附装置 adsorption equipment
+
+采用固体吸附剂从气体中脱除臭气、溶剂和其他低浓度有害气体的设备。
+
+#### 5.2.3 
+
+## 燃烧炉 combustion furnace
+
+用于废气燃烧净化的设备。
+
+#### 5.2.4 
+
+## 燃烧器 combustor
+
+用于燃烧辅助燃料产生高温燃气的装置。
+
+#### 5.2.5 
+
+## 燃烧室 combustion chamber
+
+用于使废气和高温燃气混合、驻留并充分反应的设备空间。
+
+#### 5.2.6 
+
+## 填料 filler
+
+吸收装置中的用于分散气体和液体，形成和扩展传质面积的固体构件。
+
+#### 5.2.7 
+
+## 冷凝器 condenser
+
+用于对蒸汽进行冷凝的净化分离装置。
+
+#### 5.2.8 
+
+## 表面冷凝器 surface condenser
+
+将被冷凝物质和冷却剂用一传热的间壁隔开，通过传热面进行热交换的装置。
+
+#### 5.2.9 
+
+## 接触冷凝器 contact condenser
+
+冷、热流体直接接触换热，并实现冷凝的装置。
+
+#### 5.2.10 
+
+## 填料塔 packed tower
+
+筒体内装有固体填料，吸收剂自塔顶向下喷淋于填料上，气体沿填料间隙上升，通过气液接触使有害物质被吸收的净化设备。
+
+#### 5.2.11 
+
+## 筛板塔 sieve-plate column
+
+筒体内设有筛板，气体自下而上穿过筛板上的液层，通过气体的鼓泡使有害物质被吸收的净化设备。
+
+## 索引
+
+## 汉语拼音索引
+
+A  
+  
+安息角 …… 2.24  
+  
+B  
+  
+半数致死剂量 …… 2.53  
+  
+比电阻 …… 2.28  
+  
+表面冷凝器 …… 5.2.8  
+  
+C  
+  
+槽边排风罩 …… 3.3.27  
+  
+槽边通风 …… 3.1.12  
+  
+侧吸罩 …… 3.3.26  
+  
+测孔 …… 3.3.16  
+  
+超显微粉尘 …… 2.15  
+  
+超限倍数 …… 2.65  
+  
+尘肺 …… 2.42  
+  
+尘化作用 …… 2.33  
+  
+尘源 …… 2.32  
+  
+沉降速度 …… 2.30  
+  
+冲激式除尘器 …… 4.2.8  
+  
+除尘 …… 2.35  
+  
+除尘机组 …… 4.2.14  
+  
+除尘器 …… 4.2.1  
+  
+除尘器阻力 …… 4.1.14  
+  
+除尘系统 …… 4.1.8  
+  
+除尘效率 …… 4.1.15  
+  
+处理风量 …… 4.1.13  
+  
+穿透率 …… 4.1.16  
+  
+吹吸式排风罩 …… 3.3.23  
+  
+刺激性气体 …… 2.48  
+  
+催化燃烧净化 …… 5.1.6  
+  
+D  
+  
+袋式除尘器 …… 4.2.6  
+  
+导流板 …… 3.3.32  
+  
+电场风速 …… 4.1.27  
+  
+电除尘器 …… 4.2.13  
+  
+毒物 …… 2.43
+
+短时间接触容许浓度 …… 2.63  
+堆积密度 …… 2.22  
+  
+E  
+  
+二次扬尘 …… 2.34  
+  
+F  
+  
+阀门 …… 3.3.9  
+飞灰 …… 2.7  
+分级效率 …… 4.1.18  
+分散度 …… 2.20  
+分散式除尘系统 …… 4.1.10  
+粉尘 …… 2.1  
+粉尘磨损性 …… 2.21  
+粉尘驱进速度 …… 4.1.28  
+风道 …… 3.3.5  
+风管 …… 3.3.4  
+风口 …… 3.3.10  
+风量平衡 …… 3.2.9  
+风帽 …… 3.3.8  
+风压 …… 3.2.6  
+负压区 …… 3.2.8  
+附着性 …… 2.26  
+复合除尘器 …… 4.2.15  
+  
+G  
+  
+工业通风 …… 3.1.2  
+贯流式通风机 …… 3.3.31  
+惯性除尘器 …… 4.2.2  
+过滤除尘 …… 4.1.3  
+过滤风速 …… 4.1.21  
+过滤面积 …… 4.1.23  
+过滤器初阻力 …… 4.1.24  
+过滤器终阻力 …… 4.1.25  
+过滤式除尘器 …… 4.2.5  
+  
+H  
+  
+含尘浓度 …… 4.1.19
+
+呼吸性粉尘 …… 2.16  
+滑动角 …… 2.25  
+换气次数 …… 3.2.4  
+混合性粉尘 …… 2.12
+
+## J
+
+## K
+
+可见粉尘 …… 2.13  
+空气动力学直径 …… 2.18  
+控制点 …… 3.2.12  
+控制风速 …… 3.2.14  
+控制距离 …… 3.2.13
+
+## L
+
+冷凝器 …… 5.2.7  
+离心式除尘器 …… 4.2.4  
+离心式通风机 …… 3.3.29  
+粒径 …… 2.17  
+连续除灰 …… 4.1.30  
+联合除尘 …… 4.1.7  
+漏风率 …… 4.1.17  
+滤料 …… 4.2.16
+
+## M
+
+慢性中毒 …… 2.47  
+密闭 …… 2.56  
+密闭罩 …… 3.3.18
+
+## P
+
+排放浓度 …… 4.1.20  
+排风柜 …… 3.3.24  
+排风口 …… 3.3.12  
+排风量 …… 3.2.3  
+排风罩 …… 3.3.17  
+泡沫除尘器 …… 4.2.11
+
+## Q
+
+气布比 …… 4.1.22  
+气流组织 …… 3.2.15  
+气溶胶 …… 2.4  
+气体冷凝 …… 5.1.7  
+气体吸附 …… 5.1.2  
+气体吸收 …… 5.1.1  
+清灰 …… 4.1.29  
+清扫孔 …… 3.3.14  
+全面排风 …… 3.1.8  
+全面通风 …… 3.1.6
+
+## R
+
+燃烧炉 …… 5.2.3  
+燃烧器 …… 5.2.4  
+燃烧室 …… 5.2.5  
+热力燃烧净化 …… 5.1.5  
+热平衡 …… 3.2.10  
+热压 …… 3.2.5  
+容尘量 …… 4.1.26  
+柔性接头 …… 3.3.6  
+润湿性 …… 2.27
+
+## S
+
+伞形罩 …… 3.3.25  
+筛板塔 …… 5.2.11  
+射流 …… 3.2.16  
+生产性毒物 …… 2.44  
+湿法除尘 …… 4.1.5
+
+湿式除尘器 …… 4.2.7  
+湿式作业 …… 4.1.6  
+时间加权平均容许浓度 …… 2.62  
+事故通风 …… 3.1.13  
+事故通风系统 …… 3.1.14  
+水硬性 …… 2.29  
+送风口 …… 3.3.13
+
+## T
+
+体积浓度 …… 2.40  
+  
+填料 …… 5.2.6  
+  
+填料塔 …… 5.2.10  
+  
+通风 …… 3.1.1  
+  
+通风部件 …… 3.3.2  
+  
+通风除尘 …… 4.1.1  
+  
+通风管道 …… 3.3.3  
+  
+通风机 …… 3.3.28  
+  
+通风量 …… 3.2.1  
+  
+通风设备 …… 3.3.1
+
+## W
+
+外部吸气罩 …… 3.3.21  
+文丘里除尘器 …… 4.2.9  
+无机粉尘 …… 2.10  
+雾 …… 2.9
+
+## X 
+
+吸风口 …… 3.3.11  
+吸附剂 …… 2.59  
+吸附质 …… 2.60  
+吸附装置 …… 5.2.2  
+吸收剂 …… 2.57  
+吸收速率 …… 5.1.8  
+吸收质 …… 2.58  
+吸收装置 …… 5.2.1  
+洗涤过滤式除尘器 …… 4.2.12  
+纤维性粉尘 …… 2.2
+
+显微粉尘 …… 2.14  
+悬浮速度 …… 2.31  
+旋风水膜除尘器 …… 4.2.10
+
+## Y
+
+烟 …… 2.6  
+烟尘 …… 2.8  
+游离二氧化硅 …… 2.3  
+有害气体 …… 2.36  
+有害物质 …… 2.37  
+有害物质浓度 …… 2.38  
+有机粉尘 …… 2.11  
+有组织通风 …… 3.1.9  
+诱导通风 …… 3.1.15  
+阈剂量 …… 2.55
+
+## Z
+
+罩口风速 …… 3.2.11  
+真空清扫 …… 4.1.12  
+真密度 …… 2.23  
+整体密闭罩 …… 3.3.20  
+正压区 …… 3.2.7  
+直接燃烧净化 …… 5.1.4  
+职业危害因素 …… 2.61  
+质量浓度 …… 2.39  
+致死剂量 …… 2.52  
+窒息 …… 2.49  
+窒息性气体 …… 2.50  
+中毒 …… 2.45  
+中位径 …… 2.19  
+重力沉降室（除尘器） …… 4.2.3  
+轴流式通风机 …… 3.3.30  
+自然通风 …… 3.1.3  
+总粉尘 …… 2.5  
+最低致死剂量 …… 2.54  
+最高容许浓度 …… 2.64
+
+## 英文对应词索引
+
+## A
+
+absorbate 2.58  
+absorbent 2.57  
+absorption equipment 5.2.1  
+absorption of gas and vapor 5.1.1  
+absorption rate 5.1.8  
+access door 3.3.15  
+actual density 2.23  
+acute intoxication 2.46  
+adhesion 2.26  
+adsorbate 2.60  
+adsorbent 2.59  
+adsorption equipment 5.2.2  
+adsorption of gas and vapor 5.1.2  
+aerodynamic diameter 2.18  
+aerosol 2.4  
+air balance 3.2.9  
+air changes 3.2.4  
+air channel 3.3.5  
+air distribution 3.2.15  
+air duct 3.3.4  
+air inlet 3.3.10  
+air leakage ratio 4.1.17  
+air manifold 3.3.7  
+air volume 4.1.13  
+air-to-cloth ratio 4.1.22  
+angle of rest 2.24  
+angle of slide 2.25  
+asphyxia 2.49  
+asphyxiating gas 2.50  
+axiall-flow fan 3.3.30  
+  
+B  
+bag filter 4.2.6  
+bubbling scrubber 4.2.11  
+bulk density 2.22  
+  
+C  
+canopy hood 3.3.25  
+capture distance 3.2.13
+
+capture point ..... 3.2.12  
+capture velocity ..... 3.2.14  
+capturing hood ..... 3.3.21  
+catalytic combustion ..... 5.1.6  
+centralized dust removal system ..... 4.1.11  
+centrifugal dust collector ..... 4.2.4  
+centrifugal fan ..... 3.3.29  
+chronic intoxication ..... 2.47  
+cleanout hole ..... 3.3.14  
+collection efficiency ..... 4.1.15  
+combustion chamber ..... 5.2.5  
+combustion furnace ..... 5.2.3  
+combustor ..... 5.2.4  
+complex of dust collector ..... 4.2.15  
+components ..... 3.3.2  
+concentration of harmful substance ..... 2.38  
+condensation of vapor ..... 5.1.7  
+condenser ..... 5.2.7  
+confined ..... 2.56  
+contact condenser ..... 5.2.9  
+continuous dust dislodging ..... 4.1.30  
+cross-flow fan ..... 3.3.31  
+cyclone scrubber ..... 4.2.10  
+  
+D  
+desorption ..... 5.1.3  
+direct incineration ..... 5.1.4  
+dispersity ..... 2.20  
+distributed dust removal system ..... 4.1.10  
+dose ..... 2.51  
+dust ..... 2.1  
+dust capacity ..... 4.1.26  
+dust cleaning ..... 4.1.29  
+dust collector ..... 4.2.1  
+dust collecting unit ..... 4.2.14  
+dust concentration ..... 4.1.19  
+dust drift velocity ..... 4.1.28  
+dust removal ..... 2.35  
+dust removing system ..... 4.1.8  
+dust source ..... 2.32  
+dust wear resistance ..... 2.21
+
+## E
+
+electrostatic precipitation …… 4.1.4  
+electrostatic precipitator …… 4.2.13  
+emergency ventilation …… 3.1.13  
+emergency ventilation system …… 3.1.14  
+emission concentration …… 4.1.20  
+enclosed hood …… 3.3.18  
+excursion limits …… 2.65  
+exhaust air rate …… 3.2.3  
+exhaust inlet …… 3.3.11  
+exhaust outlet …… 3.3.12  
+  
+F  
+  
+fan …… 3.3.28  
+fibrous dust …… 2.2  
+filler …… 5.2.6  
+filter media …… 4.2.16  
+filtering scrubber …… 4.2.12  
+filtration area …… 4.1.23  
+filtration velocity …… 4.1.21  
+final resistance of filter …… 4.1.25  
+flexible joint …… 3.3.6  
+fly ash …… 2.7  
+free silica …… 2.3  
+fume …… 2.6  
+  
+G  
+  
+general exhaust ventilation; GEV …… 3.1.8  
+general ventilation …… 3.1.6  
+grade collection efficiency …… 4.1.18  
+gravity dust collector …… 4.2.3  
+guide vane …… 3.3.32  
+  
+H  
+  
+harmful gas and vapor …… 2.36  
+harmful substance …… 2.37  
+heat balance …… 3.2.10  
+hood …… 3.3.17  
+hood face velocity …… 3.2.11  
+hydraulicity …… 2.29  
+  
+I  
+  
+impact dust scrubber …… 4.2.8
+
+inductive ventilation ..... 3.1.15  
+industrial toxicology ..... 2.44  
+industrial ventilation ..... 3.1.2  
+inertial dust collector ..... 4.2.2  
+inlet port ..... 3.3.13  
+initial resistance of filter ..... 4.1.24  
+inorganic dust ..... 2.10  
+integral enclosure ..... 3.3.20  
+irritant gas ..... 2.48  
+  
+J  
+  
+jet ..... 3.2.16  
+  
+L  
+  
+laboratory hood ..... 3.3.24  
+lateral hood ..... 3.3.26  
+lethal dose (concentration); LD (LC) ..... 2.52  
+local exhaust ventilation; LEV ..... 3.1.11  
+local relief ..... 3.1.10  
+local ventilation ..... 3.1.7  
+  
+M  
+  
+mass concentration ..... 2.39  
+maximum allowable concentration; MAC ..... 2.64  
+mechanical and hydraulic combined dust removal ..... 4.1.7  
+mechanical dust removal ..... 4.1.2  
+mechanical ventilating system ..... 3.1.5  
+mechanical ventilation ..... 3.1.4  
+median diameter ..... 2.19  
+median lethal dose (concentration); LD $ _{50} $  (LC $ _{50} $ ) ..... 2.53  
+micro dust ..... 2.14  
+minimum lethal dose; MLD ..... 2.54  
+mist ..... 2.9  
+mixed-dust ..... 2.12  
+  
+N  
+  
+natural ventilation ..... 3.1.3  
+number concentration ..... 2.41  
+  
+O  
+  
+occupational hazard factor ..... 2.61
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_608_1313_643_1346.jpg" alt="Image" width="2%" /></div>
+
+
+organic dust …… 2.11  
+organized ventilation …… 3.1.9
+
+## P
+
+packed tower ..... 5.2.10  
+partial enclosure ..... 3.3.19  
+particle size ..... 2.17  
+permissible concentration-short term exposure limit; PC-STEL ..... 2.63  
+permissible concentration-time weighted average; PC-TWA ..... 2.62  
+penetration ..... 4.1.16  
+pneumoconiosis ..... 2.42  
+poisoning ..... 2.45  
+porous layer dust collection ..... 4.1.3  
+porous layer dust collector ..... 4.2.5  
+precipitator gas velocity ..... 4.1.27  
+pulvation action ..... 2.33  
+push-pull hood ..... 3.3.23  
+  
+R  
+  
+receiving hood ..... 3.3.22  
+reentrainment of dust ..... 2.34  
+resistivity ..... 2.28  
+respirable dust ..... 2.16  
+rim exhaust ..... 3.3.27  
+rim ventilation ..... 3.1.12  
+  
+S  
+  
+sampling hole ..... 3.3.16  
+settling velocity ..... 2.30  
+sieve-plate column ..... 5.2.11  
+smoke ..... 2.8  
+spot-type dust removal system ..... 4.1.9  
+supply air rate ..... 3.2.2  
+surface condenser ..... 5.2.8
+
+suspended velocity 2.31  
+T  
+thermal oxidation 5.1.5  
+thermal pressure 3.2.5  
+threshold dose 2.55  
+total dust 2.5  
+toxicant 2.43  
+U  
+ultra-micro dust 2.15  
+V  
+vacuum cleaning 4.1.12  
+valve 3.3.9  
+ventilation 3.1.1  
+ventilation duct 3.3.3  
+ventilation equipment 3.3.1  
+ventilation rate 3.2.1  
+ventilation and dust control 4.1.1  
+ventilator 3.3.8  
+Venturi scrubber 4.2.9  
+visible dust 2.13  
+volumetric concentration 2.40  
+W  
+wettability 2.27  
+wet dust collection 4.1.5  
+wet dust collector 4.2.7  
+wet method operating 4.1.6  
+wind pressure 3.2.6  
+working resistance 4.1.14  
+Z  
+zone of negative pressure 3.2.8  
+zone of positive pressure 3.2.7
