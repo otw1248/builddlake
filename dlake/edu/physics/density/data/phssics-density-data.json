@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1001,
+    "nameEn": "Olive Oil",
+    "nameCn": "橄榄油",
+    "density": "0.91-0.92",
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1002,
+    "nameEn": "Soybean Oil",
+    "nameCn": "大豆油",
+    "density": 0.92,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1003,
+    "nameEn": "Peanut Oil",
+    "nameCn": "花生油",
+    "density": 0.91,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1004,
+    "nameEn": "Sunflower Oil",
+    "nameCn": "葵花籽油",
+    "density": 0.92,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1005,
+    "nameEn": "Coconut Oil (25°C)",
+    "nameCn": "椰子油 (25℃)",
+    "density": 0.92,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1006,
+    "nameEn": "Sesame Oil",
+    "nameCn": "芝麻油 (香油)",
+    "density": 0.92,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1007,
+    "nameEn": "Palm Oil",
+    "nameCn": "棕榈油",
+    "density": 0.9,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1008,
+    "nameEn": "Butter",
+    "nameCn": "黄油 (牛油)",
+    "density": 0.91,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1009,
+    "nameEn": "Lard",
+    "nameCn": "猪油",
+    "density": 0.9,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1010,
+    "nameEn": "Margarine",
+    "nameCn": "人造黄油",
+    "density": 0.93,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1011,
+    "nameEn": "Honey",
+    "nameCn": "蜂蜜",
+    "density": 1.42,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1012,
+    "nameEn": "White Granulated Sugar",
+    "nameCn": "白砂糖",
+    "density": 1.59,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1013,
+    "nameEn": "Brown Sugar / Raw Sugar",
+    "nameCn": "红糖 / 原糖",
+    "density": 1.45,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1014,
+    "nameEn": "Salt (Table Salt / Sodium Chloride)",
+    "nameCn": "食盐 (氯化钠)",
+    "density": 2.17,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1015,
+    "nameEn": "Sea Salt",
+    "nameCn": "海盐",
+    "density": 2.2,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1016,
+    "nameEn": "All-purpose Wheat Flour",
+    "nameCn": "普通小麦面粉",
+    "density": 0.55,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1017,
+    "nameEn": "Rice (White, Uncooked)",
+    "nameCn": "白米 (生米)",
+    "density": 0.75,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1018,
+    "nameEn": "Rice (Cooked)",
+    "nameCn": "米饭 (熟)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1019,
+    "nameEn": "Bread (Wheat)",
+    "nameCn": "面包 (小麦)",
+    "density": 0.3,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1020,
+    "nameEn": "Cornmeal",
+    "nameCn": "玉米面",
+    "density": 0.7,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1021,
+    "nameEn": "Oats (Rolled)",
+    "nameCn": "燕麦 (压扁)",
+    "density": 0.41,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1022,
+    "nameEn": "Whole Milk",
+    "nameCn": "全脂牛奶",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1023,
+    "nameEn": "Skim Milk",
+    "nameCn": "脱脂牛奶",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1024,
+    "nameEn": "Heavy Cream",
+    "nameCn": "浓奶油 (鲜奶油)",
+    "density": 1.01,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1025,
+    "nameEn": "Cheese (Cheddar)",
+    "nameCn": "切达干酪",
+    "density": 1.09,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1026,
+    "nameEn": "Cheese (Parmesan, Grated)",
+    "nameCn": "帕尔马干酪 (磨碎)",
+    "density": 0.56,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1027,
+    "nameEn": "Cream Cheese",
+    "nameCn": "奶油芝士",
+    "density": 1.13,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1028,
+    "nameEn": "Yogurt (Plain)",
+    "nameCn": "酸奶 (原味)",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1029,
+    "nameEn": "Butter (Melted, 35°C)",
+    "nameCn": "融化黄油 (35℃)",
+    "density": 0.89,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1030,
+    "nameEn": "Egg (Whole, Fresh)",
+    "nameCn": "鸡蛋 (完整, 新鲜)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1031,
+    "nameEn": "Egg White (Raw)",
+    "nameCn": "蛋白 (生)",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1032,
+    "nameEn": "Egg Yolk (Raw)",
+    "nameCn": "蛋黄 (生)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1033,
+    "nameEn": "Chicken Breast (Raw)",
+    "nameCn": "鸡胸肉 (生)",
+    "density": 1.07,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1034,
+    "nameEn": "Beef (Lean, Raw)",
+    "nameCn": "瘦牛肉 (生)",
+    "density": 1.06,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1035,
+    "nameEn": "Pork (Lean, Raw)",
+    "nameCn": "瘦猪肉 (生)",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1036,
+    "nameEn": "Salmon (Raw)",
+    "nameCn": "三文鱼 (生)",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1037,
+    "nameEn": "Shrimp (Raw)",
+    "nameCn": "虾 (生)",
+    "density": 1.05,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1038,
+    "nameEn": "Bacon",
+    "nameCn": "培根",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1039,
+    "nameEn": "Apple",
+    "nameCn": "苹果",
+    "density": 0.85,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1040,
+    "nameEn": "Banana",
+    "nameCn": "香蕉",
+    "density": 0.94,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1041,
+    "nameEn": "Orange",
+    "nameCn": "橙子",
+    "density": 0.84,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1042,
+    "nameEn": "Watermelon",
+    "nameCn": "西瓜",
+    "density": 0.94,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1043,
+    "nameEn": "Grape",
+    "nameCn": "葡萄",
+    "density": 1.1,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1044,
+    "nameEn": "Strawberry",
+    "nameCn": "草莓",
+    "density": 0.97,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1045,
+    "nameEn": "Lemon",
+    "nameCn": "柠檬",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1046,
+    "nameEn": "Peach",
+    "nameCn": "桃子",
+    "density": 0.94,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1047,
+    "nameEn": "Pear",
+    "nameCn": "梨",
+    "density": 0.84,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1048,
+    "nameEn": "Mango",
+    "nameCn": "芒果",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1049,
+    "nameEn": "Avocado",
+    "nameCn": "牛油果 / 鳄梨",
+    "density": 1.01,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1050,
+    "nameEn": "Pineapple",
+    "nameCn": "菠萝",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1051,
+    "nameEn": "Tomato",
+    "nameCn": "番茄 / 西红柿",
+    "density": 0.95,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1052,
+    "nameEn": "Potato",
+    "nameCn": "土豆 / 马铃薯",
+    "density": 1.09,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1053,
+    "nameEn": "Sweet Potato",
+    "nameCn": "红薯 / 地瓜",
+    "density": 0.99,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1054,
+    "nameEn": "Carrot",
+    "nameCn": "胡萝卜",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1055,
+    "nameEn": "Onion",
+    "nameCn": "洋葱",
+    "density": 0.91,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1056,
+    "nameEn": "Garlic",
+    "nameCn": "大蒜",
+    "density": 1.14,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1057,
+    "nameEn": "Cucumber",
+    "nameCn": "黄瓜",
+    "density": 0.96,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1058,
+    "nameEn": "Lettuce",
+    "nameCn": "生菜",
+    "density": 0.24,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1059,
+    "nameEn": "Broccoli",
+    "nameCn": "西兰花",
+    "density": 0.34,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1060,
+    "nameEn": "Corn (Sweet, Raw Kernels)",
+    "nameCn": "甜玉米 (生粒)",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1061,
+    "nameEn": "Mushroom",
+    "nameCn": "蘑菇",
+    "density": 0.84,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1062,
+    "nameEn": "Rice Noodle (Raw)",
+    "nameCn": "米粉 (生)",
+    "density": 1.05,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1063,
+    "nameEn": "Tofu (Firm)",
+    "nameCn": "豆腐 (老/硬)",
+    "density": 1.05,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1064,
+    "nameEn": "Tofu (Silken / Soft)",
+    "nameCn": "豆腐 (嫩/内酯)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1065,
+    "nameEn": "Pasta (Dry, Uncooked)",
+    "nameCn": "意大利面 (干, 生)",
+    "density": 1.4,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1066,
+    "nameEn": "Pasta (Cooked)",
+    "nameCn": "意大利面 (煮熟)",
+    "density": 1.1,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1067,
+    "nameEn": "Chocolate (Dark, 70% Cocoa)",
+    "nameCn": "黑巧克力 (70%可可)",
+    "density": 1.26,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1068,
+    "nameEn": "Chocolate (Milk)",
+    "nameCn": "牛奶巧克力",
+    "density": 1.24,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1069,
+    "nameEn": "Chocolate (White)",
+    "nameCn": "白巧克力",
+    "density": 1.21,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1070,
+    "nameEn": "Cocoa Powder",
+    "nameCn": "可可粉",
+    "density": 0.52,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1071,
+    "nameEn": "Peanut Butter",
+    "nameCn": "花生酱",
+    "density": 1.1,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1072,
+    "nameEn": "Jam / Marmalade",
+    "nameCn": "果酱 / 橘子酱",
+    "density": 1.33,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1073,
+    "nameEn": "Maple Syrup",
+    "nameCn": "枫糖浆",
+    "density": 1.32,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1074,
+    "nameEn": "Corn Syrup",
+    "nameCn": "玉米糖浆",
+    "density": 1.38,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1075,
+    "nameEn": "Vinegar (White Distilled)",
+    "nameCn": "白醋",
+    "density": 1.01,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1076,
+    "nameEn": "Soy Sauce",
+    "nameCn": "酱油",
+    "density": 1.2,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1077,
+    "nameEn": "Mayonnaise",
+    "nameCn": "蛋黄酱",
+    "density": 0.91,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1078,
+    "nameEn": "Ketchup",
+    "nameCn": "番茄酱",
+    "density": 1.4,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1079,
+    "nameEn": "Mustard (Prepared)",
+    "nameCn": "芥末酱 (调味)",
+    "density": 1.2,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1080,
+    "nameEn": "Sesame Paste / Tahini",
+    "nameCn": "芝麻酱",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1081,
+    "nameEn": "Chili Sauce",
+    "nameCn": "辣椒酱",
+    "density": 1.14,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1082,
+    "nameEn": "Oyster Sauce",
+    "nameCn": "蚝油",
+    "density": 1.4,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1083,
+    "nameEn": "MSG (Monosodium Glutamate)",
+    "nameCn": "味精",
+    "density": 1.61,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1084,
+    "nameEn": "Baking Soda (Sodium Bicarbonate)",
+    "nameCn": "小苏打 (碳酸氢钠)",
+    "density": 2.2,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1085,
+    "nameEn": "Baking Powder",
+    "nameCn": "泡打粉",
+    "density": 0.87,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1086,
+    "nameEn": "Corn Starch",
+    "nameCn": "玉米淀粉",
+    "density": 0.56,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1087,
+    "nameEn": "Gelatin (Powder)",
+    "nameCn": "明胶 (粉)",
+    "density": 0.67,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1088,
+    "nameEn": "Gelatin (Dissolved, 10% Solution)",
+    "nameCn": "明胶 (溶解, 10%溶液)",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1089,
+    "nameEn": "Yeast (Dry, Granules)",
+    "nameCn": "干酵母 (颗粒)",
+    "density": 0.77,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1090,
+    "nameEn": "Black Pepper (Ground)",
+    "nameCn": "黑胡椒 (研磨)",
+    "density": 0.55,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1091,
+    "nameEn": "Cinnamon (Ground)",
+    "nameCn": "肉桂粉",
+    "density": 0.49,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1092,
+    "nameEn": "Cumin (Ground)",
+    "nameCn": "孜然粉",
+    "density": 0.52,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1093,
+    "nameEn": "Turmeric (Ground)",
+    "nameCn": "姜黄粉",
+    "density": 0.6,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1094,
+    "nameEn": "Vanilla Extract",
+    "nameCn": "香草精",
+    "density": 0.88,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1095,
+    "nameEn": "Red Bean (Adzuki, Dry)",
+    "nameCn": "红豆 (干)",
+    "density": 1.3,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1096,
+    "nameEn": "Mung Bean (Dry)",
+    "nameCn": "绿豆 (干)",
+    "density": 1.28,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1097,
+    "nameEn": "Soybean (Dry)",
+    "nameCn": "黄豆 (干)",
+    "density": 1.31,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1098,
+    "nameEn": "Black Sesame Seed",
+    "nameCn": "黑芝麻",
+    "density": 1.21,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1099,
+    "nameEn": "Walnut (Kernel)",
+    "nameCn": "核桃仁",
+    "density": 0.63,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1100,
+    "nameEn": "Almond",
+    "nameCn": "杏仁",
+    "density": 0.71,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1101,
+    "nameEn": "Peanut (Raw, Shelled)",
+    "nameCn": "花生 (生, 去壳)",
+    "density": 0.64,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1102,
+    "nameEn": "Cashew Nut",
+    "nameCn": "腰果",
+    "density": 0.56,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1103,
+    "nameEn": "Pistachio (Kernel)",
+    "nameCn": "开心果仁",
+    "density": 0.62,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1104,
+    "nameEn": "Chestnut (Fresh)",
+    "nameCn": "板栗 (鲜)",
+    "density": 0.9,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1105,
+    "nameEn": "Sugar Syrup (Simple Syrup, 50% Brix)",
+    "nameCn": "糖浆 (简单糖浆, 50% 糖度)",
+    "density": 1.23,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1106,
+    "nameEn": "Glucose Syrup",
+    "nameCn": "葡萄糖浆",
+    "density": 1.43,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1107,
+    "nameEn": "Molasses",
+    "nameCn": "糖蜜",
+    "density": 1.4,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1108,
+    "nameEn": "Agave Syrup",
+    "nameCn": "龙舌兰糖浆",
+    "density": 1.35,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1109,
+    "nameEn": "Coconut Milk",
+    "nameCn": "椰奶",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1110,
+    "nameEn": "Condensed Milk (Sweetened)",
+    "nameCn": "炼乳 (加糖)",
+    "density": 1.3,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 1111,
+    "nameEn": "Evaporated Milk",
+    "nameCn": "淡奶 (蒸发乳)",
+    "density": 1.07,
+    "unit": "g/cm³",
+    "category": "Food"
+  },
+  {
+    "id": 2001,
+    "nameEn": "Rice Wine / Mirin",
+    "nameCn": "米酒 / 味醂",
+    "density": 1.15,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2002,
+    "nameEn": "Beer (Regular, 5% ABV)",
+    "nameCn": "啤酒 (普通, 5% 酒精度)",
+    "density": 1.01,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2003,
+    "nameEn": "Red Wine (Dry, 13% ABV)",
+    "nameCn": "红酒 (干红, 13% 酒精度)",
+    "density": 0.99,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2004,
+    "nameEn": "White Wine (Dry, 12% ABV)",
+    "nameCn": "白酒 (干白, 12% 酒精度)",
+    "density": 0.99,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2005,
+    "nameEn": "Chinese Baijiu / Spirits (52% ABV)",
+    "nameCn": "中国白酒 (52% 酒精度)",
+    "density": 0.92,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2006,
+    "nameEn": "Whiskey (40% ABV)",
+    "nameCn": "威士忌 (40% 酒精度)",
+    "density": 0.94,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2007,
+    "nameEn": "Vodka (40% ABV)",
+    "nameCn": "伏特加 (40% 酒精度)",
+    "density": 0.94,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2008,
+    "nameEn": "Rum (40% ABV)",
+    "nameCn": "朗姆酒 (40% 酒精度)",
+    "density": 0.95,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2009,
+    "nameEn": "Gin (40% ABV)",
+    "nameCn": "金酒 / 杜松子酒 (40% 酒精度)",
+    "density": 0.94,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2010,
+    "nameEn": "Brandy / Cognac (40% ABV)",
+    "nameCn": "白兰地 / 干邑 (40% 酒精度)",
+    "density": 0.94,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2011,
+    "nameEn": "Tequila (40% ABV)",
+    "nameCn": "龙舌兰酒 (40% 酒精度)",
+    "density": 0.95,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2012,
+    "nameEn": "Sake (Japanese Rice Wine, 15% ABV)",
+    "nameCn": "清酒 (日本米酒, 15% 酒精度)",
+    "density": 0.99,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2013,
+    "nameEn": "Champagne (Sparkling Wine, 12% ABV)",
+    "nameCn": "香槟 (起泡酒, 12% 酒精度)",
+    "density": 0.99,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2014,
+    "nameEn": "Port Wine (Sweet, 20% ABV)",
+    "nameCn": "波特酒 (甜, 20% 酒精度)",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2015,
+    "nameEn": "Apple Cider (Hard, 5% ABV)",
+    "nameCn": "苹果酒 (硬, 5% 酒精度)",
+    "density": 1.01,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2016,
+    "nameEn": "Apple Juice (Pure)",
+    "nameCn": "苹果汁 (纯)",
+    "density": 1.05,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2017,
+    "nameEn": "Orange Juice (Pure)",
+    "nameCn": "橙汁 (纯)",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2018,
+    "nameEn": "Grape Juice (Pure)",
+    "nameCn": "葡萄汁 (纯)",
+    "density": 1.06,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2019,
+    "nameEn": "Pineapple Juice (Pure)",
+    "nameCn": "菠萝汁 (纯)",
+    "density": 1.05,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2020,
+    "nameEn": "Lemon Juice (Pure)",
+    "nameCn": "柠檬汁 (纯)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2021,
+    "nameEn": "Cranberry Juice",
+    "nameCn": "蔓越莓汁",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2022,
+    "nameEn": "Pomegranate Juice",
+    "nameCn": "石榴汁",
+    "density": 1.05,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2023,
+    "nameEn": "Tomato Juice",
+    "nameCn": "番茄汁",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2024,
+    "nameEn": "Coconut Water",
+    "nameCn": "椰子水",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2025,
+    "nameEn": "Milk (Whole, 3.25% Fat)",
+    "nameCn": "全脂牛奶 (3.25% 脂肪)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2026,
+    "nameEn": "Milk (Skim, 0% Fat)",
+    "nameCn": "脱脂牛奶 (0% 脂肪)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2027,
+    "nameEn": "Chocolate Milk",
+    "nameCn": "巧克力牛奶",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2028,
+    "nameEn": "Espresso Coffee",
+    "nameCn": "浓缩咖啡",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2029,
+    "nameEn": "Black Coffee (Brewed)",
+    "nameCn": "黑咖啡 (冲泡)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2030,
+    "nameEn": "Coffee with Milk and Sugar",
+    "nameCn": "加奶加糖咖啡",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2031,
+    "nameEn": "Black Tea (Brewed, Unsweetened)",
+    "nameCn": "红茶 (冲泡, 无糖)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2032,
+    "nameEn": "Green Tea (Brewed, Unsweetened)",
+    "nameCn": "绿茶 (冲泡, 无糖)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2033,
+    "nameEn": "Oolong Tea (Brewed)",
+    "nameCn": "乌龙茶 (冲泡)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2034,
+    "nameEn": "Pu'er Tea (Brewed)",
+    "nameCn": "普洱茶 (冲泡)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2035,
+    "nameEn": "Iced Tea (Sweetened)",
+    "nameCn": "冰茶 (加糖)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2036,
+    "nameEn": "Chamomile Tea (Brewed)",
+    "nameCn": "洋甘菊茶 (冲泡)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2037,
+    "nameEn": "Cola / Soda (Regular)",
+    "nameCn": "可乐 / 碳酸饮料 (普通)",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2038,
+    "nameEn": "Cola / Soda (Diet, Zero Sugar)",
+    "nameCn": "可乐 (无糖)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2039,
+    "nameEn": "Sprite / Lemon-Lime Soda",
+    "nameCn": "雪碧 / 柠檬味碳酸饮料",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2040,
+    "nameEn": "Tonic Water",
+    "nameCn": "汤力水",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2041,
+    "nameEn": "Club Soda / Seltzer",
+    "nameCn": "苏打水 / 气泡水",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2042,
+    "nameEn": "Ginger Ale",
+    "nameCn": "姜汁汽水",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2043,
+    "nameEn": "Energy Drink (e.g., Red Bull)",
+    "nameCn": "能量饮料 (如红牛)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2044,
+    "nameEn": "Sports Drink (e.g., Gatorade)",
+    "nameCn": "运动饮料 (如佳得乐)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2045,
+    "nameEn": "Coconut Water with Pulp",
+    "nameCn": "带果肉椰子水",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2046,
+    "nameEn": "Aloe Vera Drink",
+    "nameCn": "芦荟饮料",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2047,
+    "nameEn": "Soymilk (Soy Milk)",
+    "nameCn": "豆浆",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2048,
+    "nameEn": "Almond Milk (Unsweetened)",
+    "nameCn": "杏仁奶 (无糖)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2049,
+    "nameEn": "Oat Milk",
+    "nameCn": "燕麦奶",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2050,
+    "nameEn": "Coconut Milk Beverage (Carton)",
+    "nameCn": "椰奶饮品 (盒装)",
+    "density": 1.01,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2051,
+    "nameEn": "Rice Milk",
+    "nameCn": "米奶",
+    "density": 1.01,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2052,
+    "nameEn": "Hot Chocolate / Cocoa",
+    "nameCn": "热巧克力 / 可可",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2053,
+    "nameEn": "Mango Lassi",
+    "nameCn": "芒果拉西 (印度酸奶饮品)",
+    "density": 1.05,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2054,
+    "nameEn": "Fruit Smoothie (Mixed Berry)",
+    "nameCn": "混合浆果冰沙",
+    "density": 1.06,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2055,
+    "nameEn": "Vegetable Juice (Mixed)",
+    "nameCn": "混合蔬菜汁",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2056,
+    "nameEn": "Carrot Juice",
+    "nameCn": "胡萝卜汁",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2057,
+    "nameEn": "Watermelon Juice",
+    "nameCn": "西瓜汁",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2058,
+    "nameEn": "Lime Juice (Fresh)",
+    "nameCn": "青柠汁 (鲜榨)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2059,
+    "nameEn": "Grapefruit Juice",
+    "nameCn": "葡萄柚汁",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2060,
+    "nameEn": "Pear Juice (Fresh)",
+    "nameCn": "梨汁 (鲜榨)",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2061,
+    "nameEn": "Sugarcane Juice",
+    "nameCn": "甘蔗汁",
+    "density": 1.08,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2062,
+    "nameEn": "Honey Water (10% Honey Solution)",
+    "nameCn": "蜂蜜水 (10% 蜂蜜溶液)",
+    "density": 1.04,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2063,
+    "nameEn": "Maple Water (Sap)",
+    "nameCn": "枫树水 (树液)",
+    "density": 1.01,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2064,
+    "nameEn": "Barley Tea (Brewed)",
+    "nameCn": "大麦茶 (冲泡)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2065,
+    "nameEn": "Chrysanthemum Tea (Brewed)",
+    "nameCn": "菊花茶 (冲泡)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2066,
+    "nameEn": "Goji Berry Tea (Brewed)",
+    "nameCn": "枸杞茶 (冲泡)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2067,
+    "nameEn": "Lemonade (Fresh)",
+    "nameCn": "柠檬水 (鲜制)",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2068,
+    "nameEn": "Ice (Crushed, Floating in Beverage)",
+    "nameCn": "碎冰 (浮在饮品中)",
+    "density": 0.92,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2069,
+    "nameEn": "Kombucha (Fermented Tea)",
+    "nameCn": "康普茶 (发酵茶)",
+    "density": 1.01,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2070,
+    "nameEn": "Kefir (Fermented Milk Drink)",
+    "nameCn": "开菲尔 (发酵乳饮品)",
+    "density": 1.03,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2071,
+    "nameEn": "Horchata (Rice Milk Drink)",
+    "nameCn": "欧洽塔 (米奶饮料)",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2072,
+    "nameEn": "Matcha Latte",
+    "nameCn": "抹茶拿铁",
+    "density": 1.02,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2073,
+    "nameEn": "Bubble Tea / Boba Tea (with Tapioca Pearls)",
+    "nameCn": "奶茶 (珍珠奶茶)",
+    "density": 1.08,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 2074,
+    "nameEn": "Cider (Non-Alcoholic Apple Cider)",
+    "nameCn": "苹果 cider (无酒精)",
+    "density": 1.06,
+    "unit": "g/cm³",
+    "category": "Beverage"
+  },
+  {
+    "id": 3001,
+    "nameEn": "Industrial Pure Iron",
+    "nameCn": "工业纯铁",
+    "density": 7.87,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3002,
+    "nameEn": "Ordinary Carbon Steel / Quality Carbon Steel",
+    "nameCn": "普通碳素钢 / 优质碳素钢",
+    "density": 7.85,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3003,
+    "nameEn": "Gray Cast Iron",
+    "nameCn": "灰口铸铁",
+    "density": "6.6-7.4",
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3004,
+    "nameEn": "White Cast Iron",
+    "nameCn": "白口铸铁",
+    "density": "7.4-7.7",
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3005,
+    "nameEn": "Stainless Steel (e.g., 1Cr13)",
+    "nameCn": "不锈钢 (如 1Cr13)",
+    "density": 7.75,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3006,
+    "nameEn": "Pure Copper (Red Copper)",
+    "nameCn": "纯铜 (紫铜)",
+    "density": "8.9-8.93",
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3007,
+    "nameEn": "Brass (e.g., 59, 62 Brass)",
+    "nameCn": "黄铜 (如 59、62黄铜)",
+    "density": 8.5,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3008,
+    "nameEn": "Tin Bronze (e.g., 5-5-5 Cast Tin Bronze)",
+    "nameCn": "锡青铜 (如 5-5-5铸锡青铜)",
+    "density": 8.8,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3009,
+    "nameEn": "Pure Aluminum",
+    "nameCn": "纯铝",
+    "density": "2.70-2.702",
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3010,
+    "nameEn": "Rust-proof Aluminum (e.g., LF2)",
+    "nameCn": "防锈铝 (如 LF2)",
+    "density": 2.68,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3011,
+    "nameEn": "Hard Aluminum (e.g., LY12)",
+    "nameCn": "硬铝 (如 LY12)",
+    "density": 2.78,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3012,
+    "nameEn": "Super Hard Aluminum",
+    "nameCn": "超硬铝",
+    "density": 2.85,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3013,
+    "nameEn": "Industrial Pure Magnesium",
+    "nameCn": "工业纯镁",
+    "density": 1.74,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3014,
+    "nameEn": "Industrial Pure Titanium (TA1)",
+    "nameCn": "工业纯钛 (TA1)",
+    "density": 4.507,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3015,
+    "nameEn": "Lead",
+    "nameCn": "铅",
+    "density": "11.34-11.37",
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3016,
+    "nameEn": "Zinc Ingot",
+    "nameCn": "锌锭",
+    "density": "7.10-7.15",
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3017,
+    "nameEn": "Pure Nickel",
+    "nameCn": "纯镍",
+    "density": "8.85-8.902",
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3018,
+    "nameEn": "Silver",
+    "nameCn": "银",
+    "density": "10.50-10.502",
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3019,
+    "nameEn": "Gold",
+    "nameCn": "金",
+    "density": "19.30-19.32",
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 3020,
+    "nameEn": "Platinum",
+    "nameCn": "铂",
+    "density": 21.45,
+    "unit": "g/cm³",
+    "category": "Metal"
+  },
+  {
+    "id": 4001,
+    "nameEn": "Ice (0°C)",
+    "nameCn": "冰 (0℃时)",
+    "density": 0.92,
+    "unit": "g/cm³",
+    "category": "Non-metal Solid"
+  },
+  {
+    "id": 4002,
+    "nameEn": "Glass",
+    "nameCn": "玻璃",
+    "density": 2.6,
+    "unit": "g/cm³",
+    "category": "Non-metal Solid"
+  },
+  {
+    "id": 5001,
+    "nameEn": "Air (Standard Conditions)",
+    "nameCn": "空气 (标准状况)",
+    "density": 1.29,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5002,
+    "nameEn": "Hydrogen (Standard Conditions)",
+    "nameCn": "氢气 (标准状况)",
+    "density": 0.08987,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5003,
+    "nameEn": "Oxygen (Standard Conditions)",
+    "nameCn": "氧气 (标准状况)",
+    "density": 1.43,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5004,
+    "nameEn": "Carbon Dioxide (Standard Conditions)",
+    "nameCn": "二氧化碳 (标准状况)",
+    "density": 1.98,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5005,
+    "nameEn": "Nitrogen (Standard Conditions)",
+    "nameCn": "氮气 (标准状况)",
+    "density": 1.25,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5006,
+    "nameEn": "Helium (Standard Conditions)",
+    "nameCn": "氦气 (标准状况)",
+    "density": 0.1785,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5007,
+    "nameEn": "Neon (Standard Conditions)",
+    "nameCn": "氖气 (标准状况)",
+    "density": 0.8999,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5008,
+    "nameEn": "Argon (Standard Conditions)",
+    "nameCn": "氩气 (标准状况)",
+    "density": 1.784,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5009,
+    "nameEn": "Methane / Natural Gas (Standard Conditions)",
+    "nameCn": "甲烷 / 天然气 (标准状况)",
+    "density": 0.717,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5010,
+    "nameEn": "Steam (100°C, 1 atm)",
+    "nameCn": "水蒸气 (100℃, 1个大气压)",
+    "density": 0.598,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5011,
+    "nameEn": "Chlorine Gas (Standard Conditions)",
+    "nameCn": "氯气 (标准状况)",
+    "density": 3.214,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 5012,
+    "nameEn": "Ammonia (Standard Conditions)",
+    "nameCn": "氨气 (标准状况)",
+    "density": 0.771,
+    "unit": "g/L",
+    "category": "Gas"
+  },
+  {
+    "id": 6001,
+    "nameEn": "Concrete",
+    "nameCn": "混凝土",
+    "density": "1.8-2.45",
+    "unit": "g/cm³",
+    "category": "Building Material"
+  },
+  {
+    "id": 7001,
+    "nameEn": "Water (4°C)",
+    "nameCn": "水 (4℃时)",
+    "density": 1,
+    "unit": "g/cm³",
+    "category": "Liquid"
+  },
+  {
+    "id": 7002,
+    "nameEn": "Mercury",
+    "nameCn": "水银 (汞)",
+    "density": 13.6,
+    "unit": "g/cm³",
+    "category": "Liquid"
+  },
+  {
+    "id": 7003,
+    "nameEn": "Sulfuric Acid",
+    "nameCn": "硫酸",
+    "density": 1.8,
+    "unit": "g/cm³",
+    "category": "Liquid"
+  },
+  {
+    "id": 7004,
+    "nameEn": "Alcohol (Ethanol)",
+    "nameCn": "酒精 (乙醇)",
+    "density": 0.79,
+    "unit": "g/cm³",
+    "category": "Liquid"
+  },
+  {
+    "id": 7005,
+    "nameEn": "Gasoline",
+    "nameCn": "汽油",
+    "density": "0.71-0.75",
+    "unit": "g/cm³",
+    "category": "Liquid"
+  }
+]
