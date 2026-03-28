@@ -1,0 +1,1368 @@
+
+
+# 中华人民共和国国家标准
+
+GB/T 36505—2018
+
+铁路线路词汇
+
+Terms for railway permanent way
+
+2018-07-13 发布
+
+2019-02-01 实施
+
+## 目次
+
+前言 …… III  
+  
+1 范围 …… 1  
+  
+2 线路一般术语 …… 1  
+  
+3 线形 …… 2  
+  
+4 轨道结构与部件 …… 4  
+  
+5 无缝线路 …… 8  
+  
+6 轨道检查 …… 10  
+  
+7 线路作业 …… 12  
+  
+索引 …… 14
+
+## 前言
+
+本标准按照 GB/T 1.1—2009 给出的规则起草。
+
+本标准由国家铁路局提出并归口。
+
+本标准由中国铁道科学研究院铁道建筑研究所、中国铁道科学研究院标准计量研究所负责起草。本标准主要起草人：江成、龚增进、姜文超、冯仲伟、孙法林、宁迎智。
+
+## 铁路线路词汇
+
+## 1 范围
+
+本标准界定了铁路线路基本词汇及其定义。
+
+本标准适用于铁路线路工程勘测、设计、施工、维护、科研、教学等方面。
+
+## 2 线路一般术语
+
+线路 permanent way
+
+由轨道、路基、桥涵、隧道及其他建筑物构成，供列车按规定速度行驶的铁路线。
+
+2.2
+
+标准轨距铁路 standard gauge railway
+
+直线地段轨距为 1 435 mm 的铁路。
+
+2.3
+
+宽轨距铁路 broad gauge railway
+
+直线地段轨距大于标准轨距的铁路。
+
+2.4
+
+窄轨距铁路 narrow gauge railway
+
+直线地段轨距小于标准轨距的铁路。
+
+2.5
+
+客货共线铁路 mixed passenger and freight railway  
+
+兼顾客、货运输的铁路。
+
+2.6
+
+货运专线铁路 freight dedicated lines
+
+以货运为主的铁路。
+
+2.7
+
+正线 main line
+
+连接车站并贯穿车站或以道岔直股伸入车站的线路。
+
+2.8
+
+站线 station track
+
+车站内除正线以外的线路，包括到发线、编组线、货物线、牵出线以及站内指定用途的其他线路。
+
+2.9
+
+联络线 connecting line
+
+车站(场)与车站(场)、车站(场)与正线及两条正线间连接的线路。
+
+2.10
+
+单线 single line; single track
+
+只有一条正线的铁路，一般指双方向运行的线路。
+
+### 2.11 
+
+双线 double line; double track
+
+有两条正线的铁路，一般指单方向运行线路。
+
+### 2.12 
+
+线路中心线 centre line of track
+
+轨距平分线(不计轨距加宽值)。
+
+### 2.13 
+
+线间距 distance between centre lines of tow neighboring track
+
+两相邻线路中心线间的距离。
+
+### 2.14 
+
+建筑限界 structure clearance
+
+与线路中心线垂直的极限横断面轮廓尺寸线，除机车车辆和与其有直接互相作用的设备外，其他一切建筑物及设备不得侵入。
+
+### 2.15 
+
+线路标志 permanent way signs
+
+铁路线路上设置的标识线路里程、线桥设备位置或主要技术参数以及各级机构管界的标志。
+
+### 2.16 
+
+平面交叉 grade crossing; level crossing
+
+铁路与铁路、道路在同一平面上的交叉。
+
+### 2.17 
+
+立体交叉 grade separation
+
+铁路与铁路、道路不在同一平面上的交叉。
+
+## 3 线形
+
+### 3.1 
+
+线形 railway alignment
+
+铁路中心线的空间位置，由平面和纵断面上的直线及曲线组成。
+
+### 3.2 
+
+线路平面 plan of railway line
+
+线路中心线在水平面上的投影。
+
+### 3.3 
+
+平面线形 horizontal alignment
+
+线路在水平面上的形状和位置，由直线和曲线构成。
+
+### 3.4 
+
+线路纵断面 profile of railway line
+
+线路中心线展直后在纵向垂直面上的投影。
+
+### 3.5 
+
+纵断面线形 vertical alignment
+
+线路在纵断面上的形状和位置，由坡段和竖曲线构成。
+
+### 3.6 
+
+## 圆曲线 circular curve
+
+线路平面走向改变时设置的曲率不变的圆弧形曲线。
+
+### 3.7 
+
+## 复曲线 compound curve
+
+由两个或两个以上转向方向相同、半径不同的相邻曲线，直接连接或用缓和曲线连接的曲线。
+
+### 3.8 
+
+## 反向曲线 reverse curve
+
+转向角方向相反的两相邻曲线中间连以一定长度直线所组成的曲线。
+
+### 3.9 
+
+## 缓和曲线 transition curve
+
+设置在直线与圆曲线或圆曲线与圆曲线之间的曲率连续变化的曲线。
+
+### 3.10 
+
+## 夹直线 intermediate straight line
+
+两相邻曲线间或道岔直向与曲线间的直线段。
+
+### 3.11 
+
+## 夹圆线 intermediate circular curve
+
+两相邻缓和曲线间或直线与直线间的圆曲线段。
+
+### 3.12 
+
+## 坡段 grade section
+
+线路纵断面上两相邻变坡点间的线段。
+
+### 3.13 
+
+## 限制坡度 ruling gradient
+
+单机牵引的货物列年以规定的牵引质量在上坡道上以计算速度做等速运行时的坡度。
+
+### 3.14 
+
+## 最大坡度 maximum gradient
+
+一条铁路上所限定的最大设计坡度。
+
+### 3.15 
+
+## 加力坡 help gradient
+
+适用于两台或多台机车牵引的大于限制坡度的坡度。
+
+### 3.16 
+
+## 变坡点 break in grade; point of gradient change
+
+线路纵断面两个相邻坡段的连接点。
+
+### 3.17 
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_572_1240_611_1279.jpg" alt="Image" width="3%" /></div>
+
+
+## 坡度差 algebraic difference between adjacent gradients
+
+两相邻坡段的坡度代数差。
+
+### 3.18 
+
+## 竖曲线 vertical curve
+
+线路变坡处设置的坚向曲线。
+
+### 3.19 
+
+## 曲线超高 curve superelevation
+
+为平衡列年通过曲线时所产生的离心力，使曲线地段外股钢轨高于内股钢轨的加高值。
+
+### 3.20 
+
+## 均衡超高 superelevation balanced
+
+按通过曲线的各次列车质量加权的均方根速度的计算出的超高值。
+
+### 3.21 
+
+## 过超高 superelevation excess
+
+按列车通过曲线的速度计算所得超高小于实设超高的差值。
+
+### 3.22 
+
+## 欠超高 superelevation deficiency
+
+按列车通过曲线的速度计算所得超高大于实设超高的差值。
+
+## 4 轨道结构与部件
+
+### 4.1 
+
+## 轨道 track
+
+由钢轨、配件、扣件、道岔及轨下基础等组成的工程结构，用于列车通行。
+
+### 4.2 
+
+## 轨道类型 track types
+
+根据通过总重、设计速度划分的不同轨道等级。
+
+注：轨道类型包括特重型、重型、次重型、中型和轻型轨道。
+
+### 4.3 
+
+## 有砟轨道 ballasted track
+
+采用轨枕及碎石等散粒体为轨下基础的轨道。
+
+### 4.4 
+
+## 无砟轨道 ballastless track
+
+轨下基础为混凝土等整体道床结构的轨道。
+
+### 4.5 
+
+## 轨排 track panel
+
+用扣件将两股钢轨和轨枕联结在一起的结构。
+
+### 4.6 
+
+## 轨距 track gauge
+
+钢轨头部踏面下  $ 16 \, mm $  处两股内侧工作边之间的距离。
+
+### 4.7 
+
+## 轨距加宽 gauge widening
+
+曲线地段、道岔等部位按规定要求相对于标准轨距1435 mm的加宽值。
+
+### 4.8 
+
+## 钢轨 rail
+
+用钢轧制的一定长度的工字形断面型钢，是直接支承和引导车轮的构件。
+
+注：钢轨包括  $ 75 \, kg/m $ ， $ 60 \, kg/m $  及  $ 50 \, kg/m $  等类型。
+
+### 4.9 
+
+## 标准长度钢轨 standard length rail
+
+由钢厂轧制，长度为  $ 100 \, m $ 、 $ 75 \, m $ 、 $ 50 \, m $ 、 $ 25 \, m $  或  $ 12.5 \, m $  等规格的制轨。
+
+### 4.10 
+
+## 缩短轨 shortened rail
+
+用于曲线内股短于标准长度的钢轨。
+
+### 4.11 
+
+## 异形钢轨 compromise rail
+
+整根钢轨两端为不同断面尺寸的钢轨。
+
+### 4.12 
+
+## 护轨 guard rail; check rail
+
+为防止列车脱轨后发生翻车，设置在钢轨内侧不承受车轮垂直荷载的钢轨。
+
+### 4.13 
+
+## 轨底坡 rail cant; rail inclination
+
+钢轨底面对轨枕顶面的倾斜度。
+
+注：也称内倾度。
+
+### 4.14 
+
+## 钢轨工作边 gauge face of rail
+
+钢轨头部一侧与车轮轮缘或轮背相接触的一边。
+
+### 4.15 
+
+## 轨缝 rail joint gap
+
+钢轨接头处相邻两轨端之间的间隙。
+
+### 4.16 
+
+接头夹板 joint bar; splice bar; fish plate
+
+钢轨接头处连接钢轨用的夹板。
+
+### 4.17 
+
+## 异形接头夹板 compromise joint bar
+
+用于联接两个不同断面钢轨的接头夹板。
+
+### 4.18 
+
+## 钢轨接头 rail joint
+
+两根钢轨相连接的部分。
+
+注：钢轨接头根据其连接方式，有夹板接头、焊接接头、胶接接头和冻结接头。
+
+### 4.19 
+
+## 绝缘接头 insulated joint
+
+用绝缘材料隔断轨道电流的钢轨接头。
+
+### 4.20 
+
+## 胶接接头 glued insulated joint
+
+用胶粘方式胶接的钢轨接头。
+
+### 4.21 
+
+## 焊接接头 welded joint
+
+将两钢轨端头用焊接连接的制轨接头。
+
+### 4.22 
+
+## 冻结接头 frozen joint
+
+通过提高接头阻力，阻止轨缝变化的钢轨接头。
+
+### 4.23 
+
+## 异形接头 compromise joint
+
+用异形接头夹板连接两种不同钢轨断面的接头。
+
+### 4.24 
+
+## 钢轨伸缩调节器 rail expansion joint
+
+由基本轨、尖轨、扣件系统、轨枕等部件组成，通过基本轨与尖轨之间的纵向相对位移，大幅减少桥梁与无缝线路纵向相互作用力的轨道设备。
+
+### 4.25 
+
+## 接头螺栓 joint bolt; fish bolt
+
+连接钢轨接头使用的螺栓。
+
+### 4.26 
+
+## 扣件系统 fastening system
+
+将钢轨固定于支承结构上的轨道部件组合。
+
+注：扣件系统功能是保持钢轨位置、传递列车荷载到支承结构，同时允许钢轨产生一定位移和转动，并提供轨道绝缘。
+
+### 4.27 
+
+## 扣压件 clip
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_555_678_593_712.jpg" alt="Image" width="3%" /></div>
+
+
+扣压钢轨的部件。
+
+### 4.28 
+
+## 弹性扣件 elastic rail fastenings
+
+扣件中的扣压件为弹性结构，以长期保持规定扣压力。
+
+### 4.29 
+
+## 不分开式扣件 direct fastenings
+
+通过或不通过铁垫板直接把钢轨固定于支承结构上的扣件。
+
+### 4.30 
+
+## 分开式扣件 indirect fastenings
+
+将钢轨独立固定在铁垫板上，铁垫板固定在支承结构上的扣件。
+
+### 4.31 
+
+## 道钉 track spike
+
+用于木枕结构，扣压钢轨、固定轨下铁垫板的扣件联接件。
+
+### 4.32 
+
+## 螺纹道钉 screw spike
+
+圆杆带螺纹，采用螺栓、螺母、垫圈方式的扣件联接件。
+
+### 4.33 
+
+## 铁垫板 baseplate
+
+支承钢轨并被固定于支承结构上的非弹性部件。
+
+### 4.34 
+
+## 铁垫板下垫层 baseplate pad
+
+铺设在铁垫板和轨枕之间的非金属垫。
+
+### 4.35 
+
+## 轨下垫板 rail pad
+
+铺设在钢轨和铁垫板之间或钢轨和轨枕之间的非金属垫。
+
+### 4.36 
+
+## 轨撑 rail brace
+
+防止钢轨倾覆，保持轨距和轨底坡的轨道部件。
+
+### 4.37 
+
+## 轨距拉杆 gauge rod; gauge bar
+
+连接两股钢轨底部保持轨距的轨道部件。
+
+### 4.38 
+
+## 轨枕 sleeper; tie
+
+支承钢轨、保持轨距，自钢轨向道床传递荷载的轨道部件。
+
+### 4.39 
+
+## 木枕 wooden sleeper; wooden tie
+
+木质材料制作的轨枕。
+
+### 4.40 
+
+## 混凝土枕 concrete sleeper; concrete tie
+
+用钢筋混凝土材料制作的轨枕。
+
+### 4.41 
+
+## 岔枕 switch sleeper
+
+道岔用的轨枕。
+
+### 4.42 
+
+## 桥枕 bridge sleeper
+
+铺设在桥上轨道结构的轨枕，包括木桥枕和混凝土桥枕。
+
+### 4.43 
+
+## 道床 ballast bed
+
+支承和固定轨枕，并将其荷载传递至路基面的轨道组成部分。
+
+### 4.44 
+
+## 道砟 ballast
+
+用于铺设有砟轨道道床的散粒体集料，包括碎石、卵石、矿渣、砂等。
+
+### 4.45 
+
+## 道床厚度 ballast thickness
+
+道砟层自枕底至基床表层顶面的厚度(曲线地段以内轨为准)。
+
+### 4.46 
+
+## 板式无砟轨道 slab track
+
+将预制的轨道板铺设在现浇的底座或支承层上的无砟轨道结构。
+
+### 4.47 
+
+## 双块式无砟轨道 bi-block ballastless track
+
+以现场浇筑混凝土方式将预制的双块式轨枕浇入或通过机械振动法嵌入均匀连续的钢筋混凝土道床内，并适应ZPW-2000轨道电路的无砟轨道结构形式。
+
+### 4.48 
+
+## 轨枕埋入式无砟轨道 ballastless track with embedded sleeper
+
+以预制的混凝土岔（轨）枕组装成标准轨排，现场浇入混凝土上形成均匀连续的钢筋混凝土道床，并适应ZPW-2000轨道电路的无砟轨道结构形式。
+
+### 4.49 
+
+轨道板 track slab
+
+预制的钢筋混凝土板或预应力钢筋混凝土板。
+
+### 4.50 
+
+双块式轨枕 bi-block sleeper
+
+采用钢筋桁架连接的两个混凝土支承块而形成的轨枕。
+
+### 4.51 
+
+混凝土道床板 concrete track bed
+
+现场浇筑的埋设双块式轨枕或混凝土岔枕的整体制筋混凝土层。
+
+### 4.52 
+
+混凝土底座 concrete base
+
+现场浇筑的用于支承轨道板或道床板和双块式道床板的钢筋混凝土基础。
+
+### 4.53 
+
+## 水硬性材料支承层 hydraulic supporting layer
+
+在现场摊铺或浇筑的用于在路基表层上支承双块式道床板或轨道板的水硬性材料基础。
+
+### 4.54 
+
+## 凸形挡台 concrete stopper
+
+设在 CRTSI 型板式无砟轨道轨道板两端的圆形或半圆形钢筋混凝土挡台，是 CRTSI 型板式无砟轨道重要的传力结构。
+
+### 4.55 
+
+水泥沥青砂浆 cement asphalt mortar
+
+现场灌注于轨道板和混凝土底座或水硬性材料支承层之间的调整层材料，是由乳化沥青、水泥、细骨料、水和外加剂经特定工艺搅拌制得的具有特定性能的砂浆。
+
+## 5 无缝线路
+
+### 5.1 
+
+## 无缝线路 continuously welded rail（CWR）track
+
+钢轨连续焊接或胶接超过两个伸缩区长度的轨道。
+
+### 5.2 
+
+长轨条 long rail string
+
+无缝线路始终点之间钢轨所形成的轨条。
+
+### 5.3 
+
+## 固定区 deformation free zone in CWR
+
+温度应力式无缝线路锁定后，当轨温变化时，钢轨不产生纵向位移、但产生纵向力的区段。
+
+### 5.4 
+
+## 伸缩区 breathing zone in CWR
+
+温度应力式无缝线路锁定后，当轨温变化时，钢轨产生一定的纵向位移并放散温度力的区段。
+
+### 5.5 
+
+缓冲区 buffer zone in CWR
+
+在长轨条间或长轨条与其他轨道结构之间，由2根～4根标准长度钢轨及夹板接头组成的区域。
+
+### 5.7 
+
+### 5.6 
+
+跨区间无缝线路 trans-sectional continuously welded rail
+
+长轨条长度跨越两个或更多区间，且车站正线上采用无缝道岔的无缝线路。
+
+钢轨温度 rail temperature
+
+钢轨截面平均温度。
+
+### 5.8 
+
+最高轨温 highest rail temperature
+
+当地有历史记录以来的最高气温加  $ 20^{\circ}C $ 。
+
+### 5.9 
+
+最低轨温 lowest rail temperature
+
+当地有历史记录以来的最低气温。
+
+5.10
+
+允许降温幅度 allowable temperature drop range in CWR
+
+无缝线路允许承受的最大降温幅值，其值由强度检算及缓冲区允许轨缝的检算确定。
+
+### 5.11 
+
+允许升温幅度 allowable temperature rise range in CWR
+
+无缝线路允许承受的最大升温幅值，其值由稳定性检算确定。
+
+5.12
+
+锁定轨温 fastening down temperature
+
+根据气象资料和无缝线路允许温升、允许温降计算确定的无缝线路锁定轨温。
+
+5.13
+
+中和轨温 neutral temperature
+
+根据气象资料和无缝线路允许升温幅度、允许降温幅度计算的无缝线路锁定轨温。
+
+### 5.14 
+
+道床纵向阻力 longitudinal ballast resistance
+
+轨枕在道床中纵向位移时，道床对轨枕所产生的抵抗力。
+
+### 5.15 
+
+道床横向阻力 lateral ballast resistance
+
+轨枕在道床中横向位移时，道床对轨枕所产生的抵抗力。
+
+### 5.16 
+
+钢轨接头阻力 rail joint resistance
+
+接头夹板及其连接零件抵抗钢轨纵向位移的阻力。
+
+### 5.17 
+
+无缝线路稳定性 stability of CWR
+
+在温度压力和其他因素作用下，无缝线路抵抗胀轨、保持原有稳定状态的能力。
+
+### 5.18 
+
+临界温度力 critical force in CWR
+
+无缝线路处于稳定与不稳定的临界状态下所具有的温度力。
+
+### 5.19 
+
+伸缩力 force due to the thermal expansion of the deck
+
+因温度变化引起桥梁与长钢轨纵向相对位移而产生的纵向力。
+
+### 5.20 
+
+挠曲力 force due to the bridge bending under vertical traffic loads
+
+在列车荷载作用下，桥梁挠曲引起梁轨纵向相对位移而产生的纵向力。
+
+### 5.21 
+
+断轨力 force acting on the bridge due to breaking of the CWR
+
+因长钢轨折断引起桥梁与长钢轨纵向相对位移而产生的纵向力。
+
+### 5.22 
+
+制动力 braking force of train
+
+运行的列车制动时，对轨下结构产生的与运动方向相同的水平力。
+
+### 5.23 
+
+放散应力 de-stressing in the CWR
+
+解除无缝线路的锁定状态，采用自然或强制方法，使长轨条伸长或缩短，以减小或消除温度力。 $ ^{*} $ 注：又称应力放散。
+
+### 5.24 
+
+联合接头 field welded joint of rail
+
+在工地上，对厂焊长钢轨进行焊接的接头。
+
+### 5.25 
+
+无缝道岔 gapless (welded or glued) turnout
+
+对钢轨接头进行焊接、胶接或冻接的道岔。
+
+### 5.26 
+
+纵向位移观测桩 longitudinal displacement monitoring post
+
+观测无缝线路纵向位移的基准桩。
+
+## 6 轨道检查
+
+### 6.1 
+
+轨道不平顺 track irregularity
+
+轨道几何尺寸相对于设计位置的偏差，主要包括方向、高低、水平和轨距等。
+
+### 6.2 
+
+静态不平顺 irregularity of unloaded track; irregularity without load 无列车荷载时的轨道不平顺。
+
+### 6.3 
+
+动态不平顺 irregularity of track under train load
+
+在列车动荷载作用下的轨道不平顺。
+
+### 6.4 
+
+水平 cross level of track
+
+左右两股钢轨面的水平偏差。
+
+### 6.5 
+
+方向 alignment of track
+
+沿线路纵向，钢轨工作边在水平面上的平面位置偏差。
+
+### 6.6 
+
+## 高低 profile
+
+沿线路纵向，钢轨轨面在垂直面上的高低位置偏差。
+
+### 6.7 
+
+## 扭曲 twist of track
+
+沿线路纵向在规定距离的两端所测得的水平偏差的差值。
+
+### 6.8 
+
+## 轨道质量指数 track quality index; TQI
+
+用单元区段上轨道的高低、轨向、轨距、水平、扭曲偏差的标准偏差，综合评定轨道几何状态的指标。
+
+### 6.9 
+
+## 轨道检查车 track recording car
+
+在专用车体上安装各种传感器，采用计算机技术实时检测轨道动态不平顺，自动存储、显示、打印波形、报表。
+
+### 6.10 
+
+## 综合检测列车 comprehensive testing train
+
+一种大型、综合、高速的现代铁路高技术检测系统，在自带动力、固定编组的多辆车体上安装各类传感器，实现轨道几何状态、轮轨相互作用、接触网、通信信号、环境监视等多专业检测系统集成，对铁路各种基础设施设备状态进行时间、空间上的同步实时检测。
+
+### 6.11 
+
+## 轨道检查仪 track measurement instrument
+
+以人工推行的轨道小车为载体，能自动检测静态轨道几何状态。
+
+### 6.12 
+
+## 基桩控制网 base-pile control points Ⅲ ; CP Ⅲ
+
+是无砟轨道铺设和运营维护的基准。
+
+### 6.13 
+
+## 维护基桩 maintenance benchmark
+
+在基桩控制网基础上测设，为无砟轨道养护维修提供永久性基准点。
+
+### 6.14 
+
+## 空吊板 suspended sleeper; empty sleeper
+
+在无列车荷载时，轨枕与钢轨或道床之间的存在空隙的状态。
+
+### 6.15 
+
+## 翻浆冒泥 mud-pumping
+
+在环境和动荷载作用下，路基或道床内的石粉、泥土等污染物在动荷载作用下从道床内冒出泥浆的现象。
+
+### 6.16 
+
+## 低接头 depressed joint
+
+在接头区，钢轨顶面第低凹值超过规定值的钢轨接头。
+
+### 6.17 
+
+## 爬行 rail creeping
+
+钢轨纵向阻力难以克服温度力和列车纵向力时，沿线路纵向移动的现象。
+
+### 6.18 
+
+## 瞎缝 closed joint
+
+钢轨爬行所产生的夹板式钢轨接头处轨端顶死无空隙的现象。
+
+### 6.19 
+
+## 胀轨跑道 track buckling
+
+钢轨受过大温差变化而发生的轨道横向鼓出变形(胀轨)直到突发大变形(跑道)的现象。
+
+### 6.20 
+
+## 钢轨伤损 rail defect
+
+钢轨在使用过程中偏离规定的技术标准，承载力减弱的现象，包括折损、裂纹、暗伤、擦伤、压溃及超限的磨耗、锈蚀、剥离等缺陷。
+
+### 6.21 
+
+## 钢轨磨耗 rail wear
+
+钢轨轨头在车轮的作用下产生的损耗的现象，包含轨头垂直磨耗、侧面磨耗和波浪形磨耗等类型。
+
+## 7 线路作业
+
+### 7.1 
+
+## 线路大修 major repair; overhaul
+
+为提高轨道承载力和技术状态所进行的线路修理，分为普通线路换轨大修和无缝线路换轨大修。
+
+### 7.2 
+
+## 线路中修 intermediate repair of track
+
+在线路大修周期内，为重点恢复轨道弹性所进行的线路修理。
+
+### 7.3 
+
+## 维修 maintenance of track
+
+对线路状态进行恢复性修理，一般包括综合维修、经常保养、临时补修。
+
+### 7.4 
+
+## 天窗 maintenance window
+
+在列车运行图中，对区间或车站因施工或维修不放行运营列车的时间。
+
+### 7.5 
+
+## 起道 raising of track
+
+抬高轨面调整水平、高低和线路纵断面。
+
+### 7.6 
+
+## 拨道 track lining
+
+调整线路方向。
+
+### 7.7 
+
+## 改道 gauge correction; gauging of track
+
+改正轨距。
+
+### 7.8 
+
+## 整正曲线 curve adjusting ; curve lining
+
+整正曲线方向，恢复轨道的圆顺性。
+
+### 7.9 
+
+钢轨修理性打磨 corrective grinding
+
+打磨钢轨，减缓或消除钢轨表面出现的伤损，恢复钢轨顶面形态。
+
+### 7.10 
+
+钢轨预防性打磨 preventive grinding
+
+为提高轨面的平顺度、延长钢轨使用寿命，对轨面进行的周期性打磨。
+
+### 7.11 
+
+矫直钢轨 straightening of kinked rail
+
+矫正钢轨的硬弯部分。
+
+### 7.12 
+
+方正轨枕 sleeper aligning; correction of skewed sleeper
+
+将轨枕移动到正确的位置上。
+
+### 7.13 
+
+捣固道床 tamping
+
+捣实轨枕下的道砟。
+
+### 7.14 
+
+清筛道床 ballast cleaning
+
+筛除道床内的脏污物质，恢复道床弹性，改善排水。
+
+### 7.15 
+
+整理道床 ballast trimming
+
+恢复道床的外形尺寸。
+
+## 索 引
+
+## 汉语拼音索引
+
+## B
+
+板式无砟轨道 …… 4.46    
+变坡点 …… 3.16    
+标准长度钢轨 …… 4.9    
+标准轨距铁路 …… 2.2    
+拨道 …… 7.6    
+不分开式扣件 …… 4.29    
+  
+C    
+长轨条 …… 5.2    
+岔枕 …… 4.41    
+  
+D    
+单线 …… 2.10    
+捣固道床 …… 7.13    
+道床 …… 4.43    
+道床横向阻力 …… 5.15    
+道床厚度 …… 4.45    
+道床纵向阻力 …… 5.14    
+道钉 …… 4.31    
+道砟 …… 4.44    
+低接头 …… 6.16    
+动态不平顺 …… 6.3    
+冻结接头 …… 4.22    
+断轨力 …… 5.21    
+  
+F    
+翻浆冒泥 …… 6.15    
+反向曲线 …… 3.8    
+方向 …… 6.5    
+方正轨枕 …… 7.12    
+放散应力 …… 5.23    
+分开式扣件 …… 4.30    
+复曲线 …… 3.7
+
+## G
+
+改道 …… 7.7    
+钢轨 …… 4.8    
+钢轨工作边 …… 4.14    
+钢轨接头 …… 4.18    
+钢轨接头阻力 …… 5.16    
+钢轨磨耗 …… 6.21    
+钢轨伤损 …… 6.20    
+钢轨伸缩调节器 …… 4.24    
+钢轨温度 …… 5.7    
+钢轨修理性打磨 …… 7.9    
+钢轨预防性打磨 …… 7.10    
+高低 …… 6.6    
+固定区 …… 5.3    
+轨撑 …… 4.36    
+轨道 …… 4.1    
+轨道板 …… 4.49    
+轨道不平顺 …… 6.1    
+轨道检查车 …… 6.9    
+轨道检查仪 …… 6.11    
+轨道类型 …… 4.2    
+轨道质量指数 …… 6.8    
+轨底坡 …… 4.13    
+轨缝 …… 4.15    
+轨距 …… 4.6    
+轨距加宽 …… 4.7    
+轨距拉杆 …… 4.37    
+轨排 …… 4.5    
+轨下垫板 …… 4.35    
+轨枕 …… 4.38    
+轨枕埋入式无砟轨道 …… 4.48    
+过超高 …… 3.21    
+H    
+焊接接头 …… 4.21
+
+护轨 …… 4.12 扭曲 …… 6.7  
+缓冲区 …… 5.5 P  
+缓和曲线 …… 3.9  
+混凝土道床板 …… 4.51 爬行 …… 6.17  
+混凝土底座 …… 4.52 平面交叉 …… 2.16  
+混凝土枕 …… 4.40 平面线形 …… 3.3  
+货运专线铁路 …… 2.6 坡度差 …… 3.17  
+J …… 3.12  
+基桩控制网 …… 6.12  
+加力坡 …… 3.15 欠超高 …… 3.22  
+夹圆线 …… 3.11 桥枕 …… 4.42  
+夹直线 …… 3.10 起道 …… 7.5  
+建筑限界 …… 2.14 清筛道床 …… 7.14  
+胶接接头 …… 4.20 曲线超高 …… 3.19  
+矫直钢轨 …… 7.11  
+接头夹板 …… 4.16  
+接头螺栓 …… 4.25 伸缩力 …… 5.19  
+静态不平顺 …… 6.2 伸缩区 …… 5.4  
+绝缘接头 …… 4.19 竖曲线 …… 3.18  
+均衡超高 …… 3.20 双块式轨枕 …… 4.50  
+K …… 4.47  
+双线 …… 2.11  
+客货共线铁路 …… 2.5 水泥沥青砂浆 …… 4.55  
+空吊板 …… 6.14 水平 …… 6.4  
+扣件系统 …… 4.26 水硬性材料支承层 …… 4.53  
+扣压件 …… 4.27 缩短轨 …… 4.10  
+跨区间无缝线路 …… 5.6 锁定轨温 …… 5.12  
+宽轨距铁路 …… 2.3  
+L …… 4.28  
+立体交叉 …… 2.17 弹性扣件 …… 4.28  
+联合接头 …… 5.24 铁垫板 …… 4.33  
+联络线 …… 2.9 铁垫板下垫层 …… 4.34  
+临界温度力 …… 5.18 凸形挡台 …… 4.54  
+螺纹道钉 …… 4.32 天窗 …… 7.4  
+M …… W  
+木枕 …… 4.39 维护基桩 …… 6.13  
+N …… 7.3  
+无缝道路 …… 5.25  
+无缝线路 …… 5.1  
+挠曲力 …… 5.20 无缝线路稳定性 …… 5.17
+
+无砟轨道 …… 4.4 圆曲线 …… 3.6  
+X 允许降温幅度 …… 5.10  
+允许升温幅度 …… 5.11  
+  
+瞎缝 …… 6.18  
+限制坡度 …… 3.13  
+线间距 …… 2.13  
+线路 …… 2.1  
+线路标志 …… 2.15  
+线路大修 …… 7.1  
+线路平面 …… 3.2  
+线路中心线 …… 2.12  
+线路中修 …… 7.2  
+线路纵断面 …… 3.4  
+线形 …… 3.1  
+Y 纵向位移观测桩 …… 5.26  
+综合检测列车 …… 6.10  
+异形钢轨 …… 4.11  
+异形接头 …… 4.23  
+异形接头夹板 …… 4.17  
+有砟轨道 …… 4.3
+
+英文对应词索引
+
+## A
+
+alignment of track …… 6.5  
+algebraic difference between adjacent gradients …… 3.17  
+allowable temperature drop range in CWR …… 5.10  
+allowable temperature rise range in CWR …… 5.11
+
+## B
+
+ballast …… 4.44  
+ballast bed …… 4.43  
+ballast cleaning …… 7.14  
+ballast thickness …… 4.45  
+ballast trimming …… 7.15  
+ballasted track …… 4.3  
+ballastless track …… 4.4  
+ballastless track with embedded sleeper …… 4.48  
+base-pile control points Ⅲ …… 6.12  
+baseplate …… 4.33
+
+baseplate pad 4.34  
+bi-block ballastless track 4.47  
+bi-block sleeper 4.50  
+braking force of train 5.22  
+break in grade 3.16  
+breathing zone in CWR 5.4  
+bridge sleeper 4.42  
+broad gauge railway 2.3  
+buffer zone in CWR 5.5  
+C  
+cement asphalt mortar 4.55  
+centre line of track 2.12  
+check rail 4.12  
+circular curve 3.6  
+clip 4.27  
+closed joint 6.18  
+compound curve 3.7  
+comprehensive testing train 6.10  
+compromise joint 4.23  
+compromise joint bar 4.17  
+compromise rail 4.11  
+concrete base 4.52  
+concrete sleeper 4.40  
+concrete stopper 4.54  
+concrete tie 4.40  
+concrete track bed 4.51  
+connecting line 2.9  
+continuously welded rail (CWR) track 5.1  
+correction of skewed steeper 7.12  
+corrective grinding 7.9  
+CPⅢ 6.12  
+critical force in CWR 5.18  
+cross level of track 6.4  
+curve adjusting 7.8  
+curve lining 7.8  
+curve superelevation 3.19  
+D  
+deformation free zone in CWR 5.3  
+depressed joint 6.16
+
+de-stressing in the CWR ..... 5.23  
+direct fastenings ..... 4.29  
+distance between centre lines of tow neighboring track ..... 2.13  
+double line ..... 2.11  
+double track ..... 2.11  
+E  
+elastic rail fastenings ..... 4.28  
+empty sleeper ..... 6.14  
+F  
+fastening down temperature ..... 5.12  
+fastening system ..... 4.26  
+field welded joint of rail ..... 5.24  
+fish plate ..... 4.16  
+fish bolt ..... 4.25  
+force due to the thermal expansion of the deck ..... 5.19  
+force due to the bridge bending under vertical traffic loads ..... 5.20  
+force acting on the bridge due to breaking of the CWR ..... 5.21  
+freight dedicated lines ..... 2.6  
+frozen joint ..... 4.22  
+G  
+gapless (welded or glued) turnout ..... 5.25  
+gauge correction ..... 7.7  
+gauge face of rail ..... 4.14  
+gauge rod ..... 4.37  
+gauge bar ..... 4.37  
+gauge widening ..... 4.7  
+gauging of track ..... 7.7  
+glued insulated joint ..... 4.20  
+grade crossing ..... 2.16  
+grade section ..... 3.12  
+grade separation ..... 2.17  
+guard rail ..... 4.12  
+H  
+help gradient ..... 3.15  
+highest rail temperature ..... 5.8  
+horizontal alignment ..... 3.3  
+hydraulic supporting layer ..... 4.53
+
+indirect fastenings 4.30  
+insulated joint 4.19  
+intermediate circular curve 3.11  
+intermediate repair of track 7.2  
+intermediate straight line 3.10  
+irregularity of track under train load 6.3  
+irregularity of unloaded track 6.2  
+irregularity without load 6.2  
+  
+J  
+joint bar 4.16  
+joint bolt 4.25  
+  
+L  
+lateral ballast resistance 5.15  
+level crossing 2.16  
+long rail string 5.2  
+longitudinal ballast resistance 5.14  
+longitudinal displacement monitoring post 5.26  
+lowest rail temperature 5.9  
+  
+M  
+main line 2.7  
+maintenance benchmark 6.13  
+maintenance of track 7.3  
+maintenance window 7.4  
+major repair 7.1  
+maximum gradient 3.14  
+mixed passenger and freight railway 2.5  
+mud-pumping 6.15  
+  
+N  
+narrow gauge railway 2.4  
+neutral temperature 5.13  
+  
+O  
+overhaul 7.1  
+  
+P  
+permanent way 2.1
+
+permanent way signs 2.15  
+plan of railway line 3.2  
+point of gradient change 3.16  
+preventive grinding 7.10  
+profile of railway line 3.4  
+profile 6.6
+
+## R
+
+rail ..... 4.8  
+rail brace ..... 4.36  
+rail cant ..... 4.13  
+rail creeping ..... 6.17  
+rail defect ..... 6.20  
+rail expansion joint ..... 4.24  
+rail inclination ..... 4.13  
+rail joint ..... 4.18  
+rail joint gap ..... 4.15  
+rail joint resistance ..... 5.16  
+rail pad ..... 4.35  
+rail temperature ..... 5.7  
+rail wear ..... 6.21  
+railway alignment ..... 3.1  
+raising of track ..... 7.5  
+reverse curve ..... 3.8  
+ruling gradient ..... 3.13
+
+## S
+
+screw spike …… 4.32    
+single line …… 2.10    
+single track …… 2.10    
+shortened rail …… 4.10    
+slab track …… 4.46    
+sleeper aligning …… 7.12    
+sleeper …… 4.38    
+splice bar …… 4.16    
+stability of CWR …… 5.17    
+standard gauge railway …… 2.2    
+standard length rail …… 4.9    
+station track …… 2.8    
+straightening of kinked rail …… 7.11    
+structure clearance …… 2.14
+
+superelevation balanced 3.20  
+superelevation deficiency 3.22  
+superelevation excess 3.21  
+suspended sleeper 6.14  
+switch sleeper 4.41  
+  
+T  
+tamping 7.13  
+tie 4.38  
+TQI 6.8  
+track 4.1  
+track buckling 6.19  
+track irregularity 6.1  
+track gauge 4.6  
+track lining 7.6  
+track measurement instrument 6.11  
+track panel 4.5  
+track quality index 6.8  
+track recording car 6.9  
+track slab 4.49  
+track spike 4.31  
+track types 4.2  
+transition curve 3.9  
+trans-sectional continuously welded rail 5.6  
+twist of track 6.7  
+  
+V  
+vertical alignment 3.5  
+vertical curve 3.18  
+  
+W  
+welded joint 4.21  
+wooden sleeper 4.39  
+wooden tie 4.39
