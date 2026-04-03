@@ -1,0 +1,1029 @@
+{
+  "_metadata": {
+    "createdBy": "AI Assistant",
+    "createdDate": "2026-04-03",
+    "description": "Trip to China - Comprehensive Travel Guide for International Friends. Bilingual: English & Chinese (中文)"
+  },
+  "title": "Trip to China - Travel Guide / 中国旅行指南",
+  "version": "1.0.0",
+  "lastUpdated": "2026-04-03",
+  "language": "en-CN",
+  "description": "A comprehensive travel guide for friends around the world planning a trip to China. Prepared by a local expert with bilingual knowledge.",
+  "descriptionCn": "为来自世界各地的朋友们准备的中国旅行综合指南。由本地专家以双语知识编写。",
+
+  "A_visaInfo": {
+    "title": "Visa Information / 签证信息",
+    "titleCn": "签证信息",
+    "expertTip": "China has significantly expanded its visa-free policies since 2023. Always check the latest policy before your trip, as changes happen frequently. The 144-hour transit visa exemption is one of the most generous policies — plan your itinerary to take advantage of it!",
+    "expertTipCn": "自2023年以来，中国大幅扩大了免签政策。出行前务必查看最新政策，因为变化频繁。144小时过境免签是最宽松的政策之一——合理规划行程以充分利用！",
+
+    "entryPorts": {
+      "title": "Major Entry Ports / 主要入境口岸",
+      "titleCn": "主要入境口岸",
+      "airports": [
+        {
+          "cityEn": "Beijing",
+          "cityCn": "北京",
+          "airportCode": "PEK",
+          "airportName": "Beijing Capital International Airport / 北京首都国际机场",
+          "notes": "Primary international gateway to northern China"
+        },
+        {
+          "cityEn": "Beijing",
+          "cityCn": "北京",
+          "airportCode": "PKX",
+          "airportName": "Beijing Daxing International Airport / 北京大兴国际机场",
+          "notes": "New mega-airport, serves both domestic and international flights"
+        },
+        {
+          "cityEn": "Shanghai",
+          "cityCn": "上海",
+          "airportCode": "PVG",
+          "airportName": "Shanghai Pudong International Airport / 上海浦东国际机场",
+          "notes": "Largest international hub in China, excellent for 144-hour transit visa"
+        },
+        {
+          "cityEn": "Shanghai",
+          "cityCn": "上海",
+          "airportCode": "SHA",
+          "airportName": "Shanghai Hongqiao International Airport / 上海虹桥国际机场",
+          "notes": "Mainly domestic but some regional international flights"
+        },
+        {
+          "cityEn": "Guangzhou",
+          "cityCn": "广州",
+          "airportCode": "CAN",
+          "airportName": "Guangzhou Baiyun International Airport / 广州白云国际机场",
+          "notes": "Major hub for southern China and Southeast Asia connections"
+        },
+        {
+          "cityEn": "Shenzhen",
+          "cityCn": "深圳",
+          "airportCode": "SZX",
+          "airportName": "Shenzhen Bao'an International Airport / 深圳宝安国际机场",
+          "notes": "Gateway to Hong Kong border crossing, tech capital of China"
+        },
+        {
+          "cityEn": "Chengdu",
+          "cityCn": "成都",
+          "airportCode": "CTU",
+          "airportName": "Chengdu Tianfu International Airport / 成都天府国际机场",
+          "notes": "Gateway to western China, pandas, Sichuan cuisine"
+        },
+        {
+          "cityEn": "Hangzhou",
+          "cityCn": "杭州",
+          "airportCode": "HGH",
+          "airportName": "Hangzhou Xiaoshan International Airport / 杭州萧山国际机场",
+          "notes": "Near Shanghai, access to West Lake and tech hub"
+        },
+        {
+          "cityEn": "Xi'an",
+          "cityCn": "西安",
+          "airportCode": "XIY",
+          "airportName": "Xi'an Xianyang International Airport / 西安咸阳国际机场",
+          "notes": "Ancient capital, Terracotta Warriors, starting point of Silk Road"
+        },
+        {
+          "cityEn": "Kunming",
+          "cityCn": "昆明",
+          "airportCode": "KMG",
+          "airportName": "Kunming Changshui International Airport / 昆明长水国际机场",
+          "notes": "Gateway to Yunnan province, spring city, ethnic diversity"
+        },
+        {
+          "cityEn": "Chongqing",
+          "cityCn": "重庆",
+          "airportCode": "CKG",
+          "airportName": "Chongqing Jiangbei International Airport / 重庆江北国际机场",
+          "notes": "Mountain city, hotpot capital, 144-hour transit visa eligible"
+        },
+        {
+          "cityEn": "Xiamen",
+          "cityCn": "厦门",
+          "airportCode": "XMN",
+          "airportName": "Xiamen Gaoqi International Airport / 厦门高崎国际机场",
+          "notes": "Coastal city, Fujian culture, 144-hour transit visa eligible"
+        },
+        {
+          "cityEn": "Qingdao",
+          "cityCn": "青岛",
+          "airportCode": "TAO",
+          "airportName": "Qingdao Jiaodong International Airport / 青岛胶东国际机场",
+          "notes": "Coastal city, beer capital, 144-hour transit visa eligible"
+        },
+        {
+          "cityEn": "Wuhan",
+          "cityCn": "武汉",
+          "airportCode": "WUH",
+          "airportName": "Wuhan Tianhe International Airport / 武汉天河国际机场",
+          "notes": "Central China hub, Yangtze River city, 144-hour transit visa eligible"
+        },
+        {
+          "cityEn": "Haikou",
+          "cityCn": "海口",
+          "airportCode": "HAK",
+          "airportName": "Haikou Meilan International Airport / 海口美兰国际机场",
+          "notes": "Hainan island, 30-day visa-free for 59 countries"
+        },
+        {
+          "cityEn": "Sanya",
+          "cityCn": "三亚",
+          "airportCode": "SYX",
+          "airportName": "Sanya Phoenix International Airport / 三亚凤凰国际机场",
+          "notes": "Hainan island beach resort, 30-day visa-free for 59 countries"
+        }
+      ],
+      "landPorts": [
+        {
+          "name": "Lo Wu / 罗湖",
+          "location": "Shenzhen-Hong Kong border",
+          "notes": "Busiest land crossing between Hong Kong and mainland China"
+        },
+        {
+          "name": "West Kowloon / 西九龙",
+          "location": "Hong Kong (high-speed rail station)",
+          "notes": "High-speed rail direct to mainland, co-location immigration"
+        },
+        {
+          "name": "Zhuhai Gongbei / 珠海拱北",
+          "location": "Zhuhai-Macau border",
+          "notes": "Main land crossing between Macau and mainland China"
+        },
+        {
+          "name": "Hekou / 河口",
+          "location": "Yunnan-Vietnam border",
+          "notes": "Popular for overland travel from Vietnam"
+        },
+        {
+          "name": "Manzhouli / 满洲里",
+          "location": "Inner Mongolia-Russia border",
+          "notes": "Major China-Russia land crossing"
+        },
+        {
+          "name": "Erlian / 二连浩特",
+          "location": "Inner Mongolia-Mongolia border",
+          "notes": "China-Mongolia railway crossing"
+        },
+        {
+          "name": "Ruili / 瑞丽",
+          "location": "Yunnan-Myanmar border",
+          "notes": "Border crossing to Myanmar"
+        }
+      ],
+      "seaPorts": [
+        {
+          "name": "Shanghai Port International Cruise Terminal / 上海吴淞口国际邮轮港",
+          "location": "Shanghai",
+          "notes": "Major cruise port on Yangtze River"
+        },
+        {
+          "name": "Tianjin International Cruise Port / 天津国际邮轮母港",
+          "location": "Tianjin",
+          "notes": "Gateway to Beijing by sea"
+        },
+        {
+          "name": "Shenzhen Shekou Cruise Port / 深圳蛇口邮轮母港",
+          "location": "Shenzhen",
+          "notes": "Cruise hub for south China"
+        },
+        {
+          "name": "Xiamen Cruise Port / 厦门国际邮轮中心",
+          "location": "Xiamen",
+          "notes": "Cruise port in Fujian province"
+        },
+        {
+          "name": "Sanya Phoenix Island Cruise Port / 三亚凤凰岛国际邮轮港",
+          "location": "Sanya, Hainan",
+          "notes": "Tropical cruise destination"
+        }
+      ]
+    },
+
+    "visaFreePolicies": {
+      "title": "Visa-Free Policies / 免签政策",
+      "titleCn": "免签政策",
+      "expertTip": "As of early 2026, China offers multiple visa-free entry options. The policies are frequently extended, so always verify with official sources. The visa-free entry is usually for tourism, business, visit, or transit purposes, and you'll need a valid passport, return/onward ticket, and proof of accommodation.",
+      "expertTipCn": "截至2026年初，中国提供多种免签入境选项。政策经常延长，请务必向官方渠道核实。免签入境通常适用于旅游、商务、探访或过境目的，需持有效护照、返程/续程机票和住宿证明。",
+
+      "unilateralVisaFree": {
+        "title": "Unilateral Visa-Free Entry / 单方面免签入境",
+        "titleCn": "单方面免签入境",
+        "description": "China allows passport holders from the following countries to enter without a visa for a specified duration. Policy has been repeatedly extended.",
+        "descriptionCn": "中国允许以下国家护照持有人免签入境一定期限。该政策已多次延长。",
+        "countries": [
+          { "country": "France", "countryCn": "法国", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times, likely to continue" },
+          { "country": "Germany", "countryCn": "德国", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times" },
+          { "country": "Italy", "countryCn": "意大利", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times" },
+          { "country": "Spain", "countryCn": "西班牙", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times" },
+          { "country": "Netherlands", "countryCn": "荷兰", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times" },
+          { "country": "Malaysia", "countryCn": "马来西亚", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times" },
+          { "country": "Switzerland", "countryCn": "瑞士", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times" },
+          { "country": "Ireland", "countryCn": "爱尔兰", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times" },
+          { "country": "Hungary", "countryCn": "匈牙利", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times" },
+          { "country": "Austria", "countryCn": "奥地利", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times" },
+          { "country": "Belgium", "countryCn": "比利时", "duration": "15 days", "validUntil": "2025-12-31", "note": "Extended multiple times" },
+          { "country": "Portugal", "countryCn": "葡萄牙", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Oct" },
+          { "country": "New Zealand", "countryCn": "新西兰", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024" },
+          { "country": "Australia", "countryCn": "澳大利亚", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024" },
+          { "country": "Poland", "countryCn": "波兰", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Jul" },
+          { "country": "Denmark", "countryCn": "丹麦", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Sep" },
+          { "country": "Norway", "countryCn": "挪威", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Sep" },
+          { "country": "South Korea", "countryCn": "韩国", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Nov" },
+          { "country": "Japan", "countryCn": "日本", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Nov" },
+          { "country": "Finland", "countryCn": "芬兰", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Oct" },
+          { "country": "Slovakia", "countryCn": "斯洛伐克", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Sep" },
+          { "country": "Luxembourg", "countryCn": "卢森堡", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Sep" },
+          { "country": "Liechtenstein", "countryCn": "列支敦士登", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Sep" },
+          { "country": "Monaco", "countryCn": "摩纳哥", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Sep" },
+          { "country": "Bulgaria", "countryCn": "保加利亚", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Sep" },
+          { "country": "Romania", "countryCn": "罗马尼亚", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Sep" },
+          { "country": "Croatia", "countryCn": "克罗地亚", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Sep" },
+          { "country": "Slovenia", "countryCn": "斯洛文尼亚", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Sep" },
+          { "country": "Greece", "countryCn": "希腊", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2025" },
+          { "country": "Cyprus", "countryCn": "塞浦路斯", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2025" },
+          { "country": "Thailand", "countryCn": "泰国", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024 Mar, mutual with China" },
+          { "country": "Singapore", "countryCn": "新加坡", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual 30-day visa-free since 2024 Feb" },
+          { "country": "Maldives", "countryCn": "马尔代夫", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Brunei", "countryCn": "文莱", "duration": "15 days", "validUntil": "2025-12-31", "note": "Added 2024" },
+          { "country": "Georgia", "countryCn": "格鲁吉亚", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Armenia", "countryCn": "亚美尼亚", "duration": "15 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Bahamas", "countryCn": "巴哈马", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Barbados", "countryCn": "巴巴多斯", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Belarus", "countryCn": "白俄罗斯", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Ecuador", "countryCn": "厄瓜多尔", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Fiji", "countryCn": "斐济", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Grenada", "countryCn": "格林纳达", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Serbia", "countryCn": "塞尔维亚", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Tonga", "countryCn": "汤加", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "UAE", "countryCn": "阿联酋", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Kazakhstan", "countryCn": "哈萨克斯坦", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Antigua and Barbuda", "countryCn": "安提瓜和巴布达", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" },
+          { "country": "Dominica", "countryCn": "多米尼克", "duration": "30 days", "validUntil": "Ongoing", "note": "Mutual visa-free" }
+        ]
+      },
+
+      "transitVisaExemption144h": {
+        "title": "144-Hour Transit Visa Exemption / 144小时过境免签",
+        "titleCn": "144小时过境免签",
+        "description": "Eligible foreigners from 54 countries can stay visa-free for up to 144 hours (6 days) when transiting through China to a third country.",
+        "descriptionCn": "来自54个国家的符合条件的外国人过境中国前往第三国时，可免签停留最多144小时（6天）。",
+        "eligibleRegions": [
+          { "region": "Beijing", "regionCn": "北京", "ports": ["PEK", "PKX"], "notes": "Can travel within Beijing, Tianjin, Hebei" },
+          { "region": "Shanghai", "regionCn": "上海", "ports": ["PVG", "SHA"], "notes": "Can travel within Shanghai, Jiangsu, Zhejiang" },
+          { "region": "Guangzhou", "regionCn": "广州", "ports": ["CAN"], "notes": "Can travel within Guangdong province" },
+          { "region": "Chengdu", "regionCn": "成都", "ports": ["CTU"], "notes": "Can travel within Chengdu, Leshan, Emeishan area" },
+          { "region": "Kunming", "regionCn": "昆明", "ports": ["KMG"], "notes": "Can travel within Yunnan province" },
+          { "region": "Xi'an", "regionCn": "西安", "ports": ["XIY"], "notes": "Can travel within Shaanxi province" },
+          { "region": "Chongqing", "regionCn": "重庆", "ports": ["CKG"], "notes": "Can travel within Chongqing municipality" },
+          { "region": "Xiamen", "regionCn": "厦门", "ports": ["XMN"], "notes": "Can travel within Fujian province" },
+          { "region": "Qingdao", "regionCn": "青岛", "ports": ["TAO"], "notes": "Can travel within Shandong province" },
+          { "region": "Wuhan", "regionCn": "武汉", "ports": ["WUH"], "notes": "Can travel within Hubei province" },
+          { "region": "Haikou", "regionCn": "海口", "ports": ["HAK", "SYX"], "notes": "Can travel within Hainan province" },
+          { "region": "Dalian", "regionCn": "大连", "ports": ["DLC"], "notes": "Can travel within Liaoning province" },
+          { "region": "Hangzhou", "regionCn": "杭州", "ports": ["HGH"], "notes": "Can travel within Zhejiang province" },
+          { "region": "Shenzhen", "regionCn": "深圳", "ports": ["SZX"], "notes": "Can travel within Guangdong province" },
+          { "region": "Nanjing", "regionCn": "南京", "ports": ["NKG"], "notes": "Can travel within Jiangsu province" }
+        ],
+        "eligibleCountriesCount": 54,
+        "eligibleCountriesNote": "Includes most EU countries, USA, Canada, Australia, Japan, South Korea, Russia, Brazil, Argentina, Mexico, and many others. Check official list for full details.",
+        "eligibleCountriesNoteCn": "包括大多数欧盟国家、美国、加拿大、澳大利亚、日本、韩国、俄罗斯、巴西、阿根廷、墨西哥等。查看官方列表了解完整详情。",
+        "requirements": [
+          "Valid passport with at least 6 months validity",
+          "Confirmed onward ticket to a third country (departure within 144 hours)",
+          "Entry and exit must be through one of the eligible ports",
+          "Cannot enter from the same country you are transiting to",
+          "Stay within the permitted region only"
+        ],
+        "requirementsCn": [
+          "有效期至少6个月的护照",
+          "确认前往第三国的续程机票（144小时内出发）",
+          "必须通过符合条件的口岸入境和出境",
+          "不能从你要过境前往的同一个国家入境",
+          "只能在允许的区域内停留"
+        ],
+        "expertTip": "The 144-hour policy is incredibly useful! For example, fly from Seoul to Shanghai, explore Shanghai-Hangzhou-Suzhou for 6 days, then fly to Tokyo. You get 6 days in China without any visa! Just show your onward ticket at immigration. Pro tip: print your onward ticket as backup even if it's electronic.",
+        "expertTipCn": "144小时政策非常实用！例如，从首尔飞到上海，在上海-杭州-苏州玩6天，然后飞往东京。无需签证就能在中国待6天！只需在入境时出示续程机票。专家贴士：即使是电子票也打印一份作为备份。"
+      },
+
+      "hainanVisaFree": {
+        "title": "Hainan 30-Day Visa-Free / 海南30天免签",
+        "titleCn": "海南30天免签",
+        "description": "Citizens of 59 countries can visit Hainan province visa-free for up to 30 days for tourism, business, family visit, medical treatment, or exhibitions.",
+        "descriptionCn": "59个国家的公民可免签前往海南省，停留最多30天，用于旅游、商务、探亲、医疗或展览。",
+        "validCountries": 59,
+        "note": "Hainan is China's tropical island paradise. Great for beaches, surfing, and tropical food. Fly into Haikou (HAK) or Sanya (SYX).",
+        "noteCn": "海南是中国的热带岛屿天堂。适合沙滩、冲浪和热带美食。飞抵海口(HAK)或三亚(SYX)。"
+      },
+
+      "visaApplicationTips": {
+        "title": "Visa Application Tips / 签证申请贴士",
+        "titleCn": "签证申请贴士",
+        "tips": [
+          {
+            "title": "Apply Early / 尽早申请",
+            "en": "Apply at least 1 month before your trip. Processing typically takes 4-5 business days, but can take longer during peak seasons.",
+            "cn": "出发前至少1个月申请。处理通常需要4-5个工作日，旺季可能更长。"
+          },
+          {
+            "title": "e-Visa / 电子签证",
+            "en": "China has been rolling out e-visa for many countries. Check if your country is eligible for the simplified online application at https://www.visaforchina.cn.",
+            "cn": "中国正在为许多国家推出电子签证。查看你的国家是否符合简化的在线申请条件 https://www.visaforchina.cn"
+          },
+          {
+            "title": "Invitation Letter / 邀请函",
+            "en": "For business visas, you need an invitation letter from a Chinese company. For tourist visas, hotel bookings and flight itinerary are sufficient.",
+            "cn": "商务签证需要中国公司的邀请函。旅游签证提供酒店预订和航班行程即可。"
+          },
+          {
+            "title": "Photo Requirements / 照片要求",
+            "en": "Provide a recent passport-style photo (33mm x 48mm, white background, no glasses). Some visa centers offer photo services.",
+            "cn": "提供近期护照照片（33mm x 48mm，白底，不戴眼镜）。部分签证中心提供拍照服务。"
+          }
+        ]
+      }
+    }
+  },
+
+  "B_appList": {
+    "title": "Essential Apps for China / 中国必备应用",
+    "titleCn": "中国必备应用",
+    "expertTip": "China's digital ecosystem is incredibly advanced. These apps are essential for daily life. Download them BEFORE arriving in China, as some app stores may be slow without a local VPN. Most importantly, set up WeChat Pay and Alipay before your trip!",
+    "expertTipCn": "中国的数字生态系统非常先进。这些应用是日常生活的必备工具。到达中国前就下载好，因为部分应用商店在没有本地VPN时可能很慢。最重要的是，出发前设置好微信支付和支付宝！",
+
+    "apps": [
+      {
+        "id": "wechat",
+        "appId": "com.tencent.mm",
+        "nativeName": "微信",
+        "englishName": "WeChat",
+        "icon": "🟢",
+        "category": "Super App / 超级应用",
+        "platforms": ["iOS", "Android"],
+        "download": "App Store / Google Play / wechat.com",
+        "why": {
+          "en": "WeChat is China's #1 super app. It handles messaging, voice/video calls, mobile payments (WeChat Pay), ride-hailing via mini-programs (DiDi), ordering food, buying train/flight tickets, booking hotels, and so much more. Almost everyone in China uses WeChat daily. Link your international credit card to WeChat Pay for seamless payments.",
+          "cn": "微信是中国第一超级应用。集消息、语音/视频通话、移动支付（微信支付）、通过小程序叫车（滴滴）、点餐、买火车/机票、订酒店等功能于一体。几乎所有中国人都每天使用微信。将国际信用卡绑定微信支付即可无缝付款。"
+        },
+        "setupTip": {
+          "en": "Register with your phone number. Go to Me > Services > Wallet > Add a Card to set up WeChat Pay with international credit card. Supports Visa, Mastercard, American Express, JCB, Discover.",
+          "cn": "用手机号注册。进入 我 > 服务 > 钱包 > 添加银行卡 设置微信支付。支持Visa、Mastercard、American Express、JCB、Discover。"
+        },
+        "expertTip": "WeChat is basically the Swiss Army knife of apps in China. You can do almost everything without leaving WeChat. Don't be surprised when someone asks to add you on WeChat instead of exchanging phone numbers!"
+        },
+      {
+        "id": "alipay",
+        "appId": "com.eg.android.AlipayGphone",
+        "nativeName": "支付宝",
+        "englishName": "Alipay",
+        "icon": "🔵",
+        "category": "Payment & Lifestyle / 支付与生活",
+        "platforms": ["iOS", "Android"],
+        "download": "App Store / Google Play / alipay.com",
+        "why": {
+          "en": "Alipay is China's other mega payment platform (alongside WeChat Pay). It's essential for daily payments — from street food stalls to luxury shopping. Alipay also provides: transit codes (metro/bus), hotel bookings, flight/train tickets, food delivery, bike sharing, and the Tour Pass feature specifically designed for foreign visitors.",
+          "cn": "支付宝是中国另一个大型支付平台（与微信支付并列）。是日常支付的必备工具——从街边小吃摊到奢侈品购物。支付宝还提供：乘车码（地铁/公交）、酒店预订、机票/火车票、外卖、共享单车，以及专为外国游客设计的 Tour Pass 功能。"
+        },
+        "setupTip": {
+          "en": "Download the Alipay app and look for the 'Tour Pass' mini-program, which is specifically designed for foreign visitors. You can top up using international credit cards. Also link your bank card directly in the payment settings.",
+          "cn": "下载支付宝，寻找专为中国游客设计的「Tour Pass」小程序。可用国际信用卡充值。也可在支付设置中直接绑定银行卡。"
+        },
+        "expertTip": "Alipay's Tour Pass is a game-changer for tourists. It converts your foreign currency to CNY at competitive rates and lets you pay via QR code just like locals. Both WeChat Pay and Alipay now accept international cards — this has made traveling in China SO much easier since 2023!"
+      },
+      {
+        "id": "tripcom",
+        "appId": "com.ctrip.view",
+        "nativeName": "携程旅行",
+        "englishName": "Trip.com",
+        "icon": "🧳",
+        "category": "Travel Booking / 旅行预订",
+        "platforms": ["iOS", "Android", "Web"],
+        "download": "App Store / Google Play / trip.com",
+        "why": {
+          "en": "Trip.com (international version of Ctrip/携程) is the best travel booking app for China. It handles: domestic and international flights, hotel bookings (with foreigner-friendly options), high-speed rail tickets (which can be tricky to buy elsewhere), attraction tickets, airport transfers, and tour packages. The app and website are available in multiple languages.",
+          "cn": "Trip.com（携程国际版）是中国最佳的旅行预订应用。支持：国内和国际航班、酒店预订（有适合外国人的选项）、高铁票（在其他地方购买可能比较麻烦）、景点门票、机场接送和旅行套餐。应用和网站支持多种语言。"
+        },
+        "setupTip": {
+          "en": "Sign up with email. The English interface is excellent. For high-speed rail tickets, you'll need to enter your passport information exactly as it appears. Tip: Book high-speed rail tickets at least a few days in advance, especially during holidays.",
+          "cn": "用邮箱注册。英文界面非常好用。购买高铁票时需要输入与护照完全一致的信息。贴士：至少提前几天预订高铁票，节假日更要提前。"
+        },
+        "expertTip": "Trip.com is owned by Ctrip (携程), which is the dominant travel platform in China. Their English version is well-designed. For train tickets, Trip.com is much easier for foreigners than using the official 12306 website, which is primarily in Chinese. Pro tip: check both Trip.com and 12306 (via browser translate) for the best prices on trains."
+      },
+      {
+        "id": "qwen",
+        "appId": "com.alibaba.android.intl",
+        "nativeName": "通义千问",
+        "englishName": "Qwen",
+        "icon": "🤖",
+        "category": "AI Assistant / AI 助手",
+        "platforms": ["iOS", "Android", "Web"],
+        "download": "App Store / Google Play / tongyi.aliyun.com / qwen.ai",
+        "why": {
+          "en": "Qwen (通义千问) is Alibaba's powerful AI assistant, excellent for travel in China. It can: translate between Chinese and English (and many other languages), recommend local restaurants and attractions, help read Chinese menus and signs, provide cultural context and etiquette tips, assist with itinerary planning, and answer questions about Chinese history and culture. Works well offline too.",
+          "cn": "通义千问是阿里巴巴的强大AI助手，在中国旅行时非常实用。可以：中英（及其他多种语言）翻译、推荐当地餐厅和景点、帮助阅读中文菜单和标识、提供文化背景和礼仪贴士、协助行程规划、回答关于中国历史和文化的问题。离线也能使用。"
+        },
+        "setupTip": {
+          "en": "Download the app or use via web browser. Supports text, voice, and image input. You can snap photos of menus and signs for instant translation. Also great for having natural conversations in Chinese.",
+          "cn": "下载应用或通过浏览器使用。支持文字、语音和图片输入。可以拍摄菜单和标识的照片进行即时翻译。也适合进行自然的中文对话。"
+        },
+        "expertTip": "Qwen is one of the best AI tools for travelers in China. Unlike some foreign AI apps that may have limited access in China, Qwen works natively and smoothly. Use it to: translate menus (just take a photo!), ask 'What is this dish?', get help haggling at markets, understand cultural customs, and plan your daily itinerary. It's like having a bilingual local friend in your pocket!"
+      },
+      {
+        "id": "didi",
+        "appId": "com.sdu.didi.psnger",
+        "nativeName": "滴滴出行",
+        "englishName": "DiDi",
+        "icon": "🚗",
+        "category": "Ride Hailing / 打车",
+        "platforms": ["iOS", "Android"],
+        "download": "App Store / Google Play / didiglobal.com",
+        "why": {
+          "en": "DiDi is China's equivalent of Uber (and was actually backed by Uber). Essential for getting around cities. The international version (DiDi Rider) has English interface. You can also hail DiDi directly from within WeChat via the mini-program.",
+          "cn": "滴滴是中国的Uber（实际上Uber曾投资滴滴）。是城市出行的必备工具。国际版（DiDi Rider）有英文界面。也可以通过微信小程序直接叫滴滴。"
+        },
+        "setupTip": {
+          "en": "Download DiDi Rider (international version) for English interface. Link your payment method (Alipay/WeChat Pay). Enter your destination by copying Chinese characters from maps. Tip: have your hotel address saved in Chinese characters to show the driver.",
+          "cn": "下载DiDi Rider（国际版）获取英文界面。绑定支付方式（支付宝/微信支付）。从地图复制中文字符输入目的地。贴士：将酒店地址保存为中文以便向司机出示。"
+        },
+        "expertTip": "Pro tip for using DiDi: always have your destination AND your hotel's address written in Chinese characters. Even with the English version, showing Chinese characters to the driver saves a lot of confusion. You can call a DiDi from WeChat's mini-programs too — no need to download a separate app!"
+        },
+      {
+        "id": "amap",
+        "appId": "com.autonavi.minimap",
+        "nativeName": "高德地图",
+        "englishName": "Amap (Gaode Map)",
+        "icon": "🗺️",
+        "category": "Navigation / 导航",
+        "platforms": ["iOS", "Android"],
+        "download": "App Store / Google Play",
+        "why": {
+          "en": "Amap is China's most popular mapping and navigation app (by Alibaba). It provides extremely accurate navigation for walking, driving, and public transit. Includes real-time bus/metro schedules, indoor maps for malls and airports, and restaurant/shop information. Essential for finding your way around.",
+          "cn": "高德地图是中国最受欢迎的地图导航应用（阿里巴巴旗下）。为步行、驾车和公共交通提供极其精准的导航。包括实时公交/地铁时刻表、商场和机场室内地图，以及餐厅/商店信息。是出行的必备工具。"
+        },
+        "setupTip": {
+          "en": "Download and switch to English mode in settings. Great for transit routing — it tells you exactly which bus to take and where to get off. For walking navigation, it's more accurate than Google Maps in China.",
+          "cn": "下载后在设置中切换到英文模式。非常适合公共交通路线规划——会准确告诉你坐哪趟公交、在哪里下车。步行导航比Google Maps在中国更准确。"
+        },
+        "expertTip": "Google Maps has limited data in China and GPS accuracy is legally shifted. Use Amap or Baidu Maps instead — they're far more accurate and have complete data. Amap is slightly more user-friendly for foreigners. For navigation, it will even tell you which exit to use at metro stations!"
+      },
+      {
+        "id": "meituan",
+        "appId": "com.sankuai.meituan",
+        "nativeName": "美团",
+        "englishName": "Meituan",
+        "icon": "🍔",
+        "category": "Food & Lifestyle / 美食与生活",
+        "platforms": ["iOS", "Android"],
+        "download": "App Store / Google Play / meituan.com",
+        "why": {
+          "en": "Meituan is China's leading food delivery and lifestyle platform. Order food delivery from thousands of restaurants, book movie tickets, buy attraction tickets at discounted prices, find nearby restaurants with reviews and photos, and access hotel deals. It's the Chinese equivalent of Grubhub + Yelp + Groupon combined.",
+          "cn": "美团是中国领先的外卖和生活服务平台。可以从数千家餐厅点外卖、买电影票、以折扣价买景点门票、查找附近餐厅（含评价和照片）、获取酒店优惠。它相当于中国的Grubhub + Yelp + Groupon。"
+        },
+        "setupTip": {
+          "en": "The interface is primarily in Chinese, but with a translation app (like Qwen), it's very usable. Focus on the food delivery and restaurant discovery features. Payment via Alipay or WeChat Pay.",
+          "cn": "界面主要是中文，但配合翻译应用（如通义千问）使用非常方便。重点使用外卖和餐厅发现功能。通过支付宝或微信支付。"
+        },
+        "expertTip": "Meituan is a goldmine for discovering great local food. Use the nearby restaurants feature to find highly-rated places that tourists would never discover. The group-buy deals on attraction tickets can save you 20-50% compared to buying at the gate!"
+      },
+      {
+        "id": "applemaps",
+        "appId": "com.apple.Maps",
+        "nativeName": "苹果地图",
+        "englishName": "Apple Maps",
+        "icon": "🍎",
+        "category": "Navigation (iPhone) / 导航（iPhone）",
+        "platforms": ["iOS"],
+        "download": "Built-in iOS app",
+        "why": {
+          "en": "Apple Maps in China is powered by Amap data and is surprisingly excellent. It works without a VPN, provides turn-by-turn navigation, shows public transit directions, and is fully in English. The best part: it works on iPhone without any additional downloads. Apple also provides accurate indoor maps for many Chinese airports.",
+          "cn": "中国区的苹果地图由高德地图数据驱动，出乎意料地优秀。无需VPN，提供逐向导航、显示公共交通路线，且完全为英文。最棒的是：iPhone上无需额外下载。苹果还为许多中国机场提供准确的室内地图。"
+        },
+        "setupTip": {
+          "en": "No setup needed — it's built into iPhone. Make sure your region is set to China for the best experience. Works great for finding nearby attractions, restaurants, and transit stops.",
+          "cn": "无需设置——iPhone自带。将地区设置为中国以获得最佳体验。查找附近景点、餐厅和公交站点非常好用。"
+        },
+        "expertTip": "If you have an iPhone, Apple Maps in China is actually fantastic and doesn't need a VPN. It's powered by Amap data. For non-iPhone users, download Amap directly. Either way, you'll have excellent navigation!"
+      }
+    ]
+  },
+
+  "C_recommendations": {
+    "title": "Travel Recommendations / 旅行推荐",
+    "titleCn": "旅行推荐",
+    "expertTip": "China is vast — about the same size as the United States. Don't try to see everything in one trip. Focus on 2-3 regions per visit. The high-speed rail network makes it easy to hop between cities. Each region has its own distinct culture, cuisine, and attractions.",
+    "expertTipCn": "中国幅员辽阔——大约与美国一样大。不要试图一次看完所有地方。每次旅行聚焦2-3个区域。高铁网络使城市间出行非常方便。每个区域都有自己独特的文化、美食和景点。",
+
+    "recommendedCities": [
+      {
+        "cityEn": "Beijing",
+        "cityCn": "北京",
+        "provinceCn": "北京",
+        "bestTime": "Sep-Nov (autumn) or Apr-May (spring)",
+        "bestTimeCn": "9-11月（秋季）或4-5月（春季）",
+        "recommendedDays": "4-6 days",
+        "highlights": ["Forbidden City (故宫)", "Great Wall (八达岭长城 or 慕田峪长城)", "Temple of Heaven (天坛)", "Summer Palace (颐和园)", "Hutong neighborhoods (胡同)", "National Museum of China (国家博物馆)", "798 Art District (798艺术区)", "Jingshan Park sunset view (景山公园日落)"],
+        "highlightsCn": ["故宫", "长城", "天坛", "颐和园", "胡同", "国家博物馆", "798艺术区", "景山公园日落"],
+        "food": "Peking Duck (北京烤鸭), Zhajiang noodles (炸酱面), dumplings (饺子), baozi (包子)",
+        "foodCn": "北京烤鸭、炸酱面、饺子、包子",
+        "expertTip": "Visit the Forbidden City on a weekday morning to avoid crowds. For the Great Wall, Mutianyu (慕田峪) is less crowded than Badaling and has a fun toboggan ride down. The 798 Art District is a must for contemporary art lovers."
+      },
+      {
+        "cityEn": "Shanghai",
+        "cityCn": "上海",
+        "provinceCn": "上海",
+        "bestTime": "Mar-May (spring) or Sep-Nov (autumn)",
+        "bestTimeCn": "3-5月（春季）或9-11月（秋季）",
+        "recommendedDays": "3-5 days",
+        "highlights": ["The Bund (外滩)", "Oriental Pearl Tower (东方明珠)", "Yu Garden (豫园)", "Shanghai Museum (上海博物馆)", "French Concession (法租界)", "Nanjing Road (南京路)", "Zhujiajiao water town (朱家角)", "Xintiandi (新天地)", "Shanghai Tower observation deck (上海中心大厦)"],
+        "highlightsCn": ["外滩", "东方明珠", "豫园", "上海博物馆", "法租界", "南京路", "朱家角", "新天地", "上海中心大厦"],
+        "food": "Xiaolongbao (小笼包), Shengjian bao (生煎包), red-braised pork (红烧肉), hairy crab (大闸蟹, seasonal)",
+        "foodCn": "小笼包、生煎包、红烧肉、大闸蟹（季节性）",
+        "expertTip": "The Bund is magical at night! Visit Yu Garden early morning or weekday to avoid crowds. Take the Huangpu River ferry for cheap alternative to river cruises. The French Concession is perfect for cafe-hopping and boutique shopping."
+      },
+      {
+        "cityEn": "Xi'an",
+        "cityCn": "西安",
+        "provinceCn": "陕西",
+        "bestTime": "Mar-May or Sep-Nov",
+        "bestTimeCn": "3-5月或9-11月",
+        "recommendedDays": "2-3 days",
+        "highlights": ["Terracotta Warriors (兵马俑)", "Ancient City Wall (古城墙)", "Muslim Quarter (回民街)", "Bell Tower & Drum Tower (钟鼓楼)", "Shaanxi History Museum (陕西历史博物馆)", "Big Wild Goose Pagoda (大雁塔)", "Huaqing Palace (华清宫)", "Cycling on the City Wall"],
+        "highlightsCn": ["兵马俑", "古城墙", "回民街", "钟鼓楼", "陕西历史博物馆", "大雁塔", "华清宫", "城墙骑行"],
+        "food": "Roujiamo (肉夹馍), Biang Biang noodles (油泼面), Yangrou paomo (羊肉泡馍), Liangpi (凉皮)",
+        "foodCn": "肉夹馍、油泼面、羊肉泡馍、凉皮",
+        "expertTip": "The Muslim Quarter is a food paradise — try everything! Rent a bike on the ancient City Wall at sunset for an unforgettable experience. Visit the Shaanxi History Museum early (book in advance!). The night show at Huaqing Palace is spectacular."
+      },
+      {
+        "cityEn": "Chengdu",
+        "cityCn": "成都",
+        "provinceCn": "四川",
+        "bestTime": "Mar-Jun or Sep-Nov",
+        "bestTimeCn": "3-6月或9-11月",
+        "recommendedDays": "3-4 days",
+        "highlights": ["Giant Panda Breeding Research Base (大熊猫繁育研究基地)", "Jinli Ancient Street (锦里)", "Wide and Narrow Alleys (宽窄巷子)", "Wuhou Shrine (武侯祠)", "Du Fu Thatched Cottage (杜甫草堂)", "Leshan Giant Buddha (乐山大佛)", "Mount Qingcheng (青城山)", "Sichuan Opera (川剧变脸)"],
+        "highlightsCn": ["大熊猫繁育研究基地", "锦里", "宽窄巷子", "武侯祠", "杜甫草堂", "乐山大佛", "青城山", "川剧变脸"],
+        "food": "Authentic Sichuan hotpot (四川火锅), Mapo tofu (麻婆豆腐), Kung Pao chicken (宫保鸡丁), Dan dan noodles (担担面), Sichuan skewers (串串香), sweet water noodles (甜水面)",
+        "foodCn": "四川火锅、麻婆豆腐、宫保鸡丁、担担面、串串香、甜水面",
+        "expertTip": "Go to the Panda Base by 7:30 AM when pandas are most active (they sleep most of the afternoon). Sichuan hotpot is a must — but start with 'mild' (微辣) unless you can handle serious spice! Take a day trip to Leshan Giant Buddha — it's awe-inspiring."
+      },
+      {
+        "cityEn": "Guilin & Yangshuo",
+        "cityCn": "桂林 & 阳朔",
+        "provinceCn": "广西",
+        "bestTime": "Apr-Oct",
+        "bestTimeCn": "4-10月",
+        "recommendedDays": "3-4 days",
+        "highlights": ["Li River cruise (漓江游船)", "Yangshuo karst landscape (阳朔喀斯特地貌)", "West Street (西街)", "Elephant Trunk Hill (象鼻山)", "Reed Flute Cave (芦笛岩)", "Longji Rice Terraces (龙脊梯田)", "Yulong River bamboo rafting (遇龙河竹筏)", "Impression Sanjie Liu light show (印象刘三姐)"],
+        "highlightsCn": ["漓江游船", "阳朔喀斯特地貌", "西街", "象鼻山", "芦笛岩", "龙脊梯田", "遇龙河竹筏", "印象刘三姐"],
+        "food": "Guilin rice noodles (桂林米粉), Yangshuo beer fish (阳朔啤酒鱼), stuffed Li River snails (田螺酿)",
+        "foodCn": "桂林米粉、阳朔啤酒鱼、田螺酿",
+        "expertTip": "The Li River cruise from Guilin to Yangshuo is one of China's most scenic experiences. Rent a scooter in Yangshuo to explore the countryside — the karst landscape is breathtaking. The Yulong River bamboo raft is more peaceful and scenic than the Li River motor boats."
+      },
+      {
+        "cityEn": "Hangzhou",
+        "cityCn": "杭州",
+        "provinceCn": "浙江",
+        "bestTime": "Mar-May or Sep-Nov",
+        "bestTimeCn": "3-5月或9-11月",
+        "recommendedDays": "2-3 days",
+        "highlights": ["West Lake (西湖)", "Lingyin Temple (灵隐寺)", "Longjing tea plantations (龙井茶园)", "He Fang Street (河坊街)", "Leifeng Pagoda (雷峰塔)", "Xixi National Wetland Park (西溪湿地)", "Song Dynasty Town (宋城)"],
+        "highlightsCn": ["西湖", "灵隐寺", "龙井茶园", "河坊街", "雷峰塔", "西溪湿地", "宋城"],
+        "food": "West Lake Vinegar Fish (西湖醋鱼), Dongpo Pork (东坡肉), Beggar's Chicken (叫花鸡), Longjing shrimp (龙井虾仁)",
+        "foodCn": "西湖醋鱼、东坡肉、叫花鸡、龙井虾仁",
+        "expertTip": "Rent a bike to cycle around West Lake — it's the best way to see it. Visit Longjing village to buy authentic Dragon Well tea. Hangzhou is only 1 hour from Shanghai by high-speed rail — easy to combine!"
+      },
+      {
+        "cityEn": "Suzhou",
+        "cityCn": "苏州",
+        "provinceCn": "江苏",
+        "bestTime": "Mar-May or Sep-Nov",
+        "bestTimeCn": "3-5月或9-11月",
+        "recommendedDays": "1-2 days",
+        "highlights": ["Humble Administrator's Garden (拙政园)", "Lingering Garden (留园)", "Pingjiang Road (平江路)", "Shantang Street (山塘街)", "Suzhou Museum (苏州博物馆)", "Tongli Water Town (同里)", "Hanshan Temple (寒山寺)"],
+        "highlightsCn": ["拙政园", "留园", "平江路", "山塘街", "苏州博物馆", "同里", "寒山寺"],
+        "food": "Squirrel-shaped mandarin fish (松鼠桂鱼), Su-style mooncakes (苏式月饼), Biluochun tea (碧螺春茶)",
+        "foodCn": "松鼠桂鱼、苏式月饼、碧螺春茶",
+        "expertTip": "Suzhou is only 30 minutes from Shanghai by high-speed rail — perfect day trip! The gardens are UNESCO World Heritage sites. Visit Pingjiang Road in the evening for a beautiful atmosphere."
+      },
+      {
+        "cityEn": "Zhangjiajie",
+        "cityCn": "张家界",
+        "provinceCn": "湖南",
+        "bestTime": "Apr-Jun or Sep-Nov",
+        "bestTimeCn": "4-6月或9-11月",
+        "recommendedDays": "2-3 days",
+        "highlights": ["Zhangjiajie National Forest Park (张家界国家森林公园)", "Glass Bridge (玻璃桥)", "Tianmen Mountain (天门山)", "Tianzi Mountain (天子山)", "Yuanjiajie (袁家界 - Avatar mountains)", "Zhangjiajie Grand Canyon (张家界大峡谷)"],
+        "highlightsCn": ["张家界国家森林公园", "玻璃桥", "天门山", "天子山", "袁家界（阿凡达山）", "张家界大峡谷"],
+        "food": "Zhangjiajie bacon (张家界腊肉), Three Gorges soup (三下锅), spicy tofu (臭豆腐)",
+        "foodCn": "张家界腊肉、三下锅、臭豆腐",
+        "expertTip": "The floating mountains in the movie Avatar were inspired by Zhangjiajie! Allocate at least 2 full days. Wear comfortable hiking shoes. The glass bridge and skywalk are not for the faint of heart but absolutely thrilling."
+      },
+      {
+        "cityEn": "Lhasa",
+        "cityCn": "拉萨",
+        "provinceCn": "西藏",
+        "bestTime": "May-Oct",
+        "bestTimeCn": "5-10月",
+        "recommendedDays": "3-5 days",
+        "highlights": ["Potala Palace (布达拉宫)", "Jokhang Temple (大昭寺)", "Barkhor Street (八廓街)", "Sera Monastery (色拉寺)", "Drepung Monastery (哲蚌寺)", "Namtso Lake (纳木错)", "Yamdrok Lake (羊卓雍错)"],
+        "highlightsCn": ["布达拉宫", "大昭寺", "八廓街", "色拉寺", "哲蚌寺", "纳木错", "羊卓雍错"],
+        "food": "Tibetan tsampa (糌粑), Yak meat (牦牛肉), Butter tea (酥油茶), Tibetan momos (藏式包子)",
+        "foodCn": "糌粑、牦牛肉、酥油茶、藏式包子",
+        "expertTip": "IMPORTANT: You need a Tibet Travel Permit (in addition to your Chinese visa) to enter Tibet. Book through a travel agency at least 20 days in advance. Altitude sickness is real — spend your first day resting and drink plenty of water. The Potala Palace requires advance booking."
+      },
+      {
+        "cityEn": "Harbin",
+        "cityCn": "哈尔滨",
+        "provinceCn": "黑龙江",
+        "bestTime": "Dec-Feb (Ice Festival) or Jun-Aug (summer)",
+        "bestTimeCn": "12-2月（冰雪节）或6-8月（夏季）",
+        "recommendedDays": "2-3 days",
+        "highlights": ["Harbin Ice and Snow World (冰雪大世界)", "Saint Sophia Cathedral (圣索菲亚大教堂)", "Central Street (中央大街)", "Ice Lantern Fair (冰灯游园会)", "Sun Island (太阳岛)", "Siberian Tiger Park (东北虎林园)"],
+        "highlightsCn": ["冰雪大世界", "圣索菲亚大教堂", "中央大街", "冰灯游园会", "太阳岛", "东北虎林园"],
+        "food": "Harbin sausage (哈尔滨红肠), Guo Bao Rou (锅包肉), Dongbei dumplings (东北饺子), Russian bread (大列巴)",
+        "foodCn": "哈尔滨红肠、锅包肉、东北饺子、大列巴",
+        "expertTip": "If visiting in winter, dress in extreme cold gear (-20°C to -30°C!). The Ice Festival in January is absolutely magical. In summer, Harbin is pleasantly cool — a welcome escape from southern China's heat."
+      }
+    ],
+
+    "suggestedItineraries": [
+      {
+        "name": "Classic China (10-14 days)",
+        "nameCn": "经典中国（10-14天）",
+        "route": "Beijing → Xi'an → Chengdu → Shanghai",
+        "description": "The quintessential first-time China trip covering ancient capital, Terracotta Warriors, pandas, and modern metropolis.",
+        "descriptionCn": "经典首次中国之旅，覆盖古都、兵马俑、熊猫和现代都市。",
+        "transport": "High-speed rail between cities (2-5 hours each)"
+      },
+      {
+        "name": "Southern Charm (7-10 days)",
+        "nameCn": "南方风情（7-10天）",
+        "route": "Shanghai → Suzhou → Hangzhou → Guilin/Yangshuo",
+        "description": "Gardens, tea culture, water towns, and stunning karst landscapes.",
+        "descriptionCn": "园林、茶文化、水乡和令人惊叹的喀斯特地貌。",
+        "transport": "High-speed rail (Suzhou/Hangzhou) + flight (to Guilin)"
+      },
+      {
+        "name": "Spice Route (7-10 days)",
+        "nameCn": "辣味之旅（7-10天）",
+        "route": "Chengdu → Chongqing → Zhangjiajie",
+        "description": "Sichuan spice culture, hotpot, mountain city, and Avatar mountains.",
+        "descriptionCn": "川味辣文化、火锅、山城和阿凡达山。",
+        "transport": "High-speed rail (1-2 hours each)"
+      },
+      {
+        "name": "144-Hour Transit Explorer (6 days)",
+        "nameCn": "144小时过境探索（6天）",
+        "route": "Shanghai → Suzhou → Hangzhou → Shanghai",
+        "description": "Perfect for visa-free transit via Shanghai. Explore Jiangsu and Zhejiang provinces.",
+        "descriptionCn": "适合通过上海免签过境。探索江苏和浙江省。",
+        "transport": "High-speed rail (30 min to Suzhou, 1 hr to Hangzhou)",
+        "visaNote": "Requires 144-hour transit visa exemption eligibility. Enter and exit through Shanghai ports."
+      }
+    ],
+
+    "transportation": {
+      "title": "Transportation Guide / 交通指南",
+      "titleCn": "交通指南",
+      "highSpeedRail": {
+        "title": "High-Speed Rail (高铁) / High-Speed Rail",
+        "titleCn": "高铁",
+        "description": "China has the world's largest and fastest high-speed rail network. Speeds reach 350 km/h. Clean, comfortable, on-time, and affordable.",
+        "descriptionCn": "中国拥有世界上最大最快的高铁网络。时速可达350公里。干净、舒适、准点、实惠。",
+        "classes": [
+          { "class": "Second Class (二等座)", "notes": "Standard seating, very comfortable, best value" },
+          { "class": "First Class (一等座)", "notes": "Wider seats, more legroom, 3+2 layout instead of 3+3" },
+          { "class": "Business Class (商务座)", "notes": "Premium seating, lie-flat seats, complimentary drinks" }
+        ],
+        "bookingTips": [
+          "Book via Trip.com (easiest for foreigners) or 12306.cn (official, Chinese only)",
+          "Book at least 3-7 days in advance for best prices and availability",
+          "Bring your passport — it's checked at station entry and on the train",
+          "Arrive 30-45 minutes early (security check + ticket check)",
+          "Major stations have English signage",
+          "Food available on longer routes, or bring your own snacks"
+        ],
+        "popularRoutes": [
+          { "from": "Beijing", "to": "Shanghai", "duration": "4.5 hours", "frequency": "Every 10-15 min" },
+          { "from": "Shanghai", "to": "Hangzhou", "duration": "1 hour", "frequency": "Every 10-20 min" },
+          { "from": "Shanghai", "to": "Suzhou", "duration": "30 minutes", "frequency": "Every 15-20 min" },
+          { "from": "Beijing", "to": "Xi'an", "duration": "4.5 hours", "frequency": "Every 20-30 min" },
+          { "from": "Chengdu", "to": "Chongqing", "duration": "1.5 hours", "frequency": "Every 10-15 min" },
+          { "from": "Guangzhou", "to": "Shenzhen", "duration": "30 minutes", "frequency": "Every 10 min" }
+        ]
+      },
+      "domesticFlights": {
+        "title": "Domestic Flights / 国内航班",
+        "titleCn": "国内航班",
+        "tips": [
+          "Book via Trip.com or CTrip app",
+          "Budget airlines: Spring Airlines (春秋航空), Juneyao (吉祥航空)",
+          "Note: budget airlines may have stricter baggage allowances",
+          "Flights to second-tier cities can be very cheap",
+          "Allow 2 hours for domestic check-in at major airports"
+        ]
+      },
+      "metro": {
+        "title": "Metro / 地铁",
+        "titleCn": "地铁",
+        "description": "Major cities have extensive metro systems. Very clean, safe, cheap (¥2-10 per ride), and all with English signage.",
+        "descriptionCn": "主要城市都有广泛的地铁系统。非常干净、安全、便宜（每次2-10元），所有标识都有英文。",
+        "payment": "Use Alipay or WeChat Pay — scan QR code at the gate. No need to buy physical tickets!",
+        "paymentCn": "使用支付宝或微信支付——在闸机扫描二维码。无需购买实体票！",
+        "citiesWithMetro": ["Beijing", "Shanghai", "Guangzhou", "Shenzhen", "Chengdu", "Xi'an", "Hangzhou", "Nanjing", "Chongqing", "Wuhan", "Tianjin", "Suzhou", "Kunming", "Harbin", "Dalian", "Qingdao", "Changsha", "Shenyang", "Zhengzhou", "Hefei", "Nanning", "Jinan", "Fuzhou", "Xiamen", "Wuxi", "Dongguan", "Ningbo", "Guiyang"]
+      },
+      "didi": {
+        "title": "Ride-Hailing / 网约车",
+        "titleCn": "网约车",
+        "description": "Use DiDi (China's Uber) for convenient point-to-point travel. Available in all cities.",
+        "descriptionCn": "使用滴滴（中国的Uber）进行便捷的点对点出行。所有城市都有。"
+      },
+      "expertTip": "The high-speed rail is the best way to travel between Chinese cities. It's faster than flying when you factor in airport transit time (for trips under 5 hours). Business class is surprisingly affordable — sometimes just 2x the price of second class. Download the 12306 app or use Trip.com for easy booking."
+    }
+  },
+
+  "D_notices": {
+    "title": "Important Notices / 重要注意事项",
+    "titleCn": "重要注意事项",
+    "expertTip": "China is generally very safe for travelers. Violent crime against tourists is extremely rare. However, there are practical things you should know to make your trip smoother. The biggest challenges for most foreign visitors are: payments, internet access, and language.",
+    "expertTipCn": "中国对旅行者来说总体非常安全。针对游客的暴力犯罪极为罕见。但有一些实用信息需要了解，以便让旅途更顺利。大多数外国游客面临的最大挑战是：支付、网络和语言。",
+
+    "payments": {
+      "title": "Payments / 支付方式",
+      "titleCn": "支付方式",
+      "items": [
+        {
+          "topic": "Mobile Payment (移动支付)",
+          "en": "China is virtually a cashless society. Mobile payment (WeChat Pay and Alipay) is accepted EVERYWHERE — from luxury malls to street vendors. Both now accept international credit cards (Visa, Mastercard, Amex, JCB). Set up BEFORE arriving!",
+          "cn": "中国几乎是无现金社会。移动支付（微信支付和支付宝）在所有地方都被接受——从奢侈品商场到街边摊。两者现在都接受国际信用卡（Visa、Mastercard、Amex、JCB）。到达前设置好！"
+        },
+        {
+          "topic": "Cash (现金)",
+          "en": "While rare, always carry some cash (¥200-500) as backup. Some small vendors, rural areas, or older establishments may prefer cash. Foreign currency can be exchanged at airports, banks, and major hotels.",
+          "cn": "虽然不常见，但始终携带一些现金（200-500元）作为备用。部分小商贩、农村地区或较老的商家可能更偏好现金。外币可在机场、银行和大型酒店兑换。"
+        },
+        {
+          "topic": "Foreign Cards",
+          "en": "Major international credit/debit cards (Visa, Mastercard) are increasingly accepted at hotels, large restaurants, and shopping malls. However, many small businesses still only accept mobile payment. Apple Pay and Google Pay are NOT widely supported in China.",
+          "cn": "大型国际信用卡/借记卡（Visa、Mastercard）在酒店、大型餐厅和商场越来越被接受。但许多小商家仍只接受移动支付。Apple Pay和Google Pay在中国不受广泛支持。"
+        },
+        {
+          "topic": "Tipping",
+          "en": "Tipping is NOT customary in China and may even be refused. It's not expected at restaurants, hotels, or taxis. High-end hotels may add a service charge automatically.",
+          "cn": "在中国不习惯给小费，甚至可能被拒绝。在餐厅、酒店或出租车不需要。高端酒店可能会自动收取服务费。"
+        }
+      ]
+    },
+
+    "internet": {
+      "title": "Internet & Connectivity / 网络与连接",
+      "titleCn": "网络与连接",
+      "items": [
+        {
+          "topic": "Blocked Services",
+          "en": "Many international services are blocked in China, including: Google (Search, Maps, Gmail), YouTube, Facebook, Instagram, WhatsApp, Twitter/X, Netflix, Spotify, Line, Telegram, Wikipedia (sometimes), and some news sites.",
+          "cn": "许多国际服务在中国被屏蔽，包括：Google（搜索、地图、Gmail）、YouTube、Facebook、Instagram、WhatsApp、Twitter/X、Netflix、Spotify、Line、Telegram、Wikipedia（有时）和一些新闻网站。"
+        },
+        {
+          "topic": "Available International Services",
+          "en": "These DO work in China: Apple services (iMessage, FaceTime, iCloud, Apple Music), Microsoft services (Skype, Outlook, Teams), Amazon, LinkedIn, Reddit, Discord, Pinterest, and many others.",
+          "cn": "这些在中国可以使用：Apple服务（iMessage、FaceTime、iCloud、Apple Music）、Microsoft服务（Skype、Outlook、Teams）、Amazon、LinkedIn、Reddit、Discord、Pinterest等。"
+        },
+        {
+          "topic": "VPN",
+          "en": "If you need to access blocked services, you'll need a VPN. Options include: purchasing a reliable VPN before arrival (ExpressVPN, Astrill, LetsVPN), or using hotel/business Wi-Fi which sometimes has less restrictions. Free VPNs are unreliable. Note: VPN usage exists in a legal gray area for tourists.",
+          "cn": "如果需要访问被屏蔽的服务，需要VPN。选项包括：出发前购买可靠的VPN（ExpressVPN、Astrill、LetsVPN），或使用酒店/商业Wi-Fi（限制有时较少）。免费VPN不可靠。注意：游客使用VPN处于法律灰色地带。"
+        },
+        {
+          "topic": "eSIM / Local SIM",
+          "en": "Consider getting a Chinese SIM card or eSIM for data. Options: buy at the airport (China Mobile, China Unicom, China Telecom), or use international eSIM providers (Airalo, Holafly) that offer China coverage. Data is cheap — expect ¥30-100/month for generous data plans.",
+          "cn": "考虑获取中国SIM卡或eSIM用于数据。选项：在机场购买（中国移动、中国联通、中国电信），或使用提供中国覆盖的国际eSIM服务商（Airalo、Holafly）。数据很便宜——每月30-100元可获得大量数据套餐。"
+        },
+        {
+          "topic": "Wi-Fi",
+          "en": "Most hotels, cafes, and restaurants offer free Wi-Fi. For hotel Wi-Fi, you may need to provide your passport number or phone number to connect. Download important maps and translation tools for offline use as backup.",
+          "cn": "大多数酒店、咖啡厅和餐厅提供免费Wi-Fi。酒店Wi-Fi可能需要提供护照号码或手机号才能连接。下载重要的地图和翻译工具用于离线使用作为备用。"
+        }
+      ]
+    },
+
+    "cultureAndEtiquette": {
+      "title": "Culture & Etiquette / 文化与礼仪",
+      "titleCn": "文化与礼仪",
+      "items": [
+        {
+          "topic": "Greetings (问候)",
+          "en": "A nod, smile, and slight bow is common. Handshakes are also acceptable. Chinese people may greet you with 'Nihao' (你好). Address older people respectfully. Close friends may greet with casual phrases.",
+          "cn": "点头、微笑和微微鞠躬很常见。握手也可以接受。中国人可能会用「你好」来问候。尊敬地称呼长辈。亲密朋友可能会随意打招呼。"
+        },
+        {
+          "topic": "Dining Etiquette (餐桌礼仪)",
+          "en": "Use chopsticks (don't stick them upright in rice — it resembles funeral incense!). Wait for the host to start eating. Try a bit of everything. Leaving a little food shows the host provided abundantly. 'Ganbei' (干杯) means 'bottoms up' when toasting.",
+          "cn": "使用筷子（不要把筷子竖插在饭里——那像丧葬香火！）。等主人先开始吃。每样都尝一点。留一点食物表示主人准备丰盛。「干杯」在祝酒时意味着「干完」。"
+        },
+        {
+          "topic": "Bargaining (讨价还价)",
+          "en": "Bargaining is expected at markets, small shops, and with street vendors. NOT at department stores, restaurants, or malls. Start at 30-50% of the asking price and negotiate up. Be friendly and smile — it's part of the fun!",
+          "cn": "在市场、小店和街边摊可以讨价还价。但在百货商店、餐厅和商场不行。从要价的30-50%开始往上谈。保持友好和微笑——这是乐趣的一部分！"
+        },
+        {
+          "topic": "Face Concept (面子)",
+          "en": "'Face' (mianzi) is important in Chinese culture. Avoid causing someone to lose face (public criticism, losing temper, refusing gifts). Give compliments, show respect, and be tactful.",
+          "cn": "「面子」在中国文化中很重要。避免让别人丢面子（公开批评、发脾气、拒绝礼物）。给予赞美、表示尊重、委婉得体。"
+        },
+        {
+          "topic": "Gifts (送礼)",
+          "en": "If giving gifts, avoid: clocks (sound like 'funeral'), white wrapping (mourning), sharp objects (cutting relationships). Good gifts: fruit, tea, regional specialties from your home country. Present and receive gifts with both hands.",
+          "cn": "送礼物时避免：钟表（听起来像「送终」）、白色包装（哀悼）、尖锐物品（切断关系）。好礼物：水果、茶叶、来自你家乡的特产。双手递送和接受礼物。"
+        },
+        {
+          "topic": "Photography (拍照)",
+          "en": "Chinese people might stare at or try to take photos with foreigners — this is usually curiosity and friendliness, not rudeness. It's generally fine to photograph scenery and public places, but avoid photographing military facilities or restricted areas.",
+          "cn": "中国人可能会盯着看或尝试与外国人合影——这通常是好奇和友善，不是无礼。一般来说可以拍摄风景和公共场所，但避免拍摄军事设施或限制区域。"
+        },
+        {
+          "topic": "Temple Etiquette (寺庙礼仪)",
+          "en": "Dress modestly. Remove shoes when entering temple halls. Don't point at Buddha statues with your index finger (use open palm). Photography may be restricted inside halls. Bowing is respectful but not required.",
+          "cn": "穿着得体。进入寺庙大厅时脱鞋。不要用食指指向佛像（用张开的手掌）。大厅内可能限制拍照。鞠躬是尊重的表现但不是必须的。"
+        }
+      ]
+    },
+
+    "safety": {
+      "title": "Safety & Health / 安全与健康",
+      "titleCn": "安全与健康",
+      "items": [
+        {
+          "topic": "General Safety (总体安全)",
+          "en": "China is one of the safest countries for tourists. Violent crime is extremely rare. Street harassment is minimal. However, watch out for pickpockets in crowded tourist areas and on public transport (same as any major city worldwide).",
+          "cn": "中国是对游客最安全的国家之一。暴力犯罪极为罕见。街头骚扰极少。但在拥挤的旅游区和公共交通上注意扒手（和世界上任何大城市一样）。"
+        },
+        {
+          "topic": "Emergency Numbers (紧急电话)",
+          "en": "Police: 110 | Ambulance: 120 | Fire: 119. For tourist emergencies, call the 12308 consular protection hotline.",
+          "cn": "警察：110 | 急救：120 | 火警：119。游客紧急情况可拨打12308领保热线。"
+        },
+        {
+          "topic": "Drinking Water (饮用水)",
+          "en": "Tap water is NOT safe to drink in China. Always drink bottled, boiled, or filtered water. Bottled water is cheap and available everywhere. Most hotels provide free bottled water.",
+          "cn": "中国的自来水不能直接饮用。始终饮用瓶装水、开水或过滤水。瓶装水便宜且到处都有。大多数酒店提供免费瓶装水。"
+        },
+        {
+          "topic": "Toilets (厕所)",
+          "en": "Public restrooms are widely available but may be squat toilets (especially outside major cities). Always carry tissues and hand sanitizer — toilet paper may not be provided. Major malls, hotels, and metro stations have western-style toilets.",
+          "cn": "公共厕所很普遍，但可能是蹲式厕所（尤其是大城市外）。始终携带纸巾和洗手液——可能不提供卫生纸。大型商场、酒店和地铁有西式厕所。"
+        },
+        {
+          "topic": "Health Insurance (健康保险)",
+          "en": "Get comprehensive travel insurance that covers medical evacuation. Hospital care in China can be expensive for foreigners. Major hospitals in big cities have international departments with English-speaking staff.",
+          "cn": "购买覆盖医疗后送的全面旅行保险。在中国，医院对外国人来说可能很贵。大城市的主要医院有国际部门，有英语工作人员。"
+        },
+        {
+          "topic": "Medicine (药品)",
+          "en": "Bring basic medications (pain relievers, anti-diarrhea, allergy, cold medicine). Chinese pharmacies (药店) are everywhere and very affordable, but labels are in Chinese. Use Qwen to translate medicine names.",
+          "cn": "携带基本药物（止痛药、止泻药、抗过敏药、感冒药）。中国药店到处都有，价格很实惠，但标签是中文。用通义千问翻译药名。"
+        },
+        {
+          "topic": "Scams to Avoid (需避免的骗局)",
+          "en": "Common tourist scams: 'free' tea ceremony (you'll be pressured to pay), art students wanting to practice English (leads to expensive shop), unauthorized tour guides at tourist sites, fake monks asking for donations. Use common sense.",
+          "cn": "常见旅游骗局：「免费」茶道（会被施压付款）、想练习英语的美术学生（会引导到昂贵的商店）、景点处的非正规导游、假和尚化缘。保持常识判断。"
+        }
+      ]
+    },
+
+    "weather": {
+      "title": "Weather & Best Travel Seasons / 天气与最佳旅行季节",
+      "titleCn": "天气与最佳旅行季节",
+      "items": [
+        {
+          "topic": "Spring (March-May / 春)",
+          "en": "Pleasant weather, blooming flowers. Best for: all destinations. Can be rainy in southern China (Guilin, Hangzhou). Pack layers.",
+          "cn": "天气宜人，鲜花盛开。适合所有目的地。中国南方（桂林、杭州）可能多雨。携带多层衣物。"
+        },
+        {
+          "topic": "Summer (June-August / 夏)",
+          "en": "Hot and humid in most of China (30-40°C). Best for: Tibet, Inner Mongolia, Yunnan, Qingdao. Avoid: most southern cities (too hot). Summer is peak domestic travel season.",
+          "cn": "中国大部分地区炎热潮湿（30-40°C）。适合：西藏、内蒙古、云南、青岛。避免：大多数南方城市（太热）。夏季是国内旅游旺季。"
+        },
+        {
+          "topic": "Autumn (September-November / 秋)",
+          "en": "THE BEST season for most destinations. Cool, dry, clear skies. Golden foliage in Beijing. Comfortable for outdoor activities everywhere.",
+          "cn": "大多数目的地的最佳季节。凉爽、干燥、晴空。北京有金色秋叶。各地户外活动都很舒适。"
+        },
+        {
+          "topic": "Winter (December-February / 冬)",
+          "en": "Cold in the north (Beijing: -10°C, Harbin: -30°C). Mild in the south (Guangzhou: 15°C). Best for: Harbin Ice Festival, Hainan beaches, Yunnan. Avoid: northern destinations unless prepared for extreme cold.",
+          "cn": "北方寒冷（北京：-10°C，哈尔滨：-30°C）。南方温和（广州：15°C）。适合：哈尔滨冰雪节、海南沙滩、云南。除非准备好应对严寒，否则避免北方目的地。"
+        }
+      ],
+      "expertTip": "China's National Day holiday (October 1-7) is the BUSIEST travel week of the year — avoid it if possible! Chinese New Year (January/February) is also extremely busy with many businesses closed. The best travel windows are late April-May and September-October."
+    },
+
+    "language": {
+      "title": "Language / 语言",
+      "titleCn": "语言",
+      "items": [
+        {
+          "topic": "English Availability",
+          "en": "English is not widely spoken outside major cities and tourist areas. Hotel staff, younger people, and university students are more likely to speak some English. Always have your hotel address and destinations written in Chinese characters.",
+          "cn": "在大城市和旅游区之外，英语不太普及。酒店员工、年轻人和大学生更可能说一些英语。始终将酒店地址和目的地写成中文字符。"
+        },
+        {
+          "topic": "Useful Apps for Communication",
+          "en": "Use Qwen (通义千问) for real-time translation. Baidu Translate is another option. Taking photos of Chinese text for translation works great with most AI apps.",
+          "cn": "使用通义千问进行实时翻译。百度翻译是另一个选择。拍摄中文文字的照片用AI应用翻译效果很好。"
+        },
+        {
+          "topic": "Useful Phrases",
+          "en": "Essential phrases to know: Nihao (你好 - Hello), Xiexie (谢谢 - Thank you), Duibuqi (对不起 - Sorry), Zaijian (再见 - Goodbye), Duhua ma? (会说英语吗？- Do you speak English?), Zhe ge duoshao qian? (这个多少钱？- How much is this?), Cesuo zai nali? (厕所在哪里？- Where is the toilet?), Wo yao zhe ge (我要这个 - I want this).",
+          "cn": "必学短语：你好、谢谢、对不起、再见、会说英语吗？、这个多少钱？、厕所在哪里？、我要这个。"
+        }
+      ]
+    }
+  },
+
+  "E_extraLinks": {
+    "title": "Extra Links & Resources / 额外链接与资源",
+    "titleCn": "额外链接与资源",
+
+    "links": [
+      {
+        "title": "Life Communication Services in China",
+        "titleCn": "中国生活通讯服务",
+        "url": "https://ibot.work/life-communication",
+        "description": "Comprehensive directory of communication and life services in China, including emergency numbers, helplines, and useful contacts.",
+        "descriptionCn": "中国通讯和生活服务综合目录，包括紧急号码、热线和有用联系方式。"
+      },
+      {
+        "title": "China Visa Application",
+        "titleCn": "中国签证申请",
+        "url": "https://www.visaforchina.cn",
+        "description": "Official Chinese visa application website. Check requirements, apply online, and find visa center locations worldwide.",
+        "descriptionCn": "中国签证申请官方网站。查询要求、在线申请，以及全球签证中心位置。"
+      },
+      {
+        "title": "China Railway 12306",
+        "titleCn": "中国铁路12306",
+        "url": "https://www.12306.cn",
+        "description": "Official high-speed rail booking website. Primarily in Chinese — use Trip.com for English interface.",
+        "descriptionCn": "高铁购票官方网站。主要是中文——英文界面请使用Trip.com。"
+      },
+      {
+        "title": "Trip.com (Ctrip International)",
+        "titleCn": "Trip.com（携程国际版）",
+        "url": "https://www.trip.com",
+        "description": "Best travel booking platform for foreigners traveling to China. Flights, hotels, trains, attractions in English.",
+        "descriptionCn": "外国人旅华最佳预订平台。英文界面的航班、酒店、火车、景点。"
+      },
+      {
+        "title": "National Tourism Administration",
+        "titleCn": "国家旅游局",
+        "url": "https://www.mct.gov.cn",
+        "description": "Official China tourism information and travel advisories.",
+        "descriptionCn": "官方中国旅游信息和旅行建议。"
+      },
+      {
+        "title": "China Travel Reddit (r/chinatravel)",
+        "titleCn": "China Travel Reddit论坛",
+        "url": "https://www.reddit.com/r/chinatravel/",
+        "description": "Active community with real travel experiences, tips, and Q&A from international travelers to China.",
+        "descriptionCn": "活跃社区，分享国际旅客在中国的真实旅行经历、贴士和问答。"
+      },
+      {
+        "title": "Alipay Tour Pass Guide",
+        "titleCn": "支付宝Tour Pass指南",
+        "url": "https://global.alipay.com",
+        "description": "Official guide for setting up Alipay's Tour Pass for international visitors.",
+        "descriptionCn": "为国际游客设置支付宝Tour Pass的官方指南。"
+      },
+      {
+        "title": "WeChat Pay for Tourists",
+        "titleCn": "微信支付游客指南",
+        "url": "https://pay.weixin.qq.com",
+        "description": "Information about WeChat Pay international card binding for tourists.",
+        "descriptionCn": "关于游客微信支付绑定国际卡的信息。"
+      },
+      {
+        "title": "Amap (Gaode Maps)",
+        "titleCn": "高德地图",
+        "url": "https://www.amap.com",
+        "description": "China's leading map and navigation service. Essential for getting around.",
+        "descriptionCn": "中国领先的地图导航服务。出行的必备工具。"
+      },
+      {
+        "title": "China Highlights",
+        "titleCn": "China Highlights",
+        "url": "https://www.chinahighlights.com",
+        "description": "Comprehensive China travel guide with itinerary suggestions and practical tips.",
+        "descriptionCn": "综合中国旅行指南，含行程建议和实用贴士。"
+      }
+    ],
+
+    "expertTip": "Save these links on your phone before your trip! The communication services directory (https://ibot.work/life-communication) is particularly useful — it has all the helpline numbers you might need in case of emergencies. Also join the r/chinatravel subreddit for real-time advice from fellow travelers."
+  },
+
+  "disclaimer": {
+    "en": "This guide is prepared as general travel advice. Visa policies, prices, and regulations change frequently. Always verify with official sources before your trip. The author is not responsible for any errors or changes in policies.",
+    "cn": "本指南为一般旅行建议。签证政策、价格和规定频繁变化。出发前请始终向官方渠道核实。作者不对任何错误或政策变更负责。"
+  }
+}
